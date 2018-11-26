@@ -1,0 +1,259 @@
+- home
+  - continue learning
+  - new on yousician
+  - recently played
+  - top songs
+  - your favorites (guitar)
+  - more like your favorites (guitar, ukulele)
+  - go for gold (guitar, ukulele, bass, voice)
+  - recommended for you (piano, ukulele, bass, voice)
+  - warm up
+  - easy songs
+  - medium songs
+  - hard songs
+  - very hard songs (guitar, piano, bass, voice)
+- learn
+  - missions
+    - knowledge (guitar, piano, bass 5) (voice 3)
+    - lead (guitar 10) (ukulele 8)
+    - playing (bass 9)
+    - rhythm (guitar 10) (ukulele 8)
+    - singing (voice 5)
+  - workouts
+    - star hunter: collect missing stars, build mastery (guitar) / practice by collecting missing stars (piano, ukulele, bass)
+      - collect missing stars
+      - go for gold
+      - all gold
+    - skill builders: master essential techniques (guitar, piano)
+      - tutorial videos
+      - ear training (guitar) / ear trainers (piano)
+    - skill builders: master essential techniques (guitar)
+      - chord trainer
+      - learn standard notation
+      - scales
+      - arpeggios
+      - fingerpicking drills
+    - skill builders: master essential techniques (piano)
+      - major scales
+      - minor scales
+      - blues scales
+      - pentatonic scales
+      - technique
+      - licks
+      - major chords
+      - minor chords
+      - pop chords
+      - changing chords
+      - jazz chords
+      - sevent chords
+    - study songs: play music build skills (guitar)
+      - cowboy chord songs
+      - fingerpicking songs
+      - songs with riffs
+      - barre chord songs
+      - shredding solos
+    - workouts (ukulele)
+      - chords
+      - fingerpicking
+    - pre-singing warm ups and games to develop control (voice)
+      - warm ups
+      - chase the notes
+    - ear training and solfege (voice)
+      - singing in-ter-vals
+      - singing scales
+      - singing chords
+      - harmony exercises
+- songs
+  - popular
+    - recommended
+      - happy holidays
+      - the pop star
+      - rock on (guitar, piano, bass, voice)
+      - blues & country (piano)
+      - country & roots (voice)
+    - popular styles (guitar, ukulele, bass, voice) / styles (piano)
+      - jazz it up
+      - classical picks
+      - around the world
+      - playing' the blues (guitar, ukulele, bass, voice)
+      - metal mayhem (guitar, bass, voice)
+      - country & roots (guitar)
+      - chill out (guitar, ukulele, voice)
+      - traditional tunes (guitar, ukulele, voice)
+      - indie & alternative (guitar, voice)
+      - get funky (guitar, voice)
+      - electronica (guitar, voice)
+      - mr. fastfinger (guitar)
+      - stevie t (guitar)
+      - rob scallon (guitar)
+      - lullabies (piano)
+      - folk singalong (piano, voice)
+      - epic collection (voice)
+      - children's tunes (voice)
+      - lesson songs (voice)
+  - my repertoire
+    - favorites
+    - history
+    - my songs (guitar, piano, ukulele, bass)
+    - collect missing stars (guitar, piano, ukulele, bass)
+    - go for gold (guitar, piano, ukulele, bass)
+    - all gold (guitar, piano, ukulele, bass)
+    - my collections
+- challenges (guitar, piano, ukulele, bass)
+  - latest
+    - 47 strum with the machines
+  - history
+    - 46 three minute love story
+    - 45 the challenge must go on
+    - 44 symphonic surprises with papa haydn
+    - 43 hard rock halloween
+    - 42 slow jamz
+    - 41 gypsy jazz
+    - 40 dark souls
+    - 39 waltzing nylons
+    - 38 brahms bash
+    - 37 hi-nrg
+    - 36 burning codes
+    - 35 klezmer kassiks pt. 2
+    - 34 one for aretha
+    - 33 tales from teh thousand lakes
+    - 32 rock in 5
+    - 31 mariachi madness
+    - 30 classy ballads
+    - 29 greek challenge
+    - 28 ram-bam with jo' buddy
+    - 27 pub rock
+    - 26 one for vinnie
+    - 25 midsummer wedding
+    - 24 miami vibe
+    - 23 hawaii style
+    - 22 australia challenge
+    - 21 wagner with a twist
+    - 20 you can't do that on a challenge anymore vol. 1
+    - 19 funky strut
+    - 18 epic amusement
+    - 17 jasmine flower
+    - 16 c'est la vie with satie
+    - 15 an odyssey in jazz
+    - 14 habanero hop
+    - 13 easter with j.s. bach
+    - 12 beyond the stars ...one for hawking...
+    - 11 the river flows
+    - 10 happy-o-rama
+    - 9 funk metal attack
+    - 8 pride and joy
+    - 7 punk
+    - 6 be my valentine
+    - 5 catching sounds
+    - 4 all right, adding machine
+    - 3 swing low
+    - 2 balkan bounce pt. 2
+    - 1 lost in the wilderness
+    2017
+    - 52 new year special
+    - 51 operatic holidays
+    - 50 peaceful christmas
+    - 49 surf and twang
+    - 48 finland 100 years
+    - 47 one for malcolm
+    - 46 flutes rock
+    - 45 magic mandolins
+    - 44 a night at the opera
+    - 43 the haloween challenge
+    - 42 the leah harris challenge
+    - 41 one for petty
+    - 40 80's power ballads
+    - 39 balkan bounce
+    - 38 at the movies pt. 3
+    - 37 cosmic blues
+    - 36 calm classical
+    - 35 country roads
+    - 34 echoes, walls and mad jewels
+    - 33 the dance of the knights
+    - 32 one for chester
+    - 31 rocky road to dublin
+    - 30 the life and times of todd
+    - 29 four flat tires on a muddy road
+    - 28 painting the sky
+    - 27 spandex nightmares
+    - 26 sir uke
+    - 25 summer madness
+    - 24 baroque hits
+    - 23 from dublin with love
+    - 22 into the battle
+    - 21 one for cornell
+    - 20 common life & miracles
+    - 19 challenging visions
+    - 18 in the court of the weekly challenge
+    - 17 challenge in a bottle
+    - 16 the return of the chiptunes
+    - 15 get funky
+    - 14 lenely hearts
+    - 13 duckwalk avenue
+    - 12 dawn to dusk
+    - 11 burning balalaikas
+    - 10 rock explosion
+    - 9 sunday morning jazz breakfast
+    - 8 dark hounds & white whales
+    - 7 dub til you drop
+    - 6 corazon bailando
+    - 5 metal mania
+    - 4 bluegrass fever
+    - 3 the return of the disco daddy
+    - 2 italia
+    - 1 delicate moods
+    2016
+    - 52 future city sounds
+    - 51 from santa with love
+    - 50 peaceful christmas classics
+    - 49 rough it up
+    - 48 the big bad big band boogie
+    - 47 slow jamz
+    - 46 the supermassive supermoon
+    - 45 restless boots
+    - 44 west africa
+    - 43 the return of the pumpkins
+    - 42 helsinki bachata
+    - 41 mozart modernized
+    - 40 alternative adventures
+    - 39 follow me
+    - 38 cumbia party
+    - 37 tales from the dark caves
+    - 36 bring on the riddim
+    - 35 klezmer klassiks
+    - 34 solely you
+    - 33 fiesta mexicana
+    - 32 surfn
+    - 31 french impressions
+    - 30 wicked rhythms
+    - 29 feelin' good
+    - 28 the summer of love
+    - 27 classic rock
+    - 26 songs of the midnight sun
+    - 25 feel the beat
+    - 24 adrenaline rush
+    - 23 grandfathers of loud
+    - 22 light your fire
+    - 21 space mammoths
+    - 20 the ol' dirt road
+    - 19 pump up the volume
+    - 18 summer nights
+    - 17 chill out
+    - 16 it's complicated
+    - 15 rock 'n' roll
+    - 14 swingin'
+    - 13 sing-along waltzes
+    - 12 at the ballet with tchaikovsky
+    - 11 balkan grooves
+    - 10 sabor cubano
+    - 9 classical picks for the stage
+    - 8 the rob scallon challenge
+    - 7 wishing in the night
+    - 6 happy velentine's day
+    - 5 the ragtime challenge
+    - 4 lazing on the caribbean
+    - 3 one for bowie
+    - 2 one for lemmy
+    - 1 power thru
+    2015
+    - 52 groovin' into 2016!
