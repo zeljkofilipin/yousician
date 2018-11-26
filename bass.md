@@ -1,0 +1,44 @@
+bass
+
+- home
+  - continue learning
+  - new on yousician
+  - recently played
+  - top songs
+  - recommended for you
+  - go for gold
+  - warm up
+  - easy songs
+  - medium songs
+  - hard songs
+  - very hard songs
+- learn
+  - missions
+    - playing (9)
+    - knowledge (5)
+  - workouts
+    - practice by collecting missing stars
+      - collect missing stars
+      - go for gold
+      - all gold
+- songs
+  - popular
+    - recommended
+      - rock on
+      - the pop star
+      - happy holidays
+    - popular styles
+      - playing' the blues
+      - metal mayhem
+      - around the world
+  - my repertoire
+    - history
+    - my songs
+    - favorites
+    - collect missing stars
+    - go for gold
+    - all gold
+    - my collections
+- challenges
+  - latest
+  - history
