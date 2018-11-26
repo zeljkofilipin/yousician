@@ -1,0 +1,62 @@
+piano
+
+- home
+  - continue learning
+  - new on yousician
+  - recently played
+  - top songs
+  - recommended for you
+  - warm up
+  - easy songs
+  - medium songs
+  - hard songs
+  - very hard songs
+- learn
+  - missions
+    - classical (15)
+    - knowledge (5)
+    - pop (15)
+  - workouts
+    - practice by collecting missing stars
+      - collect missing stars
+      - go for gold
+      - all gold
+    - skill builders: master essential techniques
+      - tutorial videos
+      - ear trainers
+      - major scales
+      - minor scales
+      - blues scales
+      - pentatonic scales
+      - technique
+      - licks
+      - major chords
+      - minor chords
+      - pop chords
+      - changing chords
+      - jazz chords
+      - sevent chords
+- songs
+  - popular
+    - recommended
+      - rock on
+      - the pop star
+      - blues & country
+      - happy holidays
+    - styles
+      - lullabies
+      - folk singalong
+      - jazz it up
+      - classical picks
+      - around the world
+  - my repertoire
+    - history
+    - my songs
+    - favorites
+    - collect missing stars
+    - go for gold
+    - all gold
+    - my collections
+- challenges
+  - latest
+  - history
