@@ -1,0 +1,72 @@
+guitar
+
+- home
+  - continue learning
+  - new on yousician
+  - recently played
+  - top songs
+  - your favorites
+  - more like your favorites
+  - recommended for you
+  - go for gold
+  - warm up
+  - easy songs
+  - medium songs
+  - hard songs
+  - very hard songs
+- learn
+  - missions
+    - lead (10)
+    - knowledge (5)
+    - rhythm (10)
+  - workouts
+    - star hunter: collect missing stars, build mastery
+      - collect missing stars
+      - go for gold
+      - all gold
+    - skill builders: master essential techniques
+      - chord trainer
+      - learn standard notation
+      - ear training
+      - scales
+      - arpeggios
+      - fingerpicking drills
+      - tutorial videos
+    - study songs: play music build skills
+      - cowboy chord songs
+      - fingerpicking songs
+      - songs with riffs
+      - barre chord songs
+      - shredding solos
+- songs
+  - popular
+    - recommended
+      - happy holidays
+      - rock on
+      - the pop star
+    - popular styles
+      - playing' the blues
+      - metal mayhem
+      - country & roots
+      - classical picks
+      - chill out
+      - traditional tunes
+      - indie & alternative
+      - jazz it up
+      - get funky
+      - electronica
+      - around the world
+      - mr. fastfinger
+      - stevie t
+      - rob scallon
+  - my repertoire
+    - history
+    - my songs
+    - favorites
+    - collect missing stars
+    - go for gold
+    - all gold
+    - my collections
+- challenges
+  - latest
+  - history
