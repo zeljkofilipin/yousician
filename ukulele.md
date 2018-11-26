@@ -1,0 +1,48 @@
+ukulele
+
+- home
+  - continue learning
+  - new on yousician
+  - recently played
+  - top songs
+  - more like your favorites
+  - recommended for you
+  - go for gold
+  - warm up
+  - easy songs
+  - medium songs
+  - hard songs
+- learn
+  - missions
+    - lead (8)
+    - rhythm (8)
+  - workouts
+    - practice by collecting missing stars
+      - collect missing stars
+      - go for gold
+      - all gold
+    - workouts
+      - chords
+      - fingerpicking
+- songs
+  - popular
+    - recommended
+      - the pop star
+      - happy holidays
+    - popular styles
+      - chill out
+      - playing' the blues
+      - around the world
+      - traditional tunes
+      - classical picks
+  - my repertoire
+    - history
+    - my songs
+    - favorites
+    - collect missing stars
+    - go for gold
+    - all gold
+    - my collections
+- challenges
+  - latest
+  - history
