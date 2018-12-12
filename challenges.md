@@ -1,0 +1,159 @@
+| year | week | name                                            | 
+|------|------|-------------------------------------------------| 
+| 2018 | 52   |                                                 | 
+| 2018 | 51   |                                                 | 
+| 2018 | 50   |                                                 | 
+| 2018 | 49   | life on horseback                               | 
+| 2018 | 48   | fire & ice - iceland 100 years                  | 
+| 2018 | 47   | strum with the machines                         | 
+| 2018 | 46   | three minute love story                         | 
+| 2018 | 45   | the challenge must go on                        | 
+| 2018 | 44   | symphonic surprises with papa haydn             | 
+| 2018 | 43   | hard rock halloween                             | 
+| 2018 | 42   | slow jamz                                       | 
+| 2018 | 41   | gypsy jazz                                      | 
+| 2018 | 40   | dark souls                                      | 
+| 2018 | 39   | waltzing nylons                                 | 
+| 2018 | 38   | brahms bash                                     | 
+| 2018 | 37   | hi-nrg                                          | 
+| 2018 | 36   | burning codes                                   | 
+| 2018 | 35   | klezmer kassiks pt. 2                           | 
+| 2018 | 34   | one for aretha                                  | 
+| 2018 | 33   | tales from teh thousand lakes                   | 
+| 2018 | 32   | rock in 5                                       | 
+| 2018 | 31   | mariachi madness                                | 
+| 2018 | 30   | classy ballads                                  | 
+| 2018 | 29   | greek challenge                                 | 
+| 2018 | 28   | ram-bam with jo' buddy                          | 
+| 2018 | 27   | pub rock                                        | 
+| 2018 | 26   | one for vinnie                                  | 
+| 2018 | 25   | midsummer wedding                               | 
+| 2018 | 24   | miami vibe                                      | 
+| 2018 | 23   | hawaii style                                    | 
+| 2018 | 22   | australia challenge                             | 
+| 2018 | 21   | wagner with a twist                             | 
+| 2018 | 20   | you can't do that on a challenge anymore vol. 1 | 
+| 2018 | 19   | funky strut                                     | 
+| 2018 | 18   | epic amusement                                  | 
+| 2018 | 17   | jasmine flower                                  | 
+| 2018 | 16   | c'est la vie with satie                         | 
+| 2018 | 15   | an odyssey in jazz                              | 
+| 2018 | 14   | habanero hop                                    | 
+| 2018 | 13   | easter with j.s. bach                           | 
+| 2018 | 12   | beyond the stars ...one for hawking...          | 
+| 2018 | 11   | the river flows                                 | 
+| 2018 | 10   | happy-o-rama                                    | 
+| 2018 | 9    | funk metal attack                               | 
+| 2018 | 8    | pride and joy                                   | 
+| 2018 | 7    | punk                                            | 
+| 2018 | 6    | be my valentine                                 | 
+| 2018 | 5    | catching sounds                                 | 
+| 2018 | 4    | all right adding machine                        | 
+| 2018 | 3    | swing low                                       | 
+| 2018 | 2    | balkan bounce pt. 2                             | 
+| 2018 | 1    | lost in the wilderness                          | 
+| 2017 | 52   | new year special                                | 
+| 2017 | 51   | operatic holidays                               | 
+| 2017 | 50   | peaceful christmas                              | 
+| 2017 | 49   | surf and twang                                  | 
+| 2017 | 48   | finland 100 years                               | 
+| 2017 | 47   | one for malcolm                                 | 
+| 2017 | 46   | flutes rock                                     | 
+| 2017 | 45   | magic mandolins                                 | 
+| 2017 | 44   | a night at the opera                            | 
+| 2017 | 43   | the haloween challenge                          | 
+| 2017 | 42   | the leah harris challenge                       | 
+| 2017 | 41   | one for petty                                   | 
+| 2017 | 40   | 80's power ballads                              | 
+| 2017 | 39   | balkan bounce                                   | 
+| 2017 | 38   | at the movies pt. 3                             | 
+| 2017 | 37   | cosmic blues                                    | 
+| 2017 | 36   | calm classical                                  | 
+| 2017 | 35   | country roads                                   | 
+| 2017 | 34   | echoes walls and mad jewels                     | 
+| 2017 | 33   | the dance of the knights                        | 
+| 2017 | 32   | one for chester                                 | 
+| 2017 | 31   | rocky road to dublin                            | 
+| 2017 | 30   | the life and times of todd                      | 
+| 2017 | 29   | four flat tires on a muddy road                 | 
+| 2017 | 28   | painting the sky                                | 
+| 2017 | 27   | spandex nightmares                              | 
+| 2017 | 26   | sir uke                                         | 
+| 2017 | 25   | summer madness                                  | 
+| 2017 | 24   | baroque hits                                    | 
+| 2017 | 23   | from dublin with love                           | 
+| 2017 | 22   | into the battle                                 | 
+| 2017 | 21   | one for cornell                                 | 
+| 2017 | 20   | common life & miracles                          | 
+| 2017 | 19   | challenging visions                             | 
+| 2017 | 18   | in the court of the weekly challenge            | 
+| 2017 | 17   | challenge in a bottle                           | 
+| 2017 | 16   | the return of the chiptunes                     | 
+| 2017 | 15   | get funky                                       | 
+| 2017 | 14   | lenely hearts                                   | 
+| 2017 | 13   | duckwalk avenue                                 | 
+| 2017 | 12   | dawn to dusk                                    | 
+| 2017 | 11   | burning balalaikas                              | 
+| 2017 | 10   | rock explosion                                  | 
+| 2017 | 9    | sunday morning jazz breakfast                   | 
+| 2017 | 8    | dark hounds & white whales                      | 
+| 2017 | 7    | dub til you drop                                | 
+| 2017 | 6    | corazon bailando                                | 
+| 2017 | 5    | metal mania                                     | 
+| 2017 | 4    | bluegrass fever                                 | 
+| 2017 | 3    | the return of the disco daddy                   | 
+| 2017 | 2    | italia                                          | 
+| 2017 | 1    | delicate moods                                  | 
+| 2016 | 52   | future city sounds                              | 
+| 2016 | 51   | from santa with love                            | 
+| 2016 | 50   | peaceful christmas classics                     | 
+| 2016 | 49   | rough it up                                     | 
+| 2016 | 48   | the big bad big band boogie                     | 
+| 2016 | 47   | slow jamz                                       | 
+| 2016 | 46   | the supermassive supermoon                      | 
+| 2016 | 45   | restless boots                                  | 
+| 2016 | 44   | west africa                                     | 
+| 2016 | 43   | the return of the pumpkins                      | 
+| 2016 | 42   | helsinki bachata                                | 
+| 2016 | 41   | mozart modernized                               | 
+| 2016 | 40   | alternative adventures                          | 
+| 2016 | 39   | follow me                                       | 
+| 2016 | 38   | cumbia party                                    | 
+| 2016 | 37   | tales from the dark caves                       | 
+| 2016 | 36   | bring on the riddim                             | 
+| 2016 | 35   | klezmer klassiks                                | 
+| 2016 | 34   | solely you                                      | 
+| 2016 | 33   | fiesta mexicana                                 | 
+| 2016 | 32   | surfn                                           | 
+| 2016 | 31   | french impressions                              | 
+| 2016 | 30   | wicked rhythms                                  | 
+| 2016 | 29   | feelin' good                                    | 
+| 2016 | 28   | the summer of love                              | 
+| 2016 | 27   | classic rock                                    | 
+| 2016 | 26   | songs of the midnight sun                       | 
+| 2016 | 25   | feel the beat                                   | 
+| 2016 | 24   | adrenaline rush                                 | 
+| 2016 | 23   | grandfathers of loud                            | 
+| 2016 | 22   | light your fire                                 | 
+| 2016 | 21   | space mammoths                                  | 
+| 2016 | 20   | the ol' dirt road                               | 
+| 2016 | 19   | pump up the volume                              | 
+| 2016 | 18   | summer nights                                   | 
+| 2016 | 17   | chill out                                       | 
+| 2016 | 16   | it's complicated                                | 
+| 2016 | 15   | rock 'n' roll                                   | 
+| 2016 | 14   | swingin'                                        | 
+| 2016 | 13   | sing-along waltzes                              | 
+| 2016 | 12   | at the ballet with tchaikovsky                  | 
+| 2016 | 11   | balkan grooves                                  | 
+| 2016 | 10   | sabor cubano                                    | 
+| 2016 | 9    | classical picks for the stage                   | 
+| 2016 | 8    | the rob scallon challenge                       | 
+| 2016 | 7    | wishing in the night                            | 
+| 2016 | 6    | happy velentine's day                           | 
+| 2016 | 5    | the ragtime challenge                           | 
+| 2016 | 4    | lazing on the caribbean                         | 
+| 2016 | 3    | one for bowie                                   | 
+| 2016 | 2    | one for lemmy                                   | 
+| 2016 | 1    | power thru                                      | 
+| 2015 | 52   | groovin' into 2016!                             | 
