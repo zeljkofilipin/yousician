@@ -1,22 +1,22 @@
-path,level,mission number,mission name,song number,song name,type,description
--,0,1,play strings,1,intro & tuning,video,-
--,0,1,play strings,2,life in tune (lesson),song,exercise
--,0,1,play strings,3,spanish romance (short),song,open strings
--,0,2,play frets,1,playing frets,video,-
--,0,2,play frets,2,down the line (tutorial),song,intro to frets
--,0,2,play frets,3,love on the rocks,song,basic melody
--,0,2,play frets,4,picking strings,video,-
--,0,2,play frets,5,first light,song,simplified melody
--,0,3,skill test (level 1),1,set me free,song,basic melody
--,0,3,skill test (level 1),2,video: choose your path,video,-
-lead,7,0,skill test (lead level 7),1,modern vintage,song,legato melody
-lead,7,1,double stops,1,video: double stops (strumming),video,-
-lead,7,1,double stops,2,trainer: double stops (strumming),trainer,-
-lead,7,1,double stops,3,set me free,song,double stop melody
-lead,7,1,double stops,4,swamp thang,song,double stops
-lead,7,1,double stops,5,video: double stops (hybrid picking),video,-
-lead,7,1,double stops,6,trainer: double stops (hybrid picking),trainer,-
-lead,7,1,double stops,7,walzing matilda (in G),song,double stop melody
-lead,7,1,double stops,8,molly malone (fast),song,double stop melody
-lead,7,1,double stops,9,barre your soul,song,double stop melody
-lead,7,1,double stops,10,st louis blues,song,double stops
+path,level,mission number,mission name,song number,song name,author,type,description
+-,0,1,play strings,1,intro & tuning,the yousicians,video,-
+-,0,1,play strings,2,life in tune (lesson),the yousicians,song,exercise
+-,0,1,play strings,3,spanish romance (short),traditional,song,open strings
+-,0,2,play frets,1,playing frets,the yousicians,video,-
+-,0,2,play frets,2,down the line (tutorial),the yousicians,song,intro to frets
+-,0,2,play frets,3,love on the rocks,the yousicians,song,basic melody
+-,0,2,play frets,4,picking strings,the yousicians,video,-
+-,0,2,play frets,5,first light,the yousicians,song,simplified melody
+-,0,3,skill test (level 1),1,set me free,the yousicians,song,basic melody
+-,0,3,skill test (level 1),2,video: choose your path,the yousicians,video,-
+lead,7,0,skill test (lead level 7),1,modern vintage,the yousicians,song,legato melody
+lead,7,1,double stops,1,video: double stops (strumming),the yousicians,video,-
+lead,7,1,double stops,2,trainer: double stops (strumming),the yousicians,trainer,-
+lead,7,1,double stops,3,set me free,the yousicians,song,double stop melody
+lead,7,1,double stops,4,swamp thang,the yousicians,song,double stops
+lead,7,1,double stops,5,video: double stops (hybrid picking),the yousicians,video,-
+lead,7,1,double stops,6,trainer: double stops (hybrid picking),the yousicians,trainer,-
+lead,7,1,double stops,7,walzing matilda (in G),traditional,song,double stop melody
+lead,7,1,double stops,8,molly malone (fast),traditional,song,double stop melody
+lead,7,1,double stops,9,barre your soul,the yousicians,song,double stop melody
+lead,7,1,double stops,10,st louis blues,traditional,song,double stops
