@@ -1,49 +1,80 @@
-level,song name,author,type,description,location
-0,intro & tuning,the yousicians,video,-,guitar-learn-missions
-0,life in tune (lesson),the yousicians,song,exercise,guitar-learn-missions
-0,spanish romance (short),traditional,song,open strings,guitar-learn-missions
-0,playing frets,the yousicians,video,-,guitar-learn-missions
-0,down the line (tutorial),the yousicians,song,intro to frets,guitar-learn-missions
-0,love on the rocks,the yousicians,song,basic melody,guitar-learn-missions
-0,picking strings,the yousicians,video,-,guitar-learn-missions
-0,first light,the yousicians,song,simplified melody,guitar-learn-missions
-0,set me free,the yousicians,song,basic melody,guitar-learn-missions
-0,video: choose your path,the yousicians,video,-,guitar-learn-missions
-7,modern vintage,the yousicians,song,legato melody,guitar-learn-missions
-7,video: double stops (strumming),the yousicians,video,-,guitar-learn-missions
-7,trainer: double stops (strumming),the yousicians,trainer,-,guitar-learn-missions
-7,set me free,the yousicians,song,double stop melody,guitar-learn-missions
-7,swamp thang,the yousicians,song,double stops,guitar-learn-missions
-7,video: double stops (hybrid picking),the yousicians,video,-,guitar-learn-missions
-7,trainer: double stops (hybrid picking),the yousicians,trainer,-,guitar-learn-missions
-7,walzing matilda (in G),traditional,song,double stop melody,guitar-learn-missions
-7,molly malone (fast),traditional,song,double stop melody,guitar-learn-missions
-7,barre your soul,the yousicians,song,double stop melody,guitar-learn-missions
-7,st louis blues,traditional,song,double stops,guitar-learn-missions
-2,o little town of betlehem,lewis redner,song,basic riff,guitar-challenges
-4,away in a manger,traditional,song,cowboy chords,guitar-challenges
-7,away in a manger,traditional,song,fingerpicking,guitar-challenges
-9,o little town of betlehem,lewis redner,song,rhythm,guitar-challenges
-3,bring me the sheriff,the yousicians,song,cowboy chords,guitar-challenges
-4,life on horseback,the yousicians,song,cowboy chords,guitar-challenges
-7,bring me the sheriff,the yousicians,song,fingerpicking,guitar-challenges
-9,life on horseback,the yousicians,song,rhythm & lead,guitar-challenges
-1,vulkanik,the yousicians,song,basic riff,guitar-challenges
-4,ladimagia,the yousicians,song,cowboy chords,guitar-challenges
-7,vulkanik,the yousicians,song,rhythm,guitar-challenges
-7,ladimagia,the yousicians,song,fingerpicking,guitar-challenges
-2,light the spark,the yousicians,song,basic riff,guitar-challenges
-4,worry free,the yousicians,song,cowboy chords,guitar-challenges
-6,light the spark,the yousicians,song,fast strumming,guitar-challenges
-7,worry free,the yousicians,song,melody,guitar-challenges
-2,buenos aires,the yousicians,song,basic riff,guitar-challenges
-4,anhelo,the yousicians,song,cowboy chords,guitar-challenges
-7,anhelo,the yousicians,song,fingerpicking,guitar-challenges
-8,buenos aires,the yousicians,song,rhythm & melody,guitar-challenges
-2,the excalibur,the yousicians,song,basic riff,guitar-challenges
-4,waltz into the night,the yousicians,song,melody,guitar-challenges
-6,waltz into the night,the yousicians,song,fancy chords,guitar-challenges
-9,the excalibur,the yousicians,song,rhythm & lead,guitar-challenges
-6,whiskey in the jar (in G),thin lizzy,song,full rhythm,guitar-home-new
-1,chord trainer: cowboy - E Em Am,-,trainer,-,guitar-learn-workouts
-1,o holy night,traditional,song,basic riff,guitar-songs-popular
+path,year,week,mission,level,song,author,description,type,premium+,location
+,,,,6,whiskey in the jar (in G),thin lizzy,full rhythm,song,TRUE,guitar-home-new
+,,,,6,seasons of love,rent,melody,song,TRUE,guitar-home-new
+,,,,6,better together,jack johnson,fancy chords (capo),song,TRUE,guitar-home-new
+,,,,6,hey laura,gregory porter,fancy chords,song,TRUE,guitar-home-new
+,,,,7,i get around,the beach boys,low rhythm,song,TRUE,guitar-home-new
+,,,,7,grandma's hands,bill withers,lead,song,TRUE,guitar-home-new
+,,,,7,grandma's hands,bill withers,fingerpicking,song,TRUE,guitar-home-new
+,,,,6,grandma's hands,bill withers,fancy chords,song,TRUE,guitar-home-new
+,,,,6,should've been a cowboy,toby keith,rhythm & lead,song,TRUE,guitar-home-new
+,,,,7,i was made for lovin' you (in Em),kiss,main rhythm,song,TRUE,guitar-home-new
+,,,,6,banana pancakes,jack johnson,fancy chords,song,TRUE,guitar-home-new
+,,,,7,don't cry for me argentina,evita,fingerpicking,song,TRUE,guitar-home-new
+,,,,7,kickstarts,example,movable chords,song,TRUE,guitar-home-new
+,,,,6,texas flood (in G),stevie ray vaughan,fancy chords,song,TRUE,guitar-home-new
+,,,,7,good vibrations,the beach boys,melody,song,TRUE,guitar-home-new
+,,,,7,dirty work (in C),steely dan,melody & solo,song,TRUE,guitar-home-new
+,,,,7,tuesday's gone,lynyrd skynyrd,main rhythm,song,TRUE,guitar-home-new
+,,,,6,road trippin',red hot chili peppers,fancy chords,song,TRUE,guitar-home-new
+,,,,6,all out of love,air supply,fancy chords,song,TRUE,guitar-home-new
+,,,,6,won't go home without you (in E),maroon 5,fancy chords,song,TRUE,guitar-home-new
+-,,,play strings,0,intro & tuning,the yousicians,-,video,FALSE,guitar-learn-missions
+-,,,play strings,0,life in tune (lesson),the yousicians,exercise,song,FALSE,guitar-learn-missions
+-,,,play strings,0,spanish romance (short),traditional,open strings,song,FALSE,guitar-learn-missions
+-,,,play frets,0,playing frets,the yousicians,-,video,FALSE,guitar-learn-missions
+-,,,play frets,0,down the line (tutorial),the yousicians,intro to frets,song,FALSE,guitar-learn-missions
+-,,,play frets,0,love on the rocks,the yousicians,basic melody,song,FALSE,guitar-learn-missions
+-,,,play frets,0,picking strings,the yousicians,-,video,FALSE,guitar-learn-missions
+-,,,play frets,0,first light,the yousicians,simplified melody,song,FALSE,guitar-learn-missions
+-,,,skill test (level 1),0,set me free,the yousicians,basic melody,song,FALSE,guitar-learn-missions
+-,,,skill test (level 1),0,video: choose your path,the yousicians,-,video,FALSE,guitar-learn-missions
+lead,,,skill test (lead level 7),7,modern vintage,the yousicians,legato melody,song,FALSE,guitar-learn-missions
+lead,,,double stops,7,video: double stops (strumming),the yousicians,-,video,FALSE,guitar-learn-missions
+lead,,,double stops,7,trainer: double stops (strumming),the yousicians,-,trainer,FALSE,guitar-learn-missions
+lead,,,double stops,7,set me free,the yousicians,double stop melody,song,FALSE,guitar-learn-missions
+lead,,,double stops,7,swamp thang,the yousicians,double stops,song,FALSE,guitar-learn-missions
+lead,,,double stops,7,video: double stops (hybrid picking),the yousicians,-,video,FALSE,guitar-learn-missions
+lead,,,double stops,7,trainer: double stops (hybrid picking),the yousicians,-,trainer,FALSE,guitar-learn-missions
+lead,,,double stops,7,walzing matilda (in G),traditional,double stop melody,song,FALSE,guitar-learn-missions
+lead,,,double stops,7,molly malone (fast),traditional,double stop melody,song,FALSE,guitar-learn-missions
+lead,,,double stops,7,barre your soul,the yousicians,double stop melody,song,FALSE,guitar-learn-missions
+lead,,,double stops,7,st louis blues,traditional,double stops,song,FALSE,guitar-learn-missions
+,,,chord trainers,1,chord trainer: cowboy - E Em Am,-,-,trainer,FALSE,guitar-learn-workouts
+,,,happy holidays,1,o holy night,traditional,basic riff,song,FALSE,guitar-songs-popular
+,2019,1,classical piano favorites,3,gymnopedie no.1,erik satie,melody,song,FALSE,guitar-challenges
+,2019,1,classical piano favorites,4,fur elise (challenge),ludwig van beethoven,cowboy chords,song,FALSE,guitar-challenges
+,2019,1,classical piano favorites,7,gymnopedie no.1,erik satie,fingerpicking,song,FALSE,guitar-challenges
+,2019,1,classical piano favorites,8,fur elise (challenge),ludwig van beethoven,melody,song,FALSE,guitar-challenges
+,2018,52,at the gym,2,person of the hour,the yousicians,basic riff,song,FALSE,guitar-challenges
+,2018,52,at the gym,3,the gentle art of pumping,the yousicians,riff,song,FALSE,guitar-challenges
+,2018,52,at the gym,8,the gentle art of pumping,the yousicians,rhythm & lead,song,FALSE,guitar-challenges
+,2018,52,at the gym,10,person of the hour,the yousicians,rhythm & lead,song,FALSE,guitar-challenges
+,2018,51,carols through the ages,3,god rest ye merry gentleman,traditional,melody,song,FALSE,guitar-challenges
+,2018,51,carols through the ages,4,carol of the bells,mykola leontovych,cowboy chords,song,FALSE,guitar-challenges
+,2018,51,carols through the ages,7,carol of the bells,mykola leontovych,fingerpicking,song,FALSE,guitar-challenges
+,2018,51,carols through the ages,8,god rest ye merry gentleman (in Am),traditional,chords,song,FALSE,guitar-challenges
+,2018,50,swing with santa,2,o little town of betlehem,lewis redner,basic riff,song,FALSE,guitar-challenges
+,2018,50,swing with santa,4,away in a manger,traditional,cowboy chords,song,FALSE,guitar-challenges
+,2018,50,swing with santa,7,away in a manger,traditional,fingerpicking,song,FALSE,guitar-challenges
+,2018,50,swing with santa,9,o little town of betlehem,lewis redner,rhythm,song,FALSE,guitar-challenges
+,2018,49,life on horseback,3,bring me the sheriff,the yousicians,cowboy chords,song,FALSE,guitar-challenges
+,2018,49,life on horseback,4,life on horseback,the yousicians,cowboy chords,song,FALSE,guitar-challenges
+,2018,49,life on horseback,7,life on horseback,the yousicians,fingerpicking,song,FALSE,guitar-challenges
+,2018,49,life on horseback,9,bring me the sheriff,the yousicians,rhythm & lead,song,FALSE,guitar-challenges
+,2018,48,fire & ice - iceland 100 years,1,vulkanik,the yousicians,basic riff,song,FALSE,guitar-challenges
+,2018,48,fire & ice - iceland 100 years,4,ladimagia,the yousicians,cowboy chords,song,FALSE,guitar-challenges
+,2018,48,fire & ice - iceland 100 years,7,vulkanik,the yousicians,rhythm,song,FALSE,guitar-challenges
+,2018,48,fire & ice - iceland 100 years,7,ladimagia,the yousicians,fingerpicking,song,FALSE,guitar-challenges
+,2018,47,strum with the machines,2,light the spark,the yousicians,basic riff,song,FALSE,guitar-challenges
+,2018,47,strum with the machines,4,worry free,the yousicians,cowboy chords,song,FALSE,guitar-challenges
+,2018,47,strum with the machines,6,light the spark,the yousicians,fast strumming,song,FALSE,guitar-challenges
+,2018,47,strum with the machines,7,worry free,the yousicians,melody,song,FALSE,guitar-challenges
+,2018,46,three minute love story,2,buenos aires,the yousicians,basic riff,song,FALSE,guitar-challenges
+,2018,46,three minute love story,4,anhelo,the yousicians,cowboy chords,song,FALSE,guitar-challenges
+,2018,46,three minute love story,7,anhelo,the yousicians,fingerpicking,song,FALSE,guitar-challenges
+,2018,46,three minute love story,8,buenos aires,the yousicians,rhythm & melody,song,FALSE,guitar-challenges
+,2018,45,the challenge must go on,2,the excalibur,the yousicians,basic riff,song,FALSE,guitar-challenges
+,2018,45,the challenge must go on,4,waltz into the night,the yousicians,melody,song,FALSE,guitar-challenges
+,2018,45,the challenge must go on,6,waltz into the night,the yousicians,fancy chords,song,FALSE,guitar-challenges
+,2018,45,the challenge must go on,9,the excalibur,the yousicians,rhythm & lead,song,FALSE,guitar-challenges
