@@ -40,6 +40,52 @@ double stops,7,walzing matilda (in G),traditional,double stop melody,song,FALSE,
 double stops,7,molly malone (fast),traditional,double stop melody,song,FALSE,guitar-learn-missions,lead
 double stops,7,barre your soul,the yousicians,double stop melody,song,FALSE,guitar-learn-missions,lead
 double stops,7,st louis blues,traditional,double stops,song,FALSE,guitar-learn-missions,lead
+picking skills,7,video: alternate picking,-,-,video,FALSE,guitar-learn-missions,lead
+picking skills,7,trainer: alternate picking,-,-,trainer,FALSE,guitar-learn-missions,lead
+picking skills,7,reggae party,the yousicians,melody & solo,song,FALSE,guitar-learn-missions,lead
+picking skills,7,minuet in G (metal),christian petzold,main melody,song,FALSE,guitar-learn-missions,lead
+picking skills,7,modern vintage,?,picking melody,song,FALSE,guitar-learn-missions,lead
+picking skills,7,video: economy picking,-,-,video,FALSE,guitar-learn-missions,lead
+picking skills,7,trainer: economy picking,-,-,trainer,FALSE,guitar-learn-missions,lead
+picking skills,7,wedding march,?,melody,song,FALSE,guitar-learn-missions,lead
+picking skills,7,minuet in G (rock),?,melody,song,FALSE,guitar-learn-missions,lead
+picking skills,7,asturias (metal),?,melody,song,FALSE,guitar-learn-missions,lead
+skill test (rhythm level 7),7,sitting on a park bench,the yousicians,fancy chord riff,song,FALSE,guitar-learn-missions,rhythm
+skill test (rhythm level 7),7,chord trainer: fancy & big 5ths,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+fingerpicking,7,video: fingerpicking technique,-,-,video,FALSE,guitar-learn-missions,rhythm
+fingerpicking,7,trainer: fingerpicking arpeggios,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+fingerpicking,7,spanish romance,traditional,fingerpicking,song,FALSE,guitar-learn-missions,rhythm
+fingerpicking,7,cowboy exit music,the yousicians,fingerpicking,song,FALSE,guitar-learn-missions,rhythm
+fingerpicking,7,trainer: alternating bass,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+fingerpicking,7,hammer song,the yousicians,fingerpicking,song,FALSE,guitar-learn-missions,rhythm
+fingerpicking,7,first light,the yousicians,fingerpicking,song,FALSE,guitar-learn-missions,rhythm
+fingerpicking,7,video: fingerpicking chrods,-,-,video,FALSE,guitar-learn-missions,rhythm
+fingerpicking,7,trainer: fingerpicking chrods,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+fingerpicking,7,walzing matilda (in G),traditional,basic fingerpicking,song,FALSE,guitar-learn-missions,rhythm
+fingerpicking,7,summer of love,the yousicians,basic fingerpicking,song,FALSE,guitar-learn-missions,rhythm
+moveable chords,7,video: moveable chords,-,-,video,FALSE,guitar-learn-missions,rhythm
+moveable chords,7,chord trainer: moveable chords,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+moveable chords,7,stronger than life,?,moveable chords,song,FALSE,guitar-learn-missions,rhythm
+moveable chords,7,chord trainer: root-5 major,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+moveable chords,7,rusty ground,?,moveable chord riff,song,FALSE,guitar-learn-missions,rhythm
+moveable chords,7,video: chicks & stops,-,-,video,FALSE,guitar-learn-missions,rhythm
+moveable chords,7,trainer: chicks & stops,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+moveable chords,7,very far away,?,moveable chords,song,FALSE,guitar-learn-missions,rhythm
+moveable chords,7,skateheart,?,moveable chords,song,FALSE,guitar-learn-missions,rhythm
+moveable chords,7,chord trainer: moveable 7ths,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+moveable chords,7,frankie & johnny,?,moveable chords,song,FALSE,guitar-learn-missions,rhythm
+moveable chords,7,winter jazz,?,moveable chords,song,FALSE,guitar-learn-missions,rhythm
+skill test (lead level 8),8,canon (in D),johann pachelbel,main melody,song,FALSE,guitar-learn-missions,lead
+string bender,8,video: reinforced bending,-,-,video,FALSE,guitar-learn-missions,lead
+string bender,8,trainer: reinforced bending,-,-,trainer,FALSE,guitar-learn-missions,lead
+string bender,8,syrup with honey,the yousicians,expressive melody,song,FALSE,guitar-learn-missions,lead
+string bender,8,zombiefication,the yousicians,melody,song,FALSE,guitar-learn-missions,lead
+string bender,8,bent on bending,the yousicians,bending melody,song,FALSE,guitar-learn-missions,lead
+string bender,8,"video: bend, hold, release",-,-,video,FALSE,guitar-learn-missions,lead
+string bender,8,"trainer: bend, hold, release",-,-,trainer,FALSE,guitar-learn-missions,lead
+string bender,8,somewhere,?,bending melody,song,FALSE,guitar-learn-missions,lead
+string bender,8,bending the spoon,?,bending melody,song,FALSE,guitar-learn-missions,lead
+string bender,8,the day before today,?,melody,song,FALSE,guitar-learn-missions,lead
 chord trainers,1,chord trainer: cowboy - E Em Am,-,-,trainer,FALSE,guitar-learn-workouts,
 happy holidays,1,o holy night,traditional,basic riff,song,FALSE,guitar-songs-popular,
 classical piano favorites,3,gymnopedie no.1,erik satie,melody,song,FALSE,guitar-challenges,
@@ -171,6 +217,19 @@ mellow minor chords,2,changing chords: Em & Am,-,-,video,FALSE,piano-learn-missi
 mellow minor chords,2,Em and Am chord trainer,-,-,trainer,FALSE,piano-learn-missions,pop
 mellow minor chords,2,minor step (Em-Am),the yousicians,chords,song,FALSE,piano-learn-missions,pop
 mellow minor chords,2,piano gangsta (in Am),the yousicians,Am-Em chords,song,FALSE,piano-learn-missions,pop
+singalong tunes,6,trainer: C major arpeggio,-,-,trainer,FALSE,piano-learn-missions,classical
+singalong tunes,6,camptown races (in C),traditional,changing position,song,FALSE,piano-learn-missions,classical
+singalong tunes,6,trainer: G major bass,-,-,trainer,FALSE,piano-learn-missions,classical
+singalong tunes,6,molly malone (instrumental in G),?,songs in G,song,FALSE,piano-learn-missions,classical
+singalong tunes,6,trainer: reading ledger lines,-,-,trainer,FALSE,piano-learn-missions,classical
+singalong tunes,6,trainer: ledger lines,-,-,trainer,FALSE,piano-learn-missions,classical
+singalong tunes,6,take me out to the ball game,?,melody,song,FALSE,piano-learn-missions,classical
+D-jamz,6,intro to sharps,-,-,video,FALSE,piano-learn-missions,pop
+D-jamz,6,D chord trainer,-,-,trainer,FALSE,piano-learn-missions,pop
+D-jamz,6,D position trainer,-,-,trainer,FALSE,piano-learn-missions,pop
+D-jamz,6,voice from the inside,the yousicians,feeling sharp,song,FALSE,piano-learn-missions,pop
+D-jamz,6,trainer: quantum science - djamz,-,-,trainer,FALSE,piano-learn-missions,pop
+D-jamz,6,quantum science,the yousicians,djamz,song,FALSE,piano-learn-missions,pop
 tutorial videos,3,video: beats per bar,-,-,video,FALSE,piano-learn-workouts,
 rock on,4,sweet home alabama,lynyrd skynyrd,bass,song,TRUE,piano-songs-popular,
 classical piano favorites,4,fur elise (challenge),ludwig van beethoven,two hands,song,FALSE,piano-challenges,
@@ -311,7 +370,28 @@ the challenge must go on,4,waltz into the night,the yousicians,chords,song,FALSE
 the challenge must go on,7,waltz into the night,the yousicians,melody,song,FALSE,ukulele-challenges,
 the challenge must go on,8,the excalibur,the yousicians,chords,song,FALSE,ukulele-challenges,
 -,8,seasons of love,rent,full bass,song,TRUE,bass-home-new,
-play strings,0,intro & tuning,-,-,video,FALSE,bass-learn-missions,
+play strings,0,intro & tuning,-,-,video,FALSE,bass-learn-missions,-
+play strings,0,video: plucking strings,-,-,video,FALSE,bass-learn-missions,-
+play strings,0,bass gangsta walkthrough,the yousicians,exercise,song,FALSE,bass-learn-missions,-
+play strings,0,open all night,the yousicians,open strings,song,FALSE,bass-learn-missions,-
+play frets,0,video: fretting notes,-,-,video,FALSE,bass-learn-missions,-
+play frets,0,somewhere (lesson),the yousicians,exercise,song,FALSE,bass-learn-missions,-
+play frets,0,video: how to practice,-,-,video,FALSE,bass-learn-missions,-
+play frets,0,birds of steel,the yousicians,basic riff,song,FALSE,bass-learn-missions,-
+unlock level 1,0,quiz: strings and frets,-,-,quiz,FALSE,bass-learn-missions,-
+unlock level 1,0,set me free (short),the yousicians,skill test,song,FALSE,bass-learn-missions,-
+unlock level 9,9,longing for your love,the yousicians,skill test,song,FALSE,bass-learn-missions,playing
+triplets & three fingers,9,video: three-finger-plucking,-,-,video,FALSE,bass-learn-missions,playing
+triplets & three fingers,9,la folia (metal),traditional,triplets,song,FALSE,bass-learn-missions,playing
+triplets & three fingers,9,the grim librarian,the yousicians,full bass,song,FALSE,bass-learn-missions,playing
+triplets & three fingers,9,wrath of the rising king,the yousicians,bass,song,FALSE,bass-learn-missions,playing
+triplets & three fingers,9,rise of the pumpkins,the yousicians,full bass,song,FALSE,bass-learn-missions,playing
+triplets & three fingers,9,eddie rides again,the yousicians,bass,song,FALSE,bass-learn-missions,playing
+fast and furious riffs,9,flying through the night,?,slides,song,FALSE,bass-learn-missions,playing
+fast and furious riffs,9,march on fire,?,full bass,song,FALSE,bass-learn-missions,playing
+fast and furious riffs,9,looks don't deceive,?,full bass,song,FALSE,bass-learn-missions,playing
+fast and furious riffs,9,spandex nigthmares,?,rock bass,song,FALSE,bass-learn-missions,playing
+fast and furious riffs,9,don't need you no more,?,bass,song,FALSE,bass-learn-missions,playing
 rock on,2,black,pearl jam,basic bass,song,TRUE,bass-songs-popular,
 classical piano favorites,1,gymnopedie no.1,erik satie,basic bass,song,FALSE,bass-challenges,
 classical piano favorites,2,fur elise (challenge),ludwig van beethoven,basic bass,song,FALSE,bass-challenges,
@@ -350,6 +430,12 @@ the challenge must go on,3,the excalibur,the yousicians,basic bass,song,FALSE,ba
 the challenge must go on,6,waltz into the night,the yousicians,full bass,song,FALSE,bass-challenges,
 the challenge must go on,7,the excalibur,the yousicians,full bass,song,FALSE,bass-challenges,
 -,4,scar tissue,red hot chili peppers,lead vocals,song,TRUE,voice-home-new,
-getting started,0,introduction,-,-,video,FALSE,voice-learn-missions,
+getting started,0,introduction,-,-,video,FALSE,voice-learn-missions,-
+getting started,0,singing with yousician,the yousicians,tutorial,song,FALSE,voice-learn-missions,-
+getting started,0,island nights (call & response),the yousicians,lead vocals,song,FALSE,voice-learn-missions,-
+getting started,0,chase the notes: listen and repeat!,-,-,trainer,FALSE,voice-learn-missions,-
+getting started,0,lyrics in yousician,the yousicians,tutorial,song,FALSE,voice-learn-missions,-
+getting started,0,island nights,the yousicians,lead vocals,song,FALSE,voice-learn-missions,-
+unlock level 1,0,unlock level 1,-,-,quiz,FALSE,voice-learn-missions,-
 warm ups,0,body warm up - shake it,-,-,video,FALSE,voice-learn-workouts,
 rock on,1,sweet home alabama,lynyrd skynyrd,lead vocals,song,TRUE,voice-songs-popular,
