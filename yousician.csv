@@ -1,0 +1,355 @@
+mission,level,song,author,description,type,premium+,location,path
+-,6,whiskey in the jar (in G),thin lizzy,full rhythm,song,TRUE,guitar-home-new,
+-,6,seasons of love,rent,melody,song,TRUE,guitar-home-new,
+-,6,better together,jack johnson,fancy chords (capo),song,TRUE,guitar-home-new,
+-,6,hey laura,gregory porter,fancy chords,song,TRUE,guitar-home-new,
+-,7,i get around,the beach boys,low rhythm,song,TRUE,guitar-home-new,
+-,7,grandma's hands,bill withers,lead,song,TRUE,guitar-home-new,
+-,7,grandma's hands,bill withers,fingerpicking,song,TRUE,guitar-home-new,
+-,6,grandma's hands,bill withers,fancy chords,song,TRUE,guitar-home-new,
+-,6,should've been a cowboy,toby keith,rhythm & lead,song,TRUE,guitar-home-new,
+-,7,i was made for lovin' you (in Em),kiss,main rhythm,song,TRUE,guitar-home-new,
+-,6,banana pancakes,jack johnson,fancy chords,song,TRUE,guitar-home-new,
+-,7,don't cry for me argentina,evita,fingerpicking,song,TRUE,guitar-home-new,
+-,7,kickstarts,example,movable chords,song,TRUE,guitar-home-new,
+-,6,texas flood (in G),stevie ray vaughan,fancy chords,song,TRUE,guitar-home-new,
+-,7,good vibrations,the beach boys,melody,song,TRUE,guitar-home-new,
+-,7,dirty work (in C),steely dan,melody & solo,song,TRUE,guitar-home-new,
+-,7,tuesday's gone,lynyrd skynyrd,main rhythm,song,TRUE,guitar-home-new,
+-,6,road trippin',red hot chili peppers,fancy chords,song,TRUE,guitar-home-new,
+-,6,all out of love,air supply,fancy chords,song,TRUE,guitar-home-new,
+-,6,won't go home without you (in E),maroon 5,fancy chords,song,TRUE,guitar-home-new,
+play strings,0,intro & tuning,the yousicians,-,video,FALSE,guitar-learn-missions,-
+play strings,0,life in tune (lesson),the yousicians,exercise,song,FALSE,guitar-learn-missions,-
+play strings,0,spanish romance (short),traditional,open strings,song,FALSE,guitar-learn-missions,-
+play frets,0,playing frets,the yousicians,-,video,FALSE,guitar-learn-missions,-
+play frets,0,down the line (tutorial),the yousicians,intro to frets,song,FALSE,guitar-learn-missions,-
+play frets,0,love on the rocks,the yousicians,basic melody,song,FALSE,guitar-learn-missions,-
+play frets,0,picking strings,the yousicians,-,video,FALSE,guitar-learn-missions,-
+play frets,0,first light,the yousicians,simplified melody,song,FALSE,guitar-learn-missions,-
+skill test (level 1),0,set me free,the yousicians,basic melody,song,FALSE,guitar-learn-missions,-
+skill test (level 1),0,video: choose your path,the yousicians,-,video,FALSE,guitar-learn-missions,-
+skill test (lead level 7),7,modern vintage,the yousicians,legato melody,song,FALSE,guitar-learn-missions,lead
+double stops,7,video: double stops (strumming),the yousicians,-,video,FALSE,guitar-learn-missions,lead
+double stops,7,trainer: double stops (strumming),the yousicians,-,trainer,FALSE,guitar-learn-missions,lead
+double stops,7,set me free,the yousicians,double stop melody,song,FALSE,guitar-learn-missions,lead
+double stops,7,swamp thang,the yousicians,double stops,song,FALSE,guitar-learn-missions,lead
+double stops,7,video: double stops (hybrid picking),the yousicians,-,video,FALSE,guitar-learn-missions,lead
+double stops,7,trainer: double stops (hybrid picking),the yousicians,-,trainer,FALSE,guitar-learn-missions,lead
+double stops,7,walzing matilda (in G),traditional,double stop melody,song,FALSE,guitar-learn-missions,lead
+double stops,7,molly malone (fast),traditional,double stop melody,song,FALSE,guitar-learn-missions,lead
+double stops,7,barre your soul,the yousicians,double stop melody,song,FALSE,guitar-learn-missions,lead
+double stops,7,st louis blues,traditional,double stops,song,FALSE,guitar-learn-missions,lead
+chord trainers,1,chord trainer: cowboy - E Em Am,-,-,trainer,FALSE,guitar-learn-workouts,
+happy holidays,1,o holy night,traditional,basic riff,song,FALSE,guitar-songs-popular,
+classical piano favorites,3,gymnopedie no.1,erik satie,melody,song,FALSE,guitar-challenges,
+classical piano favorites,4,fur elise (challenge),ludwig van beethoven,cowboy chords,song,FALSE,guitar-challenges,
+classical piano favorites,7,gymnopedie no.1,erik satie,fingerpicking,song,FALSE,guitar-challenges,
+classical piano favorites,8,fur elise (challenge),ludwig van beethoven,melody,song,FALSE,guitar-challenges,
+at the gym,2,person of the hour,the yousicians,basic riff,song,FALSE,guitar-challenges,
+at the gym,3,the gentle art of pumping,the yousicians,riff,song,FALSE,guitar-challenges,
+at the gym,8,the gentle art of pumping,the yousicians,rhythm & lead,song,FALSE,guitar-challenges,
+at the gym,10,person of the hour,the yousicians,rhythm & lead,song,FALSE,guitar-challenges,
+carols through the ages,3,god rest ye merry gentleman,traditional,melody,song,FALSE,guitar-challenges,
+carols through the ages,4,carol of the bells,mykola leontovych,cowboy chords,song,FALSE,guitar-challenges,
+carols through the ages,7,carol of the bells,mykola leontovych,fingerpicking,song,FALSE,guitar-challenges,
+carols through the ages,8,god rest ye merry gentleman (in Am),traditional,chords,song,FALSE,guitar-challenges,
+swing with santa,2,o little town of betlehem,lewis redner,basic riff,song,FALSE,guitar-challenges,
+swing with santa,4,away in a manger,traditional,cowboy chords,song,FALSE,guitar-challenges,
+swing with santa,7,away in a manger,traditional,fingerpicking,song,FALSE,guitar-challenges,
+swing with santa,9,o little town of betlehem,lewis redner,rhythm,song,FALSE,guitar-challenges,
+life on horseback,3,bring me the sheriff,the yousicians,cowboy chords,song,FALSE,guitar-challenges,
+life on horseback,4,life on horseback,the yousicians,cowboy chords,song,FALSE,guitar-challenges,
+life on horseback,7,life on horseback,the yousicians,fingerpicking,song,FALSE,guitar-challenges,
+life on horseback,9,bring me the sheriff,the yousicians,rhythm & lead,song,FALSE,guitar-challenges,
+fire & ice - iceland 100 years,1,vulkanik,the yousicians,basic riff,song,FALSE,guitar-challenges,
+fire & ice - iceland 100 years,4,ladimagia,the yousicians,cowboy chords,song,FALSE,guitar-challenges,
+fire & ice - iceland 100 years,7,vulkanik,the yousicians,rhythm,song,FALSE,guitar-challenges,
+fire & ice - iceland 100 years,7,ladimagia,the yousicians,fingerpicking,song,FALSE,guitar-challenges,
+strum with the machines,2,light the spark,the yousicians,basic riff,song,FALSE,guitar-challenges,
+strum with the machines,4,worry free,the yousicians,cowboy chords,song,FALSE,guitar-challenges,
+strum with the machines,6,light the spark,the yousicians,fast strumming,song,FALSE,guitar-challenges,
+strum with the machines,7,worry free,the yousicians,melody,song,FALSE,guitar-challenges,
+three minute love story,2,buenos aires,the yousicians,basic riff,song,FALSE,guitar-challenges,
+three minute love story,4,anhelo,the yousicians,cowboy chords,song,FALSE,guitar-challenges,
+three minute love story,7,anhelo,the yousicians,fingerpicking,song,FALSE,guitar-challenges,
+three minute love story,8,buenos aires,the yousicians,rhythm & melody,song,FALSE,guitar-challenges,
+the challenge must go on,2,the excalibur,the yousicians,basic riff,song,FALSE,guitar-challenges,
+the challenge must go on,4,waltz into the night,the yousicians,melody,song,FALSE,guitar-challenges,
+the challenge must go on,6,waltz into the night,the yousicians,fancy chords,song,FALSE,guitar-challenges,
+the challenge must go on,9,the excalibur,the yousicians,rhythm & lead,song,FALSE,guitar-challenges,
+-,5,roots,imagine dragons,accompaniment,song,TRUE,piano-home-new,
+-,5,nothing like us,justin bieber,chords,song,TRUE,piano-home-new,
+-,5,better together,jack johnson,chords,song,TRUE,piano-home-new,
+-,5,scar tissue,red hot chili peppers,accompaniment,song,TRUE,piano-home-new,
+-,5,i get around,beach boys,accompaniment,song,TRUE,piano-home-new,
+-,5,hey laura,gregory porter,accompaniment,song,TRUE,piano-home-new,
+-,6,should've been a cowboy,toby keith,chords,song,TRUE,piano-home-new,
+-,5,grandma's hands,bill withers,chords,song,TRUE,piano-home-new,
+-,6,i was made for lovin' you (in Em),kiss,accompaniment,song,TRUE,piano-home-new,
+-,5,banana pancakes,jack johnson,chords,song,TRUE,piano-home-new,
+-,6,don't cry for me argentina,evita,accompaniment,song,TRUE,piano-home-new,
+-,6,no more mr. nice guy,alice cooper,chords,song,TRUE,piano-home-new,
+-,5,don't walk away (in Dm),jade,accompaniment,song,TRUE,piano-home-new,
+-,6,kickstarts,example,accompaniment,song,TRUE,piano-home-new,
+-,5,dani california,red hot chili peppers,accompaniment,song,TRUE,piano-home-new,
+-,6,tuesday's gone,lynyrd skynyrd,full melody,song,TRUE,piano-home-new,
+-,6,sweet caroline,neil diamond,bass,song,TRUE,piano-home-new,
+-,6,sweet caroline,neil diamond,rh melody,song,TRUE,piano-home-new,
+-,5,road trippin',red hot chili peppers,accompaniment,song,TRUE,piano-home-new,
+-,6,do it again,steely dan,rh chords,song,TRUE,piano-home-new,
+let's play,0,start here,-,-,video,FALSE,piano-learn-missions,-
+let's play,0,hand position and posture,-,-,video,FALSE,piano-learn-missions,-
+let's play,0,set me free (lesson 1),the yousicians,tutorial,song,FALSE,piano-learn-missions,-
+let's play,0,musical alphabet,-,-,video,FALSE,piano-learn-missions,-
+let's play,0,fur elise (lesson),ludwig van beethoven,tutorial,song,FALSE,piano-learn-missions,-
+unlock level 1,0,"air (in C, partial)",johann sebastian bach,four notes,song,FALSE,piano-learn-missions,-
+reading notes on the staff,1,introducing the classical path,-,-,video,FALSE,piano-learn-missions,classical
+reading notes on the staff,1,reading middle C and D,-,-,trainer,FALSE,piano-learn-missions,classical
+reading notes on the staff,1,canon (in C),johann pachelbel,2 note,song,FALSE,piano-learn-missions,classical
+reading notes on the staff,1,little prelude in C,johann sebastian bach,2 note,song,FALSE,piano-learn-missions,classical
+reading notes on the staff,1,windy shores (short),the yousicians,2 note,song,FALSE,piano-learn-missions,classical
+songs for three keys,1,reading E,-,-,trainer,FALSE,piano-learn-missions,classical
+songs for three keys,1,mary had a little lamb,traditional,3 notes,song,FALSE,piano-learn-missions,classical
+songs for three keys,1,gazing at stars (short),the yousicians,3 notes,song,FALSE,piano-learn-missions,classical
+songs for three keys,1,canon (in C),johann pachelbel,3 note,song,FALSE,piano-learn-missions,classical
+basic notes & beats,1,video: staff & clefs,-,-,video,FALSE,piano-learn-missions,knowledge
+basic notes & beats,1,"""C"" me switch hands",the yousicians,exercise,song,FALSE,piano-learn-missions,knowledge
+basic notes & beats,1,video: beats and bars,-,-,video,FALSE,piano-learn-missions,knowledge
+basic notes & beats,1,feel the beat (in C),the yousicians,exercise,song,FALSE,piano-learn-missions,knowledge
+basic notes & beats,1,video: up & down,-,-,video,FALSE,piano-learn-missions,knowledge
+basic notes & beats,1,pitch goes up & down (piano),the yousicians,exercise,song,FALSE,piano-learn-missions,knowledge
+basic notes & beats,1,video: half & whole steps,-,-,video,FALSE,piano-learn-missions,knowledge
+basic notes & beats,1,"half step, whole step (piano)",the yousicians,exercise,song,FALSE,piano-learn-missions,knowledge
+ear training: up & down,1,ear puzzles: going up,-,-,trainer,FALSE,piano-learn-missions,knowledge
+ear training: up & down,1,ear puzzles: up & down,-,-,trainer,FALSE,piano-learn-missions,knowledge
+ear training: up & down,1,ear puzzles: up-down-same,-,-,trainer,FALSE,piano-learn-missions,knowledge
+ear training: up & down,1,ear puzzles: low & high,-,-,trainer,FALSE,piano-learn-missions,knowledge
+all about that bass,1,bass lines,-,-,video,FALSE,piano-learn-missions,pop
+all about that bass,1,got the moves,the yousicians,bass pause,song,FALSE,piano-learn-missions,pop
+all about that bass,1,voice from the inside (short),the yousicians,bass,song,FALSE,piano-learn-missions,pop
+all about that bass,1,summer nights (short),the yousicians,bass,song,FALSE,piano-learn-missions,pop
+all about that bass,1,staricase boogie (in E),the yousicians,bass,song,FALSE,piano-learn-missions,pop
+E minor chord,1,introduction to chords,-,-,video,FALSE,piano-learn-missions,pop
+E minor chord,1,Em chord trainer,-,-,trainer,FALSE,piano-learn-missions,pop
+E minor chord,1,minor step (Em only),the yousicians,chords,song,FALSE,piano-learn-missions,pop
+E minor chord,1,solid & broken chords,-,-,video,FALSE,piano-learn-missions,pop
+E minor chord,1,memories of you,the yousicians,exercise,song,FALSE,piano-learn-missions,pop
+E minor chord,1,staircase boogie (in E),the yousicians,Em chord,song,FALSE,piano-learn-missions,pop
+level 2 skill test - classical,2,skipping stone,-,-,song,FALSE,piano-learn-missions,classical
+four-note melodies,2,reading F,-,-,trainer,FALSE,piano-learn-missions,classical
+four-note melodies,2,walking on air,the yousicians,4 note,song,FALSE,piano-learn-missions,classical
+four-note melodies,2,blue danube,johann strauss II,4 note,song,FALSE,piano-learn-missions,classical
+four-note melodies,2,moonlight sonata (in Am),ludwig van beethoven,4 note,song,FALSE,piano-learn-missions,classical
+five-note classics,2,reading G,-,-,trainer,FALSE,piano-learn-missions,classical
+five-note classics,2,ode to joy (slow),ludwig van beethoven,5 note,song,FALSE,piano-learn-missions,classical
+five-note classics,2,drink to me only with thine eyes (short),traditional,5 notes,song,FALSE,piano-learn-missions,classical
+five-note classics,2,trainer skipping E to G,the yousicians,exercise,song,FALSE,piano-learn-missions,classical
+five-note classics,2,new world symphony (in C),antonin dvorak,5 note,song,FALSE,piano-learn-missions,classical
+unlock level 2,2,drink to me only with thine eyes (short),traditional,5 notes,song,FALSE,piano-learn-missions,knowledge
+musical alphabet,2,video: musical alphabet,-,-,video,FALSE,piano-learn-missions,knowledge
+musical alphabet,2,musical alphabet,the yousicians,exercise,song,FALSE,piano-learn-missions,knowledge
+musical alphabet,2,bit cats eat fast,the yousicians,exercise,song,FALSE,piano-learn-missions,knowledge
+musical alphabet,2,video: major scale,-,-,video,FALSE,piano-learn-missions,knowledge
+musical alphabet,2,tutorial: thumb under,-,-,video,FALSE,piano-learn-missions,knowledge
+musical alphabet,2,trainer: C major scale,-,-,trainer,FALSE,piano-learn-missions,knowledge
+musical alphabet,2,"video: whole, half, quarter",-,-,video,FALSE,piano-learn-missions,knowledge
+musical alphabet,2,"whole, half, quarter",the yousicians,exercise,song,FALSE,piano-learn-missions,knowledge
+ear training: smaller steps,2,ear puzzles: four notes,-,-,trainer,FALSE,piano-learn-missions,knowledge
+ear training: smaller steps,2,ear puzzles: six notes,-,-,trainer,FALSE,piano-learn-missions,knowledge
+ear training: smaller steps,2,ear puzzles: eight notes,-,-,trainer,FALSE,piano-learn-missions,knowledge
+ear training: smaller steps,2,note-finder: 5 notes,-,-,trainer,FALSE,piano-learn-missions,knowledge
+level 2 skill test - pop,2,creatures of my mind (short),-,-,song,FALSE,piano-learn-missions,pop
+two-hand tunes,2,playing with two hands,-,-,video,FALSE,piano-learn-missions,pop
+two-hand tunes,2,one mand and (lesson 1),2 hands,2 hands,song,FALSE,piano-learn-missions,pop
+two-hand tunes,2,practice mode,-,-,video,FALSE,piano-learn-missions,pop
+two-hand tunes,2,voice from the inside (short),2 hands,2 hands,song,FALSE,piano-learn-missions,pop
+mellow minor chords,2,learn the A minor chord,-,-,video,FALSE,piano-learn-missions,pop
+mellow minor chords,2,Am chord trainer,-,-,trainer,FALSE,piano-learn-missions,pop
+mellow minor chords,2,house of the rising sun,traditional,Am,song,FALSE,piano-learn-missions,pop
+mellow minor chords,2,changing chords: Em & Am,-,-,video,FALSE,piano-learn-missions,pop
+mellow minor chords,2,Em and Am chord trainer,-,-,trainer,FALSE,piano-learn-missions,pop
+mellow minor chords,2,minor step (Em-Am),the yousicians,chords,song,FALSE,piano-learn-missions,pop
+mellow minor chords,2,piano gangsta (in Am),the yousicians,Am-Em chords,song,FALSE,piano-learn-missions,pop
+tutorial videos,3,video: beats per bar,-,-,video,FALSE,piano-learn-workouts,
+rock on,4,sweet home alabama,lynyrd skynyrd,bass,song,TRUE,piano-songs-popular,
+classical piano favorites,4,fur elise (challenge),ludwig van beethoven,two hands,song,FALSE,piano-challenges,
+classical piano favorites,4,gymnopedie no.1,erik satie,two hands,song,FALSE,piano-challenges,
+classical piano favorites,8,fur elise (challenge),ludwig van beethoven,full piano,song,FALSE,piano-challenges,
+classical piano favorites,9,gymnopedie no.1,erik satie,full piano,song,FALSE,piano-challenges,
+at the gym,1,the gentle art of pumping,the yousicians,riff left hand,song,FALSE,piano-challenges,
+at the gym,4,person of the hour,the yousicians,two hands,song,FALSE,piano-challenges,
+at the gym,5,the gentle art of pumping,the yousicians,riff two hands,song,FALSE,piano-challenges,
+at the gym,7,person of the hour,the yousicians,bass and chords,song,FALSE,piano-challenges,
+carols through the ages,2,god rest ye merry gentleman (in Am),traditional,two hands,song,FALSE,piano-challenges,
+carols through the ages,4,carol of the bells,mykola leontovych,two hands,song,FALSE,piano-challenges,
+carols through the ages,6,god rest ye merry gentleman,traditional,melody,song,FALSE,piano-challenges,
+carols through the ages,9,carol of the bells,mykola leontovych,advanced,song,FALSE,piano-challenges,
+swing with santa,2,away in a manger,traditional,bassline,song,FALSE,piano-challenges,
+swing with santa,4,o little town of betlehem,lewis redner,two hands melody,song,FALSE,piano-challenges,
+swing with santa,6,away in a manger,traditional,chords and bass,song,FALSE,piano-challenges,
+swing with santa,8,o little town of betlehem,lewis redner,melody and chords,song,FALSE,piano-challenges,
+life on horseback,2,life on horseback,the yousicians,two hands,song,FALSE,piano-challenges,
+life on horseback,3,bring me the sheriff,the yousicians,right hand,song,FALSE,piano-challenges,
+life on horseback,5,bring me the sheriff,the yousicians,chords and bass,song,FALSE,piano-challenges,
+life on horseback,7,life on horseback,the yousicians,advanced,song,FALSE,piano-challenges,
+fire & ice - iceland 100 years,2,ladimagia,the yousicians,two hands,song,FALSE,piano-challenges,
+fire & ice - iceland 100 years,4,vulkanik,the yousicians,two hands,song,FALSE,piano-challenges,
+fire & ice - iceland 100 years,5,ladimagia,the yousicians,arpeggio and bass notes,song,FALSE,piano-challenges,
+fire & ice - iceland 100 years,7,vulkanik,the yousicians,advanced,song,FALSE,piano-challenges,
+strum with the machines,2,worry free,the yousicians,two hands,song,FALSE,piano-challenges,
+strum with the machines,3,light the spark,the yousicians,two hands,song,FALSE,piano-challenges,
+strum with the machines,5,worry free,the yousicians,two hands melody,song,FALSE,piano-challenges,
+strum with the machines,7,light the spark,the yousicians,"chords, bass and melody",song,FALSE,piano-challenges,
+three minute love story,2,anhelo,the yousicians,two hands,song,FALSE,piano-challenges,
+three minute love story,4,buenos aires,the yousicians,chords,song,FALSE,piano-challenges,
+three minute love story,6,anhelo,the yousicians,accompaniment,song,FALSE,piano-challenges,
+three minute love story,8,buenos aires,the yousicians,advanced,song,FALSE,piano-challenges,
+the challenge must go on,2,waltz into the night,the yousicians,two hands,song,FALSE,piano-challenges,
+the challenge must go on,4,the excalibur,the yousicians,two hands,song,FALSE,piano-challenges,
+the challenge must go on,5,waltz into the night,the yousicians,chords,song,FALSE,piano-challenges,
+the challenge must go on,8,the excalibur,the yousicians,advanced,song,FALSE,piano-challenges,
+-,8,god only knows (in G),the beach boys,chords,song,TRUE,ukulele-home-new,
+-,7,better together,jack johnson,full rhythm,song,TRUE,ukulele-home-new,
+-,7,nothing like us,justin bieber,fingerpicking,song,TRUE,ukulele-home-new,
+-,7,seasons of love,rent,chords,song,TRUE,ukulele-home-new,
+-,8,more than this,one direction,fingerpicking,song,TRUE,ukulele-home-new,
+-,8,i get around,the beach boys,rhythm & lead,song,TRUE,ukulele-home-new,
+-,8,scar tissue,red hot chili peppers,full rhythm,song,TRUE,ukulele-home-new,
+-,8,grandma's hands,bill withers,melody,song,TRUE,ukulele-home-new,
+-,7,banana pancakes,jack johnson,fingerpicking,song,TRUE,ukulele-home-new,
+-,8,should've been a cowboy,toby keith,melody,song,TRUE,ukulele-home-new,
+-,7,don't cry for me argentina,evita,full rhythm,song,TRUE,ukulele-home-new,
+-,8,no more mr. nice guy,alice cooper,chords,song,TRUE,ukulele-home-new,
+-,7,kickstarts,example,chords,song,TRUE,ukulele-home-new,
+-,8,good vibrations (in Dm),the beach boys,melody,song,TRUE,ukulele-home-new,
+-,7,good vibrations (in Dm),the beach boys,chords,song,TRUE,ukulele-home-new,
+-,8,tuesday's gone (in G),lynyrd skynyrd,rhythm & lead,song,TRUE,ukulele-home-new,
+-,7,road trippin',red hot chili peppers,chords,song,TRUE,ukulele-home-new,
+-,8,dani california,red hot chili peppers,melody & solo,song,TRUE,ukulele-home-new,
+-,7,malibu (in G),miley cyrus,full rhythm,song,TRUE,ukulele-home-new,
+-,8,humble and kind,tim mcgraw,melody,song,TRUE,ukulele-home-new,
+play your first songs,0,intro & tuning,,-,video,FALSE,ukulele-learn-missions,-
+play your first songs,0,video: learn to strum,,-,video,FALSE,ukulele-learn-missions,-
+play your first songs,0,banana boats (chords lesson),,exercise,song,FALSE,ukulele-learn-missions,-
+play your first songs,0,video: learn C,,-,video,FALSE,ukulele-learn-missions,-
+play your first songs,0,trainer: 2 chords,,-,trainer,FALSE,ukulele-learn-missions,-
+play your first songs,0,"row, row, row your boat",,practice C,song,FALSE,ukulele-learn-missions,-
+play your first songs,0,cowboy exit music (short),,practice,song,FALSE,ukulele-learn-missions,-
+level 1 skill test,0,chord review,,-,trainer,FALSE,ukulele-learn-missions,-
+level 1 skill test,0,quiz: essential terms,,-,trainer,FALSE,ukulele-learn-missions,-
+level 1 skill test,0,video: choose your path,,-,video,FALSE,ukulele-learn-missions,-
+playing melodies,1,video: plucking strings,,-,video,FALSE,ukulele-learn-missions,lead
+playing melodies,1,banana boats (melody lesson),,exercise,song,FALSE,ukulele-learn-missions,lead
+playing melodies,1,skipping stone,,fretting,song,FALSE,ukulele-learn-missions,lead
+playing melodies,1,memories of you,,fretting,song,FALSE,ukulele-learn-missions,lead
+playing melodies,1,my dog has fleas,,playing melodies,song,FALSE,ukulele-learn-missions,lead
+playing melodies,1,playing in the park (uke mix),,playing melodies,song,FALSE,ukulele-learn-missions,lead
+strumming chords,1,video: learn F,,-,video,FALSE,ukulele-learn-missions,rhythm
+strumming chords,1,trainer: F chord,,-,trainer,FALSE,ukulele-learn-missions,rhythm
+strumming chords,1,frere jacques (uke mix),,chords,song,FALSE,ukulele-learn-missions,rhythm
+strumming chords,1,cotton-eye joe,,easy strumming,song,FALSE,ukulele-learn-missions,rhythm
+strumming chords,1,ain't noting like playing the uke,,easy strumming,song,FALSE,ukulele-learn-missions,rhythm
+strumming chords,1,video: changing chords,,-,video,FALSE,ukulele-learn-missions,rhythm
+strumming chords,1,sail away,,chords,song,FALSE,ukulele-learn-missions,rhythm
+strumming chords,1,island song,,easy chords,song,FALSE,ukulele-learn-missions,rhythm
+chords,0,"row, row, row your boat",traditional,chords,song,FALSE,ukulele-learn-workouts,
+chords,0,cowboy exit music (short),the yousicians,two chords,song,FALSE,ukulele-learn-workouts,
+chords,1,frere jacques (uke mix),traditional,chords,song,FALSE,ukulele-learn-workouts,
+chords,1,sail avay,the yousicians,chords,song,FALSE,ukulele-learn-workouts,
+chords,1,island song,the yousicians,easy chords,song,FALSE,ukulele-learn-workouts,
+chords,2,got the moves,the yousicians,uke chords,song,FALSE,ukulele-learn-workouts,
+chords,3,city life,the yousicians,ukulele chords,song,FALSE,ukulele-learn-workouts,
+chords,3,the storm inside me,the yousicians,chords,song,FALSE,ukulele-learn-workouts,
+chords,3,up,the yousicians,one chord,song,FALSE,ukulele-learn-workouts,
+chords,3,danny boy,traditional,chords,song,FALSE,ukulele-learn-workouts,
+fingerpicking,3,island song,the yousicians,fingerpicking,song,FALSE,ukulele-learn-workouts,
+fingerpicking,4,hammer song (uke mix),the yousicians,fingerpicking,song,FALSE,ukulele-learn-workouts,
+fingerpicking,4,cowboy exit music (short),the yousicians,fingerpicking,song,FALSE,ukulele-learn-workouts,
+fingerpicking,4,sail avay,the yousicians,fingerpicking,song,FALSE,ukulele-learn-workouts,
+fingerpicking,5,crowded space,the yousicians,fingerpicking,song,FALSE,ukulele-learn-workouts,
+fingerpicking,5,kaulana na pua,traditional,fingerpicking,song,FALSE,ukulele-learn-workouts,
+fingerpicking,5,danny boy,traditional,fingerpicking,song,FALSE,ukulele-learn-workouts,
+fingerpicking,5,compromises (uke mix),the yousicians,fingerpicking,song,FALSE,ukulele-learn-workouts,
+fingerpicking,5,angels we have heard on high,traditional,fingerpicking,song,FALSE,ukulele-learn-workouts,
+fingerpicking,5,dring to me only with thine eyes,traditional,fingerpicking,song,FALSE,ukulele-learn-workouts,
+the pop star,2,adore you,miley cyrus,down and up,song,FALSE,ukulele-songs-popular,
+classical piano favorites,2,gymnopedie no.1,erik satie,melody,song,FALSE,ukulele-challenges,
+classical piano favorites,4,gymnopedie no.1,erik satie,chords,song,FALSE,ukulele-challenges,
+classical piano favorites,6,fur elise (challenge),ludwig van beethoven,chords,song,FALSE,ukulele-challenges,
+classical piano favorites,8,fur elise (challenge),ludwig van beethoven,melody,song,FALSE,ukulele-challenges,
+at the gym,2,person of the hour,the yousicians,melody,song,FALSE,ukulele-challenges,
+at the gym,4,the gentle art of pumping,the yousicians,chords,song,FALSE,ukulele-challenges,
+at the gym,6,person of the hour,the yousicians,chords,song,FALSE,ukulele-challenges,
+at the gym,8,the gentle art of pumping,the yousicians,melody,song,FALSE,ukulele-challenges,
+carols through the ages,2,carol of the bells,mykola leontovych,melody,song,FALSE,ukulele-challenges,
+carols through the ages,4,god rest ye merry gentleman (in Am),traditional,chords,song,FALSE,ukulele-challenges,
+carols through the ages,6,carol of the bells,mykola leontovych,chords,song,FALSE,ukulele-challenges,
+carols through the ages,8,god rest ye merry gentleman,traditional,double stops,song,FALSE,ukulele-challenges,
+swing with santa,2,o little town of betlehem,lewis redner,melody,song,FALSE,ukulele-challenges,
+swing with santa,4,away in a manger,traditional,chords,song,FALSE,ukulele-challenges,
+swing with santa,5,away in a manger,traditional,melody,song,FALSE,ukulele-challenges,
+swing with santa,8,o little town of betlehem,lewis redner,chords,song,FALSE,ukulele-challenges,
+life on horseback,2,life on horseback,the yousicians,melody,song,FALSE,ukulele-challenges,
+life on horseback,4,bring me the sheriff,the yousicians,chords,song,FALSE,ukulele-challenges,
+life on horseback,6,bring me the sheriff,the yousicians,melody,song,FALSE,ukulele-challenges,
+life on horseback,8,life on horseback,the yousicians,fingerpicking,song,FALSE,ukulele-challenges,
+fire & ice - iceland 100 years,2,ladimagia,the yousicians,melody,song,FALSE,ukulele-challenges,
+fire & ice - iceland 100 years,4,ladimagia,the yousicians,chords,song,FALSE,ukulele-challenges,
+fire & ice - iceland 100 years,6,vulkanik,the yousicians,chords,song,FALSE,ukulele-challenges,
+fire & ice - iceland 100 years,8,vulkanik,the yousicians,fingerpicking,song,FALSE,ukulele-challenges,
+strum with the machines,2,worry free,the yousicians,melody,song,FALSE,ukulele-challenges,
+strum with the machines,4,light the spark,the yousicians,chords,song,FALSE,ukulele-challenges,
+strum with the machines,6,worry free,the yousicians,chords,song,FALSE,ukulele-challenges,
+strum with the machines,8,light the spark,the yousicians,melody,song,FALSE,ukulele-challenges,
+three minute love story,3,anhelo,the yousicians,melody,song,FALSE,ukulele-challenges,
+three minute love story,4,buenos aires,the yousicians,chords,song,FALSE,ukulele-challenges,
+three minute love story,7,anhelo,the yousicians,fingerpicking,song,FALSE,ukulele-challenges,
+three minute love story,8,buenos aires,the yousicians,double stops,song,FALSE,ukulele-challenges,
+the challenge must go on,2,the excalibur,the yousicians,melody,song,FALSE,ukulele-challenges,
+the challenge must go on,4,waltz into the night,the yousicians,chords,song,FALSE,ukulele-challenges,
+the challenge must go on,7,waltz into the night,the yousicians,melody,song,FALSE,ukulele-challenges,
+the challenge must go on,8,the excalibur,the yousicians,chords,song,FALSE,ukulele-challenges,
+-,8,seasons of love,rent,full bass,song,TRUE,bass-home-new,
+play strings,0,intro & tuning,-,-,video,FALSE,bass-learn-missions,
+rock on,2,black,pearl jam,basic bass,song,TRUE,bass-songs-popular,
+classical piano favorites,1,gymnopedie no.1,erik satie,basic bass,song,FALSE,bass-challenges,
+classical piano favorites,2,fur elise (challenge),ludwig van beethoven,basic bass,song,FALSE,bass-challenges,
+classical piano favorites,5,gymnopedie no.1,erik satie,melody,song,FALSE,bass-challenges,
+classical piano favorites,7,fur elise (challenge),ludwig van beethoven,melody,song,FALSE,bass-challenges,
+at the gym,2,person of the hour,the yousicians,basic bass,song,FALSE,bass-challenges,
+at the gym,3,the gentle art of pumping,the yousicians,basic bass,song,FALSE,bass-challenges,
+at the gym,7,the gentle art of pumping,the yousicians,full bass,song,FALSE,bass-challenges,
+at the gym,8,person of the hour,the yousicians,full bass,song,FALSE,bass-challenges,
+carols through the ages,2,god rest ye merry gentleman,traditional,basic bass,song,FALSE,bass-challenges,
+carols through the ages,2,carol of the bells,mykola leontovych,basic bass,song,FALSE,bass-challenges,
+carols through the ages,4,god rest ye merry gentleman,traditional,full bass,song,FALSE,bass-challenges,
+carols through the ages,6,carol of the bells,mykola leontovych,melody,song,FALSE,bass-challenges,
+swing with santa,2,away in a manger,traditional,basic bass,song,FALSE,bass-challenges,
+swing with santa,2,o little town of betlehem,lewis redner,basic bass,song,FALSE,bass-challenges,
+swing with santa,4,away in a manger,traditional,full bass,song,FALSE,bass-challenges,
+swing with santa,5,o little town of betlehem,lewis redner,full bass,song,FALSE,bass-challenges,
+life on horseback,1,life on horseback,the yousicians,basic bass,song,FALSE,bass-challenges,
+life on horseback,2,bring me the sheriff,the yousicians,basic bass,song,FALSE,bass-challenges,
+life on horseback,4,life on horseback,the yousicians,full bass,song,FALSE,bass-challenges,
+life on horseback,7,bring me the sheriff,the yousicians,full bass,song,FALSE,bass-challenges,
+fire & ice - iceland 100 years,1,vulkanik,the yousicians,basic bass,song,FALSE,bass-challenges,
+fire & ice - iceland 100 years,2,ladimagia,the yousicians,basic bass,song,FALSE,bass-challenges,
+fire & ice - iceland 100 years,5,ladimagia,the yousicians,full bass,song,FALSE,bass-challenges,
+fire & ice - iceland 100 years,6,vulkanik,the yousicians,full bass,song,FALSE,bass-challenges,
+strum with the machines,1,light the spark,the yousicians,basic bass,song,FALSE,bass-challenges,
+strum with the machines,2,worry free,the yousicians,basic bass,song,FALSE,bass-challenges,
+strum with the machines,5,light the spark,the yousicians,full bass,song,FALSE,bass-challenges,
+strum with the machines,6,worry free,the yousicians,full bass,song,FALSE,bass-challenges,
+three minute love story,1,anhelo,the yousicians,basic bass,song,FALSE,bass-challenges,
+three minute love story,2,buenos aires,the yousicians,basic bass,song,FALSE,bass-challenges,
+three minute love story,4,anhelo,the yousicians,full bass,song,FALSE,bass-challenges,
+three minute love story,5,buenos aires,the yousicians,full bass,song,FALSE,bass-challenges,
+the challenge must go on,2,waltz into the night,the yousicians,basic bass,song,FALSE,bass-challenges,
+the challenge must go on,3,the excalibur,the yousicians,basic bass,song,FALSE,bass-challenges,
+the challenge must go on,6,waltz into the night,the yousicians,full bass,song,FALSE,bass-challenges,
+the challenge must go on,7,the excalibur,the yousicians,full bass,song,FALSE,bass-challenges,
+-,4,scar tissue,red hot chili peppers,lead vocals,song,TRUE,voice-home-new,
+getting started,0,introduction,-,-,video,FALSE,voice-learn-missions,
+warm ups,0,body warm up - shake it,-,-,video,FALSE,voice-learn-workouts,
+rock on,1,sweet home alabama,lynyrd skynyrd,lead vocals,song,TRUE,voice-songs-popular,
