@@ -183,10 +183,10 @@ basic notes & beats,1,video: up & down,-,-,video,FALSE,piano-learn-missions,know
 basic notes & beats,1,pitch goes up & down (piano),the yousicians,exercise,song,FALSE,piano-learn-missions,knowledge
 basic notes & beats,1,video: half & whole steps,-,-,video,FALSE,piano-learn-missions,knowledge
 basic notes & beats,1,"half step, whole step (piano)",the yousicians,exercise,song,FALSE,piano-learn-missions,knowledge
-ear training: up & down,1,ear puzzles: going up,-,-,trainer,FALSE,piano-learn-missions,knowledge
-ear training: up & down,1,ear puzzles: up & down,-,-,trainer,FALSE,piano-learn-missions,knowledge
-ear training: up & down,1,ear puzzles: up-down-same,-,-,trainer,FALSE,piano-learn-missions,knowledge
-ear training: up & down,1,ear puzzles: low & high,-,-,trainer,FALSE,piano-learn-missions,knowledge
+ear training: up & down,1,ear puzzles: going up,-,-,puzzle,FALSE,piano-learn-missions,knowledge
+ear training: up & down,1,ear puzzles: up & down,-,-,puzzle,FALSE,piano-learn-missions,knowledge
+ear training: up & down,1,ear puzzles: up-down-same,-,-,puzzle,FALSE,piano-learn-missions,knowledge
+ear training: up & down,1,note finder: low & high,-,-,finder,FALSE,piano-learn-missions,knowledge
 all about that bass,1,bass lines,-,-,video,FALSE,piano-learn-missions,pop
 all about that bass,1,got the moves,the yousicians,bass pause,song,FALSE,piano-learn-missions,pop
 all about that bass,1,voice from the inside (short),the yousicians,bass,song,FALSE,piano-learn-missions,pop
@@ -220,10 +220,10 @@ musical alphabet,2,"whole, half, quarter",the yousicians,exercise,song,FALSE,pia
 ear training: smaller steps,2,ear puzzles: four notes,-,-,trainer,FALSE,piano-learn-missions,knowledge
 ear training: smaller steps,2,ear puzzles: six notes,-,-,trainer,FALSE,piano-learn-missions,knowledge
 ear training: smaller steps,2,ear puzzles: eight notes,-,-,trainer,FALSE,piano-learn-missions,knowledge
-ear training: smaller steps,2,note-finder: 5 notes,-,-,trainer,FALSE,piano-learn-missions,knowledge
+ear training: smaller steps,2,note-finder: 5 notes,-,-,finder,FALSE,piano-learn-missions,knowledge
 level 2 skill test - pop,2,creatures of my mind (short),-,-,song,FALSE,piano-learn-missions,pop
 two-hand tunes,2,playing with two hands,-,-,video,FALSE,piano-learn-missions,pop
-two-hand tunes,2,one mand and (lesson 1),2 hands,2 hands,song,FALSE,piano-learn-missions,pop
+two-hand tunes,2,one mand band (lesson 1),2 hands,2 hands,song,FALSE,piano-learn-missions,pop
 two-hand tunes,2,practice mode,-,-,video,FALSE,piano-learn-missions,pop
 two-hand tunes,2,voice from the inside (short),2 hands,2 hands,song,FALSE,piano-learn-missions,pop
 mellow minor chords,2,learn the A minor chord,-,-,video,FALSE,piano-learn-missions,pop
