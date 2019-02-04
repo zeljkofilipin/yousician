@@ -446,30 +446,6 @@ the challenge must go on,2,waltz into the night,the yousicians,two hands,song,FA
 the challenge must go on,4,the excalibur,the yousicians,two hands,song,FALSE,piano-challenges,
 the challenge must go on,5,waltz into the night,the yousicians,chords,song,FALSE,piano-challenges,
 the challenge must go on,8,the excalibur,the yousicians,advanced,song,FALSE,piano-challenges,
-play your first songs,0,intro & tuning,,-,video,FALSE,ukulele-learn-missions,-
-play your first songs,0,video: learn to strum,,-,video,FALSE,ukulele-learn-missions,-
-play your first songs,0,banana boats (chords lesson),,exercise,song,FALSE,ukulele-learn-missions,-
-play your first songs,0,video: learn C,,-,video,FALSE,ukulele-learn-missions,-
-play your first songs,0,trainer: 2 chords,,-,trainer,FALSE,ukulele-learn-missions,-
-play your first songs,0,"row, row, row your boat",,practice C,song,FALSE,ukulele-learn-missions,-
-play your first songs,0,cowboy exit music (short),,practice,song,FALSE,ukulele-learn-missions,-
-level 1 skill test,0,chord review,,-,trainer,FALSE,ukulele-learn-missions,-
-level 1 skill test,0,quiz: essential terms,,-,trainer,FALSE,ukulele-learn-missions,-
-level 1 skill test,0,video: choose your path,,-,video,FALSE,ukulele-learn-missions,-
-playing melodies,1,video: plucking strings,,-,video,FALSE,ukulele-learn-missions,lead
-playing melodies,1,banana boats (melody lesson),,exercise,song,FALSE,ukulele-learn-missions,lead
-playing melodies,1,skipping stone,,fretting,song,FALSE,ukulele-learn-missions,lead
-playing melodies,1,memories of you,,fretting,song,FALSE,ukulele-learn-missions,lead
-playing melodies,1,my dog has fleas,,playing melodies,song,FALSE,ukulele-learn-missions,lead
-playing melodies,1,playing in the park (uke mix),,playing melodies,song,FALSE,ukulele-learn-missions,lead
-strumming chords,1,video: learn F,,-,video,FALSE,ukulele-learn-missions,rhythm
-strumming chords,1,trainer: F chord,,-,trainer,FALSE,ukulele-learn-missions,rhythm
-strumming chords,1,frere jacques (uke mix),,chords,song,FALSE,ukulele-learn-missions,rhythm
-strumming chords,1,cotton-eye joe,,easy strumming,song,FALSE,ukulele-learn-missions,rhythm
-strumming chords,1,ain't noting like playing the uke,,easy strumming,song,FALSE,ukulele-learn-missions,rhythm
-strumming chords,1,video: changing chords,,-,video,FALSE,ukulele-learn-missions,rhythm
-strumming chords,1,sail away,,chords,song,FALSE,ukulele-learn-missions,rhythm
-strumming chords,1,island song,,easy chords,song,FALSE,ukulele-learn-missions,rhythm
 new on yousician,8,song of the south,alabama,melody,song,TRUE,ukulele-home-new,
 new on yousician,6,song of the south,alabama,chords,song,TRUE,ukulele-home-new,
 new on yousician,3,song of the south,alabama,basic melody,song,TRUE,ukulele-home-new,
@@ -651,6 +627,204 @@ new on yousician,2,mississippi queen,mountain,melody,song,TRUE,ukulele-home-new,
 new on yousician,1,californication,red hot chili peppers,easy chords,song,TRUE,ukulele-home-new,
 new on yousician,1,in case you didn't know,brett young,playing melodies,song,TRUE,ukulele-home-new,
 new on yousician,0,youth,daughter,changing chords,song,TRUE,ukulele-home-new,
+play your first songs,0,intro & tuning,-,-,video,FALSE,ukulele-learn-missions,-
+play your first songs,0,video: learn to strum,-,-,video,FALSE,ukulele-learn-missions,-
+play your first songs,0,banana boats (chords lesson),the yousicians,exercise,song,FALSE,ukulele-learn-missions,-
+play your first songs,0,video: learn C,-,-,video,FALSE,ukulele-learn-missions,-
+play your first songs,0,trainer: 2 chords,-,-,trainer,FALSE,ukulele-learn-missions,-
+play your first songs,0,"row, row, row your boat",traditional,practice C,song,FALSE,ukulele-learn-missions,-
+play your first songs,0,cowboy exit music (short),the yousicians,practice,song,FALSE,ukulele-learn-missions,-
+level 1 skill test,0,chord review,-,-,trainer,FALSE,ukulele-learn-missions,-
+level 1 skill test,0,quiz: essential terms,-,-,trainer,FALSE,ukulele-learn-missions,-
+level 1 skill test,0,video: choose your path,-,-,video,FALSE,ukulele-learn-missions,-
+playing melodies,1,video: plucking strings,-,-,video,FALSE,ukulele-learn-missions,lead
+playing melodies,1,banana boats (melody lesson),the yousicians,exercise,song,FALSE,ukulele-learn-missions,lead
+playing melodies,1,skipping stone,the yousicians,fretting,song,FALSE,ukulele-learn-missions,lead
+playing melodies,1,memories of you,the yousicians,fretting,song,FALSE,ukulele-learn-missions,lead
+playing melodies,1,my dog has fleas,the yousicians,playing melodies,song,FALSE,ukulele-learn-missions,lead
+playing melodies,1,playing in the park (uke mix),the yousicians,playing melodies,song,FALSE,ukulele-learn-missions,lead
+strumming chords,1,video: learn F,-,-,video,FALSE,ukulele-learn-missions,rhythm
+strumming chords,1,trainer: F chord,-,-,trainer,FALSE,ukulele-learn-missions,rhythm
+strumming chords,1,frere jacques (uke mix),traditional,chords,song,FALSE,ukulele-learn-missions,rhythm
+strumming chords,1,cotton-eye joe,traditional,easy strumming,song,FALSE,ukulele-learn-missions,rhythm
+strumming chords,1,ain't noting like playing the uke,the yousicians,easy strumming,song,FALSE,ukulele-learn-missions,rhythm
+strumming chords,1,video: changing chords,-,-,video,FALSE,ukulele-learn-missions,rhythm
+strumming chords,1,sail away,the yousicians,chords,song,FALSE,ukulele-learn-missions,rhythm
+strumming chords,1,island song,the yousicians,easy chords,song,FALSE,ukulele-learn-missions,rhythm
+level 2 skill test - lead,2,midsummer memories,the yousicians,basic melody,song,FALSE,ukulele-learn-missions,lead
+one finger per fret,2,video: one finger per fret,-,-,song,FALSE,ukulele-learn-missions,lead
+one finger per fret,2,lick trainer - one finger per fret 0123,-,-,song,FALSE,ukulele-learn-missions,lead
+one finger per fret,2,artist love,the yousicians,1fpf,song,FALSE,ukulele-learn-missions,lead
+one finger per fret,2,lick trainer - one finger per fret 3210,-,-,song,FALSE,ukulele-learn-missions,lead
+one finger per fret,2,windy shores,the yousicians,1fpf,song,FALSE,ukulele-learn-missions,lead
+one finger per fret,2,when the saints go marching in,traditional,melody,song,FALSE,ukulele-learn-missions,lead
+one finger per fret,2,two ravens,the yousicians,melody,song,FALSE,ukulele-learn-missions,lead
+one finger per fret,2,drink to me only with thine eyes,traditional,melody,song,FALSE,ukulele-learn-missions,lead
+level 2 skill test - rhythm,2,chord review,-,-,trainer,FALSE,ukulele-learn-missions,rhythm
+ups & downs,2,video: learn Am,-,-,video,FALSE,ukulele-learn-missions,rhythm
+ups & downs,2,"trainer: Am, C and F",-,-,trainer,FALSE,ukulele-learn-missions,rhythm
+ups & downs,2,"row, row, row your boat",traditional,strums,song,FALSE,ukulele-learn-missions,rhythm
+ups & downs,2,video: strumming down and up,-,-,video,FALSE,ukulele-learn-missions,rhythm
+ups & downs,2,strumming up & down,-,-,trainer,FALSE,ukulele-learn-missions,rhythm
+ups & downs,2,am i rootsy,the yousicians,exercise,song,FALSE,ukulele-learn-missions,rhythm
+ups & downs,2,lazy sunday,the yousicians,strums,song,FALSE,ukulele-learn-missions,rhythm
+ups & downs,2,cordelia,the yousicians,down and up,song,FALSE,ukulele-learn-missions,rhythm
+level 3 skill test - lead,3,guantanamera,traditional,bass line,song,FALSE,ukulele-learn-missions,lead
+four fingers,3,lick trainer - playing with the pinky,-,-,trainer,FALSE,ukulele-learn-missions,lead
+four fingers,3,four blocks from here,the yousicians,melody,song,FALSE,ukulele-learn-missions,lead
+four fingers,3,first light,the yousicians,4 fingers,song,FALSE,ukulele-learn-missions,lead
+four fingers,3,red river valley (short),traditional,4 fingers,song,FALSE,ukulele-learn-missions,lead
+four fingers,3,lil' liza jane,traditional,4 fingers,song,FALSE,ukulele-learn-missions,lead
+four fingers,3,malaguena (surf),traditional,4 fingers,song,FALSE,ukulele-learn-missions,lead
+level 3 skill test - rhythm,3,chord review,-,-,trainer,FALSE,ukulele-learn-missions,rhythm
+chord workshop 1,3,trainer: 3 new chords,-,-,trainer,FALSE,ukulele-learn-missions,rhythm
+chord workshop 1,3,up,the yousicians,one chord,song,FALSE,ukulele-learn-missions,rhythm
+chord workshop 1,3,soul uke,the yousicians,strumming,song,FALSE,ukulele-learn-missions,rhythm
+chord workshop 1,3,uke on the porch,the yousicians,strums,song,FALSE,ukulele-learn-missions,rhythm
+chord workshop 1,3,my dog has fleas,the yousicians,strumming,song,FALSE,ukulele-learn-missions,rhythm
+chord workshop 1,3,billy boy,traditional,strums,song,FALSE,ukulele-learn-missions,rhythm
+chord workshop 1,3,combo game: 6 chords,-,-,song,FALSE,ukulele-learn-missions,rhythm
+level 4 skill test - lead,4,wizard's walz,the yousicians,basic melody,song,FALSE,ukulele-learn-missions,lead
+reaching higher,4,my loving brother,traditional,reaching,song,FALSE,ukulele-learn-missions,lead
+reaching higher,4,aura lea (short),traditional,reaching,song,FALSE,ukulele-learn-missions,lead
+reaching higher,4,tear hunter,traditional,uke melody,song,FALSE,ukulele-learn-missions,lead
+reaching higher,4,romanza,traditional,melody,song,FALSE,ukulele-learn-missions,lead
+reaching higher,4,my bonnie lies over the ocean,traditional,reaching,song,FALSE,ukulele-learn-missions,lead
+skipping strings,4,black velvet band (short),traditional,full melody,song,FALSE,ukulele-learn-missions,lead
+skipping strings,4,uke on the porch,the yousicians,skipping,song,FALSE,ukulele-learn-missions,lead
+skipping strings,4,la bamba (folk),traditional,skipping,song,FALSE,ukulele-learn-missions,lead
+skipping strings,4,take me out to the ball game,traditional,skipping,song,FALSE,ukulele-learn-missions,lead
+level 5 skill test - lead,5,john barleycorn,traditional,melody,song,FALSE,ukulele-learn-missions,lead
+plucking faster,5,trainer: alternate plucking,-,-,trainer,FALSE,ukulele-learn-missions,lead
+plucking faster,5,"row, row, row your boat",traditional,melody,song,FALSE,ukulele-learn-missions,lead
+plucking faster,5,frere jacques (uke mix),traditional,melody,song,FALSE,ukulele-learn-missions,lead
+plucking faster,5,playing for change,the yousicians,alternate plucking,song,FALSE,ukulele-learn-missions,lead
+plucking faster,5,billy boy,traditional,alternate plucking,song,FALSE,ukulele-learn-missions,lead
+plucking faster,5,summer nights,the yousicians,alternate plucking,song,FALSE,ukulele-learn-missions,lead
+double stops,5,video: double stops,-,-,video,FALSE,ukulele-learn-missions,lead
+double stops,5,trainer: double stops,-,-,trainer,FALSE,ukulele-learn-missions,lead
+double stops,5,barre your soul,,double stops,song,FALSE,ukulele-learn-missions,lead
+double stops,5,south carolina rag (uke mix),,double stops,song,FALSE,ukulele-learn-missions,lead
+double stops,5,sloop john b,,double stops,song,FALSE,ukulele-learn-missions,lead
+double stops,5,kaulana na pua,,fingerpicking,song,FALSE,ukulele-learn-missions,lead
+double stops,5,crowded space,,double stops,song,FALSE,ukulele-learn-missions,lead
+level 6 skill test - lead,6,danza macumba,,double stops,song,FALSE,ukulele-learn-missions,lead
+slides,6,video: slides,,-,video,FALSE,ukulele-learn-missions,lead
+slides,6,barre your soul 2,,slides v2,song,FALSE,ukulele-learn-missions,lead
+slides,6,danny boy,,slides,song,FALSE,ukulele-learn-missions,lead
+slides,6,rumelaj,,slides,song,FALSE,ukulele-learn-missions,lead
+slides,6,st louis blues,,slides,song,FALSE,ukulele-learn-missions,lead
+slides,6,blues in A,,slides,song,FALSE,ukulele-learn-missions,lead
+building speed,6,samba ukulele,,full melody,song,FALSE,ukulele-learn-missions,lead
+building speed,6,eu nao falo ingles,,full lead,song,FALSE,ukulele-learn-missions,lead
+building speed,6,life is a poem,,full lead,song,FALSE,ukulele-learn-missions,lead
+building speed,6,por una cabeza,,full lead,song,FALSE,ukulele-learn-missions,lead
+building speed,6,rocky road to dublin,,lead,song,FALSE,ukulele-learn-missions,lead
+building speed,6,le hot club,,full lead,song,FALSE,ukulele-learn-missions,lead
+level 7 skill test - lead,7,still me,,melody,song,FALSE,ukulele-learn-missions,lead
+agility 1,7,lazy john (uke mix),,melody 2,song,FALSE,ukulele-learn-missions,lead
+agility 1,7,adir hu,,melody,song,FALSE,ukulele-learn-missions,lead
+agility 1,7,bolero,,advanced melody,song,FALSE,ukulele-learn-missions,lead
+agility 1,7,danza macumba,,melody,song,FALSE,ukulele-learn-missions,lead
+agility 1,7,cumbia de ukulele,,melodies,song,FALSE,ukulele-learn-missions,lead
+mixing melody and chords,7,hawaii aloha,,solo arrangement,song,FALSE,ukulele-learn-missions,lead
+mixing melody and chords,7,pavilion farewell,,solo arrangement,song,FALSE,ukulele-learn-missions,lead
+mixing melody and chords,7,song for tiina,,solo arrangement,song,FALSE,ukulele-learn-missions,lead
+mixing melody and chords,7,walzing matilda (in G),,solo arrangement,song,FALSE,ukulele-learn-missions,lead
+mixing melody and chords,7,tear hunter,,solo arrangement,song,FALSE,ukulele-learn-missions,lead
+level 8 skill test - lead,8,aloha oe (surf),,solo uke,song,FALSE,ukulele-learn-missions,lead
+agility 2,8,boolo,,lead,song,FALSE,ukulele-learn-missions,lead
+agility 2,8,arkansas traveler,,melody,song,FALSE,ukulele-learn-missions,lead
+agility 2,8,bhangralicious,,melody,song,FALSE,ukulele-learn-missions,lead
+agility 2,8,duj sandale,,lead,song,FALSE,ukulele-learn-missions,lead
+agility 2,8,jarabe tapatio,,advanced melody,song,FALSE,ukulele-learn-missions,lead
+hammer on and pull off,8,video: hammer on,,-,video,FALSE,ukulele-learn-missions,lead
+hammer on and pull off,8,trainer: hammer on,,-,trainer,FALSE,ukulele-learn-missions,lead
+hammer on and pull off,8,30 years later,,lead,song,FALSE,ukulele-learn-missions,lead
+hammer on and pull off,8,video: pull off,,-,video,FALSE,ukulele-learn-missions,lead
+hammer on and pull off,8,trainer: pull off,,-,trainer,FALSE,ukulele-learn-missions,lead
+hammer on and pull off,8,hammer song (uke mix),,lead,song,FALSE,ukulele-learn-missions,lead
+hammer on and pull off,8,barre your soul 3,,hammer on pull off,song,FALSE,ukulele-learn-missions,lead
+hammer on and pull off,8,harjedals schottis,,lead,song,FALSE,ukulele-learn-missions,lead
+hammer on and pull off,8,how will it be?,,full lead,song,FALSE,ukulele-learn-missions,lead
+level 4 skill test - rhythm,4,chord review,-,-,trainer,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 1,4,video: strumming patterns,,-,video,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 1,4,trainer - strumming patterns,,-,trainer,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 1,4,sloop john b,,strumming,song,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 1,4,drink to me only with thine eyes,,strumming,song,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 1,4,video: open strums,,-,video,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 1,4,cowboy exit music (short),,open strings,song,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 1,4,how will it be?,,strumming,song,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 1,4,whiskey in the jar (uke mix),,strumming,song,FALSE,ukulele-learn-missions,rhythm
+chord workshop 2,4,trainer: 3 new chords,,-,song,FALSE,ukulele-learn-missions,rhythm
+chord workshop 2,4,el condor pasa (uke mix),,strumming,song,FALSE,ukulele-learn-missions,rhythm
+chord workshop 2,4,lazy john (uke mix),,chords,song,FALSE,ukulele-learn-missions,rhythm
+chord workshop 2,4,a night to rewind (short),,radio edit,song,FALSE,ukulele-learn-missions,rhythm
+chord workshop 2,4,arkansas traveler,,chords,song,FALSE,ukulele-learn-missions,rhythm
+chord workshop 2,4,set me free,,chords,song,FALSE,ukulele-learn-missions,rhythm
+level 5 skill test - rhythm,5,chord review,-,-,trainer,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 2,5,video: syncopated strumming,,-,video,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 2,5,trainer: syncopated strumming,,-,trainer,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 2,5,playing in the park (uke mix),,strumming,song,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 2,5,summer nights,,syncopated strums,song,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 2,5,video: the #1 strumming pattern,,-,video,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 2,5,trainer - # strumming pattern,,-,trainer,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 2,5,playing for change,,strumming,song,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 2,5,my loving brother,,strumming,song,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 2,5,crowded space,,syncopated strums,song,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 2,5,video: strumming by ear,,-,video,FALSE,ukulele-learn-missions,rhythm
+fingerpicking 1,5,video: fingerpicking,,-,video,FALSE,ukulele-learn-missions,rhythm
+fingerpicking 1,5,trainer: straight pattern,,-,trainer,FALSE,ukulele-learn-missions,rhythm
+fingerpicking 1,5,"rest now, human",,fingerpicking,song,FALSE,ukulele-learn-missions,rhythm
+fingerpicking 1,5,cowboy exit music (short),,fingerpicking,song,FALSE,ukulele-learn-missions,rhythm
+fingerpicking 1,5,hammer song,,basic fingerpicking,song,FALSE,ukulele-learn-missions,rhythm
+fingerpicking 1,5,trainer: skipping pattern,,-,trainer,FALSE,ukulele-learn-missions,rhythm
+fingerpicking 1,5,cordelia,,fingerpicking,song,FALSE,ukulele-learn-missions,rhythm
+fingerpicking 1,5,danny boy,,fingerpicking,song,FALSE,ukulele-learn-missions,rhythm
+level 6 skill test - rhythm,6,chord review,-,-,trainer,FALSE,ukulele-learn-missions,rhythm
+chord workshop 3,6,chord game: four chords in flat keys,,-,trainer,FALSE,ukulele-learn-missions,rhythm
+chord workshop 3,6,don't rust alone (reprise),,chords,song,FALSE,ukulele-learn-missions,rhythm
+chord workshop 3,6,fireflies,,chords,song,FALSE,ukulele-learn-missions,rhythm
+chord workshop 3,6,midsummer memories,,chords,song,FALSE,ukulele-learn-missions,rhythm
+chord workshop 3,6,cumbia de ukulele,,chords,song,FALSE,ukulele-learn-missions,rhythm
+chord workshop 3,6,wish it was '91 (short),,chords,song,FALSE,ukulele-learn-missions,rhythm
+chord workshop 3,6,barre your soul,,open chords,song,FALSE,ukulele-learn-missions,rhythm
+fancy chords 1,6,chord game: 7 and m7,,-,song,FALSE,ukulele-learn-missions,rhythm
+fancy chords 1,6,cafe olvido,,fancy chords,song,FALSE,ukulele-learn-missions,rhythm
+fancy chords 1,6,the day before today,,fancy chords,song,FALSE,ukulele-learn-missions,rhythm
+fancy chords 1,6,chord game: maj7 and dim,,-,song,FALSE,ukulele-learn-missions,rhythm
+fancy chords 1,6,memories of you,,uke chords,song,FALSE,ukulele-learn-missions,rhythm
+fancy chords 1,6,earth hour (short),,fancy chords,song,FALSE,ukulele-learn-missions,rhythm
+fancy chords 1,6,life is a poem,,fancy chords,song,FALSE,ukulele-learn-missions,rhythm
+level 7 skill test - rhythm,7,je te veux,,fancy chords,song,FALSE,ukulele-learn-missions,rhythm
+moveable chord shapes 1,7,video: barre technique,,-,video,FALSE,ukulele-learn-missions,rhythm
+moveable chord shapes 1,7,chord game: the A shape,,-,trainer,FALSE,ukulele-learn-missions,rhythm
+moveable chord shapes 1,7,alabama sunrise,,fingerpicking 2,song,FALSE,ukulele-learn-missions,rhythm
+moveable chord shapes 1,7,artist love,,ukulele chords,song,FALSE,ukulele-learn-missions,rhythm
+moveable chord shapes 1,7,chord game: the Am and C shapes,,-,trainer,FALSE,ukulele-learn-missions,rhythm
+moveable chord shapes 1,7,kung fu hero,,movable chords,song,FALSE,ukulele-learn-missions,rhythm
+moveable chord shapes 1,7,don't hurry,,movable chords,song,FALSE,ukulele-learn-missions,rhythm
+moveable chord shapes 1,7,stronger than life,,movable chords,song,FALSE,ukulele-learn-missions,rhythm
+fingerpicking 2,7,trainer: syncopated fingerpicking,,-,trainer,FALSE,ukulele-learn-missions,rhythm
+fingerpicking 2,7,my loving brother,,fingerpicking,song,FALSE,ukulele-learn-missions,rhythm
+fingerpicking 2,7,hammer song,,fingerpicking 2,song,FALSE,ukulele-learn-missions,rhythm
+fingerpicking 2,7,playing for change,,fingerpicking 2,song,FALSE,ukulele-learn-missions,rhythm
+fingerpicking 2,7,compromises (uke mix),,fingerpicking 2,song,FALSE,ukulele-learn-missions,rhythm
+fingerpicking 2,7,south carolina rag (uke mix),,fingerpicking 2,song,FALSE,ukulele-learn-missions,rhythm
+level 8 skill test,8,testarossa,,chords,song,FALSE,ukulele-learn-missions,rhythm
+moveable chord shapes 2,8,chord game: the F shape,,-,trainer,FALSE,ukulele-learn-missions,rhythm
+moveable chord shapes 2,8,anarchy in the ai (in C#),,movable chords,song,FALSE,ukulele-learn-missions,rhythm
+moveable chord shapes 2,8,over the rooftops,,movable chords,song,FALSE,ukulele-learn-missions,rhythm
+moveable chord shapes 2,8,chord game: the F# and C7 shape,,-,-,FALSE,ukulele-learn-missions,rhythm
+moveable chord shapes 2,8,flat out,,movable chords,song,FALSE,ukulele-learn-missions,rhythm
+moveable chord shapes 2,8,danza macumba,,movable chords,song,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 3,8,video: shuffle vs. straight rhythms,,-,video,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 3,8,trainer: shuffle strumming,,-,trainer,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 3,8,banana boats,,advanced strumming,song,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 3,8,hillbilly willie,,advanced strumming,song,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 3,8,my kinda party,,advanced strumming,song,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 3,8,solely you,,triplets,song,FALSE,ukulele-learn-missions,rhythm
+strumming workshop 3,8,la folia (metal),,strumming,song,FALSE,ukulele-learn-missions,rhythm
 chords,0,"row, row, row your boat",traditional,chords,song,FALSE,ukulele-learn-workouts,
 chords,0,cowboy exit music (short),the yousicians,two chords,song,FALSE,ukulele-learn-workouts,
 chords,1,frere jacques (uke mix),traditional,chords,song,FALSE,ukulele-learn-workouts,
