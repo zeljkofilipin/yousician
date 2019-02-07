@@ -19,6 +19,7 @@ mission,level,song,author,description,type,premium+,location,path
 -,6,road trippin',red hot chili peppers,fancy chords,song,TRUE,guitar-home-new,
 -,6,all out of love,air supply,fancy chords,song,TRUE,guitar-home-new,
 -,6,won't go home without you (in E),maroon 5,fancy chords,song,TRUE,guitar-home-new,
+new on yousician,9,love and happiness (short),al green,full rhythm & lead,song,TRUE,guitar-home-new-more,
 play strings,0,intro & tuning,the yousicians,-,video,FALSE,guitar-learn-missions,-
 play strings,0,life in tune (lesson),the yousicians,exercise,song,FALSE,guitar-learn-missions,-
 play strings,0,spanish romance (short),traditional,open strings,song,FALSE,guitar-learn-missions,-
@@ -164,6 +165,7 @@ the challenge must go on,9,the excalibur,the yousicians,rhythm & lead,song,FALSE
 -,6,sweet caroline,neil diamond,rh melody,song,TRUE,piano-home-new,
 -,5,road trippin',red hot chili peppers,accompaniment,song,TRUE,piano-home-new,
 -,6,do it again,steely dan,rh chords,song,TRUE,piano-home-new,
+new on yousician,8,vincent (starry starry night),don mclean,accompainment,song,TRUE,piano-home-new-more,
 let's play,0,start here,-,-,video,FALSE,piano-learn-missions,-
 let's play,0,hand position and posture,-,-,video,FALSE,piano-learn-missions,-
 let's play,0,set me free (lesson 1),the yousicians,tutorial,song,FALSE,piano-learn-missions,-
@@ -1487,6 +1489,7 @@ calm classical,4,andante,wolfgang amadeus mozart,melody,song,FALSE,ukulele-chall
 calm classical,6,andante,wolfgang amadeus mozart,fancy chords,song,FALSE,ukulele-challenges,
 calm classical,8,le cygne,camille saint-saens,fingerpicking,song,FALSE,ukulele-challenges,
 -,8,seasons of love,rent,full bass,song,TRUE,bass-home-new,
+new on yousician,8,seasons in the abyss (Eb),slayer,full bass (Eb tuning),song,TRUE,bass-home-new-more,
 play strings,0,intro & tuning,-,-,video,FALSE,bass-learn-missions,-
 play strings,0,video: plucking strings,-,-,video,FALSE,bass-learn-missions,-
 play strings,0,bass gangsta walkthrough,the yousicians,exercise,song,FALSE,bass-learn-missions,-
@@ -1567,6 +1570,7 @@ the challenge must go on,3,the excalibur,the yousicians,basic bass,song,FALSE,ba
 the challenge must go on,6,waltz into the night,the yousicians,full bass,song,FALSE,bass-challenges,
 the challenge must go on,7,the excalibur,the yousicians,full bass,song,FALSE,bass-challenges,
 -,4,scar tissue,red hot chili peppers,lead vocals,song,TRUE,voice-home-new,
+new on yousician,6,creep,stone temple pilots,lead vocals,song,TRUE,voice-home-new-more,
 getting started,0,introduction,-,-,video,FALSE,voice-learn-missions,-
 getting started,0,singing with yousician,the yousicians,tutorial,song,FALSE,voice-learn-missions,-
 getting started,0,island nights (call & response),the yousicians,lead vocals,song,FALSE,voice-learn-missions,-
