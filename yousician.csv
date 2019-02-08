@@ -87,6 +87,36 @@ string bender,8,"trainer: bend, hold, release",-,-,trainer,FALSE,guitar-learn-mi
 string bender,8,somewhere,?,bending melody,song,FALSE,guitar-learn-missions,lead
 string bender,8,bending the spoon,?,bending melody,song,FALSE,guitar-learn-missions,lead
 string bender,8,the day before today,?,melody,song,FALSE,guitar-learn-missions,lead
+loud & soft,8,video: picking dynamics,-,-,video,FALSE,guitar-learn-missions,lead
+loud & soft,8,trainer: picking dynamics,-,-,trainer,FALSE,guitar-learn-missions,lead
+loud & soft,8,when johnny comes marching home,?,full melody,song,FALSE,guitar-learn-missions,lead
+loud & soft,8,set me free,?,melody,song,FALSE,guitar-learn-missions,lead
+loud & soft,8,sitting on a park bench,?,melody,song,FALSE,guitar-learn-missions,lead
+loud & soft,8,bourree (rock),?,main melody,song,FALSE,guitar-learn-missions,lead
+loud & soft,8,wizard's waltz,?,high melody,song,FALSE,guitar-learn-missions,lead
+loud & soft,8,frankie & johhny (lead mix),?,solo,song,FALSE,guitar-learn-missions,lead
+skill test (rhythm level 8),8,the day before today,the yousicians,full rhythm,song,FALSE,guitar-learn-missions,rhythm
+skill test (rhythm level 8),8,chord trainer: popular moveable,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+groovy riffs,8,video: rhythmic picking,-,-,video,FALSE,guitar-learn-missions,rhythm
+groovy riffs,8,trainer: rhythmic picking,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+groovy riffs,8,highway to helsinki,?,full riff,song,FALSE,guitar-learn-missions,rhythm
+groovy riffs,8,warm sweat,?,funky riff,song,FALSE,guitar-learn-missions,rhythm
+groovy riffs,8,watch this space,?,main riff,song,FALSE,guitar-learn-missions,rhythm
+groovy riffs,8,fast machine,?,full riff,song,FALSE,guitar-learn-missions,rhythm
+groovy riffs,8,modern vintage,?,power chord riff,song,FALSE,guitar-learn-missions,rhythm
+groovy riffs,8,paholaisen boogie,?,full chord-riff,song,FALSE,guitar-learn-missions,rhythm
+groovy riffs,8,new dawn,?,full riff,song,FALSE,guitar-learn-missions,rhythm
+barre chords,8,video: barre chord technique,-,-,video,FALSE,guitar-learn-missions,rhythm
+barre chords,8,trainer: major barre,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+barre chords,8,very far away,?,barre chords,song,FALSE,guitar-learn-missions,rhythm
+barre chords,8,trainer: minor barre,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+barre chords,8,rise & fall,?,barre chords,song,FALSE,guitar-learn-missions,rhythm
+barre chords,8,over the rooftops,?,barre chords,song,FALSE,guitar-learn-missions,rhythm
+barre chords,8,like a boss,?,barre chords,song,FALSE,guitar-learn-missions,rhythm
+barre chords,8,trainer: barre 7ths,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+barre chords,8,flat out,?,barre chords,song,FALSE,guitar-learn-missions,rhythm
+barre chords,8,barre your sould,?,barre 7th chords,song,FALSE,guitar-learn-missions,rhythm
+barre chords,8,honeymoon bossa nova,?,barre chords,song,FALSE,guitar-learn-missions,rhythm
 chord trainers,1,chord trainer: cowboy - E Em Am,-,-,trainer,FALSE,guitar-learn-workouts,
 happy holidays,1,o holy night,traditional,basic riff,song,FALSE,guitar-songs-popular,
 song for you (a valentine day special),1,song for you,the yousicians,basic riff,song,FALSE,guitar-challenges,
