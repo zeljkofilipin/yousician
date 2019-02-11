@@ -1,24 +1,24 @@
 mission,level,song,author,description,type,premium+,location,path
--,6,whiskey in the jar (in G),thin lizzy,full rhythm,song,TRUE,guitar-home-new,-
--,6,seasons of love,rent,melody,song,TRUE,guitar-home-new,-
--,6,better together,jack johnson,fancy chords (capo),song,TRUE,guitar-home-new,-
--,6,hey laura,gregory porter,fancy chords,song,TRUE,guitar-home-new,-
--,7,i get around,the beach boys,low rhythm,song,TRUE,guitar-home-new,-
--,7,grandma's hands,bill withers,lead,song,TRUE,guitar-home-new,-
--,7,grandma's hands,bill withers,fingerpicking,song,TRUE,guitar-home-new,-
--,6,grandma's hands,bill withers,fancy chords,song,TRUE,guitar-home-new,-
--,6,should've been a cowboy,toby keith,rhythm & lead,song,TRUE,guitar-home-new,-
--,7,i was made for lovin' you (in Em),kiss,main rhythm,song,TRUE,guitar-home-new,-
--,6,banana pancakes,jack johnson,fancy chords,song,TRUE,guitar-home-new,-
--,7,don't cry for me argentina,evita,fingerpicking,song,TRUE,guitar-home-new,-
--,7,kickstarts,example,movable chords,song,TRUE,guitar-home-new,-
--,6,texas flood (in G),stevie ray vaughan,fancy chords,song,TRUE,guitar-home-new,-
--,7,good vibrations,the beach boys,melody,song,TRUE,guitar-home-new,-
--,7,dirty work (in C),steely dan,melody & solo,song,TRUE,guitar-home-new,-
--,7,tuesday's gone,lynyrd skynyrd,main rhythm,song,TRUE,guitar-home-new,-
--,6,road trippin',red hot chili peppers,fancy chords,song,TRUE,guitar-home-new,-
--,6,all out of love,air supply,fancy chords,song,TRUE,guitar-home-new,-
--,6,won't go home without you (in E),maroon 5,fancy chords,song,TRUE,guitar-home-new,-
+new on yousician,6,whiskey in the jar (in G),thin lizzy,full rhythm,song,TRUE,guitar-home-new,-
+new on yousician,6,seasons of love,rent,melody,song,TRUE,guitar-home-new,-
+new on yousician,6,better together,jack johnson,fancy chords (capo),song,TRUE,guitar-home-new,-
+new on yousician,6,hey laura,gregory porter,fancy chords,song,TRUE,guitar-home-new,-
+new on yousician,7,i get around,the beach boys,low rhythm,song,TRUE,guitar-home-new,-
+new on yousician,7,grandma's hands,bill withers,lead,song,TRUE,guitar-home-new,-
+new on yousician,7,grandma's hands,bill withers,fingerpicking,song,TRUE,guitar-home-new,-
+new on yousician,6,grandma's hands,bill withers,fancy chords,song,TRUE,guitar-home-new,-
+new on yousician,6,should've been a cowboy,toby keith,rhythm & lead,song,TRUE,guitar-home-new,-
+new on yousician,7,i was made for lovin' you (in Em),kiss,main rhythm,song,TRUE,guitar-home-new,-
+new on yousician,6,banana pancakes,jack johnson,fancy chords,song,TRUE,guitar-home-new,-
+new on yousician,7,don't cry for me argentina,evita,fingerpicking,song,TRUE,guitar-home-new,-
+new on yousician,7,kickstarts,example,movable chords,song,TRUE,guitar-home-new,-
+new on yousician,6,texas flood (in G),stevie ray vaughan,fancy chords,song,TRUE,guitar-home-new,-
+new on yousician,7,good vibrations,the beach boys,melody,song,TRUE,guitar-home-new,-
+new on yousician,7,dirty work (in C),steely dan,melody & solo,song,TRUE,guitar-home-new,-
+new on yousician,7,tuesday's gone,lynyrd skynyrd,main rhythm,song,TRUE,guitar-home-new,-
+new on yousician,6,road trippin',red hot chili peppers,fancy chords,song,TRUE,guitar-home-new,-
+new on yousician,6,all out of love,air supply,fancy chords,song,TRUE,guitar-home-new,-
+new on yousician,6,won't go home without you (in E),maroon 5,fancy chords,song,TRUE,guitar-home-new,-
 new on yousician,9,love and happiness (short),al green,full rhythm & lead,song,TRUE,guitar-home-new-more,-
 play strings,0,intro & tuning,the yousicians,-,video,FALSE,guitar-learn-missions,-
 play strings,0,life in tune (lesson),the yousicians,exercise,song,FALSE,guitar-learn-missions,-
@@ -175,26 +175,26 @@ the challenge must go on,2,the excalibur,the yousicians,basic riff,song,FALSE,gu
 the challenge must go on,4,waltz into the night,the yousicians,melody,song,FALSE,guitar-challenges,-
 the challenge must go on,6,waltz into the night,the yousicians,fancy chords,song,FALSE,guitar-challenges,-
 the challenge must go on,9,the excalibur,the yousicians,rhythm & lead,song,FALSE,guitar-challenges,-
--,5,roots,imagine dragons,accompaniment,song,TRUE,piano-home-new,-
--,5,nothing like us,justin bieber,chords,song,TRUE,piano-home-new,-
--,5,better together,jack johnson,chords,song,TRUE,piano-home-new,-
--,5,scar tissue,red hot chili peppers,accompaniment,song,TRUE,piano-home-new,-
--,5,i get around,beach boys,accompaniment,song,TRUE,piano-home-new,-
--,5,hey laura,gregory porter,accompaniment,song,TRUE,piano-home-new,-
--,6,should've been a cowboy,toby keith,chords,song,TRUE,piano-home-new,-
--,5,grandma's hands,bill withers,chords,song,TRUE,piano-home-new,-
--,6,i was made for lovin' you (in Em),kiss,accompaniment,song,TRUE,piano-home-new,-
--,5,banana pancakes,jack johnson,chords,song,TRUE,piano-home-new,-
--,6,don't cry for me argentina,evita,accompaniment,song,TRUE,piano-home-new,-
--,6,no more mr. nice guy,alice cooper,chords,song,TRUE,piano-home-new,-
--,5,don't walk away (in Dm),jade,accompaniment,song,TRUE,piano-home-new,-
--,6,kickstarts,example,accompaniment,song,TRUE,piano-home-new,-
--,5,dani california,red hot chili peppers,accompaniment,song,TRUE,piano-home-new,-
--,6,tuesday's gone,lynyrd skynyrd,full melody,song,TRUE,piano-home-new,-
--,6,sweet caroline,neil diamond,bass,song,TRUE,piano-home-new,-
--,6,sweet caroline,neil diamond,rh melody,song,TRUE,piano-home-new,-
--,5,road trippin',red hot chili peppers,accompaniment,song,TRUE,piano-home-new,-
--,6,do it again,steely dan,rh chords,song,TRUE,piano-home-new,-
+new on yousician,5,roots,imagine dragons,accompaniment,song,TRUE,piano-home-new,-
+new on yousician,5,nothing like us,justin bieber,chords,song,TRUE,piano-home-new,-
+new on yousician,5,better together,jack johnson,chords,song,TRUE,piano-home-new,-
+new on yousician,5,scar tissue,red hot chili peppers,accompaniment,song,TRUE,piano-home-new,-
+new on yousician,5,i get around,beach boys,accompaniment,song,TRUE,piano-home-new,-
+new on yousician,5,hey laura,gregory porter,accompaniment,song,TRUE,piano-home-new,-
+new on yousician,6,should've been a cowboy,toby keith,chords,song,TRUE,piano-home-new,-
+new on yousician,5,grandma's hands,bill withers,chords,song,TRUE,piano-home-new,-
+new on yousician,6,i was made for lovin' you (in Em),kiss,accompaniment,song,TRUE,piano-home-new,-
+new on yousician,5,banana pancakes,jack johnson,chords,song,TRUE,piano-home-new,-
+new on yousician,6,don't cry for me argentina,evita,accompaniment,song,TRUE,piano-home-new,-
+new on yousician,6,no more mr. nice guy,alice cooper,chords,song,TRUE,piano-home-new,-
+new on yousician,5,don't walk away (in Dm),jade,accompaniment,song,TRUE,piano-home-new,-
+new on yousician,6,kickstarts,example,accompaniment,song,TRUE,piano-home-new,-
+new on yousician,5,dani california,red hot chili peppers,accompaniment,song,TRUE,piano-home-new,-
+new on yousician,6,tuesday's gone,lynyrd skynyrd,full melody,song,TRUE,piano-home-new,-
+new on yousician,6,sweet caroline,neil diamond,bass,song,TRUE,piano-home-new,-
+new on yousician,6,sweet caroline,neil diamond,rh melody,song,TRUE,piano-home-new,-
+new on yousician,5,road trippin',red hot chili peppers,accompaniment,song,TRUE,piano-home-new,-
+new on yousician,6,do it again,steely dan,rh chords,song,TRUE,piano-home-new,-
 new on yousician,8,vincent (starry starry night),don mclean,accompainment,song,TRUE,piano-home-new-more,-
 let's play,0,start here,-,-,video,FALSE,piano-learn-missions,-
 let's play,0,hand position and posture,-,-,video,FALSE,piano-learn-missions,-
@@ -1518,7 +1518,7 @@ calm classical,2,le cygne,camille saint-saens,basic melody,song,FALSE,ukulele-ch
 calm classical,4,andante,wolfgang amadeus mozart,melody,song,FALSE,ukulele-challenges,-
 calm classical,6,andante,wolfgang amadeus mozart,fancy chords,song,FALSE,ukulele-challenges,-
 calm classical,8,le cygne,camille saint-saens,fingerpicking,song,FALSE,ukulele-challenges,-
--,8,seasons of love,rent,full bass,song,TRUE,bass-home-new,-
+new on yousician,8,seasons of love,rent,full bass,song,TRUE,bass-home-new,-
 new on yousician,8,seasons in the abyss (Eb),slayer,full bass (Eb tuning),song,TRUE,bass-home-new-more,-
 play strings,0,intro & tuning,-,-,video,FALSE,bass-learn-missions,-
 play strings,0,video: plucking strings,-,-,video,FALSE,bass-learn-missions,-
@@ -1599,7 +1599,7 @@ the challenge must go on,2,waltz into the night,the yousicians,basic bass,song,F
 the challenge must go on,3,the excalibur,the yousicians,basic bass,song,FALSE,bass-challenges,-
 the challenge must go on,6,waltz into the night,the yousicians,full bass,song,FALSE,bass-challenges,-
 the challenge must go on,7,the excalibur,the yousicians,full bass,song,FALSE,bass-challenges,-
--,4,scar tissue,red hot chili peppers,lead vocals,song,TRUE,voice-home-new,-
+new on yousician,4,scar tissue,red hot chili peppers,lead vocals,song,TRUE,voice-home-new,-
 new on yousician,6,creep,stone temple pilots,lead vocals,song,TRUE,voice-home-new-more,-
 getting started,0,introduction,-,-,video,FALSE,voice-learn-missions,-
 getting started,0,singing with yousician,the yousicians,tutorial,song,FALSE,voice-learn-missions,-
