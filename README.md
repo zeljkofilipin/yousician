@@ -48,6 +48,6 @@ Not all songs are listed (yet).
 | bass-challenges        | 2019-02-07 |          | 2018-45 to 2019-6   |
 | voice-home-new         | 2019-02-07 |          | 1 song              |
 | voice-home-new-more    | 2019-02-07 |          | 1 song              |
-| voice-learn-missions   | 2019-02-12 |          | levels 0-3 (some ?) |
+| voice-learn-missions   | 2019-02-13 |          | levels 0-4 (some ?) |
 | voice-learn-workouts   | 2019-02-07 |          | 1 song              |
 | voice-songs-popular    | 2019-02-07 |          | 1 song              |
