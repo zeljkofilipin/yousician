@@ -23,31 +23,31 @@ Not all songs are listed (yet).
 | Location               | Review     | Complete | Comment             |
 | ---------------------- | ---------- | -------- | ------------------- |
 | challenges             | 2019-02-07 | ✅       |                     |
-| guitar-home-new        | 2019-02-07 |          | update              |
-| guitar-home-new-more   | 2019-02-07 |          | 1 song              |
-| guitar-learn-missions  | 2019-02-08 |          | levels 0, 7-8       |
-| guitar-learn-workouts  | 2019-02-07 |          | 1 song              |
-| guitar-songs-popular   | 2019-02-07 |          | 1 song              |
-| guitar-challenges      | 2019-02-07 |          | 2018-45 to 2019-6   |
-| piano-home-new         | 2019-02-07 |          | update              |
-| piano-home-new-more    | 2019-02-07 |          | 1 song              |
-| piano-learn-missions   | 2019-02-07 |          | levels 0-6          |
-| piano-learn-workouts   | 2019-02-07 |          | 1 song              |
-| piano-songs-popular    | 2019-02-07 |          | 1 song              |
-| piano-challenges       | 2019-02-07 |          | 2018-45 to 2019-6   |
+| guitar-home-new        | 2019-02-07 |  0%      | update              |
+| guitar-home-new-more   | 2019-02-07 |  0%      | 1 song              |
+| guitar-learn-missions  | 2019-02-08 | 30%      | levels 0, 7-8       |
+| guitar-learn-workouts  | 2019-02-07 |  0%      | 1 song              |
+| guitar-songs-popular   | 2019-02-07 |  0%      | 1 song              |
+| guitar-challenges      | 2019-02-07 |  7%      | 2018-45 to 2019-6   |
+| piano-home-new         | 2019-02-07 |  0%      | update              |
+| piano-home-new-more    | 2019-02-07 |  0%      | 1 song              |
+| piano-learn-missions   | 2019-02-07 | 47%      | levels 0-6          |
+| piano-learn-workouts   | 2019-02-07 |  0%      | 1 song              |
+| piano-songs-popular    | 2019-02-07 |  0%      | 1 song              |
+| piano-challenges       | 2019-02-07 |  8%      | 2018-45 to 2019-6   |
 | ukulele-home-new       | 2019-02-07 | ✅       |                     |
 | ukulele-home-new-more  | 2019-02-07 | ✅       |                     |
 | ukulele-learn-missions | 2019-02-07 | ✅       |                     |
 | ukulele-learn-workouts | 2019-02-07 | ✅       |                     |
 | ukulele-songs-popular  | 2019-02-07 | ✅       |                     |
-| ukulele-challenges     | 2019-02-07 |          | 2017-36 to 2019-6   |
-| bass-home-new          | 2019-02-07 |          | 1 song              |
-| bass-home-new-more     | 2019-02-07 |          | 1 song              |
-| bass-learn-missions    | 2019-02-07 |          | levels 0, 9         |
-| bass-songs-popular     | 2019-02-07 |          | 1 song              |
-| bass-challenges        | 2019-02-07 |          | 2018-45 to 2019-6   |
-| voice-home-new         | 2019-02-07 |          | 1 song              |
-| voice-home-new-more    | 2019-02-07 |          | 1 song              |
-| voice-learn-missions   | 2019-02-13 |          | levels 0-5 (some ?) |
-| voice-learn-workouts   | 2019-02-07 |          | 1 song              |
-| voice-songs-popular    | 2019-02-07 |          | 1 song              |
+| ukulele-challenges     | 2019-02-07 | 45%      | 2017-36 to 2019-6   |
+| bass-home-new          | 2019-02-07 |  0%      | 1 song              |
+| bass-home-new-more     | 2019-02-07 |  0%      | 1 song              |
+| bass-learn-missions    | 2019-02-07 | 22%      | levels 0, 9         |
+| bass-songs-popular     | 2019-02-07 |  0%      | 1 song              |
+| bass-challenges        | 2019-02-07 |  9%      | 2018-45 to 2019-6   |
+| voice-home-new         | 2019-02-07 |  0%      | 1 song              |
+| voice-home-new-more    | 2019-02-07 |  0%      | 1 song              |
+| voice-learn-missions   | 2019-02-13 | 99%      | levels 0-5 (some ?) |
+| voice-learn-workouts   | 2019-02-07 |  0%      | 1 song              |
+| voice-songs-popular    | 2019-02-07 |  0%      | 1 song              |
