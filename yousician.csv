@@ -119,6 +119,10 @@ barre chords,8,barre your sould,?,barre 7th chords,song,FALSE,guitar-learn-missi
 barre chords,8,honeymoon bossa nova,?,barre chords,song,FALSE,guitar-learn-missions,rhythm
 chord trainers,1,chord trainer: cowboy - E Em Am,-,-,trainer,FALSE,guitar-learn-workouts,-
 happy holidays,1,o holy night,traditional,basic riff,song,FALSE,guitar-songs-popular,-
+be the boss,2,stepping stone,the yousicians,basic riff,song,FALSE,guitar-challenges,-
+be the boss,4,shine a light,the yousicians,cowboy chords,song,FALSE,guitar-challenges,-
+be the boss,6,stepping stone,the yousicians,fancy chords,song,FALSE,guitar-challenges,-
+be the boss,9,shine a light,the yousicians,rhythm & lead,song,FALSE,guitar-challenges,-
 song for you (a valentine day special),1,song for you,the yousicians,basic riff,song,FALSE,guitar-challenges,-
 song for you (a valentine day special),4,be my baby,the yousicians,cowboy chords,song,FALSE,guitar-challenges,-
 song for you (a valentine day special),7,song for you,the yousicians,fingerpicking,song,FALSE,guitar-challenges,-
@@ -430,6 +434,10 @@ D-jamz,6,trainer: quantum science - djamz,-,-,trainer,FALSE,piano-learn-missions
 D-jamz,6,quantum science,the yousicians,djamz,song,FALSE,piano-learn-missions,pop
 tutorial videos,3,video: beats per bar,-,-,video,FALSE,piano-learn-workouts,-
 rock on,4,sweet home alabama,lynyrd skynyrd,bass,song,TRUE,piano-songs-popular,-
+be the boss,3,stepping stone,the yousicians,two hands,song,FALSE,piano-challenges,-
+be the boss,4,shine a light,the yousicians,two hands,song,FALSE,piano-challenges,-
+be the boss,6,stepping stone,the yousicians,chords,song,FALSE,piano-challenges,-
+be the boss,8,shine a light,the yousicians,advanced,song,FALSE,piano-challenges,-
 song for you (a valentine day special),2,song for you,the yousicians,right hand,song,FALSE,piano-challenges,-
 song for you (a valentine day special),3,be my baby,the yousicians,two hands,song,FALSE,piano-challenges,-
 song for you (a valentine day special),6,be my baby,the yousicians,chords and bass,song,FALSE,piano-challenges,-
@@ -1218,6 +1226,10 @@ classical picks,2,symphony no 40,wolfgang amadeus mozart,basic melody,song,FALSE
 classical picks,10,symphony no 40,wolfgang amadeus mozart,melody,song,FALSE,ukulele-songs-popular,-
 classical picks,4,tannhauser,richard wagner,chords,song,FALSE,ukulele-songs-popular,-
 classical picks,5,tannhauser,richard wagner,double stops,song,FALSE,ukulele-songs-popular,-
+be the boss,2,stepping stone,the yousicians,melody,song,FALSE,ukulele-challenges,-
+be the boss,4,shine a light,the yousicians,chords,song,FALSE,ukulele-challenges,-
+be the boss,6,stepping stone,the yousicians,chords,song,FALSE,ukulele-challenges,-
+be the boss,8,shine a light,the yousicians,melody,song,FALSE,ukulele-challenges,-
 song for you (a valentine day special),2,be my baby,the yousicians,melody,song,FALSE,ukulele-challenges,-
 song for you (a valentine day special),4,song for you,the yousicians,chords,song,FALSE,ukulele-challenges,-
 song for you (a valentine day special),6,be my baby,the yousicians,chords,song,FALSE,ukulele-challenges,-
@@ -1557,6 +1569,10 @@ fast and furious riffs,9,looks don't deceive,?,full bass,song,FALSE,bass-learn-m
 fast and furious riffs,9,spandex nigthmares,?,rock bass,song,FALSE,bass-learn-missions,playing
 fast and furious riffs,9,don't need you no more,?,bass,song,FALSE,bass-learn-missions,playing
 rock on,2,black,pearl jam,basic bass,song,TRUE,bass-songs-popular,-
+be the boss,2,stepping stone,the yousicians,basic bass,song,FALSE,bass-challenges,-
+be the boss,3,shine a light,the yousicians,basic bass,song,FALSE,bass-challenges,-
+be the boss,6,stepping stone,the yousicians,full bass,song,FALSE,bass-challenges,-
+be the boss,6,shine a light,the yousicians,full bass,song,FALSE,bass-challenges,-
 song for you (a valentine day special),1,song for you,the yousicians,basic bass,song,FALSE,bass-challenges,-
 song for you (a valentine day special),2,be my baby,the yousicians,basic bass,song,FALSE,bass-challenges,-
 song for you (a valentine day special),5,song for you,the yousicians,full bass,song,FALSE,bass-challenges,-
