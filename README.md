@@ -35,13 +35,13 @@ Not all songs are listed (yet).
 | challenges             | 2019-02-07 | 100        |                     |
 | guitar-home-new        | 2019-02-07 |            | update              |
 | guitar-home-new-more   | 2019-02-07 |            | 1 song              |
-| guitar-learn-missions  | 2019-02-08 |  30        | levels 0, 7-8       |
+| guitar-learn-missions  | 2019-02-08 |  30        | levels 0, 7-8 (3/10)       |
 | guitar-learn-workouts  | 2019-02-07 |            | 1 song              |
 | guitar-songs-popular   | 2019-02-07 |            | 1 song              |
 | guitar-challenges      | 2019-02-07 |   7        | 2018-45 to 2019-7 (15/207) |
 | piano-home-new         | 2019-02-07 |            | update              |
 | piano-home-new-more    | 2019-02-07 |            | 1 song              |
-| piano-learn-missions   | 2019-02-07 |  47        | levels 0-6          |
+| piano-learn-missions   | 2019-02-07 |  47        | levels 0-6 (7/15)          |
 | piano-learn-workouts   | 2019-02-07 |            | 1 song              |
 | piano-songs-popular    | 2019-02-07 |            | 1 song              |
 | piano-challenges       | 2019-02-07 |   8        | 2018-45 to 2019-6 (15/177) |
@@ -53,11 +53,11 @@ Not all songs are listed (yet).
 | ukulele-challenges     | 2019-02-07 |  45        | 2017-36 to 2019-6 (76/169) |
 | bass-home-new          | 2019-02-07 |            | 1 song              |
 | bass-home-new-more     | 2019-02-07 |            | 1 song              |
-| bass-learn-missions    | 2019-02-07 |  33        | levels 0-1, 9       |
+| bass-learn-missions    | 2019-02-07 |  33        | levels 0-1, 9 (3/9)        |
 | bass-songs-popular     | 2019-02-07 |            | 1 song              |
 | bass-challenges        | 2019-02-07 |  10        | 2018-45 to 2019-6 (15/150) |
 | voice-home-new         | 2019-02-07 |            | 1 song              |
 | voice-home-new-more    | 2019-02-07 |            | 1 song              |
-| voice-learn-missions   | 2019-02-13 |  99        | levels 0-5 (some ?) |
+| voice-learn-missions   | 2019-02-13 |  99        | some ?              |
 | voice-learn-workouts   | 2019-02-07 |            | 1 song              |
 | voice-songs-popular    | 2019-02-07 |            | 1 song              |
