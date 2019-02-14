@@ -7,14 +7,24 @@ songs.
 
 ## Usage
 
-Songs are in `yousician.csv` file. It can be opened in any text editor. GitHub
-renders the file as a table. The table is big so it doesn't fit the screen.
-Scroll to the right. You can save the file and open it in any spreadsheet
-software, like Google Sheets, Microsoft Excel, Apple Numbers and LibreOffice
-Calc.
-
 Files with `md` extension (example: `guitar.md`) show screens for an
 instrument. Challenges are listed in `challenges.csv`.
+
+Songs are in `yousician.csv` file.
+
+### GitHub
+
+GitHub renders `yousician.csv` file as a table. The table is wide so it doesn't
+fit the screen. Scroll it to the right too see all columns.
+
+You can filter the songs by using GitHub's `Search this file...` feature.
+
+### Desktop
+
+You can save `yousician.csv` file and open in any text editor (Vim...) or
+spreadsheet software (Google Sheets, Microsoft Excel, Apple Numbers,
+LibreOffice Calc...).
+
 
 ## Status
 
