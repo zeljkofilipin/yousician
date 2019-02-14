@@ -43,7 +43,7 @@ Not all songs are listed (yet).
 | ukulele-challenges     | 2019-02-07 | 45%      | 2017-36 to 2019-6   |
 | bass-home-new          | 2019-02-07 |  0%      | 1 song              |
 | bass-home-new-more     | 2019-02-07 |  0%      | 1 song              |
-| bass-learn-missions    | 2019-02-07 | 22%      | levels 0, 9         |
+| bass-learn-missions    | 2019-02-07 | 33%      | levels 0-1, 9       |
 | bass-songs-popular     | 2019-02-07 |  0%      | 1 song              |
 | bass-challenges        | 2019-02-07 |  9%      | 2018-45 to 2019-6   |
 | voice-home-new         | 2019-02-07 |  0%      | 1 song              |
