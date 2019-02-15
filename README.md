@@ -35,13 +35,13 @@ Not all songs are listed (yet).
 | challenges             | 2019-02-07 | 100        |                            |
 | guitar-home-new        | 2019-02-07 |            | update                     |
 | guitar-home-new-more   | 2019-02-07 |            | 1 song                     |
-| guitar-learn-missions  | 2019-02-08 |  30        | levels 0, 7-8 (3/10)       |
+| guitar-learn-missions  | 2019-02-08 |  27        | levels 0, 7-8 (3/11)       |
 | guitar-learn-workouts  | 2019-02-07 |            | 1 song                     |
 | guitar-songs-popular   | 2019-02-07 |            | 1 song                     |
 | guitar-challenges      | 2019-02-07 |   7        | 2018-45 to 2019-7 (15/207) |
 | piano-home-new         | 2019-02-07 |            | update                     |
 | piano-home-new-more    | 2019-02-07 |            | 1 song                     |
-| piano-learn-missions   | 2019-02-07 |  47        | levels 0-6 (7/15)          |
+| piano-learn-missions   | 2019-02-07 |  44        | levels 0-6 (7/16)          |
 | piano-learn-workouts   | 2019-02-07 |            | 1 song                     |
 | piano-songs-popular    | 2019-02-07 |            | 1 song                     |
 | piano-challenges       | 2019-02-07 |   8        | 2018-45 to 2019-6 (15/177) |
