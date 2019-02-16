@@ -1680,12 +1680,12 @@ the challenge must go on,6,waltz into the night,the yousicians,full bass,song,FA
 the challenge must go on,7,the excalibur,the yousicians,full bass,song,FALSE,bass-challenges,-
 new on yousician,4,scar tissue,red hot chili peppers,lead vocals,song,TRUE,voice-home-new,-
 new on yousician,6,creep,stone temple pilots,lead vocals,song,TRUE,voice-home-new-more,-
-getting started,0,introduction,-,-,video,FALSE,voice-learn-missions,-
-getting started,0,singing with yousician,the yousicians,tutorial,song,FALSE,voice-learn-missions,-
-getting started,0,island nights (call & response),the yousicians,lead vocals,song,FALSE,voice-learn-missions,-
-getting started,0,chase the notes: listen and repeat!,-,-,trainer,FALSE,voice-learn-missions,-
-getting started,0,lyrics in yousician,the yousicians,tutorial,song,FALSE,voice-learn-missions,-
-getting started,0,island nights,the yousicians,lead vocals,song,FALSE,voice-learn-missions,-
+let's get started,0,introduction,-,-,video,FALSE,voice-learn-missions,-
+let's get started,0,singing with yousician,the yousicians,tutorial,song,FALSE,voice-learn-missions,-
+let's get started,0,island nights (call & response),the yousicians,lead vocals,song,FALSE,voice-learn-missions,-
+let's get started,0,chase the notes: listen and repeat!,-,-,trainer,FALSE,voice-learn-missions,-
+let's get started,0,lyrics in yousician,the yousicians,tutorial,song,FALSE,voice-learn-missions,-
+let's get started,0,island nights,the yousicians,lead vocals,song,FALSE,voice-learn-missions,-
 unlock level 1,0,unlock level 1,-,-,quiz,FALSE,voice-learn-missions,-
 warming up,1,warm up for action,-,-,video,FALSE,voice-learn-missions,singing
 warming up,1,crazy for you (call & response),the yousicians,lead vocals,song,FALSE,voice-learn-missions,singing
@@ -1789,23 +1789,23 @@ singing bigger intervals,3,stung by a bumblebee (call & response),the yousicians
 singing bigger intervals,3,note catcher: counter movement,-,-,trainer,FALSE,voice-learn-missions,singing
 singing bigger intervals,3,lost in wilderness (voice),the yousicians,lead vocals,song,FALSE,voice-learn-missions,singing
 note names,3,note names,-,-,video,FALSE,voice-learn-missions,knowledge
-note names,3,the note alphabet,?,lead vocals,?,FALSE,voice-learn-missions,knowledge
-note names,3,find the ABC,?,-,?,FALSE,voice-learn-missions,knowledge
-note names,3,note names quiz,?,-,?,FALSE,voice-learn-missions,knowledge
-sharps and flats,3,sharps and flats,?,-,?,FALSE,voice-learn-missions,knowledge
-sharps and flats,3,accidental song,?,lead vocals,?,FALSE,voice-learn-missions,knowledge
-sharps and flats,3,sharps and flats quiz,?,-,?,FALSE,voice-learn-missions,knowledge
-what is a scale,3,defining a scale,?,-,?,FALSE,voice-learn-missions,knowledge
-what is a scale,3,five note scales,?,-,?,FALSE,voice-learn-missions,knowledge
-what is a scale,3,songs in major and minor,?,tutorial,?,FALSE,voice-learn-missions,knowledge
-what is a scale,3,first four of a major,?,-,?,FALSE,voice-learn-missions,knowledge
-what is a scale,3,first four of a minor,?,-,?,FALSE,voice-learn-missions,knowledge
-4th and 5th intervals,3,sound of a 4th,?,-,?,FALSE,voice-learn-missions,knowledge
-4th and 5th intervals,3,4th jam,?,tutorial,?,FALSE,voice-learn-missions,knowledge
-4th and 5th intervals,3,sound of a 5th,?,-,?,FALSE,voice-learn-missions,knowledge
-4th and 5th intervals,3,singing 4ths and 5ths,?,-,?,FALSE,voice-learn-missions,knowledge
-4th and 5th intervals,3,5th jam,?,tutorial,?,FALSE,voice-learn-missions,knowledge
-4th and 5th intervals,3,level 3 recap,?,-,?,FALSE,voice-learn-missions,knowledge
+note names,3,the note alphabet,the yousicians,lead vocals,song,FALSE,voice-learn-missions,knowledge
+note names,3,find the ABC,-,-,trainer,FALSE,voice-learn-missions,knowledge
+note names,3,note names quiz,-,-,quiz,FALSE,voice-learn-missions,knowledge
+sharps and flats,3,sharps and flats,-,-,video,FALSE,voice-learn-missions,knowledge
+sharps and flats,3,accidental song,the yousicians,lead vocals,song,FALSE,voice-learn-missions,knowledge
+sharps and flats,3,sharps and flats quiz,-,-,quiz,FALSE,voice-learn-missions,knowledge
+what is a scale,3,defining a scale,-,-,video,FALSE,voice-learn-missions,knowledge
+what is a scale,3,five note scales,-,-,trainer,FALSE,voice-learn-missions,knowledge
+what is a scale,3,songs in major and minor,the yousicians,tutorial,song,FALSE,voice-learn-missions,knowledge
+what is a scale,3,first four of a major,-,-,trainer,FALSE,voice-learn-missions,knowledge
+what is a scale,3,first four of a minor,-,-,trainer,FALSE,voice-learn-missions,knowledge
+4th and 5th intervals,3,sound of a 4th,-,-,trainer,FALSE,voice-learn-missions,knowledge
+4th and 5th intervals,3,4th jam,the yousicians,tutorial,song,FALSE,voice-learn-missions,knowledge
+4th and 5th intervals,3,sound of a 5th,-,-,trainer,FALSE,voice-learn-missions,knowledge
+4th and 5th intervals,3,singing 4ths and 5ths,-,-,trainer,FALSE,voice-learn-missions,knowledge
+4th and 5th intervals,3,5th jam,the yousicians,tutorial,song,FALSE,voice-learn-missions,knowledge
+4th and 5th intervals,3,level 3 recap,-,-,quiz,FALSE,voice-learn-missions,knowledge
 singing in rhythm: beats,4,the heartbeat of a song,-,-,video,FALSE,voice-learn-missions,singing
 singing in rhythm: beats,4,stung by a bumblebee,the yousicians,verse,song,FALSE,voice-learn-missions,singing
 singing in rhythm: beats,4,note catcher: major,-,-,trainer,FALSE,voice-learn-missions,singing
