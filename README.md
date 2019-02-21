@@ -46,7 +46,7 @@ Not all songs are listed (yet).
 | piano-songs-popular    | 2019-02-07 |            | 1 song                     |
 | piano-challenges       | 2019-02-21 |   9        | 2018-45 to 2019-8 (16/178) |
 | ukulele-home-new       | 2019-02-07 | 100        |                            |
-| ukulele-home-new-more  | 2019-02-07 | 100        |                            |
+| ukulele-home-new-more  | 2019-02-21 | 100        |                            |
 | ukulele-learn-missions | 2019-02-07 | 100        |                            |
 | ukulele-learn-workouts | 2019-02-07 | 100        |                            |
 | ukulele-songs-popular  | 2019-02-07 | 100        |                            |
