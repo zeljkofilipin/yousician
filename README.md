@@ -25,7 +25,6 @@ You can save `yousician.csv` file and open in any text editor (Vim...) or
 spreadsheet software (Google Sheets, Microsoft Excel, Apple Numbers,
 LibreOffice Calc...).
 
-
 ## Status
 
 Not all songs are listed (yet).
@@ -55,7 +54,7 @@ Not all songs are listed (yet).
 | bass-home-new-more     | 2019-02-07 |            | 1 song                     |
 | bass-learn-missions    | 2019-02-20 | 100        | some ? author at level 9   |
 | bass-songs-popular     | 2019-02-07 |            | 1 song                     |
-| bass-challenges        | 2019-02-21 |  11        | 2018-45 to 2019-8 (16/151) |
+| bass-challenges        | 2019-02-27 |  51        | 2017-36 to 2019-8 (77/151) |
 | voice-home-new         | 2019-02-07 |            | 1 song                     |
 | voice-home-new-more    | 2019-02-07 |            | 1 song                     |
 | voice-learn-missions   | 2019-02-16 | 100        |                            |
