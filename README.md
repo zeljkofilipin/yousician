@@ -43,7 +43,7 @@ Not all songs are listed (yet).
 | piano-learn-missions   | 2019-02-07 |  44        | levels 0-6 (7/16)          |
 | piano-learn-workouts   | 2019-02-07 |            | 1 song                     |
 | piano-songs-popular    | 2019-02-07 |            | 1 song                     |
-| piano-challenges       | 2019-02-28 |   9        | 2018-45 to 2019-9 (17/179) |
+| piano-challenges       | 2019-03-05 |  44        | 2017-36 to 2019-9 (78/179) |
 | ukulele-home-new       | 2019-02-21 | 100        |                            |
 | ukulele-home-new-more  | 2019-02-21 | 100        |                            |
 | ukulele-learn-missions | 2019-02-07 | 100        |                            |
