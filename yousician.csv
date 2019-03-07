@@ -119,6 +119,10 @@ barre chords,8,barre your sould,?,barre 7th chords,song,FALSE,guitar-learn-missi
 barre chords,8,honeymoon bossa nova,?,barre chords,song,FALSE,guitar-learn-missions,rhythm
 chord trainers,1,chord trainer: cowboy - E Em Am,-,-,trainer,FALSE,guitar-learn-workouts,-
 happy holidays,1,o holy night,traditional,basic riff,song,FALSE,guitar-songs-popular,-
+mardi gras,2,st. james infirmary,traditional,basic riff,song,FALSE,guitar-challenges,-
+mardi gras,3,mardi gras song,traditional,cowboy chords,song,FALSE,guitar-challenges,-
+mardi gras,7,mardi gras song,traditional,melody,song,FALSE,guitar-challenges,-
+mardi gras,9,st. james infirmary,traditional,rhythm & lead,song,FALSE,guitar-challenges,-
 in a hurry?,2,xanada,the yousicians,basic riff,song,FALSE,guitar-challenges,-
 in a hurry?,5,unnatural science,the yousicians,riff,song,FALSE,guitar-challenges,-
 in a hurry?,8,unnatural science,the yousicians,rhythm,song,FALSE,guitar-challenges,-
@@ -442,6 +446,10 @@ D-jamz,6,trainer: quantum science - djamz,-,-,trainer,FALSE,piano-learn-missions
 D-jamz,6,quantum science,the yousicians,djamz,song,FALSE,piano-learn-missions,pop
 tutorial videos,3,video: beats per bar,-,-,video,FALSE,piano-learn-workouts,-
 rock on,4,sweet home alabama,lynyrd skynyrd,bass,song,TRUE,piano-songs-popular,-
+mardi gras,2,mardi gras song,traditional,two hands,song,FALSE,piano-challenges,-
+mardi gras,3,st. james infirmary,traditional,two hands,song,FALSE,piano-challenges,-
+mardi gras,5,mardi gras song,traditional,chords and bass,song,FALSE,piano-challenges,-
+mardi gras,7,st. james infirmary,traditional,chords and bass,song,FALSE,piano-challenges,-
 in a hurry?,3,unnatural science,the yousicians,two hands,song,FALSE,piano-challenges,-
 in a hurry?,4,xanada,the yousicians,two hands,song,FALSE,piano-challenges,-
 in a hurry?,6,xanada,the yousicians,lead and bass,song,FALSE,piano-challenges,-
@@ -1522,6 +1530,10 @@ classical picks,2,symphony no 40,wolfgang amadeus mozart,basic melody,song,FALSE
 classical picks,10,symphony no 40,wolfgang amadeus mozart,melody,song,FALSE,ukulele-songs-popular,-
 classical picks,4,tannhauser,richard wagner,chords,song,FALSE,ukulele-songs-popular,-
 classical picks,5,tannhauser,richard wagner,double stops,song,FALSE,ukulele-songs-popular,-
+mardi gras,2,mardi gras song,traditional,melody,song,FALSE,ukulele-challenges,-
+mardi gras,4,mardi gras song,traditional,chords,song,FALSE,ukulele-challenges,-
+mardi gras,7,st. james infirmary,traditional,melody,song,FALSE,ukulele-challenges,-
+mardi gras,8,st. james infirmary,traditional,chords,song,FALSE,ukulele-challenges,-
 in a hurry?,2,xanada,the yousicians,melody,song,FALSE,ukulele-challenges,-
 in a hurry?,5,unnatural science,the yousicians,chords,song,FALSE,ukulele-challenges,-
 in a hurry?,6,unnatural science,the yousicians,melody,song,FALSE,ukulele-challenges,-
@@ -1993,6 +2005,10 @@ fast and furious riffs,9,looks don't deceive,?,full bass,song,FALSE,bass-learn-m
 fast and furious riffs,9,spandex nigthmares,?,rock bass,song,FALSE,bass-learn-missions,playing
 fast and furious riffs,9,don't need you no more,?,bass,song,FALSE,bass-learn-missions,playing
 rock on,2,black,pearl jam,basic bass,song,TRUE,bass-songs-popular,-
+mardi gras,1,mardi gras song,traditional,basic bass,song,FALSE,bass-challenges,-
+mardi gras,3,mardi gras song,traditional,basic bass,song,FALSE,bass-challenges,-
+mardi gras,4,st. james infirmary,traditional,full bass,song,FALSE,bass-challenges,-
+mardi gras,5,st. james infirmary,traditional,full bass,song,FALSE,bass-challenges,-
 in a hurry?,2,xanada,the yousicians,basic bass,song,FALSE,bass-challenges,-
 in a hurry?,3,unnatural science,the yousicians,basic bass,song,FALSE,bass-challenges,-
 in a hurry?,8,unnatural science,the yousicians,full bass,song,FALSE,bass-challenges,-
