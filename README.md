@@ -37,7 +37,7 @@ Not all songs are listed (yet).
 | guitar-learn-missions  | 2019-02-08 |  27        | levels 0, 7-8 (3/11)        |
 | guitar-learn-workouts  | 2019-02-07 |            | 1 song                      |
 | guitar-songs-popular   | 2019-02-07 |            | 1 song                      |
-| guitar-challenges      | 2019-03-07 |   9        | 2018-45 to 2019-10 (18/210) |
+| guitar-challenges      | 2019-03-12 |  38        | 2017-36 to 2019-10 (79/210) |
 | piano-home-new         | 2019-02-07 |            | update                      |
 | piano-home-new-more    | 2019-02-07 |            | 1 song                      |
 | piano-learn-missions   | 2019-02-07 |  44        | levels 0-6 (7/16)           |
