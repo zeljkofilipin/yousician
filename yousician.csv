@@ -30,6 +30,47 @@ play frets,0,picking strings,the yousicians,-,video,FALSE,guitar-learn-missions,
 play frets,0,first light,the yousicians,simplified melody,song,FALSE,guitar-learn-missions,-
 skill test (level 1),0,set me free,the yousicians,basic melody,song,FALSE,guitar-learn-missions,-
 skill test (level 1),0,video: choose your path,the yousicians,-,video,FALSE,guitar-learn-missions,-
+start the lead guitar path,1,one finger per fret,-,-,video,FALSE,guitar-learn-missions,lead
+start the lead guitar path,1,one finger per fret,-,-,trainer,FALSE,guitar-learn-missions,lead
+start the lead guitar path,1,livewire,the yousicians,basic melody,song,FALSE,guitar-learn-missions,lead
+start the lead guitar path,1,somewhere,the yousicians,basic melody,song,FALSE,guitar-learn-missions,lead
+start the lead guitar path,1,conquer the galaxy,the yousicians,basic melody,song,FALSE,guitar-learn-missions,lead
+start the lead guitar path,1,plaing in the park,the yousicians,simplified melody,song,FALSE,guitar-learn-missions,lead
+fret master,1,fret master,-,-,trainer,FALSE,guitar-learn-missions,lead
+fret master,1,canon in D,johann pachelbel,basic melody,song,FALSE,guitar-learn-missions,lead
+fret master,1,first light,the yousicians,basic melody,song,FALSE,guitar-learn-missions,lead
+fret master,1,two ravens,the yousicians,basic melody,song,FALSE,guitar-learn-missions,lead
+fret master,1,gazing at stars,the yousicians,melody,song,FALSE,guitar-learn-missions,lead
+start the knowledge path,1,video: names of the strings,-,-,video,FALSE,guitar-learn-missions,knowledge
+start the knowledge path,1,eddie ate dynamite,the yousicians,melody,song,FALSE,guitar-learn-missions,knowledge
+start the knowledge path,1,video: up & down,-,-,video,FALSE,guitar-learn-missions,knowledge
+start the knowledge path,1,pitch goes up & down (guitar),the yousicians,riff,song,FALSE,guitar-learn-missions,knowledge
+start the knowledge path,1,video: half & whole steps,-,-,video,FALSE,guitar-learn-missions,knowledge
+start the knowledge path,1,"half step, whole step",the yousicians,melody,song,FALSE,guitar-learn-missions,knowledge
+start the knowledge path,1,video: beats & bars,-,-,video,FALSE,guitar-learn-missions,knowledge
+start the knowledge path,1,feel the beat (in G),the yousicians,melody,song,FALSE,guitar-learn-missions,knowledge
+ear training: up & down,1,ear puzzles: going up,-,-,puzzle,FALSE,guitar-learn-missions,knowledge
+ear training: up & down,1,ear puzzles: up & down,-,-,puzzle,FALSE,guitar-learn-missions,knowledge
+ear training: up & down,1,ear puzzles: up-down-same,-,-,puzzle,FALSE,guitar-learn-missions,knowledge
+ear training: up & down,1,ear puzzles: low & high,-,-,puzzle,FALSE,guitar-learn-missions,knowledge
+start the rhythm guitar path,1,playing on the thickest strings,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+start the rhythm guitar path,1,robot dawn,the yousicians,basic riff,song,FALSE,guitar-learn-missions,rhythm
+start the rhythm guitar path,1,up in the air,the yousicians,basic riff,song,FALSE,guitar-learn-missions,rhythm
+start the rhythm guitar path,1,livewire,the yousicians,basic riff,song,FALSE,guitar-learn-missions,rhythm
+start the rhythm guitar path,1,robot city,the yousicians,basic riff,song,FALSE,guitar-learn-missions,rhythm
+"cowboy chords 1: E, Em, Am",1,learn E,-,-,video,FALSE,guitar-learn-missions,rhythm
+"cowboy chords 1: E, Em, Am",1,practice E,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+"cowboy chords 1: E, Em, Am",1,learn Em,-,-,video,FALSE,guitar-learn-missions,rhythm
+"cowboy chords 1: E, Em, Am",1,practice Em,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+"cowboy chords 1: E, Em, Am",1,learn Am,-,-,video,FALSE,guitar-learn-missions,rhythm
+"cowboy chords 1: E, Em, Am",1,practice Am,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+"cowboy chords 1: E, Em, Am",1,changing chords,-,-,video,FALSE,guitar-learn-missions,rhythm
+"cowboy chords 1: E, Em, Am",1,practice changing chords,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+"cowboy chords 1: E, Em, Am",1,chord blocks,-,-,trainer,FALSE,guitar-learn-missions,rhythm
+"cowboy chords 1: E, Em, Am",1,rust kebab,the yousicians,cowboy chords,song,FALSE,guitar-learn-missions,rhythm
+"cowboy chords 1: E, Em, Am",1,minor step,the yousicians,cowboy chords,song,FALSE,guitar-learn-missions,rhythm
+"cowboy chords 1: E, Em, Am",1,ape lincoln,the yousicians,cowboy chords,song,FALSE,guitar-learn-missions,rhythm
+"cowboy chords 1: E, Em, Am",1,lunar blues,the yousicians,cowboy chords,song,FALSE,guitar-learn-missions,rhythm
 skill test (lead level 7),7,modern vintage,the yousicians,legato melody,song,FALSE,guitar-learn-missions,lead
 double stops,7,video: double stops (strumming),the yousicians,-,video,FALSE,guitar-learn-missions,lead
 double stops,7,trainer: double stops (strumming),the yousicians,-,trainer,FALSE,guitar-learn-missions,lead
