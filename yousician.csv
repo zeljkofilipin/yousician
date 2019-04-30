@@ -160,6 +160,14 @@ barre chords,8,barre your sould,?,barre 7th chords,song,FALSE,guitar-learn-missi
 barre chords,8,honeymoon bossa nova,?,barre chords,song,FALSE,guitar-learn-missions,rhythm
 chord trainers,1,chord trainer: cowboy - E Em Am,-,-,trainer,FALSE,guitar-learn-workouts,-
 happy holidays,1,o holy night,traditional,basic riff,song,FALSE,guitar-songs-popular,-
+ye olde english challenge,3,john barleycorn,traditional,melody,song,FALSE,guitar-challenges,-
+ye olde english challenge,4,greensleeves (folk),traditional,cowboy chords,song,FALSE,guitar-challenges,-
+ye olde english challenge,7,greensleeves (folk),traditional,fingerpicking,song,FALSE,guitar-challenges,-
+ye olde english challenge,9,john barleycorn,traditional,fingerpicking,song,FALSE,guitar-challenges,-
+"live fast, play fast",2,skate or die!,the yousicians,basic riff,song,FALSE,guitar-challenges,-
+"live fast, play fast",4,punk-a-lele,the yousicians,cowboy chords,song,FALSE,guitar-challenges,-
+"live fast, play fast",8,skate or die!,the yousicians,rhythm & lead,song,FALSE,guitar-challenges,-
+"live fast, play fast",8,punk-a-lele,the yousicians,rhythm,song,FALSE,guitar-challenges,-
 songs from film classics,2,colonel bogey march,kenneth j. alford,basic riff,song,FALSE,guitar-challenges,-
 songs from film classics,4,lorena,joseph webster,cowboy chords,song,FALSE,guitar-challenges,-
 songs from film classics,7,lorena,joseph webster,fingerpicking,song,FALSE,guitar-challenges,-
@@ -751,6 +759,14 @@ D-jamz,6,trainer: quantum science - djamz,-,-,trainer,FALSE,piano-learn-missions
 D-jamz,6,quantum science,the yousicians,djamz,song,FALSE,piano-learn-missions,pop
 tutorial videos,3,video: beats per bar,-,-,video,FALSE,piano-learn-workouts,-
 rock on,4,sweet home alabama,lynyrd skynyrd,bass,song,TRUE,piano-songs-popular,-
+ye olde english challenge,3,greensleeves (folk),traditional,two hands,song,FALSE,piano-challenges,-
+ye olde english challenge,4,john barleycorn,traditional,two hands,song,FALSE,piano-challenges,-
+ye olde english challenge,6,john barleycorn,traditional,chords and bass,song,FALSE,piano-challenges,-
+ye olde english challenge,7,greensleeves (folk),traditional,accompaniment,song,FALSE,piano-challenges,-
+"live fast, play fast",2,punk-a-lele,the yousicians,rigth hand,song,FALSE,piano-challenges,-
+"live fast, play fast",4,skate or die!,the yousicians,two hands,song,FALSE,piano-challenges,-
+"live fast, play fast",5,punk-a-lele,the yousicians,two hands,song,FALSE,piano-challenges,-
+"live fast, play fast",8,skate or die!,the yousicians,melody,song,FALSE,piano-challenges,-
 songs from film classics,3,lorena,joseph webster,melody,song,FALSE,piano-challenges,-
 songs from film classics,4,colonel bogey march,kenneth j. alford,two hands,song,FALSE,piano-challenges,-
 songs from film classics,6,lorena,joseph webster,chords and bass,song,FALSE,piano-challenges,-
@@ -1855,6 +1871,14 @@ classical picks,2,symphony no 40,wolfgang amadeus mozart,basic melody,song,FALSE
 classical picks,10,symphony no 40,wolfgang amadeus mozart,melody,song,FALSE,ukulele-songs-popular,-
 classical picks,4,tannhauser,richard wagner,chords,song,FALSE,ukulele-songs-popular,-
 classical picks,5,tannhauser,richard wagner,double stops,song,FALSE,ukulele-songs-popular,-
+ye olde english challenge,2,john barleycorn,traditional,melody,song,FALSE,ukulele-challenges,-
+ye olde english challenge,4,greensleeves (folk),traditional,chords,song,FALSE,ukulele-challenges,-
+ye olde english challenge,6,john barleycorn,traditional,fingerpicking,song,FALSE,ukulele-challenges,-
+ye olde english challenge,8,greensleeves (folk),traditional,double stops,song,FALSE,ukulele-challenges,-
+"live fast, play fast",2,skate or die!,the yousicians,melody,song,FALSE,ukulele-challenges,-
+"live fast, play fast",4,punk-a-lele,the yousicians,chords,song,FALSE,ukulele-challenges,-
+"live fast, play fast",6,skate or die!,the yousicians,chords,song,FALSE,ukulele-challenges,-
+"live fast, play fast",8,punk-a-lele,the yousicians,rhythm,song,FALSE,ukulele-challenges,-
 songs from film classics,2,colonel bogey march,kenneth j. alford,melody,song,FALSE,ukulele-challenges,-
 songs from film classics,4,lorena,joseph webster,chords,song,FALSE,ukulele-challenges,-
 songs from film classics,6,colonel bogey march,kenneth j. alford,chords,song,FALSE,ukulele-challenges,-
@@ -2350,6 +2374,14 @@ fast and furious riffs,9,looks don't deceive,?,full bass,song,FALSE,bass-learn-m
 fast and furious riffs,9,spandex nigthmares,?,rock bass,song,FALSE,bass-learn-missions,playing
 fast and furious riffs,9,don't need you no more,?,bass,song,FALSE,bass-learn-missions,playing
 rock on,2,black,pearl jam,basic bass,song,TRUE,bass-songs-popular,-
+ye olde english challenge,1,greensleeves (folk),traditional,basic bass,song,FALSE,bass-challenges,-
+ye olde english challenge,2,john barleycorn,traditional,basic bass,song,FALSE,bass-challenges,-
+ye olde english challenge,5,greensleeves (folk),traditional,melody,song,FALSE,bass-challenges,-
+ye olde english challenge,8,john barleycorn,traditional,full bass,song,FALSE,bass-challenges,-
+"live fast, play fast",1,skate or die!,the yousicians,basic bass,song,FALSE,bass-challenges,-
+"live fast, play fast",2,punk-a-lele,the yousicians,basic bass,song,FALSE,bass-challenges,-
+"live fast, play fast",6,punk-a-lele,the yousicians,full bass,song,FALSE,bass-challenges,-
+"live fast, play fast",8,skate or die!,the yousicians,full bass,song,FALSE,bass-challenges,-
 songs from film classics,2,lorena,joseph webster,basic bass,song,FALSE,bass-challenges,-
 songs from film classics,2,colonel bogey march,kenneth j. alford,basic bass,song,FALSE,bass-challenges,-
 songs from film classics,4,lorena,joseph webster,full bass,song,FALSE,bass-challenges,-
