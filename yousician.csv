@@ -419,6 +419,10 @@ barre chords,8,barre your sould,?,barre 7th chords,song,FALSE,guitar-learn-missi
 barre chords,8,honeymoon bossa nova,?,barre chords,song,FALSE,guitar-learn-missions,rhythm
 chord trainers,1,chord trainer: cowboy - E Em Am,-,-,trainer,FALSE,guitar-learn-workouts,-
 happy holidays,1,o holy night,traditional,basic riff,song,FALSE,guitar-songs-popular,-
+attitude rock,2,raging donkeys,the yousicians,basic riff,song,FALSE,guitar-challenges,-
+attitude rock,4,babysitting,the yousicians,basic melody,song,FALSE,guitar-challenges,-
+attitude rock,7,raging donkeys,the yousicians,full riff,song,FALSE,guitar-challenges,-
+attitude rock,11,babysitting,the yousicians,full rhythm,song,FALSE,guitar-challenges,-
 new visions,1,highlight of the year,the yousicians,basic riff,song,FALSE,guitar-challenges,-
 new visions,4,highlight of the year,the yousicians,cowboy chords,song,FALSE,guitar-challenges,-
 new visions,7,random things & love,the yousicians,full rhythm,song,FALSE,guitar-challenges,-
@@ -1554,6 +1558,10 @@ D-jamz,6,trainer: quantum science - djamz,-,-,trainer,FALSE,piano-learn-missions
 D-jamz,6,quantum science,the yousicians,djamz,song,FALSE,piano-learn-missions,pop
 tutorial videos,3,video: beats per bar,-,-,video,FALSE,piano-learn-workouts,-
 rock on,4,sweet home alabama,lynyrd skynyrd,bass,song,TRUE,piano-songs-popular,-
+attitude rock,3,raging donkeys,the yousicians,riff,song,FALSE,piano-challenges,-
+attitude rock,4,babysitting,the yousicians,easy riff and melody,song,FALSE,piano-challenges,-
+attitude rock,6,raging donkeys,the yousicians,riff and chords,song,FALSE,piano-challenges,-
+attitude rock,7,babysitting,the yousicians,riff and melody,song,FALSE,piano-challenges,-
 new visions,3,highlight of the year,the yousicians,two hands,song,FALSE,piano-challenges,-
 new visions,4,random things & love,the yousicians,bassline,song,FALSE,piano-challenges,-
 new visions,6,highlight of the year,the yousicians,chords and bass,song,FALSE,piano-challenges,-
@@ -2678,6 +2686,10 @@ classical picks,2,symphony no 40,wolfgang amadeus mozart,basic melody,song,FALSE
 classical picks,10,symphony no 40,wolfgang amadeus mozart,melody,song,FALSE,ukulele-songs-popular,-
 classical picks,4,tannhauser,richard wagner,chords,song,FALSE,ukulele-songs-popular,-
 classical picks,5,tannhauser,richard wagner,double stops,song,FALSE,ukulele-songs-popular,-
+attitude rock,3,raging donkeys,the yousicians,melody,song,FALSE,ukulele-challenges,-
+attitude rock,5,babysitting,the yousicians,melody,song,FALSE,ukulele-challenges,-
+attitude rock,7,babysitting,the yousicians,chords,song,FALSE,ukulele-challenges,-
+attitude rock,8,raging donkeys,the yousicians,chords,song,FALSE,ukulele-challenges,-
 new visions,2,highlight of the year,the yousicians,melody,song,FALSE,ukulele-challenges,-
 new visions,4,highlight of the year,the yousicians,chords,song,FALSE,ukulele-challenges,-
 new visions,5,random things & love,the yousicians,melody,song,FALSE,ukulele-challenges,-
@@ -3193,6 +3205,10 @@ fast and furious riffs,9,looks don't deceive,?,full bass,song,FALSE,bass-learn-m
 fast and furious riffs,9,spandex nigthmares,?,rock bass,song,FALSE,bass-learn-missions,playing
 fast and furious riffs,9,don't need you no more,?,bass,song,FALSE,bass-learn-missions,playing
 rock on,2,black,pearl jam,basic bass,song,TRUE,bass-songs-popular,-
+attitude rock,3,raging donkeys,the yousicians,basic bass,song,FALSE,bass-challenges,-
+attitude rock,3,babysitting,the yousicians,basic bass,song,FALSE,bass-challenges,-
+attitude rock,6,raging donkeys,the yousicians,full bass,song,FALSE,bass-challenges,-
+attitude rock,9,babysitting,the yousicians,full bass,song,FALSE,bass-challenges,-
 new visions,2,highlight of the year,the yousicians,basic bass,song,FALSE,bass-challenges,-
 new visions,2,random things & love,the yousicians,basic bass,song,FALSE,bass-challenges,-
 new visions,6,highlight of the year,the yousicians,full bass,song,FALSE,bass-challenges,-
