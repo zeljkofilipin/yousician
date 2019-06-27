@@ -419,6 +419,14 @@ barre chords,8,barre your sould,?,barre 7th chords,song,FALSE,guitar-learn-missi
 barre chords,8,honeymoon bossa nova,?,barre chords,song,FALSE,guitar-learn-missions,rhythm
 chord trainers,1,chord trainer: cowboy - E Em Am,-,-,trainer,FALSE,guitar-learn-workouts,-
 happy holidays,1,o holy night,traditional,basic riff,song,FALSE,guitar-songs-popular,-
+4th of july,3,yankee doodle,traditional,melody,song,FALSE,guitar-challenges,-
+4th of july,4,the star-spangled banner (in G),traditional,melody,song,FALSE,guitar-challenges,-
+4th of july,4,the star-spangled banner (in G),traditional,cowboy chords,song,FALSE,guitar-challenges,-
+4th of july,6,yankee doodle,traditional,fancy chords,song,FALSE,guitar-challenges,-
+kung fu challenge,4,shaolin master,the yousicians,basic melody,song,FALSE,guitar-challenges,-
+kung fu challenge,5,kung fu hero,the yousicians,basic riff,song,FALSE,guitar-challenges,-
+kung fu challenge,9,shaolin master,the yousicians,full melody,song,FALSE,guitar-challenges,-
+kung fu challenge,10,kung fu hero,the yousicians,melody,song,FALSE,guitar-challenges,-
 classical chill out,3,new world symphony (in C),antonin dvorak,melody,song,FALSE,guitar-challenges,-
 classical chill out,3,arioso,johann sebastian bach,cowboy chords,song,FALSE,guitar-challenges,-
 classical chill out,7,new world symphony (in C),antonin dvorak,fingerpicking,song,FALSE,guitar-challenges,-
@@ -1570,6 +1578,14 @@ D-jamz,6,trainer: quantum science - djamz,-,-,trainer,FALSE,piano-learn-missions
 D-jamz,6,quantum science,the yousicians,djamz,song,FALSE,piano-learn-missions,pop
 tutorial videos,3,video: beats per bar,-,-,video,FALSE,piano-learn-workouts,-
 rock on,4,sweet home alabama,lynyrd skynyrd,bass,song,TRUE,piano-songs-popular,-
+4th of july,2,yankee doodle,traditional,right hand (rigth hand),song,FALSE,piano-challenges,-
+4th of july,4,the star-spangled banner (in G),traditional,bassline,song,FALSE,piano-challenges,-
+4th of july,5,yankee doodle,traditional,chords and bass,song,FALSE,piano-challenges,-
+4th of july,7,the star-spangled banner (in G),traditional,melody,song,FALSE,piano-challenges,-
+kung fu challenge,3,shaolin master,the yousicians,two hands,song,FALSE,piano-challenges,-
+kung fu challenge,4,kung fu hero,the yousicians,two hands,song,FALSE,piano-challenges,-
+kung fu challenge,6,shaolin master,the yousicians,melody,song,FALSE,piano-challenges,-
+kung fu challenge,9,kung fu hero,the yousicians,advanced,song,FALSE,piano-challenges,-
 classical chill out,3,new world symphony (in C),antonin dvorak,melody two hands,song,FALSE,piano-challenges,-
 classical chill out,4,arioso,johann sebastian bach,bassline two hands,song,FALSE,piano-challenges,-
 classical chill out,6,new world symphony (in C),antonin dvorak,melody and bass,song,FALSE,piano-challenges,-
@@ -2714,6 +2730,14 @@ classical picks,2,symphony no 40,wolfgang amadeus mozart,basic melody,song,FALSE
 classical picks,10,symphony no 40,wolfgang amadeus mozart,melody,song,FALSE,ukulele-songs-popular,-
 classical picks,4,tannhauser,richard wagner,chords,song,FALSE,ukulele-songs-popular,-
 classical picks,5,tannhauser,richard wagner,double stops,song,FALSE,ukulele-songs-popular,-
+4th of july,3,yankee doodle,traditional,chords,song,FALSE,ukulele-challenges,-
+4th of july,4,yankee doodle,traditional,melody,song,FALSE,ukulele-challenges,-
+4th of july,4,the star-spangled banner (in G),traditional,melody,song,FALSE,ukulele-challenges,-
+4th of july,4,the star-spangled banner (in G),traditional,chords,song,FALSE,ukulele-challenges,-
+kung fu challenge,1,kung fu hero,the yousicians,melody,song,FALSE,ukulele-challenges,-
+kung fu challenge,4,shaolin master,the yousicians,melody,song,FALSE,ukulele-challenges,-
+kung fu challenge,6,shaolin master,the yousicians,chords,song,FALSE,ukulele-challenges,-
+kung fu challenge,8,kung fu hero,the yousicians,chords,song,FALSE,ukulele-challenges,-
 classical chill out,2,new world symphony (in C),antonin dvorak,melody,song,FALSE,ukulele-challenges,-
 classical chill out,4,arioso,johann sebastian bach,chords,song,FALSE,ukulele-challenges,-
 classical chill out,5,arioso,johann sebastian bach,melody,song,FALSE,ukulele-challenges,-
@@ -3245,6 +3269,14 @@ fast and furious riffs,9,looks don't deceive,?,full bass,song,FALSE,bass-learn-m
 fast and furious riffs,9,spandex nigthmares,?,rock bass,song,FALSE,bass-learn-missions,playing
 fast and furious riffs,9,don't need you no more,?,bass,song,FALSE,bass-learn-missions,playing
 rock on,2,black,pearl jam,basic bass,song,TRUE,bass-songs-popular,-
+4th of july,1,yankee doodle,traditional,basic bassline,song,FALSE,bass-challenges,-
+4th of july,2,the star-spangled banner (in G),traditional,basic bassline,song,FALSE,bass-challenges,-
+4th of july,4,yankee doodle,traditional,full bassline,song,FALSE,bass-challenges,-
+4th of july,4,the star-spangled banner (in G),traditional,full bassline,song,FALSE,bass-challenges,-
+kung fu challenge,2,shaolin master,the yousicians,basic bassline,song,FALSE,bass-challenges,-
+kung fu challenge,2,kung fu hero,the yousicians,basic bassline,song,FALSE,bass-challenges,-
+kung fu challenge,6,shaolin master,the yousicians,full bassline,song,FALSE,bass-challenges,-
+kung fu challenge,7,kung fu hero,the yousicians,full bassline,song,FALSE,bass-challenges,-
 classical chill out,1,new world symphony (in C),antonin dvorak,basic bassline,song,FALSE,bass-challenges,-
 classical chill out,2,arioso,johann sebastian bach,full bassline,song,FALSE,bass-challenges,-
 classical chill out,5,new world symphony (in C),antonin dvorak,melody,song,FALSE,bass-challenges,-
