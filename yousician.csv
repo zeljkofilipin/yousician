@@ -419,6 +419,10 @@ barre chords,8,barre your sould,?,barre 7th chords,song,FALSE,guitar-learn-missi
 barre chords,8,honeymoon bossa nova,?,barre chords,song,FALSE,guitar-learn-missions,rhythm
 chord trainers,1,chord trainer: cowboy - E Em Am,-,-,trainer,FALSE,guitar-learn-workouts,-
 happy holidays,1,o holy night,traditional,basic riff,song,FALSE,guitar-songs-popular,-
+flying thumbs,2,the secret society of the flying thumb,the yousicians,basic riff,song,FALSE,guitar-challenges,-
+flying thumbs,5,she's slapping away (in Em),the yousicians,basic riff,song,FALSE,guitar-challenges,-
+flying thumbs,9,she's slapping away (in Em),the yousicians,full riff,song,FALSE,guitar-challenges,-
+flying thumbs,10,the secret society of the flying thumb,the yousicians,rhythm & lead,song,FALSE,guitar-challenges,-
 4th of july,3,yankee doodle,traditional,melody,song,FALSE,guitar-challenges,-
 4th of july,4,the star-spangled banner (in G),traditional,melody,song,FALSE,guitar-challenges,-
 4th of july,4,the star-spangled banner (in G),traditional,cowboy chords,song,FALSE,guitar-challenges,-
@@ -1578,6 +1582,10 @@ D-jamz,6,trainer: quantum science - djamz,-,-,trainer,FALSE,piano-learn-missions
 D-jamz,6,quantum science,the yousicians,djamz,song,FALSE,piano-learn-missions,pop
 tutorial videos,3,video: beats per bar,-,-,video,FALSE,piano-learn-workouts,-
 rock on,4,sweet home alabama,lynyrd skynyrd,bass,song,TRUE,piano-songs-popular,-
+flying thumbs,2,the secret society of the flying thumb,the yousicians,left hand (left hand),song,FALSE,piano-challenges,-
+flying thumbs,4,she's slapping away (in Em),the yousicians,right hand (rigth hand),song,FALSE,piano-challenges,-
+flying thumbs,6,the secret society of the flying thumb,the yousicians,two hands,song,FALSE,piano-challenges,-
+flying thumbs,8,she's slapping away (in Em),the yousicians,advanced,song,FALSE,piano-challenges,-
 4th of july,2,yankee doodle,traditional,right hand (rigth hand),song,FALSE,piano-challenges,-
 4th of july,4,the star-spangled banner (in G),traditional,bassline,song,FALSE,piano-challenges,-
 4th of july,5,yankee doodle,traditional,chords and bass,song,FALSE,piano-challenges,-
@@ -2730,6 +2738,10 @@ classical picks,2,symphony no 40,wolfgang amadeus mozart,basic melody,song,FALSE
 classical picks,10,symphony no 40,wolfgang amadeus mozart,melody,song,FALSE,ukulele-songs-popular,-
 classical picks,4,tannhauser,richard wagner,chords,song,FALSE,ukulele-songs-popular,-
 classical picks,5,tannhauser,richard wagner,double stops,song,FALSE,ukulele-songs-popular,-
+flying thumbs,3,she's slapping away (in Em),the yousicians,melody,song,FALSE,ukulele-challenges,-
+flying thumbs,4,the secret society of the flying thumb,the yousicians,chords,song,FALSE,ukulele-challenges,-
+flying thumbs,6,she's slapping away (in Em),the yousicians,chords,song,FALSE,ukulele-challenges,-
+flying thumbs,8,the secret society of the flying thumb,the yousicians,rhythm,song,FALSE,ukulele-challenges,-
 4th of july,3,yankee doodle,traditional,chords,song,FALSE,ukulele-challenges,-
 4th of july,4,yankee doodle,traditional,melody,song,FALSE,ukulele-challenges,-
 4th of july,4,the star-spangled banner (in G),traditional,melody,song,FALSE,ukulele-challenges,-
@@ -3269,6 +3281,10 @@ fast and furious riffs,9,looks don't deceive,?,full bass,song,FALSE,bass-learn-m
 fast and furious riffs,9,spandex nigthmares,?,rock bass,song,FALSE,bass-learn-missions,playing
 fast and furious riffs,9,don't need you no more,?,bass,song,FALSE,bass-learn-missions,playing
 rock on,2,black,pearl jam,basic bass,song,TRUE,bass-songs-popular,-
+flying thumbs,3,she's slapping away (in Em),the yousicians,basic bassline,song,FALSE,bass-challenges,-
+flying thumbs,3,the secret society of the flying thumb,the yousicians,basic bassline,song,FALSE,bass-challenges,-
+flying thumbs,10,she's slapping away (in Em),the yousicians,full bassline,song,FALSE,bass-challenges,-
+flying thumbs,10,the secret society of the flying thumb,the yousicians,full bassline,song,FALSE,bass-challenges,-
 4th of july,1,yankee doodle,traditional,basic bassline,song,FALSE,bass-challenges,-
 4th of july,2,the star-spangled banner (in G),traditional,basic bassline,song,FALSE,bass-challenges,-
 4th of july,4,yankee doodle,traditional,full bassline,song,FALSE,bass-challenges,-
