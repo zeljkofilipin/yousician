@@ -419,6 +419,18 @@ barre chords,8,barre your sould,?,barre 7th chords,song,FALSE,guitar-learn-missi
 barre chords,8,honeymoon bossa nova,?,barre chords,song,FALSE,guitar-learn-missions,rhythm
 chord trainers,1,chord trainer: cowboy - E Em Am,-,-,trainer,FALSE,guitar-learn-workouts,-
 happy holidays,1,o holy night,traditional,basic riff,song,FALSE,guitar-songs-popular,-
+flamenco,3,ole mi pulgar,the yousicians,basic riff,song,FALSE,guitar-challenges,-
+flamenco,6,luna de triana,the yousicians,fancy chords,song,FALSE,guitar-challenges,-
+flamenco,8,luna de triana,the yousicians,melody,song,FALSE,guitar-challenges,-
+flamenco,12,ole mi pulgar,the yousicians,fingerpicking,song,FALSE,guitar-challenges,-
+"blood, sweat and classical music",1,bolero,maurice ravel,basic riff,song,FALSE,guitar-challenges,-
+"blood, sweat and classical music",4,asturias (metal),isaac albeniz,basic riff,song,FALSE,guitar-challenges,-
+"blood, sweat and classical music",7,bolero,maurice ravel,melody,song,FALSE,guitar-challenges,-
+"blood, sweat and classical music",11,asturias (metal),isaac albeniz,full riff,song,FALSE,guitar-challenges,-
+party with yousician,2,thumbs up,the yousicians,basic riff,song,FALSE,guitar-challenges,-
+party with yousician,4,party with yousician,the yousicians,basic melody,song,FALSE,guitar-challenges,-
+party with yousician,6,thumbs up,the yousicians,rhythm,song,FALSE,guitar-challenges,-
+party with yousician,8,party with yousician,the yousicians,rhythm,song,FALSE,guitar-challenges,-
 amore mediterraneo,3,la paloma (in C),traditional,cowboy chords,song,FALSE,guitar-challenges,-
 amore mediterraneo,4,o sole mio (in A),traditional,main melody,song,FALSE,guitar-challenges,-
 amore mediterraneo,5,la paloma (in C),traditional,melody,song,FALSE,guitar-challenges,-
@@ -1590,6 +1602,18 @@ D-jamz,6,trainer: quantum science - djamz,-,-,trainer,FALSE,piano-learn-missions
 D-jamz,6,quantum science,the yousicians,djamz,song,FALSE,piano-learn-missions,pop
 tutorial videos,3,video: beats per bar,-,-,video,FALSE,piano-learn-workouts,-
 rock on,4,sweet home alabama,lynyrd skynyrd,bass,song,TRUE,piano-songs-popular,-
+flamenco,2,luna de triana,the yousicians,bass two hands,song,FALSE,piano-challenges,-
+flamenco,4,ole mi pulgar,the yousicians,two hands,song,FALSE,piano-challenges,-
+flamenco,6,luna de triana,the yousicians,bass and chords,song,FALSE,piano-challenges,-
+flamenco,8,ole mi pulgar,the yousicians,advanced,song,FALSE,piano-challenges,-
+"blood, sweat and classical music",1,bolero,maurice ravel,right hand,song,FALSE,piano-challenges,-
+"blood, sweat and classical music",4,asturias (metal),isaac albeniz,two hands,song,FALSE,piano-challenges,-
+"blood, sweat and classical music",5,bolero,maurice ravel,melody,song,FALSE,piano-challenges,-
+"blood, sweat and classical music",9,asturias (metal),isaac albeniz,advanced,song,FALSE,piano-challenges,-
+party with yousician,2,thumbs up,the yousicians,left hand,song,FALSE,piano-challenges,-
+party with yousician,3,party with yousician,the yousicians,right hand,song,FALSE,piano-challenges,-
+party with yousician,6,party with yousician,the yousicians,two hands,song,FALSE,piano-challenges,-
+party with yousician,8,thumbs up,the yousicians,chords,song,FALSE,piano-challenges,-
 amore mediterraneo,2,o sole mio (in A),traditional,two hands,song,FALSE,piano-challenges,-
 amore mediterraneo,4,la paloma (in C),traditional,accompaniment,song,FALSE,piano-challenges,-
 amore mediterraneo,6,o sole mio (in A),traditional,chords and bass,song,FALSE,piano-challenges,-
@@ -2754,6 +2778,18 @@ classical picks,2,symphony no 40,wolfgang amadeus mozart,basic melody,song,FALSE
 classical picks,10,symphony no 40,wolfgang amadeus mozart,melody,song,FALSE,ukulele-songs-popular,-
 classical picks,4,tannhauser,richard wagner,chords,song,FALSE,ukulele-songs-popular,-
 classical picks,5,tannhauser,richard wagner,double stops,song,FALSE,ukulele-songs-popular,-
+flamenco,2,ole mi pulgar,the yousicians,melody,song,FALSE,ukulele-challenges,-
+flamenco,5,luna de triana,the yousicians,chords,song,FALSE,ukulele-challenges,-
+flamenco,6,ole mi pulgar,the yousicians,rhythm,song,FALSE,ukulele-challenges,-
+flamenco,9,luna de triana,the yousicians,melody,song,FALSE,ukulele-challenges,-
+"blood, sweat and classical music",2,asturias (metal),isaac albeniz,basic melody,song,FALSE,ukulele-challenges,-
+"blood, sweat and classical music",3,bolero,maurice ravel,chords,song,FALSE,ukulele-challenges,-
+"blood, sweat and classical music",5,asturias (metal),isaac albeniz,full melody,song,FALSE,ukulele-challenges,-
+"blood, sweat and classical music",7,bolero,maurice ravel,melody,song,FALSE,ukulele-challenges,-
+party with yousician,3,party with yousician,the yousicians,basic melody,song,FALSE,ukulele-challenges,-
+party with yousician,5,thumbs up,the yousicians,melody,song,FALSE,ukulele-challenges,-
+party with yousician,6,thumbs up,the yousicians,chords,song,FALSE,ukulele-challenges,-
+party with yousician,8,party with yousician,the yousicians,chords,song,FALSE,ukulele-challenges,-
 amore mediterraneo,3,la paloma (in C),traditional,chords,song,FALSE,ukulele-challenges,-
 amore mediterraneo,4,o sole mio (in A),traditional,melody,song,FALSE,ukulele-challenges,-
 amore mediterraneo,5,la paloma (in C),traditional,melody,song,FALSE,ukulele-challenges,-
@@ -3305,6 +3341,18 @@ fast and furious riffs,9,looks don't deceive,?,full bass,song,FALSE,bass-learn-m
 fast and furious riffs,9,spandex nigthmares,?,rock bass,song,FALSE,bass-learn-missions,playing
 fast and furious riffs,9,don't need you no more,?,bass,song,FALSE,bass-learn-missions,playing
 rock on,2,black,pearl jam,basic bass,song,TRUE,bass-songs-popular,-
+flamenco,2,luna de triana,the yousicians,basic bassline,song,FALSE,bass-challenges,-
+flamenco,2,ole mi pulgar,the yousicians,basic bassline,song,FALSE,bass-challenges,-
+flamenco,6,luna de triana,the yousicians,full bassline,song,FALSE,bass-challenges,-
+flamenco,6,ole mi pulgar,the yousicians,full bassline,song,FALSE,bass-challenges,-
+"blood, sweat and classical music",3,asturias (metal),isaac albeniz,basic bassline,song,FALSE,bass-challenges,-
+"blood, sweat and classical music",4,bolero,maurice ravel,full bassline,song,FALSE,bass-challenges,-
+"blood, sweat and classical music",8,bolero,maurice ravel,melody,song,FALSE,bass-challenges,-
+"blood, sweat and classical music",9,asturias (metal),isaac albeniz,full bassline,song,FALSE,bass-challenges,-
+party with yousician,2,thumbs up,the yousicians,basic bassline,song,FALSE,bass-challenges,-
+party with yousician,3,party with yousician,the yousicians,basic bassline,song,FALSE,bass-challenges,-
+party with yousician,9,party with yousician,the yousicians,full bassline,song,FALSE,bass-challenges,-
+party with yousician,10,thumbs up,the yousicians,full bassline,song,FALSE,bass-challenges,-
 amore mediterraneo,1,la paloma (in C),traditional,basic bassline,song,FALSE,bass-challenges,-
 amore mediterraneo,2,o sole mio (in A),traditional,basic bassline,song,FALSE,bass-challenges,-
 amore mediterraneo,4,o sole mio (in A),traditional,full bassline,song,FALSE,bass-challenges,-
