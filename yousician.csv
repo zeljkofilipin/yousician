@@ -419,6 +419,10 @@ barre chords,8,barre your sould,?,barre 7th chords,song,FALSE,guitar-learn-missi
 barre chords,8,honeymoon bossa nova,?,barre chords,song,FALSE,guitar-learn-missions,rhythm
 chord trainers,1,chord trainer: cowboy - E Em Am,-,-,trainer,FALSE,guitar-learn-workouts,-
 happy holidays,1,o holy night,traditional,basic riff,song,FALSE,guitar-songs-popular,-
+polyrhythms & polymeters,2,polymeter play,the yousicians,basic riff,song,FALSE,guitar-challenges,-
+polyrhythms & polymeters,5,3 against 4,the yousicians,riff,song,FALSE,guitar-challenges,-
+polyrhythms & polymeters,7,polymeter play,the yousicians,melody,song,FALSE,guitar-challenges,-
+polyrhythms & polymeters,9,3 against 4,the yousicians,fingerpicking,song,FALSE,guitar-challenges,-
 flamenco,3,ole mi pulgar,the yousicians,basic riff,song,FALSE,guitar-challenges,-
 flamenco,6,luna de triana,the yousicians,fancy chords,song,FALSE,guitar-challenges,-
 flamenco,8,luna de triana,the yousicians,melody,song,FALSE,guitar-challenges,-
@@ -1602,6 +1606,10 @@ D-jamz,6,trainer: quantum science - djamz,-,-,trainer,FALSE,piano-learn-missions
 D-jamz,6,quantum science,the yousicians,djamz,song,FALSE,piano-learn-missions,pop
 tutorial videos,3,video: beats per bar,-,-,video,FALSE,piano-learn-workouts,-
 rock on,4,sweet home alabama,lynyrd skynyrd,bass,song,TRUE,piano-songs-popular,-
+polyrhythms & polymeters,3,3 against 4,the yousicians,hands separate,song,FALSE,piano-challenges,-
+polyrhythms & polymeters,4,polymeter play,the yousicians,two hands simplified,song,FALSE,piano-challenges,-
+polyrhythms & polymeters,7,polymeter play,the yousicians,two hands,song,FALSE,piano-challenges,-
+polyrhythms & polymeters,8,3 against 4,the yousicians,hands together,song,FALSE,piano-challenges,-
 flamenco,2,luna de triana,the yousicians,bass two hands,song,FALSE,piano-challenges,-
 flamenco,4,ole mi pulgar,the yousicians,two hands,song,FALSE,piano-challenges,-
 flamenco,6,luna de triana,the yousicians,bass and chords,song,FALSE,piano-challenges,-
@@ -2778,6 +2786,10 @@ classical picks,2,symphony no 40,wolfgang amadeus mozart,basic melody,song,FALSE
 classical picks,10,symphony no 40,wolfgang amadeus mozart,melody,song,FALSE,ukulele-songs-popular,-
 classical picks,4,tannhauser,richard wagner,chords,song,FALSE,ukulele-songs-popular,-
 classical picks,5,tannhauser,richard wagner,double stops,song,FALSE,ukulele-songs-popular,-
+polyrhythms & polymeters,2,3 against 4,the yousicians,melody,song,FALSE,ukulele-challenges,-
+polyrhythms & polymeters,4,polymeter play,the yousicians,basic melody,song,FALSE,ukulele-challenges,-
+polyrhythms & polymeters,4,3 against 4,the yousicians,chords,song,FALSE,ukulele-challenges,-
+polyrhythms & polymeters,7,polymeter play,the yousicians,chords,song,FALSE,ukulele-challenges,-
 flamenco,2,ole mi pulgar,the yousicians,melody,song,FALSE,ukulele-challenges,-
 flamenco,5,luna de triana,the yousicians,chords,song,FALSE,ukulele-challenges,-
 flamenco,6,ole mi pulgar,the yousicians,rhythm,song,FALSE,ukulele-challenges,-
@@ -3341,6 +3353,10 @@ fast and furious riffs,9,looks don't deceive,?,full bass,song,FALSE,bass-learn-m
 fast and furious riffs,9,spandex nigthmares,?,rock bass,song,FALSE,bass-learn-missions,playing
 fast and furious riffs,9,don't need you no more,?,bass,song,FALSE,bass-learn-missions,playing
 rock on,2,black,pearl jam,basic bass,song,TRUE,bass-songs-popular,-
+polyrhythms & polymeters,2,3 against 4,the yousicians,basic bassline,song,FALSE,bass-challenges,-
+polyrhythms & polymeters,2,polymeter play,the yousicians,basic bassline,song,FALSE,bass-challenges,-
+polyrhythms & polymeters,5,3 against 4,the yousicians,full bassline,song,FALSE,bass-challenges,-
+polyrhythms & polymeters,7,polymeter play,the yousicians,full bassline,song,FALSE,bass-challenges,-
 flamenco,2,luna de triana,the yousicians,basic bassline,song,FALSE,bass-challenges,-
 flamenco,2,ole mi pulgar,the yousicians,basic bassline,song,FALSE,bass-challenges,-
 flamenco,6,luna de triana,the yousicians,full bassline,song,FALSE,bass-challenges,-
