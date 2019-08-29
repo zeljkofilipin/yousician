@@ -419,6 +419,10 @@ barre chords,8,barre your sould,?,barre 7th chords,song,FALSE,guitar-learn-missi
 barre chords,8,honeymoon bossa nova,?,barre chords,song,FALSE,guitar-learn-missions,rhythm
 chord trainers,1,chord trainer: cowboy - E Em Am,-,-,trainer,FALSE,guitar-learn-workouts,-
 happy holidays,1,o holy night,traditional,basic riff,song,FALSE,guitar-songs-popular,-
+blues for rory,2,every step,the yousicians,basic riff,song,FALSE,guitar-challenges,-
+blues for rory,5,midnight blues,the yousicians,riff,song,FALSE,guitar-challenges,-
+blues for rory,6,every step,the yousicians,rhythm,song,FALSE,guitar-challenges,-
+blues for rory,9,midnight blues,the yousicians,rhythm & lead,song,FALSE,guitar-challenges,-
 ferramentum mechanica,2,4869 days,the yousicians,basic riff,song,FALSE,guitar-challenges,-
 ferramentum mechanica,4,ferramentum mechanica,the yousicians,basic riff,song,FALSE,guitar-challenges,-
 ferramentum mechanica,9,ferramentum mechanica,the yousicians,full rhythm,song,FALSE,guitar-challenges,-
@@ -1610,6 +1614,10 @@ D-jamz,6,trainer: quantum science - djamz,-,-,trainer,FALSE,piano-learn-missions
 D-jamz,6,quantum science,the yousicians,djamz,song,FALSE,piano-learn-missions,pop
 tutorial videos,3,video: beats per bar,-,-,video,FALSE,piano-learn-workouts,-
 rock on,4,sweet home alabama,lynyrd skynyrd,bass,song,TRUE,piano-songs-popular,-
+blues for rory,3,every step,the yousicians,two hands,song,FALSE,piano-challenges,-
+blues for rory,5,midnight blues,the yousicians,two hands,song,FALSE,piano-challenges,-
+blues for rory,6,every step,the yousicians,chords and bass,song,FALSE,piano-challenges,-
+blues for rory,9,midnight blues,the yousicians,advanced,song,FALSE,piano-challenges,-
 ferramentum mechanica,2,ferramentum mechanica,the yousicians,left hand,song,FALSE,piano-challenges,-
 ferramentum mechanica,4,4869 days,the yousicians,two hands,song,FALSE,piano-challenges,-
 ferramentum mechanica,6,ferramentum mechanica,the yousicians,two hands,song,FALSE,piano-challenges,-
@@ -2794,6 +2802,10 @@ classical picks,2,symphony no 40,wolfgang amadeus mozart,basic melody,song,FALSE
 classical picks,10,symphony no 40,wolfgang amadeus mozart,melody,song,FALSE,ukulele-songs-popular,-
 classical picks,4,tannhauser,richard wagner,chords,song,FALSE,ukulele-songs-popular,-
 classical picks,5,tannhauser,richard wagner,double stops,song,FALSE,ukulele-songs-popular,-
+blues for rory,2,every step,the yousicians,melody,song,FALSE,ukulele-challenges,-
+blues for rory,4,midnight blues,the yousicians,chords,song,FALSE,ukulele-challenges,-
+blues for rory,5,every step,the yousicians,chords,song,FALSE,ukulele-challenges,-
+blues for rory,7,midnight blues,the yousicians,rhythm,song,FALSE,ukulele-challenges,-
 ferramentum mechanica,2,4869 days,the yousicians,melody,song,FALSE,ukulele-challenges,-
 ferramentum mechanica,4,ferramentum mechanica,the yousicians,melody,song,FALSE,ukulele-challenges,-
 ferramentum mechanica,7,ferramentum mechanica,the yousicians,fingerpicking,song,FALSE,ukulele-challenges,-
@@ -3365,6 +3377,10 @@ fast and furious riffs,9,looks don't deceive,?,full bass,song,FALSE,bass-learn-m
 fast and furious riffs,9,spandex nigthmares,?,rock bass,song,FALSE,bass-learn-missions,playing
 fast and furious riffs,9,don't need you no more,?,bass,song,FALSE,bass-learn-missions,playing
 rock on,2,black,pearl jam,basic bass,song,TRUE,bass-songs-popular,-
+blues for rory,1,every step,the yousicians,basic bassline,song,FALSE,bass-challenges,-
+blues for rory,2,midnight blues,the yousicians,basic bassline,song,FALSE,bass-challenges,-
+blues for rory,8,every step,the yousicians,full bassline,song,FALSE,bass-challenges,-
+blues for rory,11,midnight blues,the yousicians,full bassline,song,FALSE,bass-challenges,-
 ferramentum mechanica,3,4869 days,the yousicians,basic bassline,song,FALSE,bass-challenges,-
 ferramentum mechanica,3,ferramentum mechanica,the yousicians,basic bassline,song,FALSE,bass-challenges,-
 ferramentum mechanica,7,4869 days,the yousicians,full bassline,song,FALSE,bass-challenges,-
