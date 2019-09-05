@@ -419,6 +419,10 @@ barre chords,8,barre your sould,?,barre 7th chords,song,FALSE,guitar-learn-missi
 barre chords,8,honeymoon bossa nova,?,barre chords,song,FALSE,guitar-learn-missions,rhythm
 chord trainers,1,chord trainer: cowboy - E Em Am,-,-,trainer,FALSE,guitar-learn-workouts,-
 happy holidays,1,o holy night,traditional,basic riff,song,FALSE,guitar-songs-popular,-
+let's ballad!,3,arthur mcbride,traditional,cowboy chords,song,FALSE,guitar-challenges,-
+let's ballad!,4,black is the color (of my true love's hair),traditional,melody,song,FALSE,guitar-challenges,-
+let's ballad!,7,arthur mcbride,traditional,lead,song,FALSE,guitar-challenges,-
+let's ballad!,7,black is the color (of my true love's hair),traditional,fingerpicking,song,FALSE,guitar-challenges,-
 blues for rory,2,every step,the yousicians,basic riff,song,FALSE,guitar-challenges,-
 blues for rory,5,midnight blues,the yousicians,riff,song,FALSE,guitar-challenges,-
 blues for rory,6,every step,the yousicians,rhythm,song,FALSE,guitar-challenges,-
@@ -1614,6 +1618,10 @@ D-jamz,6,trainer: quantum science - djamz,-,-,trainer,FALSE,piano-learn-missions
 D-jamz,6,quantum science,the yousicians,djamz,song,FALSE,piano-learn-missions,pop
 tutorial videos,3,video: beats per bar,-,-,video,FALSE,piano-learn-workouts,-
 rock on,4,sweet home alabama,lynyrd skynyrd,bass,song,TRUE,piano-songs-popular,-
+let's ballad!,2,arthur mcbride,traditional,two hands,song,FALSE,piano-challenges,-
+let's ballad!,4,black is the color (of my true love's hair),traditional,melody,song,FALSE,piano-challenges,-
+let's ballad!,6,arthur mcbride,traditional,bass and chords,song,FALSE,piano-challenges,-
+let's ballad!,8,black is the color (of my true love's hair),traditional,advanced,song,FALSE,piano-challenges,-
 blues for rory,3,every step,the yousicians,two hands,song,FALSE,piano-challenges,-
 blues for rory,5,midnight blues,the yousicians,two hands,song,FALSE,piano-challenges,-
 blues for rory,6,every step,the yousicians,chords and bass,song,FALSE,piano-challenges,-
@@ -2802,6 +2810,10 @@ classical picks,2,symphony no 40,wolfgang amadeus mozart,basic melody,song,FALSE
 classical picks,10,symphony no 40,wolfgang amadeus mozart,melody,song,FALSE,ukulele-songs-popular,-
 classical picks,4,tannhauser,richard wagner,chords,song,FALSE,ukulele-songs-popular,-
 classical picks,5,tannhauser,richard wagner,double stops,song,FALSE,ukulele-songs-popular,-
+let's ballad!,2,black is the color (of my true love's hair),traditional,basic melody,song,FALSE,ukulele-challenges,-
+let's ballad!,4,arthur mcbride,traditional,chords,song,FALSE,ukulele-challenges,-
+let's ballad!,5,black is the color (of my true love's hair),traditional,fingerpicking,song,FALSE,ukulele-challenges,-
+let's ballad!,6,arthur mcbride,traditional,melody,song,FALSE,ukulele-challenges,-
 blues for rory,2,every step,the yousicians,melody,song,FALSE,ukulele-challenges,-
 blues for rory,4,midnight blues,the yousicians,chords,song,FALSE,ukulele-challenges,-
 blues for rory,5,every step,the yousicians,chords,song,FALSE,ukulele-challenges,-
@@ -3377,6 +3389,10 @@ fast and furious riffs,9,looks don't deceive,?,full bass,song,FALSE,bass-learn-m
 fast and furious riffs,9,spandex nigthmares,?,rock bass,song,FALSE,bass-learn-missions,playing
 fast and furious riffs,9,don't need you no more,?,bass,song,FALSE,bass-learn-missions,playing
 rock on,2,black,pearl jam,basic bass,song,TRUE,bass-songs-popular,-
+let's ballad!,1,black is the color (of my true love's hair),traditional,basic bassline,song,FALSE,bass-challenges,-
+let's ballad!,2,arthur mcbride,traditional,basic bassline,song,FALSE,bass-challenges,-
+let's ballad!,6,black is the color (of my true love's hair),traditional,melody,song,FALSE,bass-challenges,-
+let's ballad!,6,arthur mcbride,traditional,full bassline,song,FALSE,bass-challenges,-
 blues for rory,1,every step,the yousicians,basic bassline,song,FALSE,bass-challenges,-
 blues for rory,2,midnight blues,the yousicians,basic bassline,song,FALSE,bass-challenges,-
 blues for rory,8,every step,the yousicians,full bassline,song,FALSE,bass-challenges,-
