@@ -31,30 +31,30 @@ Not all songs are listed (yet).
 
 | Location               | Review     | Complete % | Comment                     |
 | ---------------------- | ---------- | ---------- | --------------------------- |
-| challenges             | 2019-09-05 | 100        | 2015-10/2019-36 (236/236)   |
+| challenges             | 2019-09-16 | 100        | 2015-10/2019-37 (237/237)   |
 | guitar-home-new        | 2019-02-07 |            | update                      |
 | guitar-home-new-more   | 2019-02-07 |            | 1 song                      |
 | guitar-learn-missions  | 2019-03-18 |  36        | levels 0-1, 7-8 (4/11)      |
 | guitar-learn-workouts  | 2019-02-07 |            | 1 song                      |
 | guitar-songs-popular   | 2019-02-07 |            | 1 song                      |
-| guitar-challenges      | 2019-09-05 | 100        | 2015-10/2019-36 (236/236)   |
+| guitar-challenges      | 2019-09-16 | 100        | 2015-10/2019-37 (237/237)   |
 | piano-home-new         | 2019-02-07 |            | update                      |
 | piano-home-new-more    | 2019-02-07 |            | 1 song                      |
 | piano-learn-missions   | 2019-02-07 |  44        | levels 0-6 (7/16)           |
 | piano-learn-workouts   | 2019-02-07 |            | 1 song                      |
 | piano-songs-popular    | 2019-02-07 |            | 1 song                      |
-| piano-challenges       | 2019-09-05 |  51        | 2017-36/2019-34 (105/206)   |
+| piano-challenges       | 2019-09-16 |  51        | 2017-36/2019-37 (106/207)   |
 | ukulele-home-new       | 2019-02-21 | 100        |                             |
 | ukulele-home-new-more  | 2019-02-21 | 100        |                             |
 | ukulele-learn-missions | 2019-02-07 | 100        |                             |
 | ukulele-learn-workouts | 2019-02-07 | 100        |                             |
 | ukulele-songs-popular  | 2019-02-07 | 100        |                             |
-| ukulele-challenges     | 2019-09-05 |  53        | 2017-36/2019-36 (105/198)   |
+| ukulele-challenges     | 2019-09-16 |  53        | 2017-36/2019-37 (106/199)   |
 | bass-home-new          | 2019-02-07 |            | 1 song                      |
 | bass-home-new-more     | 2019-02-07 |            | 1 song                      |
 | bass-learn-missions    | 2019-02-20 | 100        | some ? author at level 9    |
 | bass-songs-popular     | 2019-02-07 |            | 1 song                      |
-| bass-challenges        | 2019-09-05 |  59        | 2017-36/2019-36 (105/179)   |
+| bass-challenges        | 2019-09-16 |  59        | 2017-36/2019-37 (106/180)   |
 | voice-home-new         | 2019-02-07 |            | 1 song                      |
 | voice-home-new-more    | 2019-02-07 |            | 1 song                      |
 | voice-learn-missions   | 2019-02-16 | 100        |                             |

@@ -419,6 +419,10 @@ barre chords,8,barre your sould,?,barre 7th chords,song,FALSE,guitar-learn-missi
 barre chords,8,honeymoon bossa nova,?,barre chords,song,FALSE,guitar-learn-missions,rhythm
 chord trainers,1,chord trainer: cowboy - E Em Am,-,-,trainer,FALSE,guitar-learn-workouts,-
 happy holidays,1,o holy night,traditional,basic riff,song,FALSE,guitar-songs-popular,-
+dub town folk,2,hokey pokey,traditional,basic riff,song,FALSE,guitar-challenges,-
+dub town folk,4,hummani hei dub,traditional,cowboy chords,song,FALSE,guitar-challenges,-
+dub town folk,6,hummani hei dub,traditional,main melody,song,FALSE,guitar-challenges,-
+dub town folk,8,hokey pokey,traditional,lead,song,FALSE,guitar-challenges,-
 let's ballad!,3,arthur mcbride,traditional,cowboy chords,song,FALSE,guitar-challenges,-
 let's ballad!,4,black is the color (of my true love's hair),traditional,melody,song,FALSE,guitar-challenges,-
 let's ballad!,7,arthur mcbride,traditional,lead,song,FALSE,guitar-challenges,-
@@ -1618,6 +1622,10 @@ D-jamz,6,trainer: quantum science - djamz,-,-,trainer,FALSE,piano-learn-missions
 D-jamz,6,quantum science,the yousicians,djamz,song,FALSE,piano-learn-missions,pop
 tutorial videos,3,video: beats per bar,-,-,video,FALSE,piano-learn-workouts,-
 rock on,4,sweet home alabama,lynyrd skynyrd,bass,song,TRUE,piano-songs-popular,-
+dub town folk,2,hummani hei dub,traditional,two hands,song,FALSE,piano-challenges,-
+dub town folk,4,hokey pokey,traditional,two hands,song,FALSE,piano-challenges,-
+dub town folk,6,hummani hei dub,traditional,accompainment,song,FALSE,piano-challenges,-
+dub town folk,9,hokey pokey,traditional,advanced,song,FALSE,piano-challenges,-
 let's ballad!,2,arthur mcbride,traditional,two hands,song,FALSE,piano-challenges,-
 let's ballad!,4,black is the color (of my true love's hair),traditional,melody,song,FALSE,piano-challenges,-
 let's ballad!,6,arthur mcbride,traditional,bass and chords,song,FALSE,piano-challenges,-
@@ -2810,6 +2818,10 @@ classical picks,2,symphony no 40,wolfgang amadeus mozart,basic melody,song,FALSE
 classical picks,10,symphony no 40,wolfgang amadeus mozart,melody,song,FALSE,ukulele-songs-popular,-
 classical picks,4,tannhauser,richard wagner,chords,song,FALSE,ukulele-songs-popular,-
 classical picks,5,tannhauser,richard wagner,double stops,song,FALSE,ukulele-songs-popular,-
+dub town folk,2,hummani hei dub,traditional,basic melody,song,FALSE,ukulele-challenges,-
+dub town folk,4,hokey pokey,traditional,chords,song,FALSE,ukulele-challenges,-
+dub town folk,6,hummani hei dub,traditional,full melody,song,FALSE,ukulele-challenges,-
+dub town folk,8,hokey pokey,traditional,melody,song,FALSE,ukulele-challenges,-
 let's ballad!,2,black is the color (of my true love's hair),traditional,basic melody,song,FALSE,ukulele-challenges,-
 let's ballad!,4,arthur mcbride,traditional,chords,song,FALSE,ukulele-challenges,-
 let's ballad!,5,black is the color (of my true love's hair),traditional,fingerpicking,song,FALSE,ukulele-challenges,-
@@ -3389,6 +3401,10 @@ fast and furious riffs,9,looks don't deceive,?,full bass,song,FALSE,bass-learn-m
 fast and furious riffs,9,spandex nigthmares,?,rock bass,song,FALSE,bass-learn-missions,playing
 fast and furious riffs,9,don't need you no more,?,bass,song,FALSE,bass-learn-missions,playing
 rock on,2,black,pearl jam,basic bass,song,TRUE,bass-songs-popular,-
+dub town folk,2,hummani hei dub,traditional,basic bassline,song,FALSE,bass-challenges,-
+dub town folk,2,hokey pokey,traditional,basic bassline,song,FALSE,bass-challenges,-
+dub town folk,5,hummani hei dub,traditional,full bassline,song,FALSE,bass-challenges,-
+dub town folk,6,hokey pokey,traditional,full bassline,song,FALSE,bass-challenges,-
 let's ballad!,1,black is the color (of my true love's hair),traditional,basic bassline,song,FALSE,bass-challenges,-
 let's ballad!,2,arthur mcbride,traditional,basic bassline,song,FALSE,bass-challenges,-
 let's ballad!,6,black is the color (of my true love's hair),traditional,melody,song,FALSE,bass-challenges,-
