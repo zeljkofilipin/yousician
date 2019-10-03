@@ -419,6 +419,10 @@ FALSE,song,guitar-learn-missions-rhythm,barre chords,8,flat out,?,barre chords
 FALSE,song,guitar-learn-missions-rhythm,barre chords,8,barre your sould,?,barre 7th chords
 FALSE,song,guitar-learn-missions-rhythm,barre chords,8,honeymoon bossa nova,?,barre chords
 FALSE,song,guitar-songs-popular,happy holidays,1,o holy night,traditional,basic riff
+FALSE,song,guitar-challenges,one for ric,2,stick your nose into trouble,the yousicians,basic riff
+FALSE,song,guitar-challenges,one for ric,4,driving around in polygons,the yousicians,basic riff
+FALSE,song,guitar-challenges,one for ric,7,stick your nose into trouble,the yousicians,full riff
+FALSE,song,guitar-challenges,one for ric,8,driving around in polygons,the yousicians,lead
 FALSE,song,guitar-challenges,forever young,2,the power you have,the yousicians,basic melody
 FALSE,song,guitar-challenges,forever young,4,ice cube shower,the yousicians,cowboy chords
 FALSE,song,guitar-challenges,forever young,6,the power you have,the yousicians,fancy chords
@@ -1630,6 +1634,10 @@ FALSE,trainer,piano-learn-missions-pop,D-jamz,6,trainer: quantum science - djamz
 FALSE,song,piano-learn-missions-pop,D-jamz,6,quantum science,the yousicians,djamz
 FALSE,video,piano-learn-workouts,tutorial videos,3,video: beats per bar,-,-
 TRUE,song,piano-songs-popular,rock on,4,sweet home alabama,lynyrd skynyrd,bass
+FALSE,song,piano-challenges,one for ric,2,driving around in polygons,the yousicians,left hand
+FALSE,song,piano-challenges,one for ric,4,stick your nose into trouble,the yousicians,two hands
+FALSE,song,piano-challenges,one for ric,6,driving around in polygons,the yousicians,melody
+FALSE,song,piano-challenges,one for ric,8,stick your nose into trouble,the yousicians,advanced
 FALSE,song,piano-challenges,forever young,2,ice cube shower,the yousicians,two hands
 FALSE,song,piano-challenges,forever young,3,the power you have,the yousicians,right hand
 FALSE,song,piano-challenges,forever young,5,ice cube shower,the yousicians,bass and chords
@@ -2834,6 +2842,10 @@ FALSE,song,ukulele-songs-popular,classical picks,2,symphony no 40,wolfgang amade
 FALSE,song,ukulele-songs-popular,classical picks,10,symphony no 40,wolfgang amadeus mozart,melody
 FALSE,song,ukulele-songs-popular,classical picks,4,tannhauser,richard wagner,chords
 FALSE,song,ukulele-songs-popular,classical picks,5,tannhauser,richard wagner,double stops
+FALSE,song,ukulele-challenges,one for ric,2,stick your nose into trouble,the yousicians,basic melody
+FALSE,song,ukulele-challenges,one for ric,5,stick your nose into trouble,the yousicians,rhythm
+FALSE,song,ukulele-challenges,one for ric,6,driving around in polygons,the yousicians,chords
+FALSE,song,ukulele-challenges,one for ric,7,driving around in polygons,the yousicians,melody
 FALSE,song,ukulele-challenges,forever young,2,the power you have,the yousicians,melody
 FALSE,song,ukulele-challenges,forever young,4,ice cube shower,the yousicians,chords
 FALSE,song,ukulele-challenges,forever young,6,the power you have,the yousicians,chrods
@@ -3425,6 +3437,10 @@ FALSE,song,bass-learn-missions-playing,fast and furious riffs,9,looks don't dece
 FALSE,song,bass-learn-missions-playing,fast and furious riffs,9,spandex nigthmares,?,rock bass
 FALSE,song,bass-learn-missions-playing,fast and furious riffs,9,don't need you no more,?,bass
 TRUE,song,bass-songs-popular,rock on,2,black,pearl jam,basic bass
+FALSE,song,bass-challenges,one for ric,2,stick your nose into trouble,the yousicians,basic bassline
+FALSE,song,bass-challenges,one for ric,2,driving around in polygons,the yousicians,basic bassline
+FALSE,song,bass-challenges,one for ric,6,stick your nose into trouble,the yousicians,full bassline
+FALSE,song,bass-challenges,one for ric,6,driving around in polygons,the yousicians,full bassline
 FALSE,song,bass-challenges,forever young,2,ice cube shower,the yousicians,basic bassline
 FALSE,song,bass-challenges,forever young,2,the power you have,the yousicians,basic bassline
 FALSE,song,bass-challenges,forever young,6,ice cube shower,the yousicians,full bassline
