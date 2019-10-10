@@ -419,6 +419,10 @@ guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,flat out
 guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre 7th chords,8,barre your sould
 guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,honeymoon bossa nova
 guitar-songs-popular,happy holidays,FALSE,song,traditional,basic riff,1,o holy night
+guitar-challenges,might & magic,FALSE,song,the yousicians,basic melody,3,wizard's walz
+guitar-challenges,might & magic,FALSE,song,the yousicians,main riff,5,march of the elf army
+guitar-challenges,might & magic,FALSE,song,the yousicians,fingerpicking,7,wizard's walz
+guitar-challenges,might & magic,FALSE,song,the yousicians,full melody,8,march of the elf army
 guitar-challenges,one for ric,FALSE,song,the yousicians,basic riff,2,stick your nose into trouble
 guitar-challenges,one for ric,FALSE,song,the yousicians,basic riff,4,driving around in polygons
 guitar-challenges,one for ric,FALSE,song,the yousicians,full riff,7,stick your nose into trouble
@@ -1634,6 +1638,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - d
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
 piano-learn-workouts,tutorial videos,FALSE,video,-,-,3,video: beats per bar
 piano-songs-popular,rock on,TRUE,song,lynyrd skynyrd,bass,4,sweet home alabama
+piano-challenges,might & magic,FALSE,song,the yousicians,two hands easy,3,wizard's walz
+piano-challenges,might & magic,FALSE,song,the yousicians,two hands,4,march of the elf army
+piano-challenges,might & magic,FALSE,song,the yousicians,two hands,6,wizard's walz
+piano-challenges,might & magic,FALSE,song,the yousicians,advanced,9,march of the elf army
 piano-challenges,one for ric,FALSE,song,the yousicians,left hand,2,driving around in polygons
 piano-challenges,one for ric,FALSE,song,the yousicians,two hands,4,stick your nose into trouble
 piano-challenges,one for ric,FALSE,song,the yousicians,melody,6,driving around in polygons
@@ -2842,6 +2850,10 @@ ukulele-songs-popular,classical picks,FALSE,song,wolfgang amadeus mozart,basic m
 ukulele-songs-popular,classical picks,FALSE,song,wolfgang amadeus mozart,melody,10,symphony no 40
 ukulele-songs-popular,classical picks,FALSE,song,richard wagner,chords,4,tannhauser
 ukulele-songs-popular,classical picks,FALSE,song,richard wagner,double stops,5,tannhauser
+ukulele-challenges,might & magic,FALSE,song,the yousicians,melody,1,wizard's walz
+ukulele-challenges,might & magic,FALSE,song,the yousicians,chords,4,march of the elf army
+ukulele-challenges,might & magic,FALSE,song,the yousicians,fingerpicking,6,wizard's walz
+ukulele-challenges,might & magic,FALSE,song,the yousicians,melody,7,march of the elf army
 ukulele-challenges,one for ric,FALSE,song,the yousicians,basic melody,2,stick your nose into trouble
 ukulele-challenges,one for ric,FALSE,song,the yousicians,rhythm,5,stick your nose into trouble
 ukulele-challenges,one for ric,FALSE,song,the yousicians,chords,6,driving around in polygons
@@ -3437,6 +3449,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,?,full bass,9,look
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,?,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,?,bass,9,don't need you no more
 bass-songs-popular,rock on,TRUE,song,pearl jam,basic bass,2,black
+bass-challenges,might & magic,FALSE,song,the yousicians,basic bassline,2,march of the elf army
+bass-challenges,might & magic,FALSE,song,the yousicians,basic bassline,2,wizard's walz
+bass-challenges,might & magic,FALSE,song,the yousicians,full bassline,6,march of the elf army
+bass-challenges,might & magic,FALSE,song,the yousicians,melody,10,wizard's walz
 bass-challenges,one for ric,FALSE,song,the yousicians,basic bassline,2,stick your nose into trouble
 bass-challenges,one for ric,FALSE,song,the yousicians,basic bassline,2,driving around in polygons
 bass-challenges,one for ric,FALSE,song,the yousicians,full bassline,6,stick your nose into trouble
