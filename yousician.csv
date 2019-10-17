@@ -419,6 +419,10 @@ guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,flat out
 guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre 7th chords,8,barre your sould
 guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,honeymoon bossa nova
 guitar-songs-popular,happy holidays,FALSE,song,traditional,basic riff,1,o holy night
+guitar-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,basic riff,1,how to write a hit
+guitar-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,basic melody,3,hit chorus generator
+guitar-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,rhythm,6,hit chorus generator
+guitar-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,full rhythm,8,how to write a hit
 guitar-challenges,might & magic,FALSE,song,the yousicians,basic melody,3,wizard's walz
 guitar-challenges,might & magic,FALSE,song,the yousicians,main riff,5,march of the elf army
 guitar-challenges,might & magic,FALSE,song,the yousicians,fingerpicking,7,wizard's walz
@@ -1638,6 +1642,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - d
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
 piano-learn-workouts,tutorial videos,FALSE,video,-,-,3,video: beats per bar
 piano-songs-popular,rock on,TRUE,song,lynyrd skynyrd,bass,4,sweet home alabama
+piano-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,left hand,2,how to write a hit
+piano-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,two hands,4,hit chorus generator
+piano-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,two hands,6,how to write a hit
+piano-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,chords and bass,8,hit chorus generator
 piano-challenges,might & magic,FALSE,song,the yousicians,two hands easy,3,wizard's walz
 piano-challenges,might & magic,FALSE,song,the yousicians,two hands,4,march of the elf army
 piano-challenges,might & magic,FALSE,song,the yousicians,two hands,6,wizard's walz
@@ -2850,6 +2858,10 @@ ukulele-songs-popular,classical picks,FALSE,song,wolfgang amadeus mozart,basic m
 ukulele-songs-popular,classical picks,FALSE,song,wolfgang amadeus mozart,melody,10,symphony no 40
 ukulele-songs-popular,classical picks,FALSE,song,richard wagner,chords,4,tannhauser
 ukulele-songs-popular,classical picks,FALSE,song,richard wagner,double stops,5,tannhauser
+ukulele-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,basic melody,2,hit chorus generator
+ukulele-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,chords,4,how to write a hit
+ukulele-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,rhythm,6,hit chorus generator
+ukulele-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,rhythm,7,how to write a hit
 ukulele-challenges,might & magic,FALSE,song,the yousicians,melody,1,wizard's walz
 ukulele-challenges,might & magic,FALSE,song,the yousicians,chords,4,march of the elf army
 ukulele-challenges,might & magic,FALSE,song,the yousicians,fingerpicking,6,wizard's walz
@@ -3449,6 +3461,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,?,full bass,9,look
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,?,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,?,bass,9,don't need you no more
 bass-songs-popular,rock on,TRUE,song,pearl jam,basic bass,2,black
+bass-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,basic bassline,1,how to write a hit
+bass-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,basic bassline,2,hit chorus generator
+bass-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,full bassline,5,hit chorus generator
+bass-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,full bassline,6,how to write a hit
 bass-challenges,might & magic,FALSE,song,the yousicians,basic bassline,2,march of the elf army
 bass-challenges,might & magic,FALSE,song,the yousicians,basic bassline,2,wizard's walz
 bass-challenges,might & magic,FALSE,song,the yousicians,full bassline,6,march of the elf army
