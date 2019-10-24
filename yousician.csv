@@ -419,6 +419,10 @@ guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,flat out
 guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre 7th chords,8,barre your sould
 guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,honeymoon bossa nova
 guitar-songs-popular,happy holidays,FALSE,song,traditional,basic riff,1,o holy night
+guitar-challenges,tunes from the haunted house,FALSE,song,the yousicians,basic riff,2,the waltz of the haunted house
+guitar-challenges,tunes from the haunted house,FALSE,song,the yousicians,main riff,5,the grim librarian
+guitar-challenges,tunes from the haunted house,FALSE,song,the yousicians,fingerpicking,8,the waltz of the haunted house
+guitar-challenges,tunes from the haunted house,FALSE,song,the yousicians,rhythm & lead,10,the grim librarian
 guitar-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,basic riff,1,how to write a hit
 guitar-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,basic melody,3,hit chorus generator
 guitar-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,rhythm,6,hit chorus generator
@@ -1642,6 +1646,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - d
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
 piano-learn-workouts,tutorial videos,FALSE,video,-,-,3,video: beats per bar
 piano-songs-popular,rock on,TRUE,song,lynyrd skynyrd,bass,4,sweet home alabama
+piano-challenges,tunes from the haunted house,FALSE,song,the yousicians,bass easy,2,the grim librarian
+piano-challenges,tunes from the haunted house,FALSE,song,the yousicians,right hand,5,the waltz of the haunted house
+piano-challenges,tunes from the haunted house,FALSE,song,the yousicians,bass two hands,6,the grim librarian
+piano-challenges,tunes from the haunted house,FALSE,song,the yousicians,advanced,9,the waltz of the haunted house
 piano-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,left hand,2,how to write a hit
 piano-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,two hands,4,hit chorus generator
 piano-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,two hands,6,how to write a hit
@@ -2858,6 +2866,10 @@ ukulele-songs-popular,classical picks,FALSE,song,wolfgang amadeus mozart,basic m
 ukulele-songs-popular,classical picks,FALSE,song,wolfgang amadeus mozart,melody,10,symphony no 40
 ukulele-songs-popular,classical picks,FALSE,song,richard wagner,chords,4,tannhauser
 ukulele-songs-popular,classical picks,FALSE,song,richard wagner,double stops,5,tannhauser
+ukulele-challenges,tunes from the haunted house,FALSE,song,the yousicians,basic melody,2,the grim librarian
+ukulele-challenges,tunes from the haunted house,FALSE,song,the yousicians,fingerpicking,5,the waltz of the haunted house
+ukulele-challenges,tunes from the haunted house,FALSE,song,the yousicians,rhythm & lead,6,the grim librarian
+ukulele-challenges,tunes from the haunted house,FALSE,song,the yousicians,melody,7,the waltz of the haunted house
 ukulele-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,basic melody,2,hit chorus generator
 ukulele-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,chords,4,how to write a hit
 ukulele-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,rhythm,6,hit chorus generator
@@ -3461,6 +3473,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,?,full bass,9,look
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,?,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,?,bass,9,don't need you no more
 bass-songs-popular,rock on,TRUE,song,pearl jam,basic bass,2,black
+bass-challenges,tunes from the haunted house,FALSE,song,the yousicians,basic bassline,2,the waltz of the haunted house
+bass-challenges,tunes from the haunted house,FALSE,song,the yousicians,basic bassline,3,the grim librarian
+bass-challenges,tunes from the haunted house,FALSE,song,the yousicians,main bassline,5,the grim librarian
+bass-challenges,tunes from the haunted house,FALSE,song,the yousicians,full bassline,6,the waltz of the haunted house
 bass-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,basic bassline,1,how to write a hit
 bass-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,basic bassline,2,hit chorus generator
 bass-challenges,knowledge toolbox: anatomy of a pop song,FALSE,song,the yousicians,full bassline,5,hit chorus generator
