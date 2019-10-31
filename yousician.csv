@@ -419,6 +419,10 @@ guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,flat out
 guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre 7th chords,8,barre your sould
 guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,honeymoon bossa nova
 guitar-songs-popular,happy holidays,FALSE,song,traditional,basic riff,1,o holy night
+guitar-challenges,keep calm and play on,FALSE,song,the yousicians,basic melody,3,tear hunter
+guitar-challenges,keep calm and play on,FALSE,song,the yousicians,melody,4,morning sun
+guitar-challenges,keep calm and play on,FALSE,song,the yousicians,fingerpicking,7,tear hunter
+guitar-challenges,keep calm and play on,FALSE,song,the yousicians,fingerpicking,9,morning sun
 guitar-challenges,tunes from the haunted house,FALSE,song,the yousicians,basic riff,2,the waltz of the haunted house
 guitar-challenges,tunes from the haunted house,FALSE,song,the yousicians,main riff,5,the grim librarian
 guitar-challenges,tunes from the haunted house,FALSE,song,the yousicians,fingerpicking,8,the waltz of the haunted house
@@ -1646,6 +1650,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - d
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
 piano-learn-workouts,tutorial videos,FALSE,video,-,-,3,video: beats per bar
 piano-songs-popular,rock on,TRUE,song,lynyrd skynyrd,bass,4,sweet home alabama
+piano-challenges,keep calm and play on,FALSE,song,the yousicians,bassline,2,morning sun
+piano-challenges,keep calm and play on,FALSE,song,the yousicians,two hands,3,tear hunter
+piano-challenges,keep calm and play on,FALSE,song,the yousicians,two hands,6,morning sun
+piano-challenges,keep calm and play on,FALSE,song,the yousicians,melody and bass,8,tear hunter
 piano-challenges,tunes from the haunted house,FALSE,song,the yousicians,bass easy,2,the grim librarian
 piano-challenges,tunes from the haunted house,FALSE,song,the yousicians,right hand,5,the waltz of the haunted house
 piano-challenges,tunes from the haunted house,FALSE,song,the yousicians,bass two hands,6,the grim librarian
@@ -2866,6 +2874,10 @@ ukulele-songs-popular,classical picks,FALSE,song,wolfgang amadeus mozart,basic m
 ukulele-songs-popular,classical picks,FALSE,song,wolfgang amadeus mozart,melody,10,symphony no 40
 ukulele-songs-popular,classical picks,FALSE,song,richard wagner,chords,4,tannhauser
 ukulele-songs-popular,classical picks,FALSE,song,richard wagner,double stops,5,tannhauser
+ukulele-challenges,keep calm and play on,FALSE,song,the yousicians,basic melody,1,tear hunter
+ukulele-challenges,keep calm and play on,FALSE,song,the yousicians,chords,4,morning sun
+ukulele-challenges,keep calm and play on,FALSE,song,the yousicians,fingerpicking,5,morning sun
+ukulele-challenges,keep calm and play on,FALSE,song,the yousicians,fingerpicking,6,tear hunter
 ukulele-challenges,tunes from the haunted house,FALSE,song,the yousicians,basic melody,2,the grim librarian
 ukulele-challenges,tunes from the haunted house,FALSE,song,the yousicians,fingerpicking,5,the waltz of the haunted house
 ukulele-challenges,tunes from the haunted house,FALSE,song,the yousicians,rhythm & lead,6,the grim librarian
@@ -3473,6 +3485,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,?,full bass,9,look
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,?,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,?,bass,9,don't need you no more
 bass-songs-popular,rock on,TRUE,song,pearl jam,basic bass,2,black
+bass-challenges,keep calm and play on,FALSE,song,the yousicians,basic bassline,2,tear hunter
+bass-challenges,keep calm and play on,FALSE,song,the yousicians,basic bassline,2,morning sun
+bass-challenges,keep calm and play on,FALSE,song,the yousicians,melody,5,tear hunter
+bass-challenges,keep calm and play on,FALSE,song,the yousicians,full bassline,5,morning sun
 bass-challenges,tunes from the haunted house,FALSE,song,the yousicians,basic bassline,2,the waltz of the haunted house
 bass-challenges,tunes from the haunted house,FALSE,song,the yousicians,basic bassline,3,the grim librarian
 bass-challenges,tunes from the haunted house,FALSE,song,the yousicians,main bassline,5,the grim librarian
