@@ -419,6 +419,10 @@ guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,flat out
 guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre 7th chords,8,barre your sould
 guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,honeymoon bossa nova
 guitar-songs-popular,happy holidays,FALSE,song,traditional,basic riff,1,o holy night
+guitar-challenges,midnight special,FALSE,song,traditional,basic riff,2,midnight special
+guitar-challenges,midnight special,FALSE,song,traditional,cowboy chords,4,man of constant sorrow
+guitar-challenges,midnight special,FALSE,song,traditional,melody,6,man of constant sorrow
+guitar-challenges,midnight special,FALSE,song,traditional,rhythm & lead,9,midnight special
 guitar-challenges,keep calm and play on,FALSE,song,the yousicians,basic melody,3,tear hunter
 guitar-challenges,keep calm and play on,FALSE,song,the yousicians,melody,4,morning sun
 guitar-challenges,keep calm and play on,FALSE,song,the yousicians,fingerpicking,7,tear hunter
@@ -1650,6 +1654,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - d
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
 piano-learn-workouts,tutorial videos,FALSE,video,-,-,3,video: beats per bar
 piano-songs-popular,rock on,TRUE,song,lynyrd skynyrd,bass,4,sweet home alabama
+piano-challenges,midnight special,FALSE,song,traditional,two hands,2,man of constant sorrow
+piano-challenges,midnight special,FALSE,song,traditional,two hands,3,midnight special
+piano-challenges,midnight special,FALSE,song,traditional,melody and chords,6,man of constant sorrow
+piano-challenges,midnight special,FALSE,song,traditional,chords and bass,7,midnight special
 piano-challenges,keep calm and play on,FALSE,song,the yousicians,bassline,2,morning sun
 piano-challenges,keep calm and play on,FALSE,song,the yousicians,two hands,3,tear hunter
 piano-challenges,keep calm and play on,FALSE,song,the yousicians,two hands,6,morning sun
@@ -2874,6 +2882,10 @@ ukulele-songs-popular,classical picks,FALSE,song,wolfgang amadeus mozart,basic m
 ukulele-songs-popular,classical picks,FALSE,song,wolfgang amadeus mozart,melody,10,symphony no 40
 ukulele-songs-popular,classical picks,FALSE,song,richard wagner,chords,4,tannhauser
 ukulele-songs-popular,classical picks,FALSE,song,richard wagner,double stops,5,tannhauser
+ukulele-challenges,midnight special,FALSE,song,traditional,melody,2,midnight special
+ukulele-challenges,midnight special,FALSE,song,traditional,chords,3,man of constant sorrow
+ukulele-challenges,midnight special,FALSE,song,traditional,chords,5,midnight special
+ukulele-challenges,midnight special,FALSE,song,traditional,melody,7,man of constant sorrow
 ukulele-challenges,keep calm and play on,FALSE,song,the yousicians,basic melody,1,tear hunter
 ukulele-challenges,keep calm and play on,FALSE,song,the yousicians,chords,4,morning sun
 ukulele-challenges,keep calm and play on,FALSE,song,the yousicians,fingerpicking,5,morning sun
@@ -3485,6 +3497,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,?,full bass,9,look
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,?,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,?,bass,9,don't need you no more
 bass-songs-popular,rock on,TRUE,song,pearl jam,basic bass,2,black
+bass-challenges,midnight special,FALSE,song,traditional,basic bassline,1,man of constant sorrow
+bass-challenges,midnight special,FALSE,song,traditional,basic bassline,2,midnight special
+bass-challenges,midnight special,FALSE,song,traditional,full bassline,5,man of constant sorrow
+bass-challenges,midnight special,FALSE,song,traditional,full bassline,7,midnight special
 bass-challenges,keep calm and play on,FALSE,song,the yousicians,basic bassline,2,tear hunter
 bass-challenges,keep calm and play on,FALSE,song,the yousicians,basic bassline,2,morning sun
 bass-challenges,keep calm and play on,FALSE,song,the yousicians,melody,5,tear hunter
