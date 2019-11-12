@@ -43,18 +43,18 @@ Not all songs are listed (yet).
 | piano-learn-missions   | 2019-02-07 |  44        | levels 0-6 (7/16)           |
 | piano-learn-workouts   | 2019-02-07 |            | 1 song                      |
 | piano-songs-popular    | 2019-02-07 |            | 1 song                      |
-| piano-challenges       | 2019-11-07 |  53        | 2017-36/2019-45 (115/215)   |
+| piano-challenges       | 2019-11-11 | 100        | 2015-40/2019-45 (215/215)   |
 | ukulele-home-new       | 2019-02-21 | 100        |                             |
 | ukulele-home-new-more  | 2019-02-21 | 100        |                             |
 | ukulele-learn-missions | 2019-02-07 | 100        |                             |
 | ukulele-learn-workouts | 2019-02-07 | 100        |                             |
 | ukulele-songs-popular  | 2019-02-07 | 100        |                             |
-| ukulele-challenges     | 2019-11-07 |  55        | 2017-36/2019-45 (115/207)   |
+| ukulele-challenges     | 2019-11-11 | 100        | 2015-48/2019-45 (207/207)   |
 | bass-home-new          | 2019-02-07 |            | 1 song                      |
 | bass-home-new-more     | 2019-02-07 |            | 1 song                      |
 | bass-learn-missions    | 2019-02-20 | 100        | some ? author at level 9    |
 | bass-songs-popular     | 2019-02-07 |            | 1 song                      |
-| bass-challenges        | 2019-11-07 |  61        | 2017-36/2019-45 (115/188)   |
+| bass-challenges        | 2019-11-11 | 100        | 2016-14/2019-45 (188/188)   |
 | voice-home-new         | 2019-02-07 |            | 1 song                      |
 | voice-home-new-more    | 2019-02-07 |            | 1 song                      |
 | voice-learn-missions   | 2019-02-16 | 100        |                             |
