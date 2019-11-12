@@ -2110,6 +2110,410 @@ piano-challenges,calm classical,FALSE,song,wolfgang amadeus mozart,left hand,1,a
 piano-challenges,calm classical,FALSE,song,camille saint-saens,melody,3,le cygne
 piano-challenges,calm classical,FALSE,song,wolfgang amadeus mozart,two hands,5,andante
 piano-challenges,calm classical,FALSE,song,camille saint-saens,accompaniment,8,le cygne
+piano-challenges,country roads,FALSE,song,traditional,bass,1,the rambling gambler
+piano-challenges,country roads,FALSE,song,traditional,melody,3,the wayfaring stranger
+piano-challenges,country roads,FALSE,song,traditional,chords,5,the rambling gambler
+piano-challenges,country roads,FALSE,song,traditional,accompaniment,8,the wayfaring stranger
+piano-challenges,echoes walls and mad jewels,FALSE,song,the yousicians,bass,1,the great pig in the sky
+piano-challenges,echoes walls and mad jewels,FALSE,song,the yousicians,melody,2,swimming in a fish bowl
+piano-challenges,echoes walls and mad jewels,FALSE,song,the yousicians,accompaniment,5,swimming in a fish bowl
+piano-challenges,echoes walls and mad jewels,FALSE,song,the yousicians,accompaniment,7,the great pig in the sky
+piano-challenges,the dance of the knights,FALSE,song,sergei prokofiev,melody,1,dance of the knights
+piano-challenges,the dance of the knights,FALSE,song,antonin dvorak,accompaniment,2,allegro con fuoco
+piano-challenges,the dance of the knights,FALSE,song,antonin dvorak,accompaniment,5,allegro con fuoco
+piano-challenges,the dance of the knights,FALSE,song,sergei prokofiev,accompaniment,8,dance of the knights
+piano-challenges,one for chester,FALSE,song,the yousicians,melody,1,before it fades away
+piano-challenges,one for chester,FALSE,song,the yousicians,accompaniment,3,shade of me
+piano-challenges,one for chester,FALSE,song,the yousicians,accompaniment,5,before it fades away
+piano-challenges,one for chester,FALSE,song,the yousicians,chords,7,shade of me
+piano-challenges,rocky road to dublin,FALSE,song,traditional,melody,2,black velvet band
+piano-challenges,rocky road to dublin,FALSE,song,traditional,melody,3,rocky road to dublin
+piano-challenges,rocky road to dublin,FALSE,song,traditional,solo piano,5,black velvet band
+piano-challenges,rocky road to dublin,FALSE,song,traditional,solo piano,9,rocky road to dublin
+piano-challenges,the life and times of todd,FALSE,song,the yousicians,melody,2,if you only knew
+piano-challenges,the life and times of todd,FALSE,song,the yousicians,accompaniment,3,my name is todd
+piano-challenges,the life and times of todd,FALSE,song,the yousicians,accompaniment,5,if you only knew
+piano-challenges,the life and times of todd,FALSE,song,the yousicians,solo piano,8,my name is todd
+piano-challenges,four flat tires on a muddy road,FALSE,song,the yousicians,bass,1,no blues
+piano-challenges,four flat tires on a muddy road,FALSE,song,the yousicians,band,2,four flat tires on a muddy road
+piano-challenges,four flat tires on a muddy road,FALSE,song,the yousicians,band,4,four flat tires on a muddy road
+piano-challenges,four flat tires on a muddy road,FALSE,song,the yousicians,accompaniment,6,no blues
+piano-challenges,painting the sky,FALSE,song,the yousicians,bass,1,frozen particles
+piano-challenges,painting the sky,FALSE,song,the yousicians,accompaniment,2,painting the sky
+piano-challenges,painting the sky,FALSE,song,the yousicians,accompaniment,4,painting the sky
+piano-challenges,painting the sky,FALSE,song,the yousicians,accompaniment,7,frozen particles
+piano-challenges,spandex nightmares,FALSE,song,the yousicians,melody,2,work of art
+piano-challenges,spandex nightmares,FALSE,song,the yousicians,accompaniment,3,spandex nightmares
+piano-challenges,spandex nightmares,FALSE,song,the yousicians,accompaniment,5,work of art
+piano-challenges,spandex nightmares,FALSE,song,the yousicians,solo piano,7,spandex nightmares
+piano-challenges,sir uke,FALSE,song,the yousicians,bass,1,milk & honey land
+piano-challenges,sir uke,FALSE,song,the yousicians,accompaniment,3,sir uke
+piano-challenges,sir uke,FALSE,song,the yousicians,chords,5,sir uke
+piano-challenges,sir uke,FALSE,song,the yousicians,accompaniment,6,milk & honey land
+piano-challenges,summer madness,FALSE,song,the yousicians,bass,1,everyone's doing it
+piano-challenges,summer madness,FALSE,song,the yousicians,melody,3,alrigth remix
+piano-challenges,summer madness,FALSE,song,the yousicians,chords,5,everyone's doing it
+piano-challenges,summer madness,FALSE,song,the yousicians,accompaniment,8,alrigth remix
+piano-challenges,baroque hits,FALSE,song,johann sebastian bach,bass,1,air (in C)
+piano-challenges,baroque hits,FALSE,song,antonio vivaldi,melody,2,four seasons (spring)
+piano-challenges,baroque hits,FALSE,song,antonio vivaldi,melody,4,four seasons (spring)
+piano-challenges,baroque hits,FALSE,song,johann sebastian bach,solo piano,9,air (in C)
+piano-challenges,from dublin with love,FALSE,song,traditional,bass,1,paddy on the railway
+piano-challenges,from dublin with love,FALSE,song,traditional,melody,2,molly malone (in C)
+piano-challenges,from dublin with love,FALSE,song,traditional,chords,5,molly malone (in G)
+piano-challenges,from dublin with love,FALSE,song,traditional,accompaniment,7,paddy on the railway
+piano-challenges,into the battle,FALSE,song,the yousicians,melody,2,the last laugh will be hers
+piano-challenges,into the battle,FALSE,song,the yousicians,accompaniment,3,wrath of the rising king
+piano-challenges,into the battle,FALSE,song,the yousicians,chords,5,the last laugh will be hers
+piano-challenges,into the battle,FALSE,song,the yousicians,solo piano,8,wrath of the rising king
+piano-challenges,one for cornell,FALSE,song,the yousicians,bass,1,march on fire
+piano-challenges,one for cornell,FALSE,song,the yousicians,accompaniment,3,cheers for cornell
+piano-challenges,one for cornell,FALSE,song,the yousicians,accompaniment,4,march on fire
+piano-challenges,one for cornell,FALSE,song,the yousicians,solo piano,7,cheers for cornell
+piano-challenges,common life & miracles,FALSE,song,the yousicians,melody,1,call for the spring
+piano-challenges,common life & miracles,FALSE,song,the yousicians,accompaniment,3,quantum science
+piano-challenges,common life & miracles,FALSE,song,the yousicians,accompaniment,5,call for the spring
+piano-challenges,common life & miracles,FALSE,song,the yousicians,accompaniment,6,quantum science
+piano-challenges,challenging visions,FALSE,song,traditional,melody,2,te deum
+piano-challenges,challenging visions,FALSE,song,the yousicians,accompaniment,3,the clock is ticking
+piano-challenges,challenging visions,FALSE,song,traditional,solo piano,5,te deum
+piano-challenges,challenging visions,FALSE,song,the yousicians,accompaniment,7,the clock is ticking
+piano-challenges,in the court of the weekly challenge,FALSE,song,the yousicians,melody,1,sitting on a park bench
+piano-challenges,in the court of the weekly challenge,FALSE,song,the yousicians,accompaniment,2,progman's lament
+piano-challenges,in the court of the weekly challenge,FALSE,song,the yousicians,accompaniment,5,progman's lament
+piano-challenges,in the court of the weekly challenge,FALSE,song,the yousicians,accompaniment,8,sitting on a park bench
+piano-challenges,challenge in a bottle,FALSE,song,the yousicians,melody,1,melting seconds
+piano-challenges,challenge in a bottle,FALSE,song,the yousicians,accompaniment,2,i keep falling
+piano-challenges,challenge in a bottle,FALSE,song,the yousicians,accompaniment,5,melting seconds
+piano-challenges,challenge in a bottle,FALSE,song,the yousicians,solo piano,7,i keep falling
+piano-challenges,the return of the chiptunes,FALSE,song,the yousicians,melody,2,hero of time
+piano-challenges,the return of the chiptunes,FALSE,song,the yousicians,accompaniment,3,pharaoh princess
+piano-challenges,the return of the chiptunes,FALSE,song,the yousicians,solo piano,5,hero of time
+piano-challenges,the return of the chiptunes,FALSE,song,the yousicians,accompaniment,7,pharaoh princess
+piano-challenges,get funky,FALSE,song,the yousicians,bass,1,funky madman
+piano-challenges,get funky,FALSE,song,the yousicians,accompaniment,2,luthier sam
+piano-challenges,get funky,FALSE,song,the yousicians,melody,4,luthier sam
+piano-challenges,get funky,FALSE,song,the yousicians,accompaniment,8,funky madman
+piano-challenges,lonely hearts,FALSE,song,the yousicians,bass,1,yellowstone
+piano-challenges,lonely hearts,FALSE,song,the yousicians,chords,2,cafe olvido
+piano-challenges,lonely hearts,FALSE,song,the yousicians,accompaniment,4,yellowstone
+piano-challenges,lonely hearts,FALSE,song,the yousicians,accompaniment,7,cafe olvido
+piano-challenges,duckwalk avenue,FALSE,song,the yousicians,melody,1,do the duckwalk
+piano-challenges,duckwalk avenue,FALSE,song,the yousicians,accompaniment,2,john & uma
+piano-challenges,duckwalk avenue,FALSE,song,the yousicians,accompaniment,5,do the duckwalk
+piano-challenges,duckwalk avenue,FALSE,song,the yousicians,accompaniment,7,john & uma
+piano-challenges,dawn to dusk,FALSE,song,edvard grieg,bass,1,morning mood
+piano-challenges,dawn to dusk,FALSE,song,wolfgang amadeus mozart,melody,2,eine kleine nachtmusik
+piano-challenges,dawn to dusk,FALSE,song,wolfgang amadeus mozart,melody,5,eine kleine nachtmusik
+piano-challenges,dawn to dusk,FALSE,song,edvard grieg,solo piano,7,morning mood
+piano-challenges,burning balalaikas,FALSE,song,traditional,melody,1,slavic polka medley
+piano-challenges,burning balalaikas,FALSE,song,traditional,melody,2,volga boatmen
+piano-challenges,burning balalaikas,FALSE,song,traditional,accompaniment,5,volga boatmen
+piano-challenges,burning balalaikas,FALSE,song,traditional,solo piano,9,slavic polka medley
+piano-challenges,rock explosion,FALSE,song,the yousicians,accompaniment,2,jimi would be proud
+piano-challenges,rock explosion,FALSE,song,the yousicians,accompaniment,3,seek for the light
+piano-challenges,rock explosion,FALSE,song,the yousicians,chords,5,jimi would be proud
+piano-challenges,rock explosion,FALSE,song,the yousicians,accompaniment,8,seek for the light
+piano-challenges,sunday morning jazz breakfast,FALSE,song,the yousicians,bass,1,cookin'
+piano-challenges,sunday morning jazz breakfast,FALSE,song,the yousicians,bass,3,sunday jazz
+piano-challenges,sunday morning jazz breakfast,FALSE,song,the yousicians,chords,5,sunday jazz
+piano-challenges,sunday morning jazz breakfast,FALSE,song,the yousicians,solo piano,7,cookin'
+piano-challenges,dark hounds & white whales,FALSE,song,the yousicians,melody,1,dangerous game
+piano-challenges,dark hounds & white whales,FALSE,song,the yousicians,accompaniment,2,a ladder to the sky
+piano-challenges,dark hounds & white whales,FALSE,song,the yousicians,accompaniment,4,dangerous game
+piano-challenges,dark hounds & white whales,FALSE,song,the yousicians,chords,6,a ladder to the sky
+piano-challenges,dub til you drop,FALSE,song,the yousicians,bass,1,waitin' for the train
+piano-challenges,dub til you drop,FALSE,song,the yousicians,accompaniment,3,the world is not rotten
+piano-challenges,dub til you drop,FALSE,song,the yousicians,chords,5,waitin' for the train
+piano-challenges,dub til you drop,FALSE,song,the yousicians,solo piano,7,the world is not rotten
+piano-challenges,corazon bailando,FALSE,song,the yousicians,melody,1,corazon bailando
+piano-challenges,corazon bailando,FALSE,song,the yousicians,accompaniment,2,jammin' in the barrio
+piano-challenges,corazon bailando,FALSE,song,the yousicians,accompaniment,4,jammin' in the barrio
+piano-challenges,corazon bailando,FALSE,song,the yousicians,solo piano,6,corazon bailando
+piano-challenges,metal mania,FALSE,song,the yousicians,melody,0,in your dreams
+piano-challenges,metal mania,FALSE,song,the yousicians,melody,1,one forgiven
+piano-challenges,metal mania,FALSE,song,the yousicians,accompaniment,3,in your dreams
+piano-challenges,metal mania,FALSE,song,the yousicians,chords,7,one forgiven
+piano-challenges,bluegrass fever,FALSE,song,traditional,bass,1,lazy john
+piano-challenges,bluegrass fever,FALSE,song,traditional,melody,2,blackberry blossom
+piano-challenges,bluegrass fever,FALSE,song,traditional,accompaniment,4,blackberry blossom
+piano-challenges,bluegrass fever,FALSE,song,the yousicians,chords,6,lazy john
+piano-challenges,disco daddy,FALSE,song,the yousicians,bass,1,king of the disco
+piano-challenges,disco daddy,FALSE,song,the yousicians,melody,2,disco daddy
+piano-challenges,disco daddy,FALSE,song,the yousicians,melody,6,king of the disco
+piano-challenges,disco daddy,FALSE,song,the yousicians,accompaniment,8,disco daddy
+piano-challenges,italia!,FALSE,song,traditional,melody,1,torna a surriento
+piano-challenges,italia!,FALSE,song,traditional,melody,3,tarantella
+piano-challenges,italia!,FALSE,song,traditional,accompaniment,5,torna a surriento
+piano-challenges,italia!,FALSE,song,traditional,solo piano,10,tarantella
+piano-challenges,delicate moods,FALSE,song,traditional,bass,1,romanza
+piano-challenges,delicate moods,FALSE,song,frederic chopin,melody,2,raindrop prelude (in C)
+piano-challenges,delicate moods,FALSE,song,traditional,accompaniment,5,romanza
+piano-challenges,delicate moods,FALSE,song,frederic chopin,solo piano,8,raindrop prelude (in C)
+piano-challenges,future city sounds,FALSE,song,the yousicians,melody,2,asha & lata
+piano-challenges,future city sounds,FALSE,song,the yousicians,melody,3,shangai future city
+piano-challenges,future city sounds,FALSE,song,the yousicians,chords,7,asha & lata
+piano-challenges,future city sounds,FALSE,song,the yousicians,accompaniment,9,shangai future city
+piano-challenges,from santa with love,FALSE,song,traditional,melody,1,dreidel medley
+piano-challenges,from santa with love,FALSE,song,the yousicians,accompaniment,5,from santa with love
+piano-challenges,from santa with love,FALSE,song,traditional,solo piano,8,dreidel medley
+-,from santa with love,-,-,-,-,-,-
+piano-challenges,christmas classics,FALSE,song,traditional,bass,1,o holy night
+piano-challenges,christmas classics,FALSE,song,traditional,melody,2,silend night (in A)
+piano-challenges,christmas classics,FALSE,song,traditional,chords,4,silend night (in A)
+piano-challenges,christmas classics,FALSE,song,traditional,solo piano,7,o holy night
+piano-challenges,rough it up,FALSE,song,the yousicians,bass,1,fuzzworm
+piano-challenges,rough it up,FALSE,song,the yousicians,melody,2,wreck race
+piano-challenges,rough it up,FALSE,song,the yousicians,melody,5,fuzzworm
+piano-challenges,rough it up,FALSE,song,the yousicians,solo piano,8,wreck race
+piano-challenges,the big bad big band boogie,FALSE,song,the yousicians,melody,1,runaway train
+piano-challenges,the big bad big band boogie,FALSE,song,the yousicians,accompaniment,3,unclean boogie
+piano-challenges,the big bad big band boogie,FALSE,song,the yousicians,melody,6,unclean boogie
+piano-challenges,the big bad big band boogie,FALSE,song,the yousicians,solo piano,10,runaway train
+piano-challenges,slow jamz,FALSE,song,the yousicians,melody,1,the yousician way
+piano-challenges,slow jamz,FALSE,song,the yousicians,melody,2,music on the brain
+piano-challenges,slow jamz,FALSE,song,the yousicians,melody,5,music on the brain
+piano-challenges,slow jamz,FALSE,song,the yousicians,chords,6,the yousician way
+piano-challenges,supermassive supermoon,FALSE,song,the yousicians,bass,1,supermoon
+piano-challenges,supermassive supermoon,FALSE,song,the yousicians,melody,2,bringer of light
+piano-challenges,supermassive supermoon,FALSE,song,the yousicians,accompaniment,5,supermoon
+piano-challenges,supermassive supermoon,FALSE,song,the yousicians,accompaniment,7,bringer of light
+piano-challenges,restless boots,FALSE,song,the yousicians,melody,1,coming home to you
+piano-challenges,restless boots,FALSE,song,the yousicians,bass,2,no turning back
+piano-challenges,restless boots,FALSE,song,the yousicians,melody,3,coming home to you
+piano-challenges,restless boots,FALSE,song,the yousicians,solo piano,9,no turning back
+piano-challenges,west africa,FALSE,song,traditional,melody,1,mansane cisse
+piano-challenges,west africa,FALSE,song,the yousicians,melody,2,boolo (short)
+piano-challenges,west africa,FALSE,song,traditional,melody,4,mansane cisse
+piano-challenges,west africa,FALSE,song,the yousicians,solo piano,10,boolo (short)
+piano-challenges,the return of the pumpkins,FALSE,song,the yousicians,melody,1,il folletto
+piano-challenges,the return of the pumpkins,FALSE,song,the yousicians,melody,2,rise of the pumpkins
+piano-challenges,the return of the pumpkins,FALSE,song,the yousicians,solo piano,4,il folletto
+piano-challenges,the return of the pumpkins,FALSE,song,the yousicians,solo piano,9,rise of the pumpkins
+piano-challenges,helsinki bachata,FALSE,song,joaquin luis,bass,1,no se bailar
+piano-challenges,helsinki bachata,FALSE,song,joaquin luis,melody,2,incognito
+piano-challenges,helsinki bachata,FALSE,song,joaquin luis,melody,4,no se bailar
+piano-challenges,helsinki bachata,FALSE,song,joaquin luis,accompaniment,7,incognito
+piano-challenges,mozart modernized,FALSE,song,wolfgang amadeus mozart,melody,1,rondo alla turca (electro)
+piano-challenges,mozart modernized,FALSE,song,wolfgang amadeus mozart,bass,2,symphony no 40
+piano-challenges,mozart modernized,FALSE,song,wolfgang amadeus mozart,melody,5,rondo alla turca (electro)
+piano-challenges,mozart modernized,FALSE,song,wolfgang amadeus mozart,solo piano,9,symphony no 40
+piano-challenges,alternative adventures,FALSE,song,the yousicians,bass,1,the first mug of joy
+piano-challenges,alternative adventures,FALSE,song,the yousicians,melody,2,go godfather go
+piano-challenges,alternative adventures,FALSE,song,the yousicians,accompaniment,3,the first mug of joy
+piano-challenges,alternative adventures,FALSE,song,the yousicians,accompaniment,9,go godfather go
+piano-challenges,follow me,FALSE,song,the yousicians,bass,1,apple tree
+piano-challenges,follow me,FALSE,song,reemes,melody,2,follow me
+piano-challenges,follow me,FALSE,song,the yousicians,accompaniment,4,apple tree
+piano-challenges,follow me,FALSE,song,reemes,accompaniment,8,follow me
+piano-challenges,cumbia party,FALSE,song,the yousicians,bass,1,cumbia de ukulele
+piano-challenges,cumbia party,FALSE,song,the yousicians,accompaniment,2,danza macumba
+piano-challenges,cumbia party,FALSE,song,the yousicians,chords,5,danza macumba
+piano-challenges,cumbia party,FALSE,song,the yousicians,accompaniment,6,cumbia de ukulele
+piano-challenges,tales from the dark caves,FALSE,song,the yousicians,bass,1,shredder lee
+piano-challenges,tales from the dark caves,FALSE,song,the yousicians,melody,2,dark lullaby
+piano-challenges,tales from the dark caves,FALSE,song,the yousicians,accompaniment,4,shredder lee
+piano-challenges,tales from the dark caves,FALSE,song,the yousicians,solo piano,8,dark lullaby
+piano-challenges,bring on the riddim,FALSE,song,the yousicians,bass,1,bring on the riddim
+piano-challenges,bring on the riddim,FALSE,song,the yousicians,bass,2,summertime wicked
+piano-challenges,bring on the riddim,FALSE,song,the yousicians,accompaniment,4,summertime wicked
+piano-challenges,bring on the riddim,FALSE,song,the yousicians,solo piano,8,bring on the riddim
+piano-challenges,klezmer klassiks,FALSE,song,traditional,melody,1,adir hu
+piano-challenges,klezmer klassiks,FALSE,song,traditional,bass,2,bashie's bounce
+piano-challenges,klezmer klassiks,FALSE,song,traditional,accompaniment,4,adir hu
+piano-challenges,klezmer klassiks,FALSE,song,traditional,solo piano,10,bashie's bounce
+piano-challenges,solely you,FALSE,song,the yousicians,bass,1,solely you
+piano-challenges,solely you,FALSE,song,the yousicians,bass,1,i'm so sad (sha la la la)
+piano-challenges,solely you,FALSE,song,the yousicians,melody,3,solely you
+piano-challenges,solely you,FALSE,song,the yousicians,chords,6,i'm so sad (sha la la la)
+piano-challenges,fiesta mexicana,FALSE,song,traditional,melody,1,la bamba (folk)
+piano-challenges,fiesta mexicana,FALSE,song,traditional,bass,2,jarabe tapatio
+piano-challenges,fiesta mexicana,FALSE,song,traditional,accompaniment,4,jarabe tapatio
+piano-challenges,fiesta mexicana,FALSE,song,traditional,solo piano,7,la bamba (folk)
+piano-challenges,surfin',FALSE,song,traditional,bass,1,misirlou (surf)
+piano-challenges,surfin',FALSE,song,traditional,melody,2,malaguena (surf)
+piano-challenges,surfin',FALSE,song,traditional,chords,5,malaguena (surf)
+piano-challenges,surfin',FALSE,song,traditional,solo piano,7,misirlou (surf)
+piano-challenges,french impressions,FALSE,song,maurice ravel,right hand,1,bolero
+piano-challenges,french impressions,FALSE,song,maurice ravel,bass,2,pavane pour une infante defunte
+piano-challenges,french impressions,FALSE,song,maurice ravel,melody,5,bolero
+piano-challenges,french impressions,FALSE,song,maurice ravel,solo piano,10,pavane pour une infante defunte
+piano-challenges,wicked rhythms,FALSE,song,the yousicians,bass,1,five is the new four
+piano-challenges,wicked rhythms,FALSE,song,the yousicians,accompaniment,3,sultans of syncopation
+piano-challenges,wicked rhythms,FALSE,song,the yousicians,accompaniment,6,five is the new four
+piano-challenges,wicked rhythms,FALSE,song,the yousicians,solo piano,10,sultans of syncopation
+piano-challenges,feelin' good,FALSE,song,the yousicians,melody,1,feelin' good (pa pa pa)
+piano-challenges,feelin' good,FALSE,song,the yousicians,bass,2,let go
+piano-challenges,feelin' good,FALSE,song,the yousicians,chords,5,feelin' good (pa pa pa)
+piano-challenges,feelin' good,FALSE,song,the yousicians,accompaniment,9,let go
+piano-challenges,summer of love,FALSE,song,the yousicians,bass,1,song for tiina
+piano-challenges,summer of love,FALSE,song,the yousicians,accompaniment,2,summer of love
+piano-challenges,summer of love,FALSE,song,the yousicians,melody,4,song for tiina
+piano-challenges,summer of love,FALSE,song,the yousicians,solo piano,8,summer of love
+piano-challenges,classic rock,FALSE,song,the yousicians,melody,1,prostetic hips don't lie
+piano-challenges,classic rock,FALSE,song,the yousicians,melody,2,fast machine
+piano-challenges,classic rock,FALSE,song,the yousicians,chords,6,fast machine
+piano-challenges,classic rock,FALSE,song,the yousicians,solo piano,9,prostetic hips don't lie
+piano-challenges,songs of the midnight sun,FALSE,song,traditional,accompaniment,2,sakkijarven polka
+piano-challenges,songs of the midnight sun,FALSE,song,the yousicians,chords,5,midsummer melodies
+piano-challenges,songs of the midnight sun,FALSE,song,the yousicians,accompaniment,10,sakkijarven polka
+-,songs of the midnight sun,-,-,-,-,-,-
+piano-challenges,feel the beat,FALSE,song,the yousicians,bass,1,water got a friend
+piano-challenges,feel the beat,FALSE,song,the yousicians,melody,2,burumg
+piano-challenges,feel the beat,FALSE,song,the yousicians,melody,4,water got a friend
+piano-challenges,feel the beat,FALSE,song,the yousicians,solo piano,10,burumg
+piano-challenges,adrenaline rush,FALSE,song,the yousicians,bass,1,flying through the night
+piano-challenges,adrenaline rush,FALSE,song,the yousicians,melody,1,longing for your love
+piano-challenges,adrenaline rush,FALSE,song,the yousicians,accompaniment,5,longing for your love
+piano-challenges,adrenaline rush,FALSE,song,the yousicians,solo piano,10,flying through the night
+piano-challenges,grandfathers of loud,FALSE,song,ludwig van beethoven,melody,3,symphony no 5
+piano-challenges,grandfathers of loud,FALSE,song,richard wagner,melody,2,ride of the valkyries (in Am)
+piano-challenges,grandfathers of loud,FALSE,song,ludwig van beethoven,accompaniment,5,symphony no 5
+piano-challenges,grandfathers of loud,FALSE,song,richard wagner,accompaniment,8,ride of the valkyries (in Am)
+piano-challenges,light your fire,FALSE,song,the yousicians,melody,2,creatures of my mind
+piano-challenges,light your fire,FALSE,song,the yousicians,melody,1,in love with a snake
+piano-challenges,light your fire,FALSE,song,the yousicians,workout,6,in love with a snake
+piano-challenges,light your fire,FALSE,song,the yousicians,accompaniment,7,creatures of my mind
+piano-challenges,space mammoths,FALSE,song,utopianisti,melody,2,dr gravity's evil plan
+piano-challenges,space mammoths,FALSE,song,utopianisti,melody,4,a hundred rabbits
+piano-challenges,space mammoths,FALSE,song,utopianisti,workout,6,dr gravity's evil plan
+piano-challenges,space mammoths,FALSE,song,utopianisti,solo piano,10,a hundred rabbits
+piano-challenges,the ol' dirt road,FALSE,song,traditional,workout,1,my loving brother
+piano-challenges,the ol' dirt road,FALSE,song,traditional,melody,3,my loving brother
+piano-challenges,the ol' dirt road,FALSE,song,traditional,melody,3,lil' liza jane
+piano-challenges,the ol' dirt road,FALSE,song,traditional,solo piano,13,lil' liza jane
+piano-challenges,pump up the volume,FALSE,song,the yousicians,bass,1,got the moves
+piano-challenges,pump up the volume,FALSE,song,the yousicians,bass,1,voice from the inside
+piano-challenges,pump up the volume,FALSE,song,the yousicians,accompaniment,3,voice from the inside
+piano-challenges,pump up the volume,FALSE,song,the yousicians,melody,3,got the moves
+piano-challenges,summer nights,FALSE,song,the yousicians,melody,1,memories of you
+piano-challenges,summer nights,FALSE,song,the yousicians,melody,2,summer nights
+piano-challenges,summer nights,FALSE,song,the yousicians,solo piano,5,memories of you
+piano-challenges,summer nights,FALSE,song,the yousicians,accompaniment,7,summer nights
+piano-challenges,chill out,FALSE,song,the yousicians,melody,0,skipping stone
+piano-challenges,chill out,FALSE,song,the yousicians,melody,1,windy shores
+piano-challenges,chill out,FALSE,song,the yousicians,workout,7,skipping stone
+piano-challenges,chill out,FALSE,song,the yousicians,accompaniment,9,windy shores
+piano-challenges,it's complicated,FALSE,song,the yousicians,melody,1,how will it be?
+piano-challenges,it's complicated,FALSE,song,the yousicians,melody,1,come back to my life...ing
+piano-challenges,it's complicated,FALSE,song,the yousicians,chords,4,how will it be?
+piano-challenges,it's complicated,FALSE,song,the yousicians,chords,5,come back to my life...ing
+piano-challenges,rock 'n' roll,FALSE,song,the yousicians,melody,1,tail feather
+piano-challenges,rock 'n' roll,FALSE,song,the yousicians,melody,2,laid-back boogie
+piano-challenges,rock 'n' roll,FALSE,song,the yousicians,chords,5,tail feather
+piano-challenges,rock 'n' roll,FALSE,song,the yousicians,solo piano,11,laid-back boogie
+piano-challenges,swingin',FALSE,song,traditional,melody,1,I ain't got nobody
+piano-challenges,swingin',FALSE,song,traditional,melody,4,st louis blues
+piano-challenges,swingin',FALSE,song,traditional,melody,4,I ain't got nobody
+piano-challenges,swingin',FALSE,song,traditional,solo piano,9,st louis blues
+piano-challenges,sing-along waltzes,FALSE,song,traditional,melody,2,my bonnie lies over the ocean
+piano-challenges,sing-along waltzes,FALSE,song,traditional,melody,6,take me out to the ball game
+piano-challenges,sing-along waltzes,FALSE,song,traditional,accompaniment,3,my bonnie lies over the ocean
+piano-challenges,sing-along waltzes,FALSE,song,traditional,accompaniment,9,take me out to the ball game
+piano-challenges,at the ballet with tchaikovsky,FALSE,song,pyotr ilyich tchaikovsky,melody,3,swan lake
+piano-challenges,at the ballet with tchaikovsky,FALSE,song,pyotr ilyich tchaikovsky,melody,6,swan lake
+piano-challenges,at the ballet with tchaikovsky,FALSE,song,pyotr ilyich tchaikovsky,melody,7,dance of the sugar plum fairy
+piano-challenges,at the ballet with tchaikovsky,FALSE,song,pyotr ilyich tchaikovsky,accompaniment,9,dance of the sugar plum fairy
+piano-challenges,balkan grooves,FALSE,song,traditional,melody,1,duj sandale
+piano-challenges,balkan grooves,FALSE,song,traditional,chords,2,rumelaj
+piano-challenges,balkan grooves,FALSE,song,traditional,solo piano,4,rumelaj
+piano-challenges,balkan grooves,FALSE,song,traditional,solo piano,11,duj sandale
+piano-challenges,sabor cubano,FALSE,song,the yousicians,melody,2,tres lindas cubanas
+piano-challenges,sabor cubano,FALSE,song,traditional,melody,2,guantanamera
+piano-challenges,sabor cubano,FALSE,song,the yousicians,melody,6,tres lindas cubanas
+piano-challenges,sabor cubano,FALSE,song,traditional,accompaniment,9,guantanamera
+piano-challenges,classical picks for the stage,FALSE,song,georges bizet,workout,6,habanera
+piano-challenges,classical picks for the stage,FALSE,song,jacques offenbach,melody,8,infernal gallop
+piano-challenges,classical picks for the stage,FALSE,song,georges bizet,solo piano,9,habanera
+piano-challenges,classical picks for the stage,FALSE,song,jacques offenbach,solo piano,10,infernal gallop
+piano-challenges,rob scallon,FALSE,song,rob scallon,melody,1,iilwy
+piano-challenges,rob scallon,FALSE,song,rob scallon,melody,1,ottawa
+piano-challenges,rob scallon,FALSE,song,rob scallon,workout,6,ottawa
+piano-challenges,rob scallon,FALSE,song,rob scallon,solo piano,7,iilwy
+piano-challenges,wishing in the night,FALSE,song,the yousicians,melody,2,the storm inside me
+piano-challenges,wishing in the night,FALSE,song,the yousicians,melody,5,wishing in the night
+piano-challenges,wishing in the night,FALSE,song,the yousicians,band,7,the storm inside me
+piano-challenges,wishing in the night,FALSE,song,the yousicians,solo piano,10,wishing in the night
+piano-challenges,happy valentine's day,FALSE,song,the yousicians,melody,5,valentine swing
+piano-challenges,happy valentine's day,FALSE,song,the yousicians,solo piano,6,valentine swing
+piano-challenges,happy valentine's day,FALSE,song,the yousicians,solo piano,9,let my piano do the talking
+piano-challenges,happy valentine's day,FALSE,song,the yousicians,solo piano,11,let my piano do the talking
+piano-challenges,ragtime,FALSE,song,scott joplin,bass,4,maple leaf rag (in A)
+piano-challenges,ragtime,FALSE,song,scott joplin,melody,6,the enertainer (slow)
+piano-challenges,ragtime,FALSE,song,scott joplin,melody,6,maple leaf rag (in A)
+piano-challenges,ragtime,FALSE,song,scott joplin,solo piano,14,the enertainer (full)
+piano-challenges,lazing on the caribbean,FALSE,song,traditional,melody,2,sloop john b
+piano-challenges,lazing on the caribbean,FALSE,song,the yousicians,melody,3,island song
+piano-challenges,lazing on the caribbean,FALSE,song,traditional,accompaniment,7,sloop john b
+piano-challenges,lazing on the caribbean,FALSE,song,the yousicians,solo piano,9,island song
+piano-challenges,one for bowie,FALSE,song,the yousicians,solo piano,6,flamboyance
+piano-challenges,one for bowie,FALSE,song,the yousicians,accompaniment,9,flamboyance
+piano-challenges,one for bowie,FALSE,song,the yousicians,chords,7,life on earth
+piano-challenges,one for bowie,FALSE,song,the yousicians,solo piano,10,life on earth
+piano-challenges,one for lemmy,FALSE,song,the yousicians,melody,2,given birth to by life
+piano-challenges,one for lemmy,FALSE,song,the yousicians,workout,6,given birth to by life
+piano-challenges,one for lemmy,FALSE,song,the yousicians,band,3,looks don't deceive
+piano-challenges,one for lemmy,FALSE,song,the yousicians,chords,5,looks don't deceive
+piano-challenges,power thru,FALSE,song,the yousicians,melody,1,fire of desire
+piano-challenges,power thru,FALSE,song,the yousicians,workout,6,fire of desire
+piano-challenges,power thru,FALSE,song,the yousicians,workout,7,you've got the power
+piano-challenges,power thru,FALSE,song,the yousicians,solo piano,14,you've got the power
+piano-challenges,groovin' into 2016,FALSE,song,the yousicians,melody,1,cardamom girl
+piano-challenges,groovin' into 2016,FALSE,song,the yousicians,chords,4,cardamom girl
+piano-challenges,groovin' into 2016,FALSE,song,the yousicians,accompaniment,7,a night to rewind
+piano-challenges,groovin' into 2016,FALSE,song,the yousicians,solo piano,10,a night to rewind
+piano-challenges,happy holidays,FALSE,song,traditional,melody,4,xmas medley
+piano-challenges,happy holidays,FALSE,song,traditional,chords,4,jingle bells
+piano-challenges,happy holidays,FALSE,song,traditional,accompaniment,8,xmas medley
+-,happy holidays,-,-,-,-,-,-
+piano-challenges,snowed in,FALSE,song,traditional,melody,1,angels we have heard on high
+piano-challenges,snowed in,FALSE,song,traditional,chords,4,go tell it on the mountain
+piano-challenges,snowed in,FALSE,song,traditional,accompaniment,6,go tell it on the mountain
+piano-challenges,snowed in,FALSE,song,traditional,accompaniment,7,angels we have heard on high
+piano-challenges,argentine tango,FALSE,song,traditional,melody,1,adios muchachos
+piano-challenges,argentine tango,FALSE,song,traditional,accompaniment,6,adios muchachos
+piano-challenges,argentine tango,FALSE,song,carlos gardel,chords,5,por una cabeza
+piano-challenges,argentine tango,FALSE,song,carlos gardel,solo piano,10,por una cabeza
+piano-challenges,jazzy holidays,FALSE,song,traditional,melody,1,christmas elves
+piano-challenges,jazzy holidays,FALSE,song,the yousicians,chords,3,winter jazz
+piano-challenges,jazzy holidays,FALSE,song,the yousicians,accompaniment,5,winter jazz
+-,jazzy holidays,-,-,-,-,-,-
+piano-challenges,chanson,FALSE,song,the yousicians,melody,1,demain
+piano-challenges,chanson,FALSE,song,the yousicians,melody,5,l'amour a paris
+piano-challenges,chanson,FALSE,song,the yousicians,accompaniment,9,demain
+-,chanson,-,-,-,-,-,-
+piano-challenges,bossa nova,FALSE,song,the yousicians,melody,1,eu nao falo ingles
+piano-challenges,bossa nova,FALSE,song,the yousicians,solo piano,9,a gravidade da lua
+piano-challenges,bossa nova,FALSE,song,the yousicians,melody,9,eu nao falo ingles
+piano-challenges,bossa nova,FALSE,song,the yousicians,solo piano,10,a gravidade da lua
+piano-challenges,the pop star - the sequel,FALSE,song,the yousicians,melody,1,like a boss
+piano-challenges,the pop star - the sequel,FALSE,song,the yousicians,melody,1,artist love
+piano-challenges,the pop star - the sequel,FALSE,song,the yousicians,solo piano,6,artist love
+piano-challenges,the pop star - the sequel,FALSE,song,the yousicians,solo piano,9,like a boss
+piano-challenges,the pop star challenge pt. 1,FALSE,song,the yousicians,melody,2,set me free
+piano-challenges,the pop star challenge pt. 1,FALSE,song,the yousicians,chords,4,my kinda party
+piano-challenges,the pop star challenge pt. 1,FALSE,song,the yousicians,band,6,set me free
+piano-challenges,the pop star challenge pt. 1,FALSE,song,the yousicians,workout,9,my kinda party
+piano-challenges,halloween,FALSE,song,camille saint-saens,melody,1,danse macabre
+piano-challenges,halloween,FALSE,song,camille saint-saens,workout,6,danse macabre
+-,halloween,-,-,-,-,-,-
+-,halloween,-,-,-,-,-,-
+piano-challenges,liverpool,FALSE,song,the yousicians,melody,1,can't buy me skills
+piano-challenges,liverpool,FALSE,song,the yousicians,accompaniment,2,can't buy me skills
+piano-challenges,liverpool,FALSE,song,the yousicians,melody,5,the day before today
+piano-challenges,liverpool,FALSE,song,the yousicians,workout,7,the day before today
+piano-challenges,super chiptunes,FALSE,song,the yousicians,accompaniment,4,axeman (in Am)
+piano-challenges,super chiptunes,FALSE,song,the yousicians,workout,7,grand prix
+piano-challenges,super chiptunes,FALSE,song,the yousicians,solo piano,7,axeman (in Am)
+piano-challenges,super chiptunes,FALSE,song,the yousicians,solo piano,12,grand prix
+piano-challenges,big vintage rock,FALSE,song,the yousicians,accompaniment,3,hearts of lava
+piano-challenges,big vintage rock,FALSE,song,the yousicians,melody,6,dramatic arpeggios
+piano-challenges,big vintage rock,FALSE,song,the yousicians,chords,6,dramatic arpeggios
+piano-challenges,big vintage rock,FALSE,song,the yousicians,accompaniment,8,hearts of lava
+piano-challenges,rockabilly rumble,FALSE,song,the yousicians,chords,5,hillbilly willie
+-,rockabilly rumble,-,-,-,-,-,-
+-,rockabilly rumble,-,-,-,-,-,-
+-,rockabilly rumble,-,-,-,-,-,-
 ukulele-home-new,new on yousician,TRUE,song,gary jules (feat. michael andrews),basic melody,3,mad worlds (in Em)
 ukulele-home-new,new on yousician,TRUE,song,gary jules (feat. michael andrews),chords,4,mad worlds (in Em)
 ukulele-home-new,new on yousician,TRUE,song,gary jules (feat. michael andrews),melody,6,mad worlds (in Em)
