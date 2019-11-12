@@ -3742,6 +3742,378 @@ ukulele-challenges,calm classical,FALSE,song,camille saint-saens,basic melody,2,
 ukulele-challenges,calm classical,FALSE,song,wolfgang amadeus mozart,melody,4,andante
 ukulele-challenges,calm classical,FALSE,song,wolfgang amadeus mozart,fancy chords,6,andante
 ukulele-challenges,calm classical,FALSE,song,camille saint-saens,fingerpicking,8,le cygne
+ukulele-challenges,country roads,FALSE,song,traditional,basic melody,1,the wayfaring stranger
+ukulele-challenges,country roads,FALSE,song,traditional,chords,3,the rambling gambler
+ukulele-challenges,country roads,FALSE,song,traditional,melody,6,the rambling gambler
+ukulele-challenges,country roads,FALSE,song,traditional,full rhythm,8,the wayfaring stranger
+ukulele-challenges,echoes walls and mad jewels,FALSE,song,the yousicians,basic melody,1,swimming in a fish bowl
+ukulele-challenges,echoes walls and mad jewels,FALSE,song,the yousicians,chords,3,swimming in a fish bowl
+ukulele-challenges,echoes walls and mad jewels,FALSE,song,the yousicians,chords,6,the great pig in the sky
+ukulele-challenges,echoes walls and mad jewels,FALSE,song,the yousicians,melody,8,the great pig in the sky
+ukulele-challenges,the dance of the knights,FALSE,song,antonin dvorak,basic melody,2,allegro con fuoco
+ukulele-challenges,the dance of the knights,FALSE,song,sergei prokofiev,basic melody,2,dance of the knights
+ukulele-challenges,the dance of the knights,FALSE,song,antonin dvorak,melody,5,allegro con fuoco
+ukulele-challenges,the dance of the knights,FALSE,song,sergei prokofiev,melody,7,dance of the knights
+ukulele-challenges,one for chester,FALSE,song,the yousicians,basic melody,2,before it fades away
+ukulele-challenges,one for chester,FALSE,song,the yousicians,chords,4,shade of me
+ukulele-challenges,one for chester,FALSE,song,the yousicians,rhythm,6,before it fades away
+ukulele-challenges,one for chester,FALSE,song,the yousicians,melody,8,shade of me
+ukulele-challenges,rocky road to dublin,FALSE,song,traditional,easy strumming,1,rocky road to dublin
+ukulele-challenges,rocky road to dublin,FALSE,song,traditional,basic melody,3,rocky road to dublin
+ukulele-challenges,rocky road to dublin,FALSE,song,traditional,chords,6,black velvet band
+ukulele-challenges,rocky road to dublin,FALSE,song,traditional,fingerpicking,7,black velvet band
+ukulele-challenges,the life and times of todd,FALSE,song,the yousicians,basic melody,1,if you only knew
+ukulele-challenges,the life and times of todd,FALSE,song,the yousicians,melody,4,my name is todd
+ukulele-challenges,the life and times of todd,FALSE,song,the yousicians,chords,5,my name is todd
+ukulele-challenges,the life and times of todd,FALSE,song,the yousicians,chords,6,if you only knew
+ukulele-challenges,four flat tires on a muddy road,FALSE,song,the yousicians,basic melody,2,no blues
+ukulele-challenges,four flat tires on a muddy road,FALSE,song,the yousicians,chords,4,four flat tires on a muddy road
+ukulele-challenges,four flat tires on a muddy road,FALSE,song,the yousicians,fingerpicking,7,no blues
+ukulele-challenges,four flat tires on a muddy road,FALSE,song,the yousicians,melody,8,four flat tires on a muddy road
+ukulele-challenges,painting the sky,FALSE,song,the yousicians,basic melody,1,frozen particles
+ukulele-challenges,painting the sky,FALSE,song,the yousicians,chords,4,painting the sky
+ukulele-challenges,painting the sky,FALSE,song,the yousicians,melody,6,frozen particles
+ukulele-challenges,painting the sky,FALSE,song,the yousicians,fingerpicking,7,painting the sky
+ukulele-challenges,spandex nightmares,FALSE,song,the yousicians,basic melody,1,work of art
+ukulele-challenges,spandex nightmares,FALSE,song,the yousicians,rhythm,3,work of art
+ukulele-challenges,spandex nightmares,FALSE,song,the yousicians,chords,6,spandex nightmares
+ukulele-challenges,spandex nightmares,FALSE,song,the yousicians,melody,7,spandex nightmares
+ukulele-challenges,sir uke,FALSE,song,the yousicians,basic melody,2,milk & honey land
+ukulele-challenges,sir uke,FALSE,song,the yousicians,chords,4,sir uke
+ukulele-challenges,sir uke,FALSE,song,the yousicians,rhythm,6,milk & honey land
+ukulele-challenges,sir uke,FALSE,song,the yousicians,chords & melody,8,sir uke
+ukulele-challenges,summer madness,FALSE,song,the yousicians,basic melody,2,everyone's doing it
+ukulele-challenges,summer madness,FALSE,song,the yousicians,basic melody,3,alrigth remix
+ukulele-challenges,summer madness,FALSE,song,the yousicians,chords,5,everyone's doing it
+ukulele-challenges,summer madness,FALSE,song,the yousicians,chords & melody,8,alrigth remix
+ukulele-challenges,baroque hits,FALSE,song,johann sebastian bach,basic melody,2,air (in F)
+ukulele-challenges,baroque hits,FALSE,song,antonio vivaldi,chords,4,four seasons (spring)
+ukulele-challenges,baroque hits,FALSE,song,johann sebastian bach,fingerpicking,6,air (in C)
+ukulele-challenges,baroque hits,FALSE,song,antonio vivaldi,melody,8,four seasons (spring)
+ukulele-challenges,from dublin with love,FALSE,song,traditional,basic melody,2,molly malone (in C)
+ukulele-challenges,from dublin with love,FALSE,song,traditional,chords,4,molly malone (in C)
+ukulele-challenges,from dublin with love,FALSE,song,traditional,melody,6,paddy on the railway
+ukulele-challenges,from dublin with love,FALSE,song,traditional,chords,7,paddy on the railway
+ukulele-challenges,into the battle,FALSE,song,the yousicians,basic melody,2,wrath of the rising king
+ukulele-challenges,into the battle,FALSE,song,the yousicians,chords,4,the last laugh will be hers
+ukulele-challenges,into the battle,FALSE,song,the yousicians,chords,6,wrath of the rising king
+ukulele-challenges,into the battle,FALSE,song,the yousicians,full melody,8,wrath of the rising king
+ukulele-challenges,one for cornell,FALSE,song,the yousicians,basic melody,2,march on fire
+ukulele-challenges,one for cornell,FALSE,song,the yousicians,melody,4,cheers for cornell
+ukulele-challenges,one for cornell,FALSE,song,the yousicians,rhythm,7,cheers for cornell
+ukulele-challenges,one for cornell,FALSE,song,the yousicians,melody,9,march on fire
+ukulele-challenges,common life & miracles,FALSE,song,the yousicians,basic melody,2,call for the spring
+ukulele-challenges,common life & miracles,FALSE,song,the yousicians,chords,4,call for the spring
+ukulele-challenges,common life & miracles,FALSE,song,the yousicians,workout,6,quantum science
+ukulele-challenges,common life & miracles,FALSE,song,the yousicians,melody,8,quantum science
+ukulele-challenges,challenging visions,FALSE,song,the yousicians,basic melody,1,the clock is ticking
+ukulele-challenges,challenging visions,FALSE,song,the yousicians,chords,4,the clock is ticking
+ukulele-challenges,challenging visions,FALSE,song,traditional,melody,5,te deum
+ukulele-challenges,challenging visions,FALSE,song,traditional,melody,6,te deum
+ukulele-challenges,in the court of the weekly challenge,FALSE,song,the yousicians,basic melody,2,progman's lament
+ukulele-challenges,in the court of the weekly challenge,FALSE,song,the yousicians,chords,4,sitting on a park bench
+ukulele-challenges,in the court of the weekly challenge,FALSE,song,the yousicians,chords,6,progman's lament
+ukulele-challenges,in the court of the weekly challenge,FALSE,song,the yousicians,melody,8,sitting on a park bench
+ukulele-challenges,challenge in a bottle,FALSE,song,the yousicians,basic melody,2,melting seconds
+ukulele-challenges,challenge in a bottle,FALSE,song,the yousicians,basic melody,4,i keep falling
+ukulele-challenges,challenge in a bottle,FALSE,song,the yousicians,chords,6,i keep falling
+ukulele-challenges,challenge in a bottle,FALSE,song,the yousicians,full melody,8,i keep falling
+ukulele-challenges,the return of the chiptunes,FALSE,song,the yousicians,basic melody,2,pharaoh princess
+ukulele-challenges,the return of the chiptunes,FALSE,song,the yousicians,basic melody,4,hero of time
+ukulele-challenges,the return of the chiptunes,FALSE,song,the yousicians,melody,6,pharaoh princess
+ukulele-challenges,the return of the chiptunes,FALSE,song,the yousicians,chords,8,hero of time
+ukulele-challenges,get funky,FALSE,song,the yousicians,basic melody,2,luthier sam
+ukulele-challenges,get funky,FALSE,song,the yousicians,basic chords,4,funky madman
+ukulele-challenges,get funky,FALSE,song,the yousicians,full melody,6,luthier sam
+ukulele-challenges,get funky,FALSE,song,the yousicians,full rhythm,8,funky madman
+ukulele-challenges,lonely hearts,FALSE,song,the yousicians,basic melody,2,cafe olvido
+ukulele-challenges,lonely hearts,FALSE,song,the yousicians,basic melody,4,yellowstone
+ukulele-challenges,lonely hearts,FALSE,song,the yousicians,full melody,6,cafe olvido
+ukulele-challenges,lonely hearts,FALSE,song,the yousicians,chords,8,yellowstone
+ukulele-challenges,duckwalk avenue,FALSE,song,the yousicians,basic melody,2,john & uma
+ukulele-challenges,duckwalk avenue,FALSE,song,the yousicians,basic melody,3,john & uma
+ukulele-challenges,duckwalk avenue,FALSE,song,the yousicians,chords,6,do the duckwalk
+ukulele-challenges,duckwalk avenue,FALSE,song,the yousicians,melody,8,do the duckwalk
+ukulele-challenges,dawn to dusk,FALSE,song,edvard grieg,basic melody,1,morning mood
+ukulele-challenges,dawn to dusk,FALSE,song,edvard grieg,chords & melody,3,morning mood
+ukulele-challenges,dawn to dusk,FALSE,song,wolfgang amadeus mozart,chords,5,eine kleine nachtmusik
+ukulele-challenges,dawn to dusk,FALSE,song,wolfgang amadeus mozart,melody,8,eine kleine nachtmusik
+ukulele-challenges,burning balalaikas,FALSE,song,traditional,basic melody,1,slavic polka medley
+ukulele-challenges,burning balalaikas,FALSE,song,traditional,basic melody,2,volga boatmen
+ukulele-challenges,burning balalaikas,FALSE,song,traditional,chords,4,volga boatmen
+ukulele-challenges,burning balalaikas,FALSE,song,traditional,full melody,7,slavic polka medley
+ukulele-challenges,rock explosion,FALSE,song,the yousicians,basic melody,2,jimi would be proud
+ukulele-challenges,rock explosion,FALSE,song,the yousicians,basic melody,2,seek for the light
+ukulele-challenges,rock explosion,FALSE,song,the yousicians,chords,4,jimi would be proud
+ukulele-challenges,rock explosion,FALSE,song,the yousicians,full rhythm,7,seek for the light
+ukulele-challenges,sunday morning jazz breakfast,FALSE,song,the yousicians,basic melody,2,cookin'
+ukulele-challenges,sunday morning jazz breakfast,FALSE,song,the yousicians,chords,4,sunday jazz
+ukulele-challenges,sunday morning jazz breakfast,FALSE,song,the yousicians,chords,4,cookin'
+ukulele-challenges,sunday morning jazz breakfast,FALSE,song,the yousicians,basic melody,5,sunday jazz
+ukulele-challenges,dark hounds & white whales,FALSE,song,the yousicians,basic melody,1,dangerous game
+ukulele-challenges,dark hounds & white whales,FALSE,song,the yousicians,basic melody,2,a ladder to the sky
+ukulele-challenges,dark hounds & white whales,FALSE,song,the yousicians,chords,4,a ladder to the sky
+ukulele-challenges,dark hounds & white whales,FALSE,song,the yousicians,full rhythm,5,dangerous game
+ukulele-challenges,dub til you drop,FALSE,song,the yousicians,basic melody,1,the world is not rotten
+ukulele-challenges,dub til you drop,FALSE,song,the yousicians,chords,4,waitin' for the train
+ukulele-challenges,dub til you drop,FALSE,song,the yousicians,chords,4,the world is not rotten
+ukulele-challenges,dub til you drop,FALSE,song,the yousicians,melody,7,waitin' for the train
+ukulele-challenges,corazon bailando,FALSE,song,the yousicians,basic melody,1,jammin' in the barrio
+ukulele-challenges,corazon bailando,FALSE,song,the yousicians,basic melody,2,corazon bailando
+ukulele-challenges,corazon bailando,FALSE,song,the yousicians,chords,5,jammin' in the barrio
+ukulele-challenges,corazon bailando,FALSE,song,the yousicians,chords & melody,6,corazon bailando
+ukulele-challenges,metal mania,FALSE,song,the yousicians,basic melody,2,one forgiven
+ukulele-challenges,metal mania,FALSE,song,the yousicians,basic melody,3,in your dreams
+ukulele-challenges,metal mania,FALSE,song,the yousicians,chords,5,one forgiven
+ukulele-challenges,metal mania,FALSE,song,the yousicians,melody,8,one forgiven
+ukulele-challenges,bluegrass fever,FALSE,song,traditional,basic melody,2,blackberry blossom
+ukulele-challenges,bluegrass fever,FALSE,song,the yousicians,chords,4,lazy john (uke mix)
+ukulele-challenges,bluegrass fever,FALSE,song,traditional,chords,5,blackberry blossom
+ukulele-challenges,bluegrass fever,FALSE,song,the yousicians,full melody,7,lazy john (uke mix)
+ukulele-challenges,disco daddy,FALSE,song,the yousicians,basic melody,2,disco daddy
+ukulele-challenges,disco daddy,FALSE,song,the yousicians,basic melody,2,king of the disco
+ukulele-challenges,disco daddy,FALSE,song,the yousicians,chords,3,king of the disco
+ukulele-challenges,disco daddy,FALSE,song,the yousicians,chords,5,disco daddy
+ukulele-challenges,italia!,FALSE,song,traditional,basic melody,2,torna a surriento
+ukulele-challenges,italia!,FALSE,song,traditional,basic melody,3,tarantella
+ukulele-challenges,italia!,FALSE,song,traditional,melody,6,torna a surriento
+ukulele-challenges,italia!,FALSE,song,traditional,melody,8,tarantella
+ukulele-challenges,delicate moods,FALSE,song,traditional,basic melody,2,romanza
+ukulele-challenges,delicate moods,FALSE,song,frederic chopin,melody,5,raindrop prelude (in C)
+ukulele-challenges,delicate moods,FALSE,song,frederic chopin,chords,6,raindrop prelude (in C)
+ukulele-challenges,delicate moods,FALSE,song,traditional,fingerpicking,7,romanza
+ukulele-challenges,future city sounds,FALSE,song,the yousicians,basic melody,2,shangai future city
+ukulele-challenges,future city sounds,FALSE,song,the yousicians,melody,4,asha & lata
+ukulele-challenges,future city sounds,FALSE,song,the yousicians,chords,6,asha & lata
+ukulele-challenges,future city sounds,FALSE,song,the yousicians,melody,10,shangai future city
+ukulele-challenges,from santa with love,FALSE,song,the yousicians,chords,3,from santa with love
+ukulele-challenges,from santa with love,FALSE,song,traditional,chords,4,dreidel medley
+ukulele-challenges,from santa with love,FALSE,song,the yousicians,melody,4,from santa with love
+ukulele-challenges,from santa with love,FALSE,song,traditional,melody,6,dreidel medley
+ukulele-challenges,christmas classics,FALSE,song,traditional,melody,3,silend night (in A)
+ukulele-challenges,christmas classics,FALSE,song,traditional,chords,4,silend night (in A)
+ukulele-challenges,christmas classics,FALSE,song,traditional,chords,4,o holy night
+ukulele-challenges,christmas classics,FALSE,song,traditional,melody,5,o holy night
+ukulele-challenges,rough it up,FALSE,song,the yousicians,basic melody,2,wreck race
+ukulele-challenges,rough it up,FALSE,song,the yousicians,melody,4,fuzzworm
+ukulele-challenges,rough it up,FALSE,song,the yousicians,chords,5,fuzzworm
+ukulele-challenges,rough it up,FALSE,song,the yousicians,rhythm,5,wreck race
+ukulele-challenges,the big bad big band boogie,FALSE,song,the yousicians,basic melody,2,unclean boogie
+ukulele-challenges,the big bad big band boogie,FALSE,song,the yousicians,rhythm,4,runaway train
+ukulele-challenges,the big bad big band boogie,FALSE,song,the yousicians,chords,6,runaway train
+ukulele-challenges,the big bad big band boogie,FALSE,song,the yousicians,rhythm,7,unclean boogie
+ukulele-challenges,slow jamz,FALSE,song,the yousicians,basic melody,1,music on the brain
+ukulele-challenges,slow jamz,FALSE,song,the yousicians,main rhythm,2,music on the brain
+ukulele-challenges,slow jamz,FALSE,song,the yousicians,chords,5,the yousician way
+ukulele-challenges,slow jamz,FALSE,song,the yousicians,main rhythm,7,the yousician way
+ukulele-challenges,supermassive supermoon,FALSE,song,the yousicians,basic melody,1,bringer of light
+ukulele-challenges,supermassive supermoon,FALSE,song,the yousicians,melody,3,bringer of light
+ukulele-challenges,supermassive supermoon,FALSE,song,the yousicians,chords,4,supermoon
+ukulele-challenges,supermassive supermoon,FALSE,song,the yousicians,melody,5,supermoon
+ukulele-challenges,restless boots,FALSE,song,the yousicians,melody,3,no turning back
+ukulele-challenges,restless boots,FALSE,song,the yousicians,melody,4,coming home to you
+ukulele-challenges,restless boots,FALSE,song,the yousicians,chords,5,no turning back
+ukulele-challenges,restless boots,FALSE,song,the yousicians,chords,6,coming home to you
+ukulele-challenges,west africa,FALSE,song,traditional,basic melody,1,mansane cisse
+ukulele-challenges,west africa,FALSE,song,the yousicians,basic melody,2,boolo
+ukulele-challenges,west africa,FALSE,song,traditional,melody,7,mansane cisse
+ukulele-challenges,west africa,FALSE,song,the yousicians,melody,8,boolo
+ukulele-challenges,the return of the pumpkins,FALSE,song,the yousicians,basic melody,2,il folletto
+ukulele-challenges,the return of the pumpkins,FALSE,song,the yousicians,basic melody,3,rise of the pumpkins
+ukulele-challenges,the return of the pumpkins,FALSE,song,the yousicians,main rhythm,5,rise of the pumpkins
+ukulele-challenges,the return of the pumpkins,FALSE,song,the yousicians,chords,6,il folletto
+ukulele-challenges,helsinki bachata,FALSE,song,joaquin luis,main rhythm,3,no se bailar
+ukulele-challenges,helsinki bachata,FALSE,song,joaquin luis,melody,5,incognito
+ukulele-challenges,helsinki bachata,FALSE,song,joaquin luis,chords,6,no se bailar
+ukulele-challenges,helsinki bachata,FALSE,song,joaquin luis,full rhythm,7,incognito
+ukulele-challenges,mozart modernized,FALSE,song,wolfgang amadeus mozart,basic melody,2,rondo alla turca (electro)
+ukulele-challenges,mozart modernized,FALSE,song,wolfgang amadeus mozart,basic melody,2,symphony no 40
+ukulele-challenges,mozart modernized,FALSE,song,wolfgang amadeus mozart,chords,5,rondo alla turca (electro)
+ukulele-challenges,mozart modernized,FALSE,song,wolfgang amadeus mozart,melody,10,symphony no 40
+ukulele-challenges,alternative adventures,FALSE,song,the yousicians,basic melody,2,go godfather go
+ukulele-challenges,alternative adventures,FALSE,song,the yousicians,chords & melody,3,the first mug of joy
+ukulele-challenges,alternative adventures,FALSE,song,the yousicians,melody,5,the first mug of joy
+ukulele-challenges,alternative adventures,FALSE,song,the yousicians,melody,6,go godfather go
+ukulele-challenges,follow me,FALSE,song,the yousicians,chords,3,apple tree
+ukulele-challenges,follow me,FALSE,song,the yousicians,melody,4,apple tree
+ukulele-challenges,follow me,FALSE,song,reemes,chords,5,follow me
+ukulele-challenges,follow me,FALSE,song,reemes,melody,6,follow me
+ukulele-challenges,cumbia party,FALSE,song,the yousicians,basic rhythm,3,cumbia de ukulele
+ukulele-challenges,cumbia party,FALSE,song,the yousicians,basic melody,3,danza macumba
+ukulele-challenges,cumbia party,FALSE,song,the yousicians,chords & melody,9,cumbia de ukulele
+ukulele-challenges,cumbia party,FALSE,song,the yousicians,melody,10,danza macumba
+ukulele-challenges,tales from the dark caves,FALSE,song,the yousicians,melody,3,dark lullaby
+ukulele-challenges,tales from the dark caves,FALSE,song,the yousicians,main rhythm,4,shredder lee
+ukulele-challenges,tales from the dark caves,FALSE,song,the yousicians,chords,5,dark lullaby
+ukulele-challenges,tales from the dark caves,FALSE,song,the yousicians,chords,6,shredder lee
+ukulele-challenges,bring on the riddim,FALSE,song,the yousicians,basic rhythm,3,summertime wicked
+ukulele-challenges,bring on the riddim,FALSE,song,the yousicians,main rhythm,5,bring on the riddim
+ukulele-challenges,bring on the riddim,FALSE,song,the yousicians,chords,5,summertime wicked
+ukulele-challenges,bring on the riddim,FALSE,song,the yousicians,chords,6,bring on the riddim
+ukulele-challenges,klezmer klassiks,FALSE,song,traditional,basic melody,3,bashie's bounce
+ukulele-challenges,klezmer klassiks,FALSE,song,traditional,chords,5,adir hu
+ukulele-challenges,klezmer klassiks,FALSE,song,traditional,melody,6,adir hu
+ukulele-challenges,klezmer klassiks,FALSE,song,traditional,melody,10,bashie's bounce
+ukulele-challenges,solely you,FALSE,song,the yousicians,basic melody,3,solely you
+ukulele-challenges,solely you,FALSE,song,the yousicians,melody,5,i'm so sad (sha la la la)
+ukulele-challenges,solely you,FALSE,song,the yousicians,chords,6,i'm so sad (sha la la la)
+ukulele-challenges,solely you,FALSE,song,the yousicians,fingerpicking,7,solely you
+ukulele-challenges,fiesta mexicana,FALSE,song,traditional,chords,4,la bamba (folk)
+ukulele-challenges,fiesta mexicana,FALSE,song,traditional,chords,6,jarabe tapatio
+ukulele-challenges,fiesta mexicana,FALSE,song,traditional,fingerpicking,7,la bamba (folk)
+ukulele-challenges,fiesta mexicana,FALSE,song,traditional,melody,8,jarabe tapatio
+ukulele-challenges,surfin',FALSE,song,traditional,basic melody,2,misirlou (surf)
+ukulele-challenges,surfin',FALSE,song,traditional,basic melody,4,malaguena (surf)
+ukulele-challenges,surfin',FALSE,song,traditional,chords & melody,6,misirlou (surf)
+ukulele-challenges,surfin',FALSE,song,traditional,melody,7,malaguena (surf)
+ukulele-challenges,french impressions,FALSE,song,maurice ravel,melody,3,bolero
+ukulele-challenges,french impressions,FALSE,song,maurice ravel,melody,4,pavane pour une infante defunte
+ukulele-challenges,french impressions,FALSE,song,maurice ravel,chords,6,pavane pour une infante defunte
+ukulele-challenges,french impressions,FALSE,song,maurice ravel,melody,7,bolero
+ukulele-challenges,wicked rhythms,FALSE,song,the yousicians,basic melody,2,five is the new four
+ukulele-challenges,wicked rhythms,FALSE,song,the yousicians,main rhythm,3,sultans of syncopation
+ukulele-challenges,wicked rhythms,FALSE,song,the yousicians,full melody,5,five is the new four
+ukulele-challenges,wicked rhythms,FALSE,song,the yousicians,full rhythm,6,sultans of syncopation
+ukulele-challenges,feelin' good,FALSE,song,the yousicians,basic melody,2,let go
+ukulele-challenges,feelin' good,FALSE,song,the yousicians,melody,5,feelin' good (pa pa pa)
+ukulele-challenges,feelin' good,FALSE,song,the yousicians,chords,6,feelin' good (pa pa pa)
+ukulele-challenges,feelin' good,FALSE,song,the yousicians,chords & melody,7,let go
+ukulele-challenges,summer of love,FALSE,song,the yousicians,melody,3,summer of love
+ukulele-challenges,summer of love,FALSE,song,the yousicians,melody,4,song for tiina
+ukulele-challenges,summer of love,FALSE,song,the yousicians,chords,5,summer of love
+ukulele-challenges,summer of love,FALSE,song,the yousicians,fingerpicking,7,song for tiina
+ukulele-challenges,classic rock,FALSE,song,the yousicians,basic rhythm,2,prostetic hips don't lie
+ukulele-challenges,classic rock,FALSE,song,the yousicians,main rhythm,4,fast machine
+ukulele-challenges,classic rock,FALSE,song,the yousicians,chords,6,fast machine
+ukulele-challenges,classic rock,FALSE,song,the yousicians,full rhythm,8,prostetic hips don't lie
+ukulele-challenges,songs of the midnight sun,FALSE,song,the yousicians,full melody,3,midsummer melodies
+ukulele-challenges,songs of the midnight sun,FALSE,song,the yousicians,chords,4,midsummer melodies
+ukulele-challenges,songs of the midnight sun,FALSE,song,traditional,chords,8,sakkijarven polka
+ukulele-challenges,songs of the midnight sun,FALSE,song,traditional,melody,6,sakkijarven polka
+ukulele-challenges,feel the beat,FALSE,song,the yousicians,basic melody,3,atimba
+ukulele-challenges,feel the beat,FALSE,song,the yousicians,melody,4,water got a friend
+ukulele-challenges,feel the beat,FALSE,song,the yousicians,chors,5,water got a friend
+ukulele-challenges,feel the beat,FALSE,song,the yousicians,melody,6,atimba
+ukulele-challenges,adrenaline rush,FALSE,song,the yousicians,basic rhythm,2,longing for your love
+ukulele-challenges,adrenaline rush,FALSE,song,the yousicians,chords,4,flying through the night
+ukulele-challenges,adrenaline rush,FALSE,song,the yousicians,melody,5,flying through the night
+ukulele-challenges,adrenaline rush,FALSE,song,the yousicians,full rhythm,7,longing for your love
+ukulele-challenges,grandfathers of loud,FALSE,song,ludwig van beethoven,basic melody,2,symphony no 5
+ukulele-challenges,grandfathers of loud,FALSE,song,ludwig van beethoven,melody,6,symphony no 5
+ukulele-challenges,grandfathers of loud,FALSE,song,richard wagner,melody,6,ride of the valkyries (in Gm)
+ukulele-challenges,grandfathers of loud,FALSE,song,richard wagner,chords,7,ride of the valkyries (in Gm)
+ukulele-challenges,light your fire,FALSE,song,the yousicians,melody,3,creatures of my mind
+ukulele-challenges,light your fire,FALSE,song,the yousicians,basic melody,3,in love with a snake
+ukulele-challenges,light your fire,FALSE,song,the yousicians,chords,4,creatures of my mind
+ukulele-challenges,light your fire,FALSE,song,the yousicians,full rhythm,6,in love with a snake
+ukulele-challenges,space mammoths,FALSE,song,utopianisti,basic rhythm,1,a hundred rabbits
+ukulele-challenges,space mammoths,FALSE,song,utopianisti,basic rhythm,3,dr gravity's evil plan
+ukulele-challenges,space mammoths,FALSE,song,utopianisti,melody,7,dr gravity's evil plan
+ukulele-challenges,space mammoths,FALSE,song,utopianisti,melody,8,a hundred rabbits
+ukulele-challenges,the ol' dirt road,FALSE,song,traditional,melody,3,lil' liza jane
+ukulele-challenges,the ol' dirt road,FALSE,song,traditional,melody,3,my loving brother
+ukulele-challenges,the ol' dirt road,FALSE,song,traditional,chords,4,lil' liza jane
+ukulele-challenges,the ol' dirt road,FALSE,song,traditional,fingerpicking,5,my loving brother
+ukulele-challenges,pump up the volume,FALSE,song,the yousicians,chords,2,got the moves
+ukulele-challenges,pump up the volume,FALSE,song,the yousicians,rhythm,3,voice from the inside
+ukulele-challenges,pump up the volume,FALSE,song,the yousicians,melody,6,got the moves
+ukulele-challenges,pump up the volume,FALSE,song,the yousicians,rhythm,6,voice from the inside
+ukulele-challenges,summer nights,FALSE,song,the yousicians,melody,1,memories of you
+ukulele-challenges,summer nights,FALSE,song,the yousicians,melody,3,summer nights
+ukulele-challenges,summer nights,FALSE,song,the yousicians,chords,4,summer nights
+ukulele-challenges,summer nights,FALSE,song,the yousicians,chords,5,memories of you
+ukulele-challenges,chill out,FALSE,song,the yousicians,melody,0,skipping stone
+ukulele-challenges,chill out,FALSE,song,the yousicians,melody,2,windy shores
+ukulele-challenges,chill out,FALSE,song,the yousicians,chords,5,windy shores
+ukulele-challenges,chill out,FALSE,song,the yousicians,fingerpicking,6,skipping stone
+ukulele-challenges,it's complicated,FALSE,song,the yousicians,basic melody,1,come back to my life...ing
+ukulele-challenges,it's complicated,FALSE,song,the yousicians,chords,3,how will it be?
+ukulele-challenges,it's complicated,FALSE,song,the yousicians,chords,5,come back to my life...ing
+ukulele-challenges,it's complicated,FALSE,song,the yousicians,chords & melody,6,how will it be?
+ukulele-challenges,rock 'n' roll,FALSE,song,the yousicians,basic rhythm,2,laid-back boogie
+ukulele-challenges,rock 'n' roll,FALSE,song,the yousicians,main rhythm,3,tail feather
+ukulele-challenges,rock 'n' roll,FALSE,song,the yousicians,chords,5,laid-back boogie
+ukulele-challenges,rock 'n' roll,FALSE,song,the yousicians,full rhythm,5,tail feather
+ukulele-challenges,swingin',FALSE,song,traditional,melody,3,I ain't got nobody
+ukulele-challenges,swingin',FALSE,song,traditional,melody,4,st louis blues
+ukulele-challenges,swingin',FALSE,song,traditional,chords,4,I ain't got nobody
+ukulele-challenges,swingin',FALSE,song,traditional,chords,5,st louis blues
+ukulele-challenges,sing-along waltzes,FALSE,song,traditional,basic rhythm,1,take me out to the ball game
+ukulele-challenges,sing-along waltzes,FALSE,song,traditional,melody,4,take me out to the ball game
+ukulele-challenges,sing-along waltzes,FALSE,song,traditional,chords,4,my bonnie lies over the ocean
+ukulele-challenges,sing-along waltzes,FALSE,song,traditional,melody,5,my bonnie lies over the ocean
+ukulele-challenges,at the ballet with tchaikovsky,FALSE,song,pyotr ilyich tchaikovsky,basic melody,1,swan lake
+ukulele-challenges,at the ballet with tchaikovsky,FALSE,song,pyotr ilyich tchaikovsky,basic melody,3,dance of the sugar plum fairy
+ukulele-challenges,at the ballet with tchaikovsky,FALSE,song,pyotr ilyich tchaikovsky,main melody,5,swan lake
+ukulele-challenges,at the ballet with tchaikovsky,FALSE,song,pyotr ilyich tchaikovsky,full melody,7,dance of the sugar plum fairy
+ukulele-challenges,balkan grooves,FALSE,song,traditional,basic rhythm,2,rumelaj
+ukulele-challenges,balkan grooves,FALSE,song,traditional,basic rhythm,3,duj sandale
+ukulele-challenges,balkan grooves,FALSE,song,traditional,main melody,5,rumelaj
+ukulele-challenges,balkan grooves,FALSE,song,traditional,chords & melody,10,duj sandale
+ukulele-challenges,sabor cubano,FALSE,song,traditional,basic melody,2,guantanamera
+ukulele-challenges,sabor cubano,FALSE,song,the yousicians,basic melody,3,tres lindas cubanas
+ukulele-challenges,sabor cubano,FALSE,song,traditional,chords,5,guantanamera
+ukulele-challenges,sabor cubano,FALSE,song,the yousicians,full melody,5,tres lindas cubanas
+ukulele-challenges,classical picks for the stage,FALSE,song,jacques offenbach,basic melody,2,infernal gallop
+ukulele-challenges,classical picks for the stage,FALSE,song,georges bizet,basic melody,3,habanera
+ukulele-challenges,classical picks for the stage,FALSE,song,jacques offenbach,chords,5,infernal gallop
+ukulele-challenges,classical picks for the stage,FALSE,song,georges bizet,full melody,6,habanera
+ukulele-challenges,rob scallon,FALSE,song,rob scallon,basic melody,1,ottawa
+ukulele-challenges,rob scallon,FALSE,song,rob scallon,chords,3,ottawa
+ukulele-challenges,rob scallon,FALSE,song,rob scallon,melody,4,iilwy
+ukulele-challenges,rob scallon,FALSE,song,rob scallon,fingerpicking,4,iilwy
+ukulele-challenges,wishing in the night,FALSE,song,the yousicians,chords,3,the storm inside me
+ukulele-challenges,wishing in the night,FALSE,song,the yousicians,chords,4,wishing in the night
+ukulele-challenges,wishing in the night,FALSE,song,the yousicians,melody,5,wishing in the night
+ukulele-challenges,wishing in the night,FALSE,song,the yousicians,melody,6,the storm inside me
+ukulele-challenges,happy valentine's day,FALSE,song,the yousicians,basic melody,2,let my piano do the talking
+ukulele-challenges,happy valentine's day,FALSE,song,the yousicians,chords,4,valentine swing
+ukulele-challenges,happy valentine's day,FALSE,song,the yousicians,melody,5,valentine swing
+ukulele-challenges,happy valentine's day,FALSE,song,the yousicians,chords & melody,6,let my piano do the talking
+ukulele-challenges,ragtime,FALSE,song,scott joplin,basic melody,1,the enertainer (slow)
+ukulele-challenges,ragtime,FALSE,song,scott joplin,basic melody,3,maple leaf rag (in A)
+ukulele-challenges,ragtime,FALSE,song,scott joplin,chords,5,maple leaf rag (in A)
+ukulele-challenges,ragtime,FALSE,song,scott joplin,melody,6,the enertainer (slow)
+ukulele-challenges,lazing on the caribbean,FALSE,song,the yousicians,basic melody,1,island song
+ukulele-challenges,lazing on the caribbean,FALSE,song,the yousicians,main rhythm,3,island song
+ukulele-challenges,lazing on the caribbean,FALSE,song,traditional,main chords,4,sloop john b
+ukulele-challenges,lazing on the caribbean,FALSE,song,traditional,intermediate,5,sloop john b
+ukulele-challenges,one for bowie,FALSE,song,the yousicians,basic melody,1,life on earth
+ukulele-challenges,one for bowie,FALSE,song,the yousicians,basic rhythm,2,flamboyance
+ukulele-challenges,one for bowie,FALSE,song,the yousicians,chords & melody,4,life on earth
+ukulele-challenges,one for bowie,FALSE,song,the yousicians,full rhythm,5,flamboyance
+ukulele-challenges,one for lemmy,FALSE,song,the yousicians,basic rhythm,2,looks don't deceive
+ukulele-challenges,one for lemmy,FALSE,song,the yousicians,main rhythm,3,given birth to by life
+ukulele-challenges,one for lemmy,FALSE,song,the yousicians,full rhythm,5,looks don't deceive
+ukulele-challenges,one for lemmy,FALSE,song,the yousicians,full rhythm,6,given birth to by life
+ukulele-challenges,power thru,FALSE,song,the yousicians,basic melody,1,fire of desire
+ukulele-challenges,power thru,FALSE,song,the yousicians,basic rhythm,2,you've got the power
+ukulele-challenges,power thru,FALSE,song,the yousicians,main melody,4,fire of desire
+ukulele-challenges,power thru,FALSE,song,the yousicians,melody,5,you've got the power
+ukulele-challenges,groovin' into 2016,FALSE,song,the yousicians,basic melody,1,a night to rewind
+ukulele-challenges,groovin' into 2016,FALSE,song,the yousicians,basic melody,3,cardamom girl
+ukulele-challenges,groovin' into 2016,FALSE,song,the yousicians,chords,5,cardamom girl
+ukulele-challenges,groovin' into 2016,FALSE,song,the yousicians,chords,6,a night to rewind
+ukulele-challenges,happy holidays,FALSE,song,traditional,basic melody,1,xmas medley
+ukulele-challenges,happy holidays,FALSE,song,traditional,melody,3,jingle bells
+ukulele-challenges,happy holidays,FALSE,song,traditional,melody,3,xmas medley
+ukulele-challenges,happy holidays,FALSE,song,traditional,chords,5,jingle bells
+ukulele-challenges,snowed in,FALSE,song,traditional,basic melody,2,go tell it on the mountain
+ukulele-challenges,snowed in,FALSE,song,traditional,melody,3,angels we have heard on high
+ukulele-challenges,snowed in,FALSE,song,traditional,main melody,4,go tell it on the mountain
+ukulele-challenges,snowed in,FALSE,song,traditional,fingerpicking,5,angels we have heard on high
+ukulele-challenges,argentine tango,FALSE,song,traditional,basic melody,3,adios muchachos
+ukulele-challenges,argentine tango,FALSE,song,carlos gardel,fingerpicking,4,por una cabeza
+ukulele-challenges,argentine tango,FALSE,song,traditional,melody,6,adios muchachos
+ukulele-challenges,argentine tango,FALSE,song,carlos gardel,melody,7,por una cabeza
+ukulele-challenges,jazzy holidays,FALSE,song,traditional,basic melody,2,christmas elves
+ukulele-challenges,jazzy holidays,FALSE,song,the yousicians,basic chords,4,winter jazz
+ukulele-challenges,jazzy holidays,FALSE,song,traditional,melody,5,christmas elves
+ukulele-challenges,jazzy holidays,FALSE,song,the yousicians,melody,6,winter jazz
+ukulele-challenges,chanson,FALSE,song,the yousicians,basic melody,1,demain
+ukulele-challenges,chanson,FALSE,song,the yousicians,basic melody,3,l'amour a paris
+ukulele-challenges,chanson,FALSE,song,the yousicians,rhythm,5,demain
+ukulele-challenges,chanson,FALSE,song,the yousicians,chords,6,l'amour a paris
 bass-home-new,new on yousician,TRUE,song,rent,full bass,8,seasons of love
 bass-home-new-more,new on yousician,TRUE,song,slayer,full bass (Eb tuning),8,seasons in the abyss (Eb)
 bass-learn-missions,play strings,FALSE,video,-,-,0,intro & tuning
