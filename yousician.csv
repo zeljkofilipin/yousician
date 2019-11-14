@@ -1537,7 +1537,7 @@ piano-learn-missions-pop,root notes,FALSE,trainer,-,-,3,root notes: Em and Am
 piano-learn-missions-pop,root notes,FALSE,song,the yousicians,root notes,3,got the moves
 piano-learn-missions-pop,root notes,FALSE,trainer,-,-,3,"root notes: Em, Am & C"
 piano-learn-missions-pop,root notes,FALSE,song,the yousicians,root notes,3,summer nights (short)
-piano-learn-missions-classical,level 4 skill test - classical,FALSE,song,?,-,4,lil' liza jane
+piano-learn-missions-classical,level 4 skill test - classical,FALSE,song,traditional,-,4,lil' liza jane
 piano-learn-missions-classical,D minor position,FALSE,trainer,-,-,4,D minor position
 piano-learn-missions-classical,D minor position,FALSE,trainer,-,-,4,reading A
 piano-learn-missions-classical,D minor position,FALSE,song,the yousicians,Dm position,4,windy shores (short)
@@ -1568,7 +1568,7 @@ piano-learn-missions-knowledge,ear training: half steps,FALSE,puzzle,-,-,4,ear p
 piano-learn-missions-knowledge,ear training: half steps,FALSE,puzzle,-,-,4,ear puzzles: melody
 piano-learn-missions-knowledge,ear training: half steps,FALSE,puzzle,-,-,4,ear puzzles: half step harmony
 piano-learn-missions-knowledge,ear training: half steps,FALSE,finder,-,-,4,note-finder: minor scale
-piano-learn-missions-pop,level 4 skill test - pop,FALSE,song,?,-,4,creatures of my mind (short)
+piano-learn-missions-pop,level 4 skill test - pop,FALSE,song,the yousicians,-,4,creatures of my mind (short)
 piano-learn-missions-pop,funky F chord,FALSE,video,-,-,4,learn the F chord
 piano-learn-missions-pop,funky F chord,FALSE,trainer,-,-,4,chord trainer: F
 piano-learn-missions-pop,funky F chord,FALSE,song,the yousicians,exercise,4,F groove
@@ -1583,7 +1583,7 @@ piano-learn-missions-pop,G unit,FALSE,video,-,-,4,F and G root notes
 piano-learn-missions-pop,G unit,FALSE,trainer,-,-,4,chord trainer: F and G
 piano-learn-missions-pop,G unit,FALSE,trainer,-,-,4,root notes: F and G
 piano-learn-missions-pop,G unit,FALSE,song,the yousicians,G chord,4,groove like grandpa
-piano-learn-missions-classical,level 5 skill test - classical,FALSE,song,?,-,5,arkansas traveller (in F)
+piano-learn-missions-classical,level 5 skill test - classical,FALSE,song,traditional,-,5,arkansas traveller (in F)
 piano-learn-missions-classical,hands together,FALSE,trainer,-,-,5,reading bass C
 piano-learn-missions-classical,hands together,FALSE,trainer,-,-,5,trainer: hands together
 piano-learn-missions-classical,hands together,FALSE,song,the yousicians,hands together,5,dreamer
@@ -1610,7 +1610,7 @@ piano-learn-missions-knowledge,key signatures,FALSE,song,traditional,Em bass lin
 piano-learn-missions-knowledge,ear training: major & minor,FALSE,finder,-,-,5,note-finder: major chord
 piano-learn-missions-knowledge,ear training: major & minor,FALSE,finder,-,-,5,note-finder: minor chord
 piano-learn-missions-knowledge,ear training: major & minor,FALSE,puzzle,-,-,5,ear puzzles: minor melody
-piano-learn-missions-pop,level 5 skill test - pop,FALSE,song,?,-,5,reggae party (short)
+piano-learn-missions-pop,level 5 skill test - pop,FALSE,song,the yousicians,-,5,reggae party (short)
 piano-learn-missions-pop,three-chord thrillers,FALSE,video,-,-,5,"changing chords: C, F and G"
 piano-learn-missions-pop,three-chord thrillers,FALSE,trainer,-,-,5,"chord trainer: C, F, G"
 piano-learn-missions-pop,three-chord thrillers,FALSE,trainer,-,-,5,"root notes: C, F, G"
@@ -1622,7 +1622,7 @@ piano-learn-missions-pop,master jammer,FALSE,song,the yousicians,chords,5,waitin
 piano-learn-missions-pop,master jammer,FALSE,trainer,-,-,5,trainer: duck walk
 piano-learn-missions-pop,master jammer,FALSE,song,the yousicians,two hands,5,do the duck walk
 piano-learn-missions-knowledge,level 6 skill test - knowledge,FALSE,quiz,-,-,6,quiz: knowledge level 6
-piano-learn-missions-classical,level 6 skill test - classical,FALSE,song,?,-,6,new world symphony (in C)
+piano-learn-missions-classical,level 6 skill test - classical,FALSE,song,antonin dvorak,-,6,new world symphony (in C)
 piano-learn-missions-classical,changing position,FALSE,video,-,-,6,practice first!
 piano-learn-missions-classical,changing position,FALSE,song,traditional,changing position,6,"twinkle, twinke, little star (ballad)"
 piano-learn-missions-classical,changing position,FALSE,trainer,-,-,6,trainer: thumb stretch
@@ -1637,7 +1637,7 @@ piano-learn-missions-classical,singalong tunes,FALSE,song,?,songs in G,6,molly m
 piano-learn-missions-classical,singalong tunes,FALSE,trainer,-,-,6,trainer: reading ledger lines
 piano-learn-missions-classical,singalong tunes,FALSE,trainer,-,-,6,trainer: ledger lines
 piano-learn-missions-classical,singalong tunes,FALSE,song,?,melody,6,take me out to the ball game
-piano-learn-missions-pop,level 6 skill test - pop,FALSE,song,?,-,6,la bamba
+piano-learn-missions-pop,level 6 skill test - pop,FALSE,song,traditional,-,6,la bamba
 piano-learn-missions-pop,rock riffs,FALSE,video,-,-,6,learning riffs
 piano-learn-missions-pop,rock riffs,FALSE,trainer,-,-,6,chord trainer: Dm
 piano-learn-missions-pop,rock riffs,FALSE,trainer,-,-,6,trainer: a ladder to the sky
