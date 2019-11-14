@@ -419,6 +419,10 @@ guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,flat out
 guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre 7th chords,8,barre your sould
 guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,honeymoon bossa nova
 guitar-songs-popular,happy holidays,FALSE,song,traditional,basic riff,1,o holy night
+guitar-challenges,secret agents,FALSE,song,the yousicians,basic riff,2,in her majesty's secret band
+guitar-challenges,secret agents,FALSE,song,the yousicians,melody,3,don't make a sound
+guitar-challenges,secret agents,FALSE,song,the yousicians,full rhythm,7,in her majesty's secret band
+guitar-challenges,secret agents,FALSE,song,the yousicians,rhythm,8,don't make a sound
 guitar-challenges,midnight special,FALSE,song,traditional,basic riff,2,midnight special
 guitar-challenges,midnight special,FALSE,song,traditional,cowboy chords,4,man of constant sorrow
 guitar-challenges,midnight special,FALSE,song,traditional,melody,6,man of constant sorrow
@@ -1654,6 +1658,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - d
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
 piano-learn-workouts,tutorial videos,FALSE,video,-,-,3,video: beats per bar
 piano-songs-popular,rock on,TRUE,song,lynyrd skynyrd,bass,4,sweet home alabama
+piano-challenges,secret agents,FALSE,song,the yousicians,left hand,1,in her majesty's secret band
+piano-challenges,secret agents,FALSE,song,the yousicians,two hands,4,don't make a sound
+piano-challenges,secret agents,FALSE,song,the yousicians,two hands,6,in her majesty's secret band
+piano-challenges,secret agents,FALSE,song,the yousicians,melody,8,don't make a sound
 piano-challenges,midnight special,FALSE,song,traditional,two hands,2,man of constant sorrow
 piano-challenges,midnight special,FALSE,song,traditional,two hands,3,midnight special
 piano-challenges,midnight special,FALSE,song,traditional,melody and chords,6,man of constant sorrow
@@ -3286,6 +3294,10 @@ ukulele-songs-popular,classical picks,FALSE,song,wolfgang amadeus mozart,basic m
 ukulele-songs-popular,classical picks,FALSE,song,wolfgang amadeus mozart,melody,10,symphony no 40
 ukulele-songs-popular,classical picks,FALSE,song,richard wagner,chords,4,tannhauser
 ukulele-songs-popular,classical picks,FALSE,song,richard wagner,double stops,5,tannhauser
+ukulele-challenges,secret agents,FALSE,song,the yousicians,melody,2,don't make a sound
+ukulele-challenges,secret agents,FALSE,song,the yousicians,chords,5,in her majesty's secret band
+ukulele-challenges,secret agents,FALSE,song,the yousicians,fingerpicking,6,don't make a sound
+ukulele-challenges,secret agents,FALSE,song,the yousicians,chords,8,in her majesty's secret band
 ukulele-challenges,midnight special,FALSE,song,traditional,melody,2,midnight special
 ukulele-challenges,midnight special,FALSE,song,traditional,chords,3,man of constant sorrow
 ukulele-challenges,midnight special,FALSE,song,traditional,chords,5,midnight special
@@ -4369,6 +4381,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
 bass-songs-popular,rock on,TRUE,song,pearl jam,basic bass,2,black
+bass-challenges,secret agents,FALSE,song,the yousicians,basic bassline,2,don't make a sound
+bass-challenges,secret agents,FALSE,song,the yousicians,basic bassline,2,in her majesty's secret band
+bass-challenges,secret agents,FALSE,song,the yousicians,full bassline,4,don't make a sound
+bass-challenges,secret agents,FALSE,song,the yousicians,melody,8,in her majesty's secret band
 bass-challenges,midnight special,FALSE,song,traditional,basic bassline,1,man of constant sorrow
 bass-challenges,midnight special,FALSE,song,traditional,basic bassline,2,midnight special
 bass-challenges,midnight special,FALSE,song,traditional,full bassline,5,man of constant sorrow
