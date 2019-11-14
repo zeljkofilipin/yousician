@@ -50,7 +50,7 @@ Not all songs are listed (yet).
 | ukulele-learn-workouts | 2019-02-07 | 100        |                             |
 | ukulele-songs-popular  | 2019-02-07 | 100        |                             |
 | ukulele-challenges     | 2019-11-11 | 100        | 2015-48/2019-45 (207/207)   |
-| bass-home-new          | 2019-02-07 |            | 1 song                      |
+| bass-home-new          | 2019-11-14 | 100        |                             |
 | bass-home-new-more     | 2019-02-07 |            | 1 song                      |
 | bass-learn-missions    | 2019-02-20 | 100        | some ? author at level 9    |
 | bass-songs-popular     | 2019-02-07 |            | 1 song                      |

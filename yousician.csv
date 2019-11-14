@@ -4114,7 +4114,26 @@ ukulele-challenges,chanson,FALSE,song,the yousicians,basic melody,1,demain
 ukulele-challenges,chanson,FALSE,song,the yousicians,basic melody,3,l'amour a paris
 ukulele-challenges,chanson,FALSE,song,the yousicians,rhythm,5,demain
 ukulele-challenges,chanson,FALSE,song,the yousicians,chords,6,l'amour a paris
-bass-home-new,new on yousician,TRUE,song,rent,full bass,8,seasons of love
+bass-home-new,new on yousician,TRUE,song,fleetwood mac,basic bassline,2,go your own way
+bass-home-new,new on yousician,TRUE,song,fleetwood mac,main bassline,4,go your own way
+bass-home-new,new on yousician,TRUE,song,fleetwood mac,full bassline,7,go your own way
+bass-home-new,new on yousician,TRUE,song,foo fighters,basic bassline,3,the pretender
+bass-home-new,new on yousician,TRUE,song,foo fighters,main bassline,5,the pretender
+bass-home-new,new on yousician,TRUE,song,foo fighters,full bassline,8,the pretender
+bass-home-new,new on yousician,TRUE,song,crowded house,basic bassline,2,don't dream it's over
+bass-home-new,new on yousician,TRUE,song,crowded house,main bassline,4,don't dream it's over
+bass-home-new,new on yousician,TRUE,song,crowded house,full bassline,7,don't dream it's over
+bass-home-new,new on yousician,TRUE,song,tool,main bassline,7,schism
+bass-home-new,new on yousician,TRUE,song,tool,full bassline,11,schism
+bass-home-new,new on yousician,TRUE,song,avril lavigne,basic bassline,2,complicated
+bass-home-new,new on yousician,TRUE,song,avril lavigne,main bassline,4,complicated
+bass-home-new,new on yousician,TRUE,song,avril lavigne,full bassline,8,complicated
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,basic bassline,2,hey joe
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,main bassline,4,hey joe
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,full bassline,8,hey joe
+bass-home-new,new on yousician,TRUE,song,foo fighters,basic bassline,2,everlong
+bass-home-new,new on yousician,TRUE,song,foo fighters,main bassline,5,everlong
+bass-home-new,new on yousician,TRUE,song,foo fighters,full bassline,8,everlong
 bass-home-new-more,new on yousician,TRUE,song,slayer,full bass (Eb tuning),8,seasons in the abyss (Eb)
 bass-learn-missions,play strings,FALSE,video,-,-,0,intro & tuning
 bass-learn-missions,play strings,FALSE,video,-,-,0,video: plucking strings
