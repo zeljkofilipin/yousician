@@ -1,0 +1,41 @@
+voice
+
+- home
+  - continue learning
+  - new on yousician
+  - recently played
+  - top songs
+  - recommended for you
+  - go for gold!
+  - yousician collections
+    - jimi hendrix (7)
+    - most popular songs 2018 (10)
+    - pop star (55)
+    - rock on (73)
+    - country & roots (38)
+    - indie & alternative (33)
+    - electronica (6)
+    - metal mayhem (20)
+    - playin' the blues (13)
+    - everything epic (15)
+    - get funky (24)
+    - jazz it up (10)
+    - chill out (41)
+    - folk singalong (22)
+    - traditional tunes (57)
+    - for the kids (17)
+  - your collections
+- learn
+  - missions
+    - singing (5)
+    - knowledge (4)
+  - workouts
+    - before and after singing
+      - warm ups (14)
+      - vocal health (8)
+      - just for fun (19)
+    - ear training and solfege
+      - singing in-ter-vals
+      - singing scales
+      - singing chords
+      - harmony exercises

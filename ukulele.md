@@ -3,15 +3,22 @@ ukulele
 - home
   - continue learning
   - new on yousician
-  - recently played
+  - because you played (song)
   - top songs
+  - your favorites
   - more like your favorites
   - recommended for you
-  - go for gold
-  - warm up
-  - easy songs
-  - medium songs
-  - hard songs
+  - go for gold!
+  - yousician collections
+    - popular love songs (23)
+    - most popular songs 2018 (20)
+    - the best of yousicians 2018 (32)
+    - the pop star (51)
+    - country & roots (33)
+    - around the world (41)
+    - classical picks (40)
+    - chill out (27)
+  - your collections
 - learn
   - missions
     - lead (8)
@@ -19,30 +26,11 @@ ukulele
   - workouts
     - practice by collecting missing stars
       - collect missing stars
-      - go for gold
+      - go for gold!
       - all gold
     - workouts
       - chords
       - fingerpicking
-- songs
-  - popular
-    - recommended
-      - the pop star
-      - happy holidays
-    - popular styles
-      - chill out
-      - playing' the blues
-      - around the world
-      - traditional tunes
-      - classical picks
-  - my repertoire
-    - history
-    - my songs
-    - favorites
-    - collect missing stars
-    - go for gold
-    - all gold
-    - my collections
 - challenges
   - latest
   - history

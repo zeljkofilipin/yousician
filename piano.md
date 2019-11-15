@@ -6,22 +6,30 @@ piano
   - recently played
   - top songs
   - recommended for you
-  - warm up
-  - easy songs
-  - medium songs
-  - hard songs
-  - very hard songs
+  - go for gold!
+  - yousician collections
+    - the pop star (176)
+    - classical piano collection (12)
+    - the best of yousicians 2018 (30)
+    - rock on (162)
+    - lullabies (49)
+    - blues & country (68)
+    - folk singalong (73)
+    - jazz it up (51)
+    - classical picks (77)
+    - around the world (102)
+  - your collections
 - learn
   - missions
-    - classical (15)
+    - classical (9)
     - knowledge (5)
-    - pop (15)
+    - pop (9)
   - workouts
     - practice by collecting missing stars
       - collect missing stars
-      - go for gold
+      - go for gold!
       - all gold
-    - skill builders: master essential techniques
+    - workouts
       - tutorial videos
       - ear trainers
       - major scales
@@ -36,27 +44,6 @@ piano
       - changing chords
       - jazz chords
       - sevent chords
-- songs
-  - popular
-    - recommended
-      - rock on
-      - the pop star
-      - blues & country
-      - happy holidays
-    - styles
-      - lullabies
-      - folk singalong
-      - jazz it up
-      - classical picks
-      - around the world
-  - my repertoire
-    - history
-    - my songs
-    - favorites
-    - collect missing stars
-    - go for gold
-    - all gold
-    - my collections
 - challenges
   - latest
   - history

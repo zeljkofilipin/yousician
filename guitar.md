@@ -8,12 +8,28 @@ guitar
   - your favorites
   - more like your favorites
   - recommended for you
-  - go for gold
-  - warm up
-  - easy songs
-  - medium songs
-  - hard songs
-  - very hard songs
+  - go for gold!
+  - yousician collections
+    - jimi hendrix (23)
+    - most popular songs 2018 (20)
+    - best of yousicians 2018 (32)
+    - rock on (237)
+    - pop star (135)
+    - playin' the blues (55)
+    - metal mayhem (115)
+    - country and roots (69)
+    - classical picks (82)
+    - chill out (116)
+    - traditional tunes (57)
+    - indie & alternative (106)
+    - jazz it up (51)
+    - funk & soul (70)
+    - electronica (33)
+    - around the world (148)
+    - mr. fastfinger (22)
+    - stevie t (3)
+    - rob scallon (11)
+  - your collections
 - learn
   - missions
     - lead (10)
@@ -22,8 +38,8 @@ guitar
   - workouts
     - star hunter: collect missing stars, build mastery
       - collect missing stars
-      - go for gold
-      - all gold
+      - go for gold!
+      - all gold stars
     - skill builders: master essential techniques
       - chord trainer
       - learn standard notation
@@ -38,35 +54,6 @@ guitar
       - songs with riffs
       - barre chord songs
       - shredding solos
-- songs
-  - popular
-    - recommended
-      - happy holidays
-      - rock on
-      - the pop star
-    - popular styles
-      - playing' the blues
-      - metal mayhem
-      - country & roots
-      - classical picks
-      - chill out
-      - traditional tunes
-      - indie & alternative
-      - jazz it up
-      - get funky
-      - electronica
-      - around the world
-      - mr. fastfinger
-      - stevie t
-      - rob scallon
-  - my repertoire
-    - history
-    - my songs
-    - favorites
-    - collect missing stars
-    - go for gold
-    - all gold
-    - my collections
 - challenges
   - latest
   - history
