@@ -418,6 +418,439 @@ guitar-learn-missions-rhythm,barre chords,FALSE,trainer,-,-,8,trainer: barre 7th
 guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,flat out
 guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre 7th chords,8,barre your sould
 guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,honeymoon bossa nova
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,1,chord trainer: cowboy - E Em Am
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,2,chord trainer: cowboy - C G Am Em
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,3,chord trainer: cowboy - G C D Em
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,3,chord trainer: cowboy - C A G E D
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,4,chord trainer: cowboy - C F G Am
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,4,chord trainer: cowboy - Em Am Dm
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,4,chord trainer: cowboy - all
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,3,chord trainer: power - basic
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,4,chord trainer: power - moveable
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,6,chord trainer: power - big
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,6,chord trainer: fancy - G family
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,6,chord trainer: fancy - 7ths
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,7,chord trainer: moveable - major
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,7,chord trainer: moveable - minor
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,7,chord trainer: moveable - 7
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,7,chord trainer: moveable - m7
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,7,chord trainer: moveable - maj7
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,8,chord trainer: barre - major
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,8,chord trainer: barre - minor
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,8,chord trainer: barre - 7
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,8,chord trainer: barre - m7
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,8,chord trainer: barre - maj7
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,10,chord trainer: triads - high major
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,10,chord trainer: triads - high minor
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,10,chord trainer: triads - mid major
+guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,10,chord trainer: triads - mid minor
+guitar-learn-workouts,learn standard notation,FALSE,video,-,-,2,video: intro to standard notation
+guitar-learn-workouts,learn standard notation,FALSE,video,-,-,2,video: read notes on the G-string
+guitar-learn-workouts,learn standard notation,FALSE,?,,,2,reading notes: G string
+guitar-learn-workouts,learn standard notation,FALSE,video,-,-,2,video: read notes on the B-string
+guitar-learn-workouts,learn standard notation,FALSE,?,,,2,reading notes: B string
+guitar-learn-workouts,learn standard notation,FALSE,video,-,-,2,video: read notes on the little E-string
+guitar-learn-workouts,learn standard notation,FALSE,?,,,2,reading notes: E string (little)
+guitar-learn-workouts,learn standard notation,FALSE,video,-,-,2,video: reading basic rhythms
+guitar-learn-workouts,learn standard notation,FALSE,?,?,?,2,"reading rhythm: whole, half, quarter"
+guitar-learn-workouts,learn standard notation,FALSE,video,-,-,3,video: read notes on the D-string
+guitar-learn-workouts,learn standard notation,FALSE,?,?,?,3,reading notes: D string
+guitar-learn-workouts,learn standard notation,FALSE,video,-,-,3,video: read notes on the A-string
+guitar-learn-workouts,learn standard notation,FALSE,?,?,?,3,reading notes: A string
+guitar-learn-workouts,learn standard notation,FALSE,video,-,-,3,video: read notes on the big E-string
+guitar-learn-workouts,learn standard notation,FALSE,?,?,?,3,reading notes: E string (big)
+guitar-learn-workouts,learn standard notation,FALSE,?,?,?,3,reading notes: first position scale
+guitar-learn-workouts,learn standard notation,FALSE,video,-,-,3,video: reading sharps & flats
+guitar-learn-workouts,learn standard notation,FALSE,?,?,?,3,reading notes: sharps (G major scale)
+guitar-learn-workouts,learn standard notation,FALSE,?,?,?,3,reading notes: flats (F major scale)
+guitar-learn-workouts,learn standard notation,FALSE,video,-,-,3,video: basic time signatures
+guitar-learn-workouts,learn standard notation,FALSE,?,?,?,3,reading rhythm: basic time signatures
+guitar-learn-workouts,learn standard notation,FALSE,?,?,?,4,reading notes: B & E strings
+guitar-learn-workouts,learn standard notation,FALSE,?,?,?,4,"reading notes: G, B, E strings"
+guitar-learn-workouts,learn standard notation,FALSE,?,?,?,4,reading notes: A & D strings
+guitar-learn-workouts,learn standard notation,FALSE,?,?,?,4,reading notes: B & E strings
+guitar-learn-workouts,learn standard notation,FALSE,?,?,?,4,"reading notes: G, B, E strings"
+guitar-learn-workouts,learn standard notation,FALSE,?,?,?,4,reading notes: A & D strings
+guitar-learn-workouts,learn standard notation,FALSE,?,?,?,4,"reading notes: E, A, D strings"
+guitar-learn-workouts,ear training,FALSE,puzzle,-,-,1,ear puzzles: going up
+guitar-learn-workouts,ear training,FALSE,puzzle,-,-,1,ear puzzles: up & down
+guitar-learn-workouts,ear training,FALSE,puzzle,-,-,1,ear puzzles: up-down-same
+guitar-learn-workouts,ear training,FALSE,finder,-,-,1,note-finder: low & high
+guitar-learn-workouts,ear training,FALSE,puzzle,-,-,2,ear puzzles: four notes
+guitar-learn-workouts,ear training,FALSE,puzzle,-,-,2,ear puzzles: fix notes
+guitar-learn-workouts,ear training,FALSE,puzzle,-,-,2,ear puzzles: eight notes
+guitar-learn-workouts,ear training,FALSE,finder,-,-,2,note-finder: major arpeggio
+guitar-learn-workouts,ear training,FALSE,finder,-,-,2,note-finder: minor arpeggio
+guitar-learn-workouts,ear training,FALSE,puzzle,-,-,3,ear puzzles: short melodies
+guitar-learn-workouts,ear training,FALSE,puzzle,-,-,3,ear puzzles: longer melodies
+guitar-learn-workouts,ear training,FALSE,puzzle,-,-,3,ear puzzles: harmonies
+guitar-learn-workouts,ear training,FALSE,finder,-,-,3,note-finder: minor pentatonic
+guitar-learn-workouts,ear training,FALSE,puzzle,-,-,4,ear puzzles: half step lines
+guitar-learn-workouts,ear training,FALSE,puzzle,-,-,4,ear puzzles: chromatic melodies
+guitar-learn-workouts,ear training,FALSE,puzzle,-,-,4,ear puzzles: chromatic harmonies
+guitar-learn-workouts,ear training,FALSE,finder,-,-,4,note-finder: major pentatonic
+guitar-learn-workouts,ear training,FALSE,finder,-,-,4,note-finder: minor blues
+guitar-learn-workouts,ear training,FALSE,finder,-,-,5,note-finder: major scale
+guitar-learn-workouts,ear training,FALSE,finder,-,-,5,note-finder: minor scale
+guitar-learn-workouts,scales,FALSE,song,the yousicians,workout,2,scale: first position
+guitar-learn-workouts,scales,FALSE,song,the yousicians,workout,3,scale: minor pentatonic
+guitar-learn-workouts,scales,FALSE,song,the yousicians,workout,4,scale: minor blues
+guitar-learn-workouts,scales,FALSE,song,the yousicians,workout,4,scale: major pentatonic
+guitar-learn-workouts,scales,FALSE,song,the yousicians,workout,5,scale: major
+guitar-learn-workouts,scales,FALSE,song,the yousicians,workout,5,scale: minor
+guitar-learn-workouts,scales,FALSE,song,the yousicians,workout,6,scale: minor pentatonic (sequences I)
+guitar-learn-workouts,scales,FALSE,song,the yousicians,workout,7,scale: minor pentatonic (popular keys)
+guitar-learn-workouts,scales,FALSE,song,the yousicians,workout,8,scale: minor pentatonic (extended)
+guitar-learn-workouts,scales,FALSE,song,the yousicians,workout,8,scale: major (popular keys)
+guitar-learn-workouts,scales,FALSE,song,the yousicians,workout,9,scale: modes (popular)
+guitar-learn-workouts,scales,FALSE,song,the yousicians,workout,9,scale: modes (exotic)
+guitar-learn-workouts,scales,FALSE,song,the yousicians,workout,10,scale: minor pentatonic (sequences II)
+guitar-learn-workouts,scales,FALSE,song,the yousicians,workout,10,scale: major (sequences)
+guitar-learn-workouts,scales,FALSE,song,the yousicians,workout,11,scale: minor pentatonic (all keys)
+guitar-learn-workouts,scales,FALSE,song,the yousicians,workout,11,scale: major (all keys)
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,2,arpeggio: major & minor (open)
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,3,arpeggio: major & minor (moveable)
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,4,arpeggio: major & minor (popular keys)
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,5,arpeggio: cowboy shapes
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,6,arpeggio: fancy 7th shapes
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,7,arpeggio: cowboy sequences
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,7,arpeggio: one-octave triads (popular keys)
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,7,arpeggio: one-octave 7ths
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,8,arpeggio: root-6 triads & 7ths
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,8,arpeggio: root-5 triads & 7ths
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,8,arpeggio: root-5 & 6 major (popular keys)
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,9,arpeggio: root-5 & 6 major (all keys)
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,9,arpeggio: root-5 & 6 triads (pinky shapes)
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,9,arpeggio: root-6 7th sequences
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,10,arpeggio: treble-string triads (shapes)
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,10,arpeggio: treble-string major (popular keys)
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,10,arpeggio: treble-string minor (popular keys)
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,11,arpeggio: treble-string major (all keys)
+guitar-learn-workouts,arpeggios,FALSE,song,the yousicians,workout,11,arpeggio: treble-string minor (all keys)
+guitar-learn-workouts,fingerpicking drills,FALSE,song,the yousicians,workout,7,drill: fingerpicking (arpeggio / forward)
+guitar-learn-workouts,fingerpicking drills,FALSE,song,the yousicians,workout,7,drill: fingerpicking (arpeggio / reverse)
+guitar-learn-workouts,fingerpicking drills,FALSE,song,the yousicians,workout,7,drill: fingerpicking (arpeggio / up-down)
+guitar-learn-workouts,fingerpicking drills,FALSE,song,the yousicians,workout,7,drill: fingerpicking (chordal / block)
+guitar-learn-workouts,fingerpicking drills,FALSE,song,the yousicians,workout,7,drill: fingerpicking (chordal / bass-treble)
+guitar-learn-workouts,fingerpicking drills,FALSE,song,the yousicians,workout,7,drill: fingerpicking (alternating / simple)
+guitar-learn-workouts,fingerpicking drills,FALSE,song,the yousicians,workout,7,drill: fingerpicking (alternating / index-middle)
+guitar-learn-workouts,fingerpicking drills,FALSE,song,the yousicians,workout,7,drill: fingerpicking (alternating / pinch simple)
+guitar-learn-workouts,fingerpicking drills,FALSE,song,the yousicians,workout,7,drill: fingerpicking (alternating / moving thumb)
+guitar-learn-workouts,fingerpicking drills,FALSE,song,the yousicians,workout,7,drill: fingerpicking (alternating / full moving)
+guitar-learn-workouts,fingerpicking drills,FALSE,song,the yousicians,workout,7,drill: fingerpicking (alternating / pinch moving)
+guitar-learn-workouts,fingerpicking drills,FALSE,song,the yousicians,workout,8,drill: fingerpicking (arpeggio / complex)
+guitar-learn-workouts,fingerpicking drills,FALSE,song,the yousicians,workout,8,drill: fingerpicking (arpeggio / pinch reverse)
+guitar-learn-workouts,fingerpicking drills,FALSE,song,the yousicians,workout,8,drill: fingerpicking (alternating / pinch on 2)
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,0,picking strings
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,0,playing frets
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,1,learn E
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,1,learn Em
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,1,changing chords
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,1,video: up & down
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,1,video: half & whole steps
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,1,video: beats & bars
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,1,one finger per fret
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,1,video: names of the strings
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,1,learn Am
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,2,video: notes on the fretboard
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,2,video: basic note lengths
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,2,video: strum down & up
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,2,video: learn C
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,2,video: fretting positions
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,2,video: learn G
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,2,video: groups of notes
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,2,video: muting under fingers
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,2,video: power chords
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,3,video: learn D
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,3,video: sharps and flats
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,3,video: thumb muting
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,3,video: learn A
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,3,video: four fingers
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,3,video: stretching out
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,3,video: root notes & types
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,3,video: beats per bar
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,4,video: notes to memorize
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,4,video: fingertip muting
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,4,video: learn Dm
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,4,video: learn F
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,4,video: faster notes
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,4,video: moveable power chords
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,4,video: strumming patterns
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,4,video: picking down & up
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,5,video: transition strums
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,5,video: keys
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,5,video: shuffle rhythms
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,5,video: broken chords
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,5,video: expressive strumming
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,5,video: pull-offs
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,5,video: hammer-ons
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,5,video: octaves
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,5,video: chords + notes
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,5,video: syncopated strumming
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,5,video: triplets
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,5,video: using a capo
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,6,video: slides
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,6,video: palm muting
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,6,video: fretting speed
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,6,video: embellishing chords
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,6,video: fancy chords
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,6,video: muting inside chords
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,6,video: rolling fingers
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,6,video: two-string barre
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,7,video: chicks & stops
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,7,video: double stops (strumming)
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,7,video: alternate picking
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,7,video: fingerpicking chords
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,7,video: moveable chords
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,7,video: double stops (hybrid picking)
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,7,video: fingerpicking techique
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,7,video: economy picking
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,8,video: rhythmic picking
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,8,video: reinforced bending
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,8,"video: bend, hold, release"
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,8,video: picking dynamics
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,8,video: barre chord technique
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,9,video: picking speed
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,9,video: fast loops
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,9,video: fingerpicking speed
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,9,video: percussive thumps
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,9,video: moveable chord riffs
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,9,video: horizontal playing
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,9,video: legato chunks
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,9,video: picking patterns
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,10,video: treble string strumming
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,10,video: slide-out
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,10,video: picking hand muting
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,10,video: partially reinforced bends
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,10,video: alternate tunings
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,10,video: single string chunks
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,10,video: grace notes
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,10,video: food stomps
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,10,video: bending with other fingers
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,10,video: bending in riffs
+guitar-learn-workouts,tutorial videos,FALSE,video,-,-,10,video: vibrato
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,1,rust kebab
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,1,minor step
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,1,ape lincoln
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,1,lunar blues
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,2,scapyard walz
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,2,hypnotizy
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,2,silicon sunset
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,2,c-rockodile
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,2,easy hop
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,2,rasta bots
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,2,conquer the galaxy
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,2,el condor pasa
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,2,livewire
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,2,gems
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,1,got the moves
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,2,volga boatmen
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,2,walk & talk
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,3,dame mas reggae
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,3,funky tractor
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,3,golden gate
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,3,conveyor belt reggae
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,3,spaghetti western
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,3,robot walk
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,basic cowboy chords,3,bard's rock
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,3,heart of bolt
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,3,celtic punk
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,3,bling bling star
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,3,destination mars
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,3,sunny days
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,3,cookin'
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,3,mansane cisse
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,3,jingle bells
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,i'm a guitar bot
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,armed with guitars
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,"rest now, human"
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,basic cowboy chords,4,stardomite
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,moon hop
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,don't rust alone
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,set me free
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,painting the sky
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,summer nights
+guitar-learn-workouts,cowboy chord songs,FALSE,song,traditional,cowboy chords,4,my loving brother
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,hearts of lava
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,click go the shears
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,il folletto
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,danny boy
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,can't buy me skills
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,supermoon
+guitar-learn-workouts,cowboy chord songs,FALSE,song,traditional,cowboy chords,4,arkansas traveler
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,dark lullaby
+guitar-learn-workouts,cowboy chord songs,FALSE,song,traditional,cowboy chords,4,misirlou (surf)
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,a ladder to the sky
+guitar-learn-workouts,cowboy chord songs,FALSE,song,rob scallon,cowboy chords,4,ottawa
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,the space race
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,corazon bailando
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,how will it be?
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,the world is not rotten
+guitar-learn-workouts,cowboy chord songs,FALSE,song,wolfgang amadeus mozart,cowboy chords,4,eine kleine nachtmusik
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,waitin' for the train
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,playing in the park
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,jimi would be proud
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,4,30 years later
+guitar-learn-workouts,cowboy chord songs,FALSE,song,traditional,cowboy chords,5,black eyes
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,5,creatures of my mind
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,5,sail away
+guitar-learn-workouts,cowboy chord songs,FALSE,song,traditional,cowboy chords,5,scarborough fair (electro)
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,5,the update song (short)
+guitar-learn-workouts,cowboy chord songs,FALSE,song,traditional,cowboy chords,5,my bonnie lies over the ocean
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,5,valentine swing
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,full cowboy chords,5,stardomite
+guitar-learn-workouts,cowboy chord songs,FALSE,song,traditional,cowboy chords,5,sloop john b
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,5,water got a friend
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,full cowboy chords,5,robot walk
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,full cowboy chords,5,funky tractor
+guitar-learn-workouts,cowboy chord songs,FALSE,song,joaquin luis,cowboy chords,5,no se bailar
+guitar-learn-workouts,cowboy chord songs,FALSE,song,traditional,cowboy chords,5,frankie & johnny
+guitar-learn-workouts,cowboy chord songs,FALSE,song,traditional,full cowboy chords,5,el condor pasa
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,full cowboy chords,5,dame mas reggae
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,full cowboy chords,5,bard's rock
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,5,"rest now, human (capo)"
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,5,artist love (capo)
+guitar-learn-workouts,cowboy chord songs,FALSE,song,traditional,cowboy chords,5,lil' liza jane
+guitar-learn-workouts,cowboy chord songs,FALSE,song,traditional,cowboy chords,5,la babma (slow)
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,5,i'm so sad (sha la la la)
+guitar-learn-workouts,cowboy chord songs,FALSE,song,traditional,cowboy chords,5,house of the rising sun
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,5,disco daddy
+guitar-learn-workouts,cowboy chord songs,FALSE,song,traditional,cowboy chords,5,adir hu
+guitar-learn-workouts,cowboy chord songs,FALSE,song,traditional,cowboy chords,5,jarabe tapatio
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,5,flamboyance
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,5,buns of navarone
+guitar-learn-workouts,cowboy chord songs,FALSE,song,traditional,cowboy chords,5,silent night (in A)
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,5,apple tree
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,5,jammin' in the barrio
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,5,fast machine (capo)
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,basic rhythm,5,livewire
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,5,no turning back
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,cowboy chords,5,runaway train
+guitar-learn-workouts,cowboy chord songs,FALSE,song,the yousicians,basic rhythm,5,rusty ground
+guitar-learn-workouts,cowboy chord songs,FALSE,song,traditional,cowboy chords,5,scarborough fair
+guitar-learn-workouts,fingerpicking songs,FALSE,song,traditional,fingerpicking,7,spanish romance
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,7,cowboy exit music
+guitar-learn-workouts,fingerpicking songs,FALSE,song,traditional,fingerpicking,7,la babma (folk)
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,7,hammer song
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,7,first light
+guitar-learn-workouts,fingerpicking songs,FALSE,song,traditional,basic fingerpicking,7,walzing matilda (in G)
+guitar-learn-workouts,fingerpicking songs,FALSE,song,ludwig van beethoven,fingerpicking,7,"moonlight sonata (in Am, short)"
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,7,30 years later
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,7,earth hour
+guitar-learn-workouts,fingerpicking songs,FALSE,song,traditional,fingerpicking,7,angels we have heard on high
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,7,dramatic arpeggios
+guitar-learn-workouts,fingerpicking songs,FALSE,song,georges bizet,fingerpicking,7,habanera
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,7,island song
+guitar-learn-workouts,fingerpicking songs,FALSE,song,traditional,fingerpicking,7,scarborough fair
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,7,let my piano do the talking
+guitar-learn-workouts,fingerpicking songs,FALSE,song,scott joplin,fingerpicking,7,maple leaf rag (in A)
+guitar-learn-workouts,fingerpicking songs,FALSE,song,traditional,fingerpicking,7,my loving brother
+guitar-learn-workouts,fingerpicking songs,FALSE,song,rob scallon,fingerpicking,7,iilwy
+guitar-learn-workouts,fingerpicking songs,FALSE,song,gabriel faure,fingerpicking,7,pavane
+guitar-learn-workouts,fingerpicking songs,FALSE,song,johann sebastian bach,fingerpicking,7,air (in C)
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,7,playing for change
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,7,compromises
+guitar-learn-workouts,fingerpicking songs,FALSE,song,traditional,fingerpicking,7,o holy night
+guitar-learn-workouts,fingerpicking songs,FALSE,song,frederic chopin,fingerpicking,7,raindrop prelude (in C)
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,7,midsummer memories
+guitar-learn-workouts,fingerpicking songs,FALSE,song,joaquin luis,fingerpicking,7,no se bailar
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,7,creatures of my mind
+guitar-learn-workouts,fingerpicking songs,FALSE,song,traditional,fingerpicking,7,my bonnie lies over the ocean
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,basic fingerpicking,7,summer of love
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,8,down the line
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,8,skipping stone
+guitar-learn-workouts,fingerpicking songs,FALSE,song,maurice ravel,fingerpicking,8,pavane pour une infante defunte
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,8,song for tiina
+guitar-learn-workouts,fingerpicking songs,FALSE,song,traditional,fingerpicking,8,take me out to the ball game
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,8,a gravidade de lua
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,9,compromises
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,9,freewheelin'
+guitar-learn-workouts,fingerpicking songs,FALSE,song,traditional,fingerpicking,9,lil' liza jane
+guitar-learn-workouts,fingerpicking songs,FALSE,song,wolfgang amadeus mozart,fingerpicking,9,eine kleine nachtmusik
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,9,morning sun
+guitar-learn-workouts,fingerpicking songs,FALSE,song,edvard grieg,fingerpicking,9,morning mood
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,9,rise & fall
+guitar-learn-workouts,fingerpicking songs,FALSE,song,traditional,fingerpicking,9,romanza
+guitar-learn-workouts,fingerpicking songs,FALSE,song,traditional,fingerpicking,9,south caroling rag
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,9,summer of love
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,9,the good song
+guitar-learn-workouts,fingerpicking songs,FALSE,song,traditional,full fingerpicking,9,walzing matilda (in G)
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,10,rhythm changes
+guitar-learn-workouts,fingerpicking songs,FALSE,song,the yousicians,fingerpicking,10,gazing at stars (gtr mix)
+guitar-learn-workouts,songs with riffs,FALSE,song,the yousicians,basic riff,1,robot dawn
+guitar-learn-workouts,songs with riffs,FALSE,song,the yousicians,basic riff,1,up in the air
+guitar-learn-workouts,songs with riffs,FALSE,song,the yousicians,basic riff,1,livewire
+guitar-learn-workouts,songs with riffs,FALSE,song,the yousicians,basic riff,1,robot city
+guitar-learn-workouts,songs with riffs,FALSE,song,the yousicians,basic riff,3,minor step
+guitar-learn-workouts,songs with riffs,FALSE,song,the yousicians,basic riff,3,poweroid
+guitar-learn-workouts,songs with riffs,FALSE,song,the yousicians,basic riff,3,robot walk
+guitar-learn-workouts,songs with riffs,FALSE,song,the yousicians,basic riff,3,open all night
+guitar-learn-workouts,songs with riffs,FALSE,song,the yousicians,basic riff,3,highway to helsinki
+guitar-learn-workouts,songs with riffs,FALSE,song,the yousicians,basic riff,3,12 bar blues
+guitar-learn-workouts,songs with riffs,FALSE,song,the yousicians,main riff,4,livewire
+guitar-learn-workouts,songs with riffs,FALSE,song,the yousicians,basic riff,4,gems
+guitar-learn-workouts,songs with riffs,FALSE,song,the yousicians,basic riff,4,anarchy in the ai
+guitar-learn-workouts,songs with riffs,FALSE,song,the yousicians,main riff,4,highway to helsinki
+guitar-learn-workouts,songs with riffs,FALSE,song,the yousicians,basic riff,4,have you seen this boy?
+guitar-learn-workouts,songs with riffs,FALSE,song,the yousicians,basic riff,4,armed with guitars
+guitar-learn-workouts,songs with riffs,FALSE,song,traditional,basic riff,4,when johnny comes marching home
+guitar-learn-workouts,barre chord songs,FALSE,song,the yousicians,barre chords,8,very far away
+guitar-learn-workouts,barre chord songs,FALSE,song,the yousicians,barre chords,8,rise & fall
+guitar-learn-workouts,barre chord songs,FALSE,song,the yousicians,barre chords,8,over the rooftops
+guitar-learn-workouts,barre chord songs,FALSE,song,the yousicians,barre chords,8,like a boss
+guitar-learn-workouts,barre chord songs,FALSE,song,the yousicians,barre chords,8,flat out
+guitar-learn-workouts,barre chord songs,FALSE,song,the yousicians,barre chords,8,barre your soul
+guitar-learn-workouts,barre chord songs,FALSE,song,the yousicians,full rhythm,8,blues in F
+guitar-learn-workouts,barre chord songs,FALSE,song,the yousicians,barre chords,8,can't buy me skills
+guitar-learn-workouts,barre chord songs,FALSE,song,the yousicians,barre chords,8,feelin' good (pa pa pa)
+guitar-learn-workouts,barre chord songs,FALSE,song,the yousicians,full rhythm,8,winter jazz
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,11,in love with a snake
+guitar-learn-workouts,shredding solos,FALSE,song,traditional,full melody,11,la folia (metal)
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,11,babysitting
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,11,take your positions
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full rhythm,11,wizard knight
+guitar-learn-workouts,shredding solos,FALSE,song,traditional,melody,11,toss the feathers
+guitar-learn-workouts,shredding solos,FALSE,song,mr fastfinger,rhythm,11,arpeggio etude iv
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,11,runaway train
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,11,bringer of light
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,melody v2,11,asha & lata
+guitar-learn-workouts,shredding solos,FALSE,song,mr fastfinger,rhythm,11,arpeggio etude iii
+guitar-learn-workouts,shredding solos,FALSE,song,mr fastfinger,rhythm,11,awaki-waki
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,melody,11,circus madness
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,11,say no to 1 & 3
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full melody,11,birds of steel
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rull riff,11,skunky funk
+guitar-learn-workouts,shredding solos,FALSE,song,nikolai rimsky-korsakov,rhythm,11,flight of the bumblebee
+guitar-learn-workouts,shredding solos,FALSE,song,mr fastfinger,lead,11,go flash go
+guitar-learn-workouts,shredding solos,FALSE,song,johann sebastian bach,fingerpicking,11,minuet in Gm
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full rhythm,11,sitting on a park bench
+guitar-learn-workouts,shredding solos,FALSE,song,isaac albeniz,full riff,11,asturias (metal)
+guitar-learn-workouts,shredding solos,FALSE,song,mr fastfinger,rhythm,11,sandwashing
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,11,eddie rides again
+guitar-learn-workouts,shredding solos,FALSE,song,wolfgang amadeus mozart,full melody,11,rundo alla turca (electro)
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,11,i'm running away
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,melody,11,rainmaker
+guitar-learn-workouts,shredding solos,FALSE,song,johann sebastian bach,full melody,11,bourree (rock)
+guitar-learn-workouts,shredding solos,FALSE,song,traditional,melody,11,opa opa ta bouzoukia
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full rhythm,11,lycantropic metamorphosis
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,11,rise of the pumpkins
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,fingerpicking,11,ole mi pulgar
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full melody,11,bossfight
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,main rhythm and lead,11,wingman
+guitar-learn-workouts,shredding solos,FALSE,song,mr fastfinger,lead,12,arpeggio etude i
+guitar-learn-workouts,shredding solos,FALSE,song,mr fastfinger,lead,12,son of lost world
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,voice from the inside (lead mix)
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,atimba
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,wishing in the night
+guitar-learn-workouts,shredding solos,FALSE,song,mr fastfinger,lead,12,arpeggio etude iii
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,shredder lee (lead mix)
+guitar-learn-workouts,shredding solos,FALSE,song,mr fastfinger,lead,12,arpeggio etude iv
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,hammer of thor
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12,disco daddy
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12,fast machine
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
+guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
 guitar-songs-popular,happy holidays,FALSE,song,traditional,basic riff,1,o holy night
 guitar-challenges,children's choice,FALSE,song,traditional,basic melody,3,baby shark
 guitar-challenges,children's choice,FALSE,song,traditional,full melody,4,bingo
