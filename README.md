@@ -35,7 +35,7 @@ Not all songs are listed (yet).
 | guitar-home-new        | 2019-02-07 |            | update                      |
 | guitar-home-new-more   | 2019-02-07 |            | 1 song                      |
 | guitar-learn-missions  | 2019-03-18 |  36        | levels 0-1, 7-8 (4/11)      |
-| guitar-learn-workouts  | 2019-02-07 |            | 1 song                      |
+| guitar-learn-workouts  | 2019-11-23 | 100        |                             |
 | guitar-songs-popular   | 2019-02-07 |            | 1 song                      |
 | guitar-challenges      | 2019-11-23 | 100        |                             |
 | piano-home-new         | 2019-02-07 |            | update                      |
@@ -51,7 +51,7 @@ Not all songs are listed (yet).
 | ukulele-songs-popular  | 2019-02-07 | 100        |                             |
 | ukulele-challenges     | 2019-11-23 | 100        |                             |
 | bass-home-new          | 2019-11-14 | 100        |                             |
-| bass-home-new-more     | 2019-02-07 |            | 1 song                      |
+| bass-home-new-more     | 2019-11-23 | 100        |                             |
 | bass-learn-missions    | 2019-02-20 | 100        |                             |
 | bass-songs-popular     | 2019-02-07 |            | 1 song                      |
 | bass-challenges        | 2019-11-23 | 100        |                             |
