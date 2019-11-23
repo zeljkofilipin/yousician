@@ -52,7 +52,7 @@ Not all songs are listed (yet).
 | ukulele-challenges     | 2019-11-14 | 100        |                             |
 | bass-home-new          | 2019-11-14 | 100        |                             |
 | bass-home-new-more     | 2019-02-07 |            | 1 song                      |
-| bass-learn-missions    | 2019-02-20 | 100        | some ? author at level 9    |
+| bass-learn-missions    | 2019-02-20 | 100        |                             |
 | bass-songs-popular     | 2019-02-07 |            | 1 song                      |
 | bass-challenges        | 2019-11-14 | 100        |                             |
 | voice-home-new         | 2019-02-07 |            | 1 song                      |
