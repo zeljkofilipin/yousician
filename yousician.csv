@@ -1,25 +1,4 @@
 location,mission,premium+,type,author,description,level,song
-guitar-home-new,new on yousician,TRUE,song,thin lizzy,full rhythm,6,whiskey in the jar (in G)
-guitar-home-new,new on yousician,TRUE,song,rent,melody,6,seasons of love
-guitar-home-new,new on yousician,TRUE,song,jack johnson,fancy chords (capo),6,better together
-guitar-home-new,new on yousician,TRUE,song,gregory porter,fancy chords,6,hey laura
-guitar-home-new,new on yousician,TRUE,song,the beach boys,low rhythm,7,i get around
-guitar-home-new,new on yousician,TRUE,song,bill withers,lead,7,grandma's hands
-guitar-home-new,new on yousician,TRUE,song,bill withers,fingerpicking,7,grandma's hands
-guitar-home-new,new on yousician,TRUE,song,bill withers,fancy chords,6,grandma's hands
-guitar-home-new,new on yousician,TRUE,song,toby keith,rhythm & lead,6,should've been a cowboy
-guitar-home-new,new on yousician,TRUE,song,kiss,main rhythm,7,i was made for lovin' you (in Em)
-guitar-home-new,new on yousician,TRUE,song,jack johnson,fancy chords,6,banana pancakes
-guitar-home-new,new on yousician,TRUE,song,evita,fingerpicking,7,don't cry for me argentina
-guitar-home-new,new on yousician,TRUE,song,example,movable chords,7,kickstarts
-guitar-home-new,new on yousician,TRUE,song,stevie ray vaughan,fancy chords,6,texas flood (in G)
-guitar-home-new,new on yousician,TRUE,song,the beach boys,melody,7,good vibrations
-guitar-home-new,new on yousician,TRUE,song,steely dan,melody & solo,7,dirty work (in C)
-guitar-home-new,new on yousician,TRUE,song,lynyrd skynyrd,main rhythm,7,tuesday's gone
-guitar-home-new,new on yousician,TRUE,song,red hot chili peppers,fancy chords,6,road trippin'
-guitar-home-new,new on yousician,TRUE,song,air supply,fancy chords,6,all out of love
-guitar-home-new,new on yousician,TRUE,song,maroon 5,fancy chords,6,won't go home without you (in E)
-guitar-home-new-more,new on yousician,TRUE,song,al green,full rhythm & lead,9,love and happiness (short)
 guitar-learn-missions,play strings,FALSE,video,the yousicians,-,0,intro & tuning
 guitar-learn-missions,play strings,FALSE,song,the yousicians,exercise,0,life in tune (lesson)
 guitar-learn-missions,play strings,FALSE,song,traditional,open strings,0,spanish romance (short)
@@ -1840,27 +1819,6 @@ guitar-challenges,sound of the future,FALSE,song,the yousicians,main riff,4,the 
 guitar-challenges,sound of the future,FALSE,song,the yousicians,chords & riff,6,binary song
 guitar-challenges,sound of the future,FALSE,song,the yousicians,rhythm & lead,9,the lick of time
 guitar-challenges,sound of the future,FALSE,song,the yousicians,melody & solo,10,binary song
-piano-home-new,new on yousician,TRUE,song,imagine dragons,accompaniment,5,roots
-piano-home-new,new on yousician,TRUE,song,justin bieber,chords,5,nothing like us
-piano-home-new,new on yousician,TRUE,song,jack johnson,chords,5,better together
-piano-home-new,new on yousician,TRUE,song,red hot chili peppers,accompaniment,5,scar tissue
-piano-home-new,new on yousician,TRUE,song,beach boys,accompaniment,5,i get around
-piano-home-new,new on yousician,TRUE,song,gregory porter,accompaniment,5,hey laura
-piano-home-new,new on yousician,TRUE,song,toby keith,chords,6,should've been a cowboy
-piano-home-new,new on yousician,TRUE,song,bill withers,chords,5,grandma's hands
-piano-home-new,new on yousician,TRUE,song,kiss,accompaniment,6,i was made for lovin' you (in Em)
-piano-home-new,new on yousician,TRUE,song,jack johnson,chords,5,banana pancakes
-piano-home-new,new on yousician,TRUE,song,evita,accompaniment,6,don't cry for me argentina
-piano-home-new,new on yousician,TRUE,song,alice cooper,chords,6,no more mr. nice guy
-piano-home-new,new on yousician,TRUE,song,jade,accompaniment,5,don't walk away (in Dm)
-piano-home-new,new on yousician,TRUE,song,example,accompaniment,6,kickstarts
-piano-home-new,new on yousician,TRUE,song,red hot chili peppers,accompaniment,5,dani california
-piano-home-new,new on yousician,TRUE,song,lynyrd skynyrd,full melody,6,tuesday's gone
-piano-home-new,new on yousician,TRUE,song,neil diamond,bass,6,sweet caroline
-piano-home-new,new on yousician,TRUE,song,neil diamond,rh melody,6,sweet caroline
-piano-home-new,new on yousician,TRUE,song,red hot chili peppers,accompaniment,5,road trippin'
-piano-home-new,new on yousician,TRUE,song,steely dan,rh chords,6,do it again
-piano-home-new-more,new on yousician,TRUE,song,don mclean,accompainment,8,vincent (starry starry night)
 piano-learn-missions,let's play,FALSE,video,-,-,0,start here
 piano-learn-missions,let's play,FALSE,video,-,-,0,hand position and posture
 piano-learn-missions,let's play,FALSE,song,the yousicians,tutorial,0,set me free (lesson 1)
@@ -2963,247 +2921,193 @@ piano-challenges,rockabilly rumble,FALSE,song,the yousicians,chords,5,hillbilly 
 -,rockabilly rumble,-,-,-,-,-,-
 -,rockabilly rumble,-,-,-,-,-,-
 -,rockabilly rumble,-,-,-,-,-,-
-ukulele-home-new,new on yousician,TRUE,song,gary jules (feat. michael andrews),basic melody,3,mad worlds (in Em)
-ukulele-home-new,new on yousician,TRUE,song,gary jules (feat. michael andrews),chords,4,mad worlds (in Em)
-ukulele-home-new,new on yousician,TRUE,song,gary jules (feat. michael andrews),melody,6,mad worlds (in Em)
+ukulele-home-new,new on yousician,TRUE,song,goo goo dolls,chords,6,iris
+ukulele-home-new,new on yousician,TRUE,song,goo goo dolls,melody,4,iris
 ukulele-home-new,new on yousician,TRUE,song,gary jules (feat. michael andrews),fingerpicking,7,mad worlds (in Em)
-ukulele-home-new,new on yousician,TRUE,song,alabama,basic melody,3,song of the south
-ukulele-home-new,new on yousician,TRUE,song,alabama,chords,6,song of the south
+ukulele-home-new,new on yousician,TRUE,song,gary jules (feat. michael andrews),melody,6,mad worlds (in Em)
+ukulele-home-new,new on yousician,TRUE,song,gary jules (feat. michael andrews),chords,4,mad worlds (in Em)
+ukulele-home-new,new on yousician,TRUE,song,gary jules (feat. michael andrews),basic melody,3,mad worlds (in Em)
 ukulele-home-new,new on yousician,TRUE,song,alabama,melody,8,song of the south
-ukulele-home-new,new on yousician,TRUE,song,the beach boys,melody,6,god only knows (in G)
+ukulele-home-new,new on yousician,TRUE,song,alabama,chords,6,song of the south
+ukulele-home-new,new on yousician,TRUE,song,alabama,basic melody,3,song of the south
 ukulele-home-new,new on yousician,TRUE,song,the beach boys,chords,7,god only knows (in G)
-ukulele-home-new,new on yousician,TRUE,song,jack johnson,basic riff,1,better together
-ukulele-home-new,new on yousician,TRUE,song,jack johnson,melody,3,better together
+ukulele-home-new,new on yousician,TRUE,song,the beach boys,melody,6,god only knows (in G)
+ukulele-home-new,new on yousician,TRUE,song,r.e.m.,melody,5,the one i love
+ukulele-home-new,new on yousician,TRUE,song,r.e.m.,chords,4,the one i love
 ukulele-home-new,new on yousician,TRUE,song,jack johnson,full rhythm,7,better together
-ukulele-home-new,new on yousician,TRUE,song,justin bieber,basic riff,2,nothing like us
-ukulele-home-new,new on yousician,TRUE,song,justin bieber,chords,5,nothing like us
+ukulele-home-new,new on yousician,TRUE,song,jack johnson,melody,3,better together
+ukulele-home-new,new on yousician,TRUE,song,jack johnson,basic riff,1,better together
+ukulele-home-new,new on yousician,TRUE,song,imagine dragons,chords,6,roots
+ukulele-home-new,new on yousician,TRUE,song,imagine dragons,melody,4,roots
 ukulele-home-new,new on yousician,TRUE,song,justin bieber,fingerpicking,7,nothing like us
-ukulele-home-new,new on yousician,TRUE,song,rent,basic melody,2,seasons of love
-ukulele-home-new,new on yousician,TRUE,song,rent,melody,6,seasons of love
+ukulele-home-new,new on yousician,TRUE,song,justin bieber,chords,5,nothing like us
+ukulele-home-new,new on yousician,TRUE,song,justin bieber,basic riff,2,nothing like us
 ukulele-home-new,new on yousician,TRUE,song,rent,chords,7,seasons of love
-ukulele-home-new,new on yousician,TRUE,song,one direction,chords,4,more than this
-ukulele-home-new,new on yousician,TRUE,song,one direction,chords,6,more than this
+ukulele-home-new,new on yousician,TRUE,song,rent,melody,6,seasons of love
+ukulele-home-new,new on yousician,TRUE,song,rent,basic melody,2,seasons of love
 ukulele-home-new,new on yousician,TRUE,song,one direction,fingerpicking,8,more than this
-ukulele-home-new,new on yousician,TRUE,song,the beach boys,basic melody,2,i get around
-ukulele-home-new,new on yousician,TRUE,song,the beach boys,melody,6,i get around
+ukulele-home-new,new on yousician,TRUE,song,one direction,chords,6,more than this
+ukulele-home-new,new on yousician,TRUE,song,one direction,chords,4,more than this
 ukulele-home-new,new on yousician,TRUE,song,the beach boys,rhythm & lead,8,i get around
-ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,melody,3,scar tissue
-ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,chords,6,scar tissue
+ukulele-home-new,new on yousician,TRUE,song,the beach boys,melody,6,i get around
+ukulele-home-new,new on yousician,TRUE,song,the beach boys,basic melody,2,i get around
 ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,full rhythm,8,scar tissue
-ukulele-home-new,new on yousician,TRUE,song,bill withers,basic melody,1,grandma's hands
-ukulele-home-new,new on yousician,TRUE,song,bill withers,chords,5,grandma's hands
+ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,chords,6,scar tissue
+ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,melody,3,scar tissue
 ukulele-home-new,new on yousician,TRUE,song,bill withers,melody,8,grandma's hands
+ukulele-home-new,new on yousician,TRUE,song,bill withers,chords,5,grandma's hands
+ukulele-home-new,new on yousician,TRUE,song,bill withers,basic melody,1,grandma's hands
+ukulele-home-new,new on yousician,TRUE,song,jack johnson,fingerpicking,7,banana pancakes
 ukulele-home-new,new on yousician,TRUE,song,jack johnson,melody,4,banana pancakes
 ukulele-home-new,new on yousician,TRUE,song,jack johnson,chords,4,banana pancakes
-ukulele-home-new,new on yousician,TRUE,song,jack johnson,fingerpicking,7,banana pancakes
-ukulele-home-new,new on yousician,TRUE,song,toby keith,chords,4,should've been a cowboy
 ukulele-home-new,new on yousician,TRUE,song,toby keith,melody,8,should've been a cowboy
-ukulele-home-new,new on yousician,TRUE,song,evita,melody,4,don't cry for me argentina (in C)
+ukulele-home-new,new on yousician,TRUE,song,toby keith,chords,4,should've been a cowboy
+ukulele-home-new,new on yousician,TRUE,song,imagine dragons,chord practise,0,thunder (tutorial)
+ukulele-home-new,new on yousician,TRUE,song,tim mcgraw,chord practise,0,humble and kind (tutorial)
+ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,chord lesson,0,californication (short)
 ukulele-home-new,new on yousician,TRUE,song,evita,full rhythm,7,don't cry for me argentina (in C)
-ukulele-home-new,new on yousician,TRUE,song,alice cooper,melody,4,no more mr. nice guy
+ukulele-home-new,new on yousician,TRUE,song,evita,melody,4,don't cry for me argentina (in C)
 ukulele-home-new,new on yousician,TRUE,song,alice cooper,chords,8,no more mr. nice guy
-ukulele-home-new,new on yousician,TRUE,song,example,melody,4,kickstarts
+ukulele-home-new,new on yousician,TRUE,song,alice cooper,melody,4,no more mr. nice guy
 ukulele-home-new,new on yousician,TRUE,song,example,chords,7,kickstarts
-ukulele-home-new,new on yousician,TRUE,song,the beach boys,basic melody,4,good vibrations (in Dm)
-ukulele-home-new,new on yousician,TRUE,song,the beach boys,chords,7,good vibrations (in Dm)
+ukulele-home-new,new on yousician,TRUE,song,example,melody,4,kickstarts
 ukulele-home-new,new on yousician,TRUE,song,the beach boys,melody,8,good vibrations (in Dm)
-ukulele-home-new,new on yousician,TRUE,song,lynyrd skynyrd,melody,3,tuesday's gone (in G)
-ukulele-home-new,new on yousician,TRUE,song,lynyrd skynyrd,chords,4,tuesday's gone (in G)
+ukulele-home-new,new on yousician,TRUE,song,the beach boys,chords,7,good vibrations (in Dm)
+ukulele-home-new,new on yousician,TRUE,song,the beach boys,basic melody,4,good vibrations (in Dm)
 ukulele-home-new,new on yousician,TRUE,song,lynyrd skynyrd,rhythm & lead,8,tuesday's gone (in G)
-ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,melody,5,road trippin'
+ukulele-home-new,new on yousician,TRUE,song,lynyrd skynyrd,chords,4,tuesday's gone (in G)
+ukulele-home-new,new on yousician,TRUE,song,lynyrd skynyrd,melody,3,tuesday's gone (in G)
 ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,chords,7,road trippin'
-ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,chords,3,dani california
+ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,melody,5,road trippin'
 ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,melody & solo,8,dani california
-ukulele-home-new,new on yousician,TRUE,song,miley cyrus,chords,4,malibu (in G)
-ukulele-home-new,new on yousician,TRUE,song,miley cyrus,melody,6,malibu (in G)
+ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,chords,3,dani california
+ukulele-home-new,new on yousician,TRUE,song,lynyrd skynyrd,chords,4,sweet home alabama
 ukulele-home-new,new on yousician,TRUE,song,miley cyrus,full rhythm,7,malibu (in G)
-ukulele-home-new-more,new on yousician,TRUE,song,goo goo dolls,chords,6,iris
-ukulele-home-new-more,new on yousician,TRUE,song,goo goo dolls,melody,4,iris
-ukulele-home-new-more,new on yousician,TRUE,song,gary jules (feat. michael andrews),fingerpicking,7,mad worlds (in Em)
-ukulele-home-new-more,new on yousician,TRUE,song,gary jules (feat. michael andrews),melody,6,mad worlds (in Em)
-ukulele-home-new-more,new on yousician,TRUE,song,gary jules (feat. michael andrews),chords,4,mad worlds (in Em)
-ukulele-home-new-more,new on yousician,TRUE,song,gary jules (feat. michael andrews),basic melody,3,mad worlds (in Em)
-ukulele-home-new-more,new on yousician,TRUE,song,alabama,melody,8,song of the south
-ukulele-home-new-more,new on yousician,TRUE,song,alabama,chords,6,song of the south
-ukulele-home-new-more,new on yousician,TRUE,song,alabama,basic melody,3,song of the south
-ukulele-home-new-more,new on yousician,TRUE,song,the beach boys,chords,7,god only knows (in G)
-ukulele-home-new-more,new on yousician,TRUE,song,the beach boys,melody,6,god only knows (in G)
-ukulele-home-new-more,new on yousician,TRUE,song,r.e.m.,melody,5,the one i love
-ukulele-home-new-more,new on yousician,TRUE,song,r.e.m.,chords,4,the one i love
-ukulele-home-new-more,new on yousician,TRUE,song,jack johnson,full rhythm,7,better together
-ukulele-home-new-more,new on yousician,TRUE,song,jack johnson,melody,3,better together
-ukulele-home-new-more,new on yousician,TRUE,song,jack johnson,basic riff,1,better together
-ukulele-home-new-more,new on yousician,TRUE,song,imagine dragons,chords,6,roots
-ukulele-home-new-more,new on yousician,TRUE,song,imagine dragons,melody,4,roots
-ukulele-home-new-more,new on yousician,TRUE,song,justin bieber,fingerpicking,7,nothing like us
-ukulele-home-new-more,new on yousician,TRUE,song,justin bieber,chords,5,nothing like us
-ukulele-home-new-more,new on yousician,TRUE,song,justin bieber,basic riff,2,nothing like us
-ukulele-home-new-more,new on yousician,TRUE,song,rent,chords,7,seasons of love
-ukulele-home-new-more,new on yousician,TRUE,song,rent,melody,6,seasons of love
-ukulele-home-new-more,new on yousician,TRUE,song,rent,basic melody,2,seasons of love
-ukulele-home-new-more,new on yousician,TRUE,song,one direction,fingerpicking,8,more than this
-ukulele-home-new-more,new on yousician,TRUE,song,one direction,chords,6,more than this
-ukulele-home-new-more,new on yousician,TRUE,song,one direction,chords,4,more than this
-ukulele-home-new-more,new on yousician,TRUE,song,the beach boys,rhythm & lead,8,i get around
-ukulele-home-new-more,new on yousician,TRUE,song,the beach boys,melody,6,i get around
-ukulele-home-new-more,new on yousician,TRUE,song,the beach boys,basic melody,2,i get around
-ukulele-home-new-more,new on yousician,TRUE,song,red hot chili peppers,full rhythm,8,scar tissue
-ukulele-home-new-more,new on yousician,TRUE,song,red hot chili peppers,chords,6,scar tissue
-ukulele-home-new-more,new on yousician,TRUE,song,red hot chili peppers,melody,3,scar tissue
-ukulele-home-new-more,new on yousician,TRUE,song,bill withers,melody,8,grandma's hands
-ukulele-home-new-more,new on yousician,TRUE,song,bill withers,chords,5,grandma's hands
-ukulele-home-new-more,new on yousician,TRUE,song,bill withers,basic melody,1,grandma's hands
-ukulele-home-new-more,new on yousician,TRUE,song,jack johnson,fingerpicking,7,banana pancakes
-ukulele-home-new-more,new on yousician,TRUE,song,jack johnson,melody,4,banana pancakes
-ukulele-home-new-more,new on yousician,TRUE,song,jack johnson,chords,4,banana pancakes
-ukulele-home-new-more,new on yousician,TRUE,song,toby keith,melody,8,should've been a cowboy
-ukulele-home-new-more,new on yousician,TRUE,song,toby keith,chords,4,should've been a cowboy
-ukulele-home-new-more,new on yousician,TRUE,song,imagine dragons,chord practise,0,thunder (tutorial)
-ukulele-home-new-more,new on yousician,TRUE,song,tim mcgraw,chord practise,0,humble and kind (tutorial)
-ukulele-home-new-more,new on yousician,TRUE,song,red hot chili peppers,chord lesson,0,californication (short)
-ukulele-home-new-more,new on yousician,TRUE,song,evita,full rhythm,7,don't cry for me argentina (in C)
-ukulele-home-new-more,new on yousician,TRUE,song,evita,melody,4,don't cry for me argentina (in C)
-ukulele-home-new-more,new on yousician,TRUE,song,alice cooper,chords,8,no more mr. nice guy
-ukulele-home-new-more,new on yousician,TRUE,song,alice cooper,melody,4,no more mr. nice guy
-ukulele-home-new-more,new on yousician,TRUE,song,example,chords,7,kickstarts
-ukulele-home-new-more,new on yousician,TRUE,song,example,melody,4,kickstarts
-ukulele-home-new-more,new on yousician,TRUE,song,the beach boys,melody,8,good vibrations (in Dm)
-ukulele-home-new-more,new on yousician,TRUE,song,the beach boys,chords,7,good vibrations (in Dm)
-ukulele-home-new-more,new on yousician,TRUE,song,the beach boys,basic melody,4,good vibrations (in Dm)
-ukulele-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,rhythm & lead,8,tuesday's gone (in G)
-ukulele-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,chords,4,tuesday's gone (in G)
-ukulele-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,melody,3,tuesday's gone (in G)
-ukulele-home-new-more,new on yousician,TRUE,song,red hot chili peppers,chords,7,road trippin'
-ukulele-home-new-more,new on yousician,TRUE,song,red hot chili peppers,melody,5,road trippin'
-ukulele-home-new-more,new on yousician,TRUE,song,red hot chili peppers,melody & solo,8,dani california
-ukulele-home-new-more,new on yousician,TRUE,song,red hot chili peppers,chords,3,dani california
-ukulele-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,chords,4,sweet home alabama
-ukulele-home-new-more,new on yousician,TRUE,song,miley cyrus,full rhythm,7,malibu (in G)
-ukulele-home-new-more,new on yousician,TRUE,song,miley cyrus,melody,6,malibu (in G)
-ukulele-home-new-more,new on yousician,TRUE,song,miley cyrus,chords,4,malibu (in G)
-ukulele-home-new-more,new on yousician,TRUE,song,tim mcgraw,chords,3,humble and kind (in C)
-ukulele-home-new-more,new on yousician,TRUE,song,tim mcgraw,melody,8,humble and kind
-ukulele-home-new-more,new on yousician,TRUE,song,imagine dragons,melody,8,thunder
-ukulele-home-new-more,new on yousician,TRUE,song,imagine dragons,chords,6,thunder
-ukulele-home-new-more,new on yousician,TRUE,song,imagine dragons,chords,3,thunder
-ukulele-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,strumming & fingerpicking,7,free bird
-ukulele-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,chords,4,free bird
-ukulele-home-new-more,new on yousician,TRUE,song,maroon 5,fancy chords & lead,6,sunday morning
-ukulele-home-new-more,new on yousician,TRUE,song,maroon 5,chords,4,sunday morning
-ukulele-home-new-more,new on yousician,TRUE,song,the beatles,chords,7,i want to hold your hand
-ukulele-home-new-more,new on yousician,TRUE,song,the beatles,melody,6,i want to hold your hand
-ukulele-home-new-more,new on yousician,TRUE,song,air supply,melody,5,all out of love
-ukulele-home-new-more,new on yousician,TRUE,song,air supply,chords,5,all out of love
-ukulele-home-new-more,new on yousician,TRUE,song,pixies,melody,6,here comes your man
-ukulele-home-new-more,new on yousician,TRUE,song,pixies,chords,5,here comes your man
-ukulele-home-new-more,new on yousician,TRUE,song,calum scott,fingerpicking,8,dancing on my own
-ukulele-home-new-more,new on yousician,TRUE,song,calum scott,chords,5,dancing on my own (in C)
-ukulele-home-new-more,new on yousician,TRUE,song,r.e.m.,fingerpicking,8,it's the end of the world as we know it (and i feel fine)
-ukulele-home-new-more,new on yousician,TRUE,song,r.e.m.,chords,4,it's the end of the world as we know it (and i feel fine)
-ukulele-home-new-more,new on yousician,TRUE,song,red hot chili peppers,full rhythm,8,californication
-ukulele-home-new-more,new on yousician,TRUE,song,red hot chili peppers,melody,4,californication
-ukulele-home-new-more,new on yousician,TRUE,song,bobby mcferrin,chords,8,don't worry be happy
-ukulele-home-new-more,new on yousician,TRUE,song,bobby mcferrin,melody,8,don't worry be happy (in C)
-ukulele-home-new-more,new on yousician,TRUE,song,bobby mcferrin,easy strumming,3,don't worry be happy (in C)
-ukulele-home-new-more,new on yousician,TRUE,song,coldplay,chords,8,clocks
-ukulele-home-new-more,new on yousician,TRUE,song,coldplay,double stops,6,clocks
-ukulele-home-new-more,new on yousician,TRUE,song,coldplay,chords,4,clocks (in G)
-ukulele-home-new-more,new on yousician,TRUE,song,the mamas & the papas,fingerpicking,7,california dreamin' (in Dm)
-ukulele-home-new-more,new on yousician,TRUE,song,the mamas & the papas,strumming,7,california dreamin' (in Dm)
-ukulele-home-new-more,new on yousician,TRUE,song,rod steward,chords,4,sailing (in C)
-ukulele-home-new-more,new on yousician,TRUE,song,rod steward,basic melody,3,sailing (in C)
-ukulele-home-new-more,new on yousician,TRUE,song,carly simon,melody,5,you're so vain
-ukulele-home-new-more,new on yousician,TRUE,song,carly simon,chords,4,you're so vain
-ukulele-home-new-more,new on yousician,TRUE,song,aretha franklin,advanced rhythm,8,respect
-ukulele-home-new-more,new on yousician,TRUE,song,aretha franklin,basic rhythm,3,respect
-ukulele-home-new-more,new on yousician,TRUE,song,buena vista social club,rhythm & lead,8,chan chan
-ukulele-home-new-more,new on yousician,TRUE,song,otis redding,chords,7,(sittin' on) the dock of the bay
-ukulele-home-new-more,new on yousician,TRUE,song,otis redding,melody,2,(sittin' on) the dock of the bay
-ukulele-home-new-more,new on yousician,TRUE,song,florence + the machine,fingerpicking,8,dog days are over
-ukulele-home-new-more,new on yousician,TRUE,song,florence + the machine,strumming,6,dog days are over
-ukulele-home-new-more,new on yousician,TRUE,song,brett young,double stops,5,in case you didn't know
-ukulele-home-new-more,new on yousician,TRUE,song,bryan adams,melody,6,summer of '69
-ukulele-home-new-more,new on yousician,TRUE,song,bryan adams,chords,4,summer of '69
-ukulele-home-new-more,new on yousician,TRUE,song,bryan adams,basic melody,3,summer of '69
-ukulele-home-new-more,new on yousician,TRUE,song,hunter hayes,melody,7,wanted
-ukulele-home-new-more,new on yousician,TRUE,song,hunter hayes,chords,4,wanted
-ukulele-home-new-more,new on yousician,TRUE,song,hunter hayes,basic melody,2,wanted
-ukulele-home-new-more,new on yousician,TRUE,song,imagine dragons,fingerpicking,8,next to me
-ukulele-home-new-more,new on yousician,TRUE,song,imagine dragons,chords,4,next to me
-ukulele-home-new-more,new on yousician,TRUE,song,florence + the machine,fingerpicking,7,cosmic love
-ukulele-home-new-more,new on yousician,TRUE,song,florence + the machine,chords,3,cosmic love
-ukulele-home-new-more,new on yousician,TRUE,song,gloria gaynor,chords,6,i will survive
-ukulele-home-new-more,new on yousician,TRUE,song,gloria gaynor,melody,3,i will survive
-ukulele-home-new-more,new on yousician,TRUE,song,red hot chili peppers,full rhythm,8,under the bridge
-ukulele-home-new-more,new on yousician,TRUE,song,red hot chili peppers,melody,6,under the bridge
-ukulele-home-new-more,new on yousician,TRUE,song,abba,melody,7,mamma mia
-ukulele-home-new-more,new on yousician,TRUE,song,abba,chords,4,mamma mia
-ukulele-home-new-more,new on yousician,TRUE,song,abba,basic riff,3,mamma mia
-ukulele-home-new-more,new on yousician,TRUE,song,roxette,fingerpicking,8,it must have been love
-ukulele-home-new-more,new on yousician,TRUE,song,roxette,melody,6,it must have been love
-ukulele-home-new-more,new on yousician,TRUE,song,roxette,basic melody,2,it must have been love
-ukulele-home-new-more,new on yousician,TRUE,song,coldplay,full melody (orig. key),6,yellow
-ukulele-home-new-more,new on yousician,TRUE,song,coldplay,melody,4,yellow (in C)
-ukulele-home-new-more,new on yousician,TRUE,song,coldplay,basic melody,1,yellow (in C)
-ukulele-home-new-more,new on yousician,TRUE,song,florence + the machine,chords,6,ship to wreck
-ukulele-home-new-more,new on yousician,TRUE,song,florence + the machine,basic chords,1,ship to wreck
-ukulele-home-new-more,new on yousician,TRUE,song,alejandro sanz,basic riff,3,corazon partio
-ukulele-home-new-more,new on yousician,TRUE,song,miley cyrus,fingerpicking,6,adore you
-ukulele-home-new-more,new on yousician,TRUE,song,chris stapleton,chords,7,millionare
-ukulele-home-new-more,new on yousician,TRUE,song,chris stapleton,double stops,5,millionare
-ukulele-home-new-more,new on yousician,TRUE,song,chris stapleton,basic melody,3,millionare
-ukulele-home-new-more,new on yousician,TRUE,song,van morrison,chords,4,brown eyed girl
-ukulele-home-new-more,new on yousician,TRUE,song,van morrison,basic melody,2,brown eyed girl
-ukulele-home-new-more,new on yousician,TRUE,song,imagine dragons,chords,4,it's time
-ukulele-home-new-more,new on yousician,TRUE,song,imagine dragons,basic melody,3,it's time
-ukulele-home-new-more,new on yousician,TRUE,song,daughter,chords,3,youth
-ukulele-home-new-more,new on yousician,TRUE,song,bill withers,chords & riffs,6,lean on me
-ukulele-home-new-more,new on yousician,TRUE,song,bill withers,chords,3,lean on me
-ukulele-home-new-more,new on yousician,TRUE,song,bill withers,melody,1,lean on me
-ukulele-home-new-more,new on yousician,TRUE,song,bill withers,fingerpicking,6,ain't no sunshine
-ukulele-home-new-more,new on yousician,TRUE,song,bill withers,melody,4,ain't no sunshine
-ukulele-home-new-more,new on yousician,TRUE,song,bill withers,chords,3,ain't no sunshine
-ukulele-home-new-more,new on yousician,TRUE,song,bill withers,basic riff,1,ain't no sunshine
-ukulele-home-new-more,new on yousician,TRUE,song,r.e.m.,rhythm & lead,7,losing my religion
-ukulele-home-new-more,new on yousician,TRUE,song,r.e.m.,chords,6,losing my religion
-ukulele-home-new-more,new on yousician,TRUE,song,r.e.m.,chords,3,losing my religion
-ukulele-home-new-more,new on yousician,TRUE,song,imagine dragons,chords,6,on the top of the world
-ukulele-home-new-more,new on yousician,TRUE,song,imagine dragons,basic riff,3,on the top of the world
-ukulele-home-new-more,new on yousician,TRUE,song,r.e.m.,full rhythm,8,everybody hurts
-ukulele-home-new-more,new on yousician,TRUE,song,r.e.m.,chords,4,everybody hurts
-ukulele-home-new-more,new on yousician,TRUE,song,al green,movable chords,8,let's stay together
-ukulele-home-new-more,new on yousician,TRUE,song,al green,melody,5,let's stay together
-ukulele-home-new-more,new on yousician,TRUE,song,al green,basic melody,2,let's stay together
-ukulele-home-new-more,new on yousician,TRUE,song,coldplay,full rhythm,8,the scientist
-ukulele-home-new-more,new on yousician,TRUE,song,coldplay,melody,4,the scientist
-ukulele-home-new-more,new on yousician,TRUE,song,mountain,chords & riffs,8,mississippi queen
-ukulele-home-new-more,new on yousician,TRUE,song,don mclean,melody,8,american pie
-ukulele-home-new-more,new on yousician,TRUE,song,don mclean,chords,6,american pie
-ukulele-home-new-more,new on yousician,TRUE,song,alejandro sanz,fancy chords,6,corazon partio
-ukulele-home-new-more,new on yousician,TRUE,song,coldplay,chords,4,yellow (in C)
-ukulele-home-new-more,new on yousician,TRUE,song,roxette,lead,8,it must have been love
-ukulele-home-new-more,new on yousician,TRUE,song,brett young,movable chords,7,in case you didn't know
-ukulele-home-new-more,new on yousician,TRUE,song,van morrison,melody and chords,7,brown eyed girl
-ukulele-home-new-more,new on yousician,TRUE,song,imagine dragons,slides,6,on the top of the world
-ukulele-home-new-more,new on yousician,TRUE,song,r.e.m.,open chords,6,losing my religion (in Gm)
-ukulele-home-new-more,new on yousician,TRUE,song,coldplay,slides,6,the scientist
-ukulele-home-new-more,new on yousician,TRUE,song,van morrison,melody and chords,7,brown eyed girl
-ukulele-home-new-more,new on yousician,TRUE,song,imagine dragons,slides,6,on the top of the world
-ukulele-home-new-more,new on yousician,TRUE,song,r.e.m.,open chords,6,losing my religion (in Gm)
-ukulele-home-new-more,new on yousician,TRUE,song,coldplay,slides,6,the scientist
-ukulele-home-new-more,new on yousician,TRUE,song,r.e.m.,alternate plucking,5,losing my religion
-ukulele-home-new-more,new on yousician,TRUE,song,bill withers,fingerpicking,4,ain't no sunshine
-ukulele-home-new-more,new on yousician,TRUE,song,van morrison,syncopated strums,5,brown eyed girl
-ukulele-home-new-more,new on yousician,TRUE,song,bill withers,double stops,5,lean on me
-ukulele-home-new-more,new on yousician,TRUE,song,don mclean,chords,4,american pie
-ukulele-home-new-more,new on yousician,TRUE,song,daughter,skipping,4,youth
-ukulele-home-new-more,new on yousician,TRUE,song,imagine dragons,strums,3,on the top of the world
-ukulele-home-new-more,new on yousician,TRUE,song,red hot chili peppers,four fingers,3,under the bridge
-ukulele-home-new-more,new on yousician,TRUE,song,miley cyrus,down and up,2,adore you
-ukulele-home-new-more,new on yousician,TRUE,song,mountain,melody,2,mississippi queen
-ukulele-home-new-more,new on yousician,TRUE,song,red hot chili peppers,easy chords,1,californication
-ukulele-home-new-more,new on yousician,TRUE,song,brett young,playing melodies,1,in case you didn't know
-ukulele-home-new-more,new on yousician,TRUE,song,daughter,changing chords,0,youth
+ukulele-home-new,new on yousician,TRUE,song,miley cyrus,melody,6,malibu (in G)
+ukulele-home-new,new on yousician,TRUE,song,miley cyrus,chords,4,malibu (in G)
+ukulele-home-new,new on yousician,TRUE,song,tim mcgraw,chords,3,humble and kind (in C)
+ukulele-home-new,new on yousician,TRUE,song,tim mcgraw,melody,8,humble and kind
+ukulele-home-new,new on yousician,TRUE,song,imagine dragons,melody,8,thunder
+ukulele-home-new,new on yousician,TRUE,song,imagine dragons,chords,6,thunder
+ukulele-home-new,new on yousician,TRUE,song,imagine dragons,chords,3,thunder
+ukulele-home-new,new on yousician,TRUE,song,lynyrd skynyrd,strumming & fingerpicking,7,free bird
+ukulele-home-new,new on yousician,TRUE,song,lynyrd skynyrd,chords,4,free bird
+ukulele-home-new,new on yousician,TRUE,song,maroon 5,fancy chords & lead,6,sunday morning
+ukulele-home-new,new on yousician,TRUE,song,maroon 5,chords,4,sunday morning
+ukulele-home-new,new on yousician,TRUE,song,the beatles,chords,7,i want to hold your hand
+ukulele-home-new,new on yousician,TRUE,song,the beatles,melody,6,i want to hold your hand
+ukulele-home-new,new on yousician,TRUE,song,air supply,melody,5,all out of love
+ukulele-home-new,new on yousician,TRUE,song,air supply,chords,5,all out of love
+ukulele-home-new,new on yousician,TRUE,song,pixies,melody,6,here comes your man
+ukulele-home-new,new on yousician,TRUE,song,pixies,chords,5,here comes your man
+ukulele-home-new,new on yousician,TRUE,song,calum scott,fingerpicking,8,dancing on my own
+ukulele-home-new,new on yousician,TRUE,song,calum scott,chords,5,dancing on my own (in C)
+ukulele-home-new,new on yousician,TRUE,song,r.e.m.,fingerpicking,8,it's the end of the world as we know it (and i feel fine)
+ukulele-home-new,new on yousician,TRUE,song,r.e.m.,chords,4,it's the end of the world as we know it (and i feel fine)
+ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,full rhythm,8,californication
+ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,melody,4,californication
+ukulele-home-new,new on yousician,TRUE,song,bobby mcferrin,chords,8,don't worry be happy
+ukulele-home-new,new on yousician,TRUE,song,bobby mcferrin,melody,8,don't worry be happy (in C)
+ukulele-home-new,new on yousician,TRUE,song,bobby mcferrin,easy strumming,3,don't worry be happy (in C)
+ukulele-home-new,new on yousician,TRUE,song,coldplay,chords,8,clocks
+ukulele-home-new,new on yousician,TRUE,song,coldplay,double stops,6,clocks
+ukulele-home-new,new on yousician,TRUE,song,coldplay,chords,4,clocks (in G)
+ukulele-home-new,new on yousician,TRUE,song,the mamas & the papas,fingerpicking,7,california dreamin' (in Dm)
+ukulele-home-new,new on yousician,TRUE,song,the mamas & the papas,strumming,7,california dreamin' (in Dm)
+ukulele-home-new,new on yousician,TRUE,song,rod steward,chords,4,sailing (in C)
+ukulele-home-new,new on yousician,TRUE,song,rod steward,basic melody,3,sailing (in C)
+ukulele-home-new,new on yousician,TRUE,song,carly simon,melody,5,you're so vain
+ukulele-home-new,new on yousician,TRUE,song,carly simon,chords,4,you're so vain
+ukulele-home-new,new on yousician,TRUE,song,aretha franklin,advanced rhythm,8,respect
+ukulele-home-new,new on yousician,TRUE,song,aretha franklin,basic rhythm,3,respect
+ukulele-home-new,new on yousician,TRUE,song,buena vista social club,rhythm & lead,8,chan chan
+ukulele-home-new,new on yousician,TRUE,song,otis redding,chords,7,(sittin' on) the dock of the bay
+ukulele-home-new,new on yousician,TRUE,song,otis redding,melody,2,(sittin' on) the dock of the bay
+ukulele-home-new,new on yousician,TRUE,song,florence + the machine,fingerpicking,8,dog days are over
+ukulele-home-new,new on yousician,TRUE,song,florence + the machine,strumming,6,dog days are over
+ukulele-home-new,new on yousician,TRUE,song,brett young,double stops,5,in case you didn't know
+ukulele-home-new,new on yousician,TRUE,song,bryan adams,melody,6,summer of '69
+ukulele-home-new,new on yousician,TRUE,song,bryan adams,chords,4,summer of '69
+ukulele-home-new,new on yousician,TRUE,song,bryan adams,basic melody,3,summer of '69
+ukulele-home-new,new on yousician,TRUE,song,hunter hayes,melody,7,wanted
+ukulele-home-new,new on yousician,TRUE,song,hunter hayes,chords,4,wanted
+ukulele-home-new,new on yousician,TRUE,song,hunter hayes,basic melody,2,wanted
+ukulele-home-new,new on yousician,TRUE,song,imagine dragons,fingerpicking,8,next to me
+ukulele-home-new,new on yousician,TRUE,song,imagine dragons,chords,4,next to me
+ukulele-home-new,new on yousician,TRUE,song,florence + the machine,fingerpicking,7,cosmic love
+ukulele-home-new,new on yousician,TRUE,song,florence + the machine,chords,3,cosmic love
+ukulele-home-new,new on yousician,TRUE,song,gloria gaynor,chords,6,i will survive
+ukulele-home-new,new on yousician,TRUE,song,gloria gaynor,melody,3,i will survive
+ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,full rhythm,8,under the bridge
+ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,melody,6,under the bridge
+ukulele-home-new,new on yousician,TRUE,song,abba,melody,7,mamma mia
+ukulele-home-new,new on yousician,TRUE,song,abba,chords,4,mamma mia
+ukulele-home-new,new on yousician,TRUE,song,abba,basic riff,3,mamma mia
+ukulele-home-new,new on yousician,TRUE,song,roxette,fingerpicking,8,it must have been love
+ukulele-home-new,new on yousician,TRUE,song,roxette,melody,6,it must have been love
+ukulele-home-new,new on yousician,TRUE,song,roxette,basic melody,2,it must have been love
+ukulele-home-new,new on yousician,TRUE,song,coldplay,full melody (orig. key),6,yellow
+ukulele-home-new,new on yousician,TRUE,song,coldplay,melody,4,yellow (in C)
+ukulele-home-new,new on yousician,TRUE,song,coldplay,basic melody,1,yellow (in C)
+ukulele-home-new,new on yousician,TRUE,song,florence + the machine,chords,6,ship to wreck
+ukulele-home-new,new on yousician,TRUE,song,florence + the machine,basic chords,1,ship to wreck
+ukulele-home-new,new on yousician,TRUE,song,alejandro sanz,basic riff,3,corazon partio
+ukulele-home-new,new on yousician,TRUE,song,miley cyrus,fingerpicking,6,adore you
+ukulele-home-new,new on yousician,TRUE,song,chris stapleton,chords,7,millionare
+ukulele-home-new,new on yousician,TRUE,song,chris stapleton,double stops,5,millionare
+ukulele-home-new,new on yousician,TRUE,song,chris stapleton,basic melody,3,millionare
+ukulele-home-new,new on yousician,TRUE,song,van morrison,chords,4,brown eyed girl
+ukulele-home-new,new on yousician,TRUE,song,van morrison,basic melody,2,brown eyed girl
+ukulele-home-new,new on yousician,TRUE,song,imagine dragons,chords,4,it's time
+ukulele-home-new,new on yousician,TRUE,song,imagine dragons,basic melody,3,it's time
+ukulele-home-new,new on yousician,TRUE,song,daughter,chords,3,youth
+ukulele-home-new,new on yousician,TRUE,song,bill withers,chords & riffs,6,lean on me
+ukulele-home-new,new on yousician,TRUE,song,bill withers,chords,3,lean on me
+ukulele-home-new,new on yousician,TRUE,song,bill withers,melody,1,lean on me
+ukulele-home-new,new on yousician,TRUE,song,bill withers,fingerpicking,6,ain't no sunshine
+ukulele-home-new,new on yousician,TRUE,song,bill withers,melody,4,ain't no sunshine
+ukulele-home-new,new on yousician,TRUE,song,bill withers,chords,3,ain't no sunshine
+ukulele-home-new,new on yousician,TRUE,song,bill withers,basic riff,1,ain't no sunshine
+ukulele-home-new,new on yousician,TRUE,song,r.e.m.,rhythm & lead,7,losing my religion
+ukulele-home-new,new on yousician,TRUE,song,r.e.m.,chords,6,losing my religion
+ukulele-home-new,new on yousician,TRUE,song,r.e.m.,chords,3,losing my religion
+ukulele-home-new,new on yousician,TRUE,song,imagine dragons,chords,6,on the top of the world
+ukulele-home-new,new on yousician,TRUE,song,imagine dragons,basic riff,3,on the top of the world
+ukulele-home-new,new on yousician,TRUE,song,r.e.m.,full rhythm,8,everybody hurts
+ukulele-home-new,new on yousician,TRUE,song,r.e.m.,chords,4,everybody hurts
+ukulele-home-new,new on yousician,TRUE,song,al green,movable chords,8,let's stay together
+ukulele-home-new,new on yousician,TRUE,song,al green,melody,5,let's stay together
+ukulele-home-new,new on yousician,TRUE,song,al green,basic melody,2,let's stay together
+ukulele-home-new,new on yousician,TRUE,song,coldplay,full rhythm,8,the scientist
+ukulele-home-new,new on yousician,TRUE,song,coldplay,melody,4,the scientist
+ukulele-home-new,new on yousician,TRUE,song,mountain,chords & riffs,8,mississippi queen
+ukulele-home-new,new on yousician,TRUE,song,don mclean,melody,8,american pie
+ukulele-home-new,new on yousician,TRUE,song,don mclean,chords,6,american pie
+ukulele-home-new,new on yousician,TRUE,song,alejandro sanz,fancy chords,6,corazon partio
+ukulele-home-new,new on yousician,TRUE,song,coldplay,chords,4,yellow (in C)
+ukulele-home-new,new on yousician,TRUE,song,roxette,lead,8,it must have been love
+ukulele-home-new,new on yousician,TRUE,song,brett young,movable chords,7,in case you didn't know
+ukulele-home-new,new on yousician,TRUE,song,van morrison,melody and chords,7,brown eyed girl
+ukulele-home-new,new on yousician,TRUE,song,imagine dragons,slides,6,on the top of the world
+ukulele-home-new,new on yousician,TRUE,song,r.e.m.,open chords,6,losing my religion (in Gm)
+ukulele-home-new,new on yousician,TRUE,song,coldplay,slides,6,the scientist
+ukulele-home-new,new on yousician,TRUE,song,van morrison,melody and chords,7,brown eyed girl
+ukulele-home-new,new on yousician,TRUE,song,imagine dragons,slides,6,on the top of the world
+ukulele-home-new,new on yousician,TRUE,song,r.e.m.,open chords,6,losing my religion (in Gm)
+ukulele-home-new,new on yousician,TRUE,song,coldplay,slides,6,the scientist
+ukulele-home-new,new on yousician,TRUE,song,r.e.m.,alternate plucking,5,losing my religion
+ukulele-home-new,new on yousician,TRUE,song,bill withers,fingerpicking,4,ain't no sunshine
+ukulele-home-new,new on yousician,TRUE,song,van morrison,syncopated strums,5,brown eyed girl
+ukulele-home-new,new on yousician,TRUE,song,bill withers,double stops,5,lean on me
+ukulele-home-new,new on yousician,TRUE,song,don mclean,chords,4,american pie
+ukulele-home-new,new on yousician,TRUE,song,daughter,skipping,4,youth
+ukulele-home-new,new on yousician,TRUE,song,imagine dragons,strums,3,on the top of the world
+ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,four fingers,3,under the bridge
+ukulele-home-new,new on yousician,TRUE,song,miley cyrus,down and up,2,adore you
+ukulele-home-new,new on yousician,TRUE,song,mountain,melody,2,mississippi queen
+ukulele-home-new,new on yousician,TRUE,song,red hot chili peppers,easy chords,1,californication
+ukulele-home-new,new on yousician,TRUE,song,brett young,playing melodies,1,in case you didn't know
+ukulele-home-new,new on yousician,TRUE,song,daughter,changing chords,0,youth
 ukulele-learn-missions,play your first songs,FALSE,video,-,-,0,intro & tuning
 ukulele-learn-missions,play your first songs,FALSE,video,-,-,0,video: learn to strum
 ukulele-learn-missions,play your first songs,FALSE,song,the yousicians,exercise,0,banana boats (chords lesson)
@@ -4577,544 +4481,524 @@ bass-home-new,new on yousician,TRUE,song,fleetwood mac,full bassline,7,go your o
 bass-home-new,new on yousician,TRUE,song,foo fighters,basic bassline,3,the pretender
 bass-home-new,new on yousician,TRUE,song,foo fighters,main bassline,5,the pretender
 bass-home-new,new on yousician,TRUE,song,foo fighters,full bassline,8,the pretender
+bass-home-new,new on yousician,TRUE,song,macklemore & ryan lewis,basic bassline,2,can't hold us
+bass-home-new,new on yousician,TRUE,song,macklemore & ryan lewis,full bassline,5,can't hold us
 bass-home-new,new on yousician,TRUE,song,crowded house,basic bassline,2,don't dream it's over
 bass-home-new,new on yousician,TRUE,song,crowded house,main bassline,4,don't dream it's over
 bass-home-new,new on yousician,TRUE,song,crowded house,full bassline,7,don't dream it's over
 bass-home-new,new on yousician,TRUE,song,tool,main bassline,7,schism
 bass-home-new,new on yousician,TRUE,song,tool,full bassline,11,schism
+bass-home-new,new on yousician,TRUE,song,james bay,basic bass (short),3,hold back the river
+bass-home-new,new on yousician,TRUE,song,james bay,full bass (short),5,hold back the river
+bass-home-new,new on yousician,TRUE,song,johnny cash,basic bassline,1,hurt
+bass-home-new,new on yousician,TRUE,song,johnny cash,full bassline,6,hurt
+bass-home-new,new on yousician,TRUE,song,bob marley,basic bassline,3,redemption song
+bass-home-new,new on yousician,TRUE,song,billie eilish,basic bassline,2,watch
+bass-home-new,new on yousician,TRUE,song,billie eilish,full bassline,5,watch
+bass-home-new,new on yousician,TRUE,song,monthy python,basic bassline,2,always look on the bright side of life
+bass-home-new,new on yousician,TRUE,song,monthy python,full bassline,6,always look on the bright side of life
 bass-home-new,new on yousician,TRUE,song,avril lavigne,basic bassline,2,complicated
 bass-home-new,new on yousician,TRUE,song,avril lavigne,main bassline,4,complicated
 bass-home-new,new on yousician,TRUE,song,avril lavigne,full bassline,8,complicated
 bass-home-new,new on yousician,TRUE,song,jimi hendrix,basic bassline,2,hey joe
 bass-home-new,new on yousician,TRUE,song,jimi hendrix,main bassline,4,hey joe
 bass-home-new,new on yousician,TRUE,song,jimi hendrix,full bassline,8,hey joe
+bass-home-new,new on yousician,TRUE,song,seal,basic bassline,2,kiss from a rose (in A)
+bass-home-new,new on yousician,TRUE,song,seal,full bassline,6,kiss from a rose (in A)
 bass-home-new,new on yousician,TRUE,song,foo fighters,basic bassline,2,everlong
 bass-home-new,new on yousician,TRUE,song,foo fighters,main bassline,5,everlong
-bass-home-new,new on yousician,TRUE,song,foo fighters,full bassline,8,everlong
-bass-home-new-more,new on yousician,TRUE,song,fleetwood mac,basic bassline,2,go your own way
-bass-home-new-more,new on yousician,TRUE,song,fleetwood mac,main bassline,4,go your own way
-bass-home-new-more,new on yousician,TRUE,song,fleetwood mac,full bassline,7,go your own way
-bass-home-new-more,new on yousician,TRUE,song,foo fighters,basic bassline,3,the pretender
-bass-home-new-more,new on yousician,TRUE,song,foo fighters,main bassline,5,the pretender
-bass-home-new-more,new on yousician,TRUE,song,foo fighters,full bassline,8,the pretender
-bass-home-new-more,new on yousician,TRUE,song,macklemore & ryan lewis,basic bassline,2,can't hold us
-bass-home-new-more,new on yousician,TRUE,song,macklemore & ryan lewis,full bassline,5,can't hold us
-bass-home-new-more,new on yousician,TRUE,song,crowded house,basic bassline,2,don't dream it's over
-bass-home-new-more,new on yousician,TRUE,song,crowded house,main bassline,4,don't dream it's over
-bass-home-new-more,new on yousician,TRUE,song,crowded house,full bassline,7,don't dream it's over
-bass-home-new-more,new on yousician,TRUE,song,tool,main bassline,7,schism
-bass-home-new-more,new on yousician,TRUE,song,tool,full bassline,11,schism
-bass-home-new-more,new on yousician,TRUE,song,james bay,basic bass (short),3,hold back the river
-bass-home-new-more,new on yousician,TRUE,song,james bay,full bass (short),5,hold back the river
-bass-home-new-more,new on yousician,TRUE,song,johnny cash,basic bassline,1,hurt
-bass-home-new-more,new on yousician,TRUE,song,johnny cash,full bassline,6,hurt
-bass-home-new-more,new on yousician,TRUE,song,bob marley,basic bassline,3,redemption song
-bass-home-new-more,new on yousician,TRUE,song,billie eilish,basic bassline,2,watch
-bass-home-new-more,new on yousician,TRUE,song,billie eilish,full bassline,5,watch
-bass-home-new-more,new on yousician,TRUE,song,monthy python,basic bassline,2,always look on the bright side of life
-bass-home-new-more,new on yousician,TRUE,song,monthy python,full bassline,6,always look on the bright side of life
-bass-home-new-more,new on yousician,TRUE,song,avril lavigne,basic bassline,2,complicated
-bass-home-new-more,new on yousician,TRUE,song,avril lavigne,main bassline,4,complicated
-bass-home-new-more,new on yousician,TRUE,song,avril lavigne,full bassline,8,complicated
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,basic bassline,2,hey joe
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,main bassline,4,hey joe
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,full bassline,8,hey joe
-bass-home-new-more,new on yousician,TRUE,song,seal,basic bassline,2,kiss from a rose (in A)
-bass-home-new-more,new on yousician,TRUE,song,seal,full bassline,6,kiss from a rose (in A)
-bass-home-new-more,new on yousician,TRUE,song,foo fighters,basic bassline,2,everlong
-bass-home-new-more,new on yousician,TRUE,song,foo fighters,main bassline,5,everlong
-bass-home-new-more,new on yousician,TRUE,song,foo fighters,full bassline (drop D),8,everlong
-bass-home-new-more,new on yousician,TRUE,song,scorpions,basic bassline (short),2,wind of change
-bass-home-new-more,new on yousician,TRUE,song,scorpions,main bassline,5,wind of change
-bass-home-new-more,new on yousician,TRUE,song,scorpions,full bassline,8,wind of change
-bass-home-new-more,new on yousician,TRUE,song,jason mraz,basic bassline,2,i'm yours
-bass-home-new-more,new on yousician,TRUE,song,jason mraz,full bassline,6,i'm yours
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,basic bassline,2,spanish castle magic (in E)
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,main bassline,5,spanish castle magic (in E)
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,full bassline,8,spanish castle magic (in E)
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,basic bassline (short),1,voodoo child (slight return) (in E)
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,main bassline (short),5,voodoo child (slight return) (in E)
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,main bassline,5,voodoo child (slight return) (in E)
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,full bassline,8,voodoo child (slight return) (in E)
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,basic bassline,2,foxey lady
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,full bassline,5,foxey lady
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,basic bassline,1,fire
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,main bassline,4,fire
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,full bassline,8,fire
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,basic bassline,1,crosstown traffic
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,basic bassline,3,crosstown traffic
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,main bassline,6,crosstown traffic
-bass-home-new-more,new on yousician,TRUE,song,jimi hendrix,full bassline,8,crosstown traffic
-bass-home-new-more,new on yousician,TRUE,song,roxy music,basic bassline,2,more than this
-bass-home-new-more,new on yousician,TRUE,song,roxy music,full bassline,6,more than this
-bass-home-new-more,new on yousician,TRUE,song,katrina and the waves,basic bassline (short),2,walking on sunshine
-bass-home-new-more,new on yousician,TRUE,song,katrina and the waves,main bassline,4,walking on sunshine
-bass-home-new-more,new on yousician,TRUE,song,katrina and the waves,full bassline,8,walking on sunshine
-bass-home-new-more,new on yousician,TRUE,song,creedence clearwater revival,basic bassline (short),2,suzie q
-bass-home-new-more,new on yousician,TRUE,song,creedence clearwater revival,main bassline (short),5,suzie q
-bass-home-new-more,new on yousician,TRUE,song,creedence clearwater revival,main bassline,5,suzie q
-bass-home-new-more,new on yousician,TRUE,song,creedence clearwater revival,full bassline,8,suzie q
-bass-home-new-more,new on yousician,TRUE,song,tears for fears,basic bassline,2,everybody wants to rule the world
-bass-home-new-more,new on yousician,TRUE,song,tears for fears,full bassline,5,everybody wants to rule the world
-bass-home-new-more,new on yousician,TRUE,song,goo goo dolls,basic bassline (short),2,iris
-bass-home-new-more,new on yousician,TRUE,song,goo goo dolls,full bassline,6,iris
-bass-home-new-more,new on yousician,TRUE,song,sublime,basic bassline,2,badfish
-bass-home-new-more,new on yousician,TRUE,song,sublime,main bassline,5,badfish
-bass-home-new-more,new on yousician,TRUE,song,sublime,full bassline (5 string),8,badfish
-bass-home-new-more,new on yousician,TRUE,song,sublime,full bassline,8,badfish
-bass-home-new-more,new on yousician,TRUE,song,brian mcknight,basic bassline,3,back at one
-bass-home-new-more,new on yousician,TRUE,song,brian mcknight,main bassline,5,back at one
-bass-home-new-more,new on yousician,TRUE,song,brian mcknight,full bassline (5 string),8,back at one
-bass-home-new-more,new on yousician,TRUE,song,brian mcknight,full bassline,8,back at one
-bass-home-new-more,new on yousician,TRUE,song,scorpions,basic bassline (short),1,"still loving you (Am, short)"
-bass-home-new-more,new on yousician,TRUE,song,scorpions,main bassline (short),4,"still loving you (Am, short)"
-bass-home-new-more,new on yousician,TRUE,song,scorpions,full bassline,8,"still loving you (Am, short)"
-bass-home-new-more,new on yousician,TRUE,song,pink,basic bassline,2,try
-bass-home-new-more,new on yousician,TRUE,song,pink,full bassline,5,try
-bass-home-new-more,new on yousician,TRUE,song,slayer,full bassline,8,seasons in the abyss (Eb)
-bass-home-new-more,new on yousician,TRUE,song,slayer,main bassline,5,seasons in the abyss (E)
-bass-home-new-more,new on yousician,TRUE,song,slayer,full bassline,8,seasons in the abyss (E)
-bass-home-new-more,new on yousician,TRUE,song,tom cochrane,basic bassline,2,life is a highway (short)
-bass-home-new-more,new on yousician,TRUE,song,tom cochrane,main bassline,5,life is a highway (short)
-bass-home-new-more,new on yousician,TRUE,song,tom cochrane,full bassline,8,life is a highway (short)
-bass-home-new-more,new on yousician,TRUE,song,sepultura,full bassline (D tuning),7,resit (D)
-bass-home-new-more,new on yousician,TRUE,song,sepultura,basic bassline,2,resit (E)
-bass-home-new-more,new on yousician,TRUE,song,sepultura,main bassline,4,resit (E)
-bass-home-new-more,new on yousician,TRUE,song,sepultura,full bassline,7,resit (E)
-bass-home-new-more,new on yousician,TRUE,song,sepultura,full bassline (D tuning),8,territory (D)
-bass-home-new-more,new on yousician,TRUE,song,sepultura,basic bassline,3,territory (E)
-bass-home-new-more,new on yousician,TRUE,song,sepultura,full bassline,8,territory (E)
-bass-home-new-more,new on yousician,TRUE,song,slayer,full bassline (Eb tuning),5,south of heaven (Eb)
-bass-home-new-more,new on yousician,TRUE,song,slayer,full bassline (E),2,south of heaven (E)
-bass-home-new-more,new on yousician,TRUE,song,slayer,full bassline (E),5,south of heaven (E)
-bass-home-new-more,new on yousician,TRUE,song,stone temple pilots,full bassline,5,creep
-bass-home-new-more,new on yousician,TRUE,song,stone temple pilots,basic bassline (short),1,creep (short)
-bass-home-new-more,new on yousician,TRUE,song,stone temple pilots,basic bassline,3,creep (short)
-bass-home-new-more,new on yousician,TRUE,song,buzzcocks,basic bassline,2,ever fallen in love (with someone you shouldn't've)?
-bass-home-new-more,new on yousician,TRUE,song,buzzcocks,basic bassline,4,ever fallen in love (with someone you shouldn't've)?
-bass-home-new-more,new on yousician,TRUE,song,buzzcocks,main bassline,6,ever fallen in love (with someone you shouldn't've)?
-bass-home-new-more,new on yousician,TRUE,song,buzzcocks,full bassline,8,ever fallen in love (with someone you shouldn't've)?
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,full bassline (drop D),9,by the way
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,basic bassline,2,by the way (short)
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,main bassline,5,by the way (short)
-bass-home-new-more,new on yousician,TRUE,song,sister hazel,full bassline,8,all for you
-bass-home-new-more,new on yousician,TRUE,song,sister hazel,full bassline (5 string),8,all for you
-bass-home-new-more,new on yousician,TRUE,song,sister hazel,basic bassline,3,all for you (short)
-bass-home-new-more,new on yousician,TRUE,song,sister hazel,main bassline,5,all for you (short)
-bass-home-new-more,new on yousician,TRUE,song,poison,basic bassline,2,"nothin' but a good time (in A, short)"
-bass-home-new-more,new on yousician,TRUE,song,poison,main bassline,5,"nothin' but a good time (in A, short)"
-bass-home-new-more,new on yousician,TRUE,song,poison,full bassline,8,nothin' but a good time (in A)
-bass-home-new-more,new on yousician,TRUE,song,everclear,basic bassline (short),2,father of mine
-bass-home-new-more,new on yousician,TRUE,song,everclear,main bassline (short),4,father of mine
-bass-home-new-more,new on yousician,TRUE,song,everclear,full bassline,6,father of mine
-bass-home-new-more,new on yousician,TRUE,song,sublime,basic bassline (short),1,santeria
-bass-home-new-more,new on yousician,TRUE,song,sublime,main bassline,5,santeria
-bass-home-new-more,new on yousician,TRUE,song,sublime,full bassline,7,santeria
-bass-home-new-more,new on yousician,TRUE,song,scorpions,basic bassline (short),1,still loving you (Am)
-bass-home-new-more,new on yousician,TRUE,song,scorpions,main bassline (short),4,still loving you (Am)
-bass-home-new-more,new on yousician,TRUE,song,scorpions,full bassline,8,still loving you (Am)
-bass-home-new-more,new on yousician,TRUE,song,fuel,basic bassline,3,hemorrhage (in my hands) (in Bm)
-bass-home-new-more,new on yousician,TRUE,song,fuel,main bassline,6,hemorrhage (in my hands) (in Bm)
-bass-home-new-more,new on yousician,TRUE,song,fuel,full bassline,8,hemorrhage (in my hands) (in Bm)
-bass-home-new-more,new on yousician,TRUE,song,the all-american rejects,basic bassline,2,"swing, swing"
-bass-home-new-more,new on yousician,TRUE,song,the all-american rejects,main bassline,4,"swing, swing"
-bass-home-new-more,new on yousician,TRUE,song,the all-american rejects,full bassline,6,"swing, swing"
-bass-home-new-more,new on yousician,TRUE,song,steppenwolf,basic bassline,2,magic carpet ride
-bass-home-new-more,new on yousician,TRUE,song,steppenwolf,main bassline,5,magic carpet ride
-bass-home-new-more,new on yousician,TRUE,song,steppenwolf,full bassline,7,magic carpet ride
-bass-home-new-more,new on yousician,TRUE,song,thin lizzy,basic bassline,3,the boys are back in town (in A)
-bass-home-new-more,new on yousician,TRUE,song,thin lizzy,basic bassline,5,the boys are back in town (in A)
-bass-home-new-more,new on yousician,TRUE,song,thin lizzy,main bassline,7,the boys are back in town (in A)
-bass-home-new-more,new on yousician,TRUE,song,thin lizzy,full bassline,9,the boys are back in town (in A)
-bass-home-new-more,new on yousician,TRUE,song,kiss,basic bassline,2,lick it up
-bass-home-new-more,new on yousician,TRUE,song,kiss,full bassline,5,lick it up
-bass-home-new-more,new on yousician,TRUE,song,alabama,basic bassline,1,song of the south
-bass-home-new-more,new on yousician,TRUE,song,alabama,main bassline,4,song of the south
-bass-home-new-more,new on yousician,TRUE,song,alabama,full bassline,8,song of the south
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,basic bassline (short),2,my friends
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,main bassline,5,my friends
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,full bassline,8,my friends
-bass-home-new-more,new on yousician,TRUE,song,the beach boys,basic bassline,2,god only knows
-bass-home-new-more,new on yousician,TRUE,song,the beach boys,full bassline,5,god only knows
-bass-home-new-more,new on yousician,TRUE,song,iron maiden,basic bassline,3,wildest dreams
-bass-home-new-more,new on yousician,TRUE,song,iron maiden,main bassline,6,wildest dreams
-bass-home-new-more,new on yousician,TRUE,song,iron maiden,full bassline,9,wildest dreams
-bass-home-new-more,new on yousician,TRUE,song,kiss,basic bassline,2,rock and roll all nite (in A)
-bass-home-new-more,new on yousician,TRUE,song,kiss,main bassline,5,rock and roll all nite (in A)
-bass-home-new-more,new on yousician,TRUE,song,kiss,full bassline,8,rock and roll all nite (in A)
-bass-home-new-more,new on yousician,TRUE,song,cream,basic bassline,2,born under a bad sign
-bass-home-new-more,new on yousician,TRUE,song,cream,full bassline,6,born under a bad sign
-bass-home-new-more,new on yousician,TRUE,song,fuel,basic bassline,2,shimmer
-bass-home-new-more,new on yousician,TRUE,song,fuel,main bassline,4,shimmer
-bass-home-new-more,new on yousician,TRUE,song,fuel,full bassline,7,shimmer
-bass-home-new-more,new on yousician,TRUE,song,r.e.m.,basic bassline,1,the one i love
-bass-home-new-more,new on yousician,TRUE,song,r.e.m.,basic bassline,3,the one i love
-bass-home-new-more,new on yousician,TRUE,song,r.e.m.,full bassline,5,the one i love
-bass-home-new-more,new on yousician,TRUE,song,kiss,basic bassline,3,detroit rock city (in E)
-bass-home-new-more,new on yousician,TRUE,song,kiss,main bassline,7,detroit rock city (in E)
-bass-home-new-more,new on yousician,TRUE,song,kiss,full bassline,9,detroit rock city (in E)
-bass-home-new-more,new on yousician,TRUE,song,rent,basic bassline (short),2,seasons of love
-bass-home-new-more,new on yousician,TRUE,song,rent,main bassline (short),5,seasons of love
-bass-home-new-more,new on yousician,TRUE,song,rent,full bassline,8,seasons of love
-bass-home-new-more,new on yousician,TRUE,song,thin lizzy,basic bassline,2,whiskey in the jar
-bass-home-new-more,new on yousician,TRUE,song,thin lizzy,main bassline,6,whiskey in the jar
-bass-home-new-more,new on yousician,TRUE,song,thin lizzy,full bassline (drop D),9,whiskey in the jar
-bass-home-new-more,new on yousician,TRUE,song,jack johnson,basic bassline (short),1,better together
-bass-home-new-more,new on yousician,TRUE,song,jack johnson,full bassline,4,better together
-bass-home-new-more,new on yousician,TRUE,song,imagine dragons,basic bassline,2,roots
-bass-home-new-more,new on yousician,TRUE,song,imagine dragons,main bassline,6,roots
-bass-home-new-more,new on yousician,TRUE,song,imagine dragons,full bassline (drop D),9,roots
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,basic bassline,1,scar tissue
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,main bassline,5,scar tissue
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,full bassline,10,scar tissue
-bass-home-new-more,new on yousician,TRUE,song,the beach boys,basic bassline,2,i get around
-bass-home-new-more,new on yousician,TRUE,song,the beach boys,main bassline,6,i get around
-bass-home-new-more,new on yousician,TRUE,song,the beach boys,full bassline,8,i get around
-bass-home-new-more,new on yousician,TRUE,song,gregory porter,basic bassline,2,hey laura
-bass-home-new-more,new on yousician,TRUE,song,gregory porter,full bassline,6,hey laura
-bass-home-new-more,new on yousician,TRUE,song,one direction,full bassline,4,more than this
-bass-home-new-more,new on yousician,TRUE,song,one direction,melody,7,more than this
-bass-home-new-more,new on yousician,TRUE,song,bill withers,basic bassline,1,grandma's hands
-bass-home-new-more,new on yousician,TRUE,song,bill withers,basic bassline,3,grandma's hands
-bass-home-new-more,new on yousician,TRUE,song,bill withers,full bassline,4,grandma's hands
-bass-home-new-more,new on yousician,TRUE,song,toby keith,basic bassline,2,should've been a cowboy
-bass-home-new-more,new on yousician,TRUE,song,toby keith,main bassline,5,should've been a cowboy
-bass-home-new-more,new on yousician,TRUE,song,toby keith,full bassline,8,should've been a cowboy
-bass-home-new-more,new on yousician,TRUE,song,toby keith,full bassline (5 string),8,should've been a cowboy
-bass-home-new-more,new on yousician,TRUE,song,kiss,basic bassline,2,i was made for lovin' you (in Em)
-bass-home-new-more,new on yousician,TRUE,song,kiss,main bassline,4,i was made for lovin' you (in Em)
-bass-home-new-more,new on yousician,TRUE,song,kiss,full bassline,8,i was made for lovin' you (in Em)
-bass-home-new-more,new on yousician,TRUE,song,jack johnson,basic bassline,2,banana pancakes
-bass-home-new-more,new on yousician,TRUE,song,jack johnson,main bassline,4,banana pancakes
-bass-home-new-more,new on yousician,TRUE,song,jack johnson,full bassline,6,banana pancakes
-bass-home-new-more,new on yousician,TRUE,song,example,basic bassline,2,kickstarts
-bass-home-new-more,new on yousician,TRUE,song,example,full bassline,6,kickstarts
-bass-home-new-more,new on yousician,TRUE,song,evita,full bassline,5,don't cry for me argentina
-bass-home-new-more,new on yousician,TRUE,song,alice cooper,basic bassline,2,no more mr. nice guy
-bass-home-new-more,new on yousician,TRUE,song,alice cooper,main bassline,5,no more mr. nice guy
-bass-home-new-more,new on yousician,TRUE,song,alice cooper,full bassline,8,no more mr. nice guy
-bass-home-new-more,new on yousician,TRUE,song,stevie ray vaughan,basic bassline,2,texas flood (in G)
-bass-home-new-more,new on yousician,TRUE,song,stevie ray vaughan,full bassline,6,texas flood (in G)
-bass-home-new-more,new on yousician,TRUE,song,neil diamond,basic bassline,2,sweet caroline
-bass-home-new-more,new on yousician,TRUE,song,neil diamond,basic bassline,4,sweet caroline
-bass-home-new-more,new on yousician,TRUE,song,neil diamond,main bassline,6,sweet caroline
-bass-home-new-more,new on yousician,TRUE,song,neil diamond,full bassline,8,sweet caroline
-bass-home-new-more,new on yousician,TRUE,song,the beach boys,basic bassline,2,good vibrations (in Dm)
-bass-home-new-more,new on yousician,TRUE,song,steely dan,full bassline,8,dirty work
-bass-home-new-more,new on yousician,TRUE,song,steely dan,basic bassline,2,dirty work (in C)
-bass-home-new-more,new on yousician,TRUE,song,steely dan,main bassline,4,dirty work (in C)
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,basic bassline,2,tuesday's gone
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,main bassline,5,tuesday's gone
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,full bassline,9,tuesday's gone
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,basic bassline,2,road trippin'
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,full bassline,5,road trippin'
-bass-home-new-more,new on yousician,TRUE,song,the beach boys,full bassline,6,good vibrations
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,basic bassline,1,dani california
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,basic bassline,3,dani california
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,main bassline,5,dani california
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,full bassline,8,dani california
-bass-home-new-more,new on yousician,TRUE,song,miley cyrus,basic bassline,3,malibu (in G)
-bass-home-new-more,new on yousician,TRUE,song,miley cyrus,full bassline,6,malibu
-bass-home-new-more,new on yousician,TRUE,song,maroon 5,full bassline (Eb tuning),7,won't go home without you
-bass-home-new-more,new on yousician,TRUE,song,maroon 5,basic bassline,2,won't go home without you (in E)
-bass-home-new-more,new on yousician,TRUE,song,maroon 5,main bassline,5,won't go home without you (in E)
-bass-home-new-more,new on yousician,TRUE,song,r.e.m.,basic bassline,3,it's the end of the world as we know it (and i feel fine)
-bass-home-new-more,new on yousician,TRUE,song,r.e.m.,main bassline,5,it's the end of the world as we know it (and i feel fine)
-bass-home-new-more,new on yousician,TRUE,song,r.e.m.,full bassline,7,it's the end of the world as we know it (and i feel fine)
-bass-home-new-more,new on yousician,TRUE,song,the all-american rejects,basic bassline,1,gives you hell
-bass-home-new-more,new on yousician,TRUE,song,the all-american rejects,basic bassline,3,gives you hell
-bass-home-new-more,new on yousician,TRUE,song,the all-american rejects,main bassline,5,gives you hell
-bass-home-new-more,new on yousician,TRUE,song,the all-american rejects,full bassline (5 string),7,gives you hell
-bass-home-new-more,new on yousician,TRUE,song,alejandro sanz,basic bassline,2,corazon partio
-bass-home-new-more,new on yousician,TRUE,song,alejandro sanz,main bassline,5,corazon partio
-bass-home-new-more,new on yousician,TRUE,song,alejandro sanz,full bassline,9,corazon partio
-bass-home-new-more,new on yousician,TRUE,song,alejandro sanz,full bassline (5 string),9,corazon partio
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,basic bassline,2,free bird
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,main bassline,6,free bird
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,full bassline,9,free bird
-bass-home-new-more,new on yousician,TRUE,song,b.b. king,basic bassline,1,the thrill is gone
-bass-home-new-more,new on yousician,TRUE,song,b.b. king,basic bassline,3,the thrill is gone
-bass-home-new-more,new on yousician,TRUE,song,b.b. king,main bassline,5,the thrill is gone
-bass-home-new-more,new on yousician,TRUE,song,b.b. king,full bassline,7,the thrill is gone
-bass-home-new-more,new on yousician,TRUE,song,r.e.m.,basic bassline,2,everybody hurts
-bass-home-new-more,new on yousician,TRUE,song,r.e.m.,full bassline,5,everybody hurts
-bass-home-new-more,new on yousician,TRUE,song,abba,basic bassline,3,waterloo
-bass-home-new-more,new on yousician,TRUE,song,abba,main bassline,6,waterloo
-bass-home-new-more,new on yousician,TRUE,song,abba,full bassline (drop D),9,waterloo
-bass-home-new-more,new on yousician,TRUE,song,christopher cross,basic bassline,2,sailing
-bass-home-new-more,new on yousician,TRUE,song,christopher cross,full bassline,5,sailing
-bass-home-new-more,new on yousician,TRUE,song,gym class heroes,basic bassline,2,cupid's chokehold
-bass-home-new-more,new on yousician,TRUE,song,gym class heroes,main bassline,5,cupid's chokehold
-bass-home-new-more,new on yousician,TRUE,song,gym class heroes,full bassline,7,cupid's chokehold
-bass-home-new-more,new on yousician,TRUE,song,tha alan parsons project,basic bassline,2,eye in the sky
-bass-home-new-more,new on yousician,TRUE,song,tha alan parsons project,full bassline,4,eye in the sky
-bass-home-new-more,new on yousician,TRUE,song,maroon 5,basic bassline,3,harder to breathe
-bass-home-new-more,new on yousician,TRUE,song,maroon 5,full bassline,5,harder to breathe
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,basic bassline,1,gimme three steps
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,basic bassline,3,gimme three steps
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,main bassline,6,gimme three steps
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,full bassline,8,gimme three steps
-bass-home-new-more,new on yousician,TRUE,song,steppenwolf,basic bassline,2,born to be wild
-bass-home-new-more,new on yousician,TRUE,song,steppenwolf,basic bassline,4,born to be wild
-bass-home-new-more,new on yousician,TRUE,song,steppenwolf,main bassline,6,born to be wild
-bass-home-new-more,new on yousician,TRUE,song,steppenwolf,full bassline,9,born to be wild
-bass-home-new-more,new on yousician,TRUE,song,3 doors down,basic bassline,2,when I'm gone
-bass-home-new-more,new on yousician,TRUE,song,3 doors down,main bassline,5,when I'm gone
-bass-home-new-more,new on yousician,TRUE,song,3 doors down,full bassline,7,when I'm gone
-bass-home-new-more,new on yousician,TRUE,song,natalia lafourcade,basic bassline,2,hasta la raiz
-bass-home-new-more,new on yousician,TRUE,song,natalia lafourcade,full bassline,5,hasta la raiz
-bass-home-new-more,new on yousician,TRUE,song,mumford & sons,basic bassline,2,i will want
-bass-home-new-more,new on yousician,TRUE,song,mumford & sons,main bassline,4,i will want
-bass-home-new-more,new on yousician,TRUE,song,mumford & sons,full bassline,7,i will want
-bass-home-new-more,new on yousician,TRUE,song,rihanna,basic bassline,2,shut up and drive
-bass-home-new-more,new on yousician,TRUE,song,rihanna,full bassline,4,shut up and drive
-bass-home-new-more,new on yousician,TRUE,song,tim mcgraw,basic bassline,1,humble and kind
-bass-home-new-more,new on yousician,TRUE,song,tim mcgraw,basic bassline,3,humble and kind
-bass-home-new-more,new on yousician,TRUE,song,tim mcgraw,full bassline,5,humble and kind
-bass-home-new-more,new on yousician,TRUE,song,new found glory,basic bassline,2,my friends over you
-bass-home-new-more,new on yousician,TRUE,song,new found glory,main bassline,4,my friends over you
-bass-home-new-more,new on yousician,TRUE,song,new found glory,full bassline,7,my friends over you
-bass-home-new-more,new on yousician,TRUE,song,"eric clapton, b.b. king",basic bassline,2,riding with the king
-bass-home-new-more,new on yousician,TRUE,song,"eric clapton, b.b. king",main bassline,6,riding with the king
-bass-home-new-more,new on yousician,TRUE,song,"eric clapton, b.b. king",full bassline,8,riding with the king
-bass-home-new-more,new on yousician,TRUE,song,glenn campbell,basic bassline,1,wichita lineman
-bass-home-new-more,new on yousician,TRUE,song,glenn campbell,basic bassline,3,wichita lineman
-bass-home-new-more,new on yousician,TRUE,song,glenn campbell,full bassline,6,wichita lineman
-bass-home-new-more,new on yousician,TRUE,song,maroon 5,basic bassline,3,sunday morning
-bass-home-new-more,new on yousician,TRUE,song,maroon 5,main bassline,6,sunday morning
-bass-home-new-more,new on yousician,TRUE,song,maroon 5,full bassline,9,sunday morning
-bass-home-new-more,new on yousician,TRUE,song,steely dan,basic bassline,3,do it again
-bass-home-new-more,new on yousician,TRUE,song,steely dan,main bassline,5,do it again
-bass-home-new-more,new on yousician,TRUE,song,steely dan,full bassline,7,do it again
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,basic bassline,2,californication
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,basic bassline,4,californication
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,main bassline,6,californication
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,full bassline,8,californication
-bass-home-new-more,new on yousician,TRUE,song,the killers,basic bassline,2,mr. brightside
-bass-home-new-more,new on yousician,TRUE,song,the killers,basic bassline,4,mr. brightside
-bass-home-new-more,new on yousician,TRUE,song,the killers,full bassline,6,mr. brightside
-bass-home-new-more,new on yousician,TRUE,song,the white stripes,workout (short),0,seven nation army
-bass-home-new-more,new on yousician,TRUE,song,the white stripes,basic bassline,1,seven nation army
-bass-home-new-more,new on yousician,TRUE,song,the white stripes,full bassline,5,seven nation army
-bass-home-new-more,new on yousician,TRUE,song,otis redding,basic bassline,1,hard to handle
-bass-home-new-more,new on yousician,TRUE,song,otis redding,basic bassline,3,hard to handle
-bass-home-new-more,new on yousician,TRUE,song,otis redding,full bassline,6,hard to handle
-bass-home-new-more,new on yousician,TRUE,song,chvrches,main bassline,4,the mother we share
-bass-home-new-more,new on yousician,TRUE,song,chvrches,full bassline,6,the mother we share
-bass-home-new-more,new on yousician,TRUE,song,chvrches,basic bassline,1,the mother we share (in C)
-bass-home-new-more,new on yousician,TRUE,song,stone temple pilots,basic bassline,2,interstate love song
-bass-home-new-more,new on yousician,TRUE,song,stone temple pilots,main bassline,5,interstate love song
-bass-home-new-more,new on yousician,TRUE,song,stone temple pilots,full bassline,7,interstate love song
-bass-home-new-more,new on yousician,TRUE,song,fleetwood mac,basic bassline,2,little lies
-bass-home-new-more,new on yousician,TRUE,song,fleetwood mac,main bassline,5,little lies
-bass-home-new-more,new on yousician,TRUE,song,fleetwood mac,full bassline,8,little lies
-bass-home-new-more,new on yousician,TRUE,song,bastille,basic bassline,2,pompeii
-bass-home-new-more,new on yousician,TRUE,song,bastille,full bassline,6,pompeii
-bass-home-new-more,new on yousician,TRUE,song,carly simon,basic bassline,2,you're so vain
-bass-home-new-more,new on yousician,TRUE,song,carly simon,main bassline,5,you're so vain
-bass-home-new-more,new on yousician,TRUE,song,carly simon,full bassline,8,you're so vain
-bass-home-new-more,new on yousician,TRUE,song,3 doors down,basic bassline,2,here without you
-bass-home-new-more,new on yousician,TRUE,song,3 doors down,full bassline,4,here without you
-bass-home-new-more,new on yousician,TRUE,song,maroon 5,basic bassline,2,she will be loved
-bass-home-new-more,new on yousician,TRUE,song,maroon 5,full bassline,5,she will be loved
-bass-home-new-more,new on yousician,TRUE,song,heart,basic bassline,2,barracuda
-bass-home-new-more,new on yousician,TRUE,song,heart,main bassline,5,barracuda
-bass-home-new-more,new on yousician,TRUE,song,heart,full bassline,9,barracuda
-bass-home-new-more,new on yousician,TRUE,song,maroon 5,basic bassline,3,this love
-bass-home-new-more,new on yousician,TRUE,song,maroon 5,main bassline,5,this love
-bass-home-new-more,new on yousician,TRUE,song,maroon 5,full bassline (drop D),9,this love
-bass-home-new-more,new on yousician,TRUE,song,otis redding,basic bassline,1,(sittin' on) the dock of the bay
-bass-home-new-more,new on yousician,TRUE,song,otis redding,basic bassline,3,(sittin' on) the dock of the bay
-bass-home-new-more,new on yousician,TRUE,song,otis redding,main bassline,5,(sittin' on) the dock of the bay
-bass-home-new-more,new on yousician,TRUE,song,otis redding,full bassline,8,(sittin' on) the dock of the bay
-bass-home-new-more,new on yousician,TRUE,song,jefferson airplane,basic bassline,1,white rabbit
-bass-home-new-more,new on yousician,TRUE,song,jefferson airplane,main bassline,4,white rabbit
-bass-home-new-more,new on yousician,TRUE,song,jefferson airplane,full bassline,8,white rabbit
-bass-home-new-more,new on yousician,TRUE,song,starship,basic bassline,2,we built this city
-bass-home-new-more,new on yousician,TRUE,song,starship,full bassline,5,we built this city
-bass-home-new-more,new on yousician,TRUE,song,jefferson airplane,basic bassline,2,somebody to love
-bass-home-new-more,new on yousician,TRUE,song,jefferson airplane,main bassline,5,somebody to love
-bass-home-new-more,new on yousician,TRUE,song,jefferson airplane,full bassline,8,somebody to love
-bass-home-new-more,new on yousician,TRUE,song,the all-american rejects,basic bassline,2,dirty little secret
-bass-home-new-more,new on yousician,TRUE,song,the all-american rejects,main bassline,4,dirty little secret
-bass-home-new-more,new on yousician,TRUE,song,the all-american rejects,full bassline,8,dirty little secret
-bass-home-new-more,new on yousician,TRUE,song,the cardigans,basic bassline,2,lovefool
-bass-home-new-more,new on yousician,TRUE,song,the cardigans,full bassline,4,lovefool
-bass-home-new-more,new on yousician,TRUE,song,air supply,basic bassline,1,all out of love
-bass-home-new-more,new on yousician,TRUE,song,air supply,full bassline,3,all out of love
-bass-home-new-more,new on yousician,TRUE,song,tom petty and the heartbreakers,basic bassline,2,american girl
-bass-home-new-more,new on yousician,TRUE,song,tom petty and the heartbreakers,main bassline,5,american girl
-bass-home-new-more,new on yousician,TRUE,song,tom petty and the heartbreakers,full bassline,7,american girl
-bass-home-new-more,new on yousician,TRUE,song,pixies,basic bassline,2,here comes your man
-bass-home-new-more,new on yousician,TRUE,song,pixies,main bassline,4,here comes your man
-bass-home-new-more,new on yousician,TRUE,song,pixies,full bassline,6,here comes your man
-bass-home-new-more,new on yousician,TRUE,song,godsmack,basic bassline,2,i stand alone
-bass-home-new-more,new on yousician,TRUE,song,godsmack,main bassline,4,i stand alone
-bass-home-new-more,new on yousician,TRUE,song,godsmack,full bassline,6,i stand alone
-bass-home-new-more,new on yousician,TRUE,song,twisted sister,basic bassline,3,i wanna rock
-bass-home-new-more,new on yousician,TRUE,song,twisted sister,main bassline,5,i wanna rock
-bass-home-new-more,new on yousician,TRUE,song,twisted sister,full bassline,9,i wanna rock
-bass-home-new-more,new on yousician,TRUE,song,the highwaymen,basic bassline,2,highwayman
-bass-home-new-more,new on yousician,TRUE,song,the highwaymen,full bassline,4,highwayman
-bass-home-new-more,new on yousician,TRUE,song,abba,main bassline,4,the winner takes it all
-bass-home-new-more,new on yousician,TRUE,song,abba,full bassline,8,the winner takes it all
-bass-home-new-more,new on yousician,TRUE,song,abba,basic bassline,2,the winner takes it all (in G)
-bass-home-new-more,new on yousician,TRUE,song,abba,basic bassline,2,mamma mia
-bass-home-new-more,new on yousician,TRUE,song,abba,full bassline,4,mamma mia
-bass-home-new-more,new on yousician,TRUE,song,abba,main bassline,6,mamma mia
-bass-home-new-more,new on yousician,TRUE,song,imagine dragons,basic bassline,2,shots
-bass-home-new-more,new on yousician,TRUE,song,imagine dragons,main bassline,5,shots
-bass-home-new-more,new on yousician,TRUE,song,imagine dragons,full bassline (drop D),9,shots
-bass-home-new-more,new on yousician,TRUE,song,crash test dummies,basic bassline,2,mmm mmm mmm mmm
-bass-home-new-more,new on yousician,TRUE,song,crash test dummies,full bassline,5,mmm mmm mmm mmm
-bass-home-new-more,new on yousician,TRUE,song,aretha franklin,basic bassline,1,respect
-bass-home-new-more,new on yousician,TRUE,song,aretha franklin,basic bassline,3,respect
-bass-home-new-more,new on yousician,TRUE,song,aretha franklin,full bassline,5,respect
-bass-home-new-more,new on yousician,TRUE,song,scorpions,basic bassline,2,rock you like a hurricane
-bass-home-new-more,new on yousician,TRUE,song,scorpions,full bassline,5,rock you like a hurricane
-bass-home-new-more,new on yousician,TRUE,song,bobby mcferin,main bassline,5,don't worry be happy
-bass-home-new-more,new on yousician,TRUE,song,bobby mcferin,full bassline,9,don't worry be happy
-bass-home-new-more,new on yousician,TRUE,song,bobby mcferin,basic bassline,2,don't worry be happy (in C)
-bass-home-new-more,new on yousician,TRUE,song,the cure,basic bassline,2,friday i'm in love (in E)
-bass-home-new-more,new on yousician,TRUE,song,the cure,full bassline,5,friday i'm in love (in E)
-bass-home-new-more,new on yousician,TRUE,song,rod stewart,basic bassline,3,sailing
-bass-home-new-more,new on yousician,TRUE,song,rod stewart,full bassline,5,sailing
-bass-home-new-more,new on yousician,TRUE,song,rod stewart,basic bassline,1,sailing (in C)
-bass-home-new-more,new on yousician,TRUE,song,buena vista social club,basic bassline,1,chan chan
-bass-home-new-more,new on yousician,TRUE,song,buena vista social club,basic bassline,3,chan chan
-bass-home-new-more,new on yousician,TRUE,song,buena vista social club,main bassline,5,chan chan
-bass-home-new-more,new on yousician,TRUE,song,buena vista social club,full bassline,7,chan chan
-bass-home-new-more,new on yousician,TRUE,song,the mamas & the papas,basic bassline,3,california dreamin'
-bass-home-new-more,new on yousician,TRUE,song,the mamas & the papas,full bassline,5,california dreamin'
-bass-home-new-more,new on yousician,TRUE,song,the mamas & the papas,basic bassline,1,california dreamin' (in Dm)
-bass-home-new-more,new on yousician,TRUE,song,gladys knight & the pips,main bassline,5,midnight train to georgia
-bass-home-new-more,new on yousician,TRUE,song,gladys knight & the pips,full bassline,8,midnight train to georgia
-bass-home-new-more,new on yousician,TRUE,song,gladys knight & the pips,basic bassline,2,midnight train to georgia (in C)
-bass-home-new-more,new on yousician,TRUE,song,stone temple pilots,basic bassline,2,plush
-bass-home-new-more,new on yousician,TRUE,song,stone temple pilots,main bassline,4,plush
-bass-home-new-more,new on yousician,TRUE,song,stone temple pilots,full bassline,7,plush
-bass-home-new-more,new on yousician,TRUE,song,tom petty and the heartbreakers,basic bassline,2,breakdown
-bass-home-new-more,new on yousician,TRUE,song,tom petty and the heartbreakers,basic bassline,3,breakdown
-bass-home-new-more,new on yousician,TRUE,song,tom petty and the heartbreakers,main bassline,6,breakdown
-bass-home-new-more,new on yousician,TRUE,song,tom petty and the heartbreakers,full bassline,9,breakdown
-bass-home-new-more,new on yousician,TRUE,song,erykah badu,basic bassline,2,on & on
-bass-home-new-more,new on yousician,TRUE,song,erykah badu,main bassline,4,on & on
-bass-home-new-more,new on yousician,TRUE,song,erykah badu,full bassline,6,on & on
-bass-home-new-more,new on yousician,TRUE,song,r.e.m.,basic bassline,2,shiny happy people
-bass-home-new-more,new on yousician,TRUE,song,r.e.m.,main bassline,4,shiny happy people
-bass-home-new-more,new on yousician,TRUE,song,r.e.m.,full bassline,6,shiny happy people
-bass-home-new-more,new on yousician,TRUE,song,santana,basic bassline,1,samba pa ti
-bass-home-new-more,new on yousician,TRUE,song,santana,basic bassline,3,samba pa ti
-bass-home-new-more,new on yousician,TRUE,song,santana,full bassline,5,samba pa ti
-bass-home-new-more,new on yousician,TRUE,song,hunter hayes,basic bassline,3,i want crazy - encore
-bass-home-new-more,new on yousician,TRUE,song,hunter hayes,main bassline,5,i want crazy - encore
-bass-home-new-more,new on yousician,TRUE,song,hunter hayes,full bassline,8,i want crazy - encore
-bass-home-new-more,new on yousician,TRUE,song,danzig,basic bassline,2,mother
-bass-home-new-more,new on yousician,TRUE,song,danzig,full bassline,4,mother
-bass-home-new-more,new on yousician,TRUE,song,pearl jam,basic bassline,1,yellow ledbetter
-bass-home-new-more,new on yousician,TRUE,song,pearl jam,main bassline,5,yellow ledbetter
-bass-home-new-more,new on yousician,TRUE,song,pearl jam,full bassline,8,yellow ledbetter
-bass-home-new-more,new on yousician,TRUE,song,chris stapleton,basic bassline,1,millionaire
-bass-home-new-more,new on yousician,TRUE,song,chris stapleton,basic bassline,3,millionaire
-bass-home-new-more,new on yousician,TRUE,song,chris stapleton,full bassline,6,millionaire
-bass-home-new-more,new on yousician,TRUE,song,imagine dragons,basic bassline,2,next to me
-bass-home-new-more,new on yousician,TRUE,song,imagine dragons,main bassline,4,next to me
-bass-home-new-more,new on yousician,TRUE,song,imagine dragons,full bassline,5,next to me
-bass-home-new-more,new on yousician,TRUE,song,imagine dragons,full bassline (drop D),9,next to me
-bass-home-new-more,new on yousician,TRUE,song,hunter hayes,basic bassline,1,wanted
-bass-home-new-more,new on yousician,TRUE,song,hunter hayes,basic bassline,3,wanted
-bass-home-new-more,new on yousician,TRUE,song,hunter hayes,main bassline,5,wanted
-bass-home-new-more,new on yousician,TRUE,song,hunter hayes,full bassline,8,wanted
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,basic bassline,2,the ballad of curtis loew
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,main bassline,5,the ballad of curtis loew
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,full bassline,7,the ballad of curtis loew
-bass-home-new-more,new on yousician,TRUE,song,gloria gaynor,basic bassline,2,i will survive
-bass-home-new-more,new on yousician,TRUE,song,gloria gaynor,main bassline,5,i will survive
-bass-home-new-more,new on yousician,TRUE,song,gloria gaynor,full bassline,8,i will survive
-bass-home-new-more,new on yousician,TRUE,song,fleetwood mac,basic bassline,2,everywhere
-bass-home-new-more,new on yousician,TRUE,song,fleetwood mac,basic bassline,3,everywhere
-bass-home-new-more,new on yousician,TRUE,song,fleetwood mac,full bassline,5,everywhere
-bass-home-new-more,new on yousician,TRUE,song,mountain,basic bassline,2,mississippi queen
-bass-home-new-more,new on yousician,TRUE,song,mountain,main bassline,5,mississippi queen
-bass-home-new-more,new on yousician,TRUE,song,mountain,workout,7,mississippi queen
-bass-home-new-more,new on yousician,TRUE,song,dave matthews band,basic bassline,2,crash into me
-bass-home-new-more,new on yousician,TRUE,song,dave matthews band,main bassline,4,crash into me
-bass-home-new-more,new on yousician,TRUE,song,dave matthews band,full bassline,8,crash into me
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,basic bassline,2,show (hey oh)
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,main bassline,4,show (hey oh)
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,full bassline,7,show (hey oh)
-bass-home-new-more,new on yousician,TRUE,song,franz ferdinand,workout (short),0,take me out
-bass-home-new-more,new on yousician,TRUE,song,franz ferdinand,basic bassline,2,take me out
-bass-home-new-more,new on yousician,TRUE,song,franz ferdinand,full bassline,5,take me out
-bass-home-new-more,new on yousician,TRUE,song,3 doors down,basic bassline,2,kryptonite
-bass-home-new-more,new on yousician,TRUE,song,3 doors down,full bassline,6,kryptonite
-bass-home-new-more,new on yousician,TRUE,song,keith whitley,basic bassline,2,don't close your eyes
-bass-home-new-more,new on yousician,TRUE,song,keith whitley,full bassline,4,don't close your eyes
-bass-home-new-more,new on yousician,TRUE,song,mumford & sons,basic bassline,2,little lion man
-bass-home-new-more,new on yousician,TRUE,song,mumford & sons,main bassline,4,little lion man
-bass-home-new-more,new on yousician,TRUE,song,mumford & sons,full bassline,7,little lion man
-bass-home-new-more,new on yousician,TRUE,song,coldplay,basic bassline,2,yellow ledbetter
-bass-home-new-more,new on yousician,TRUE,song,coldplay,main bassline,3,yellow ledbetter
-bass-home-new-more,new on yousician,TRUE,song,coldplay,full bassline,4,yellow ledbetter
-bass-home-new-more,new on yousician,TRUE,song,coldplay,basic bassline,1,the scientist
-bass-home-new-more,new on yousician,TRUE,song,coldplay,basic bassline,2,the scientist
-bass-home-new-more,new on yousician,TRUE,song,coldplay,full bassline,4,the scientist
-bass-home-new-more,new on yousician,TRUE,song,coldplay,melody,6,the scientist
-bass-home-new-more,new on yousician,TRUE,song,van morrison,basic bassline,2,brown eyed girl
-bass-home-new-more,new on yousician,TRUE,song,van morrison,full bassline,6,brown eyed girl
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,basic bassline,2,under the bridge
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,main bassline,5,under the bridge
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,full bassline,8,under the bridge
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,basic bassline,2,simple man (in Am)
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,main bassline,4,simple man (in Am)
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,full bassline,8,simple man (in Am)
-bass-home-new-more,new on yousician,TRUE,song,bryan adams,basic bassline,1,summer of '69
-bass-home-new-more,new on yousician,TRUE,song,bryan adams,basic bassline,3,summer of '69
-bass-home-new-more,new on yousician,TRUE,song,bryan adams,full bassline,5,summer of '69
-bass-home-new-more,new on yousician,TRUE,song,bryan adams,full bassline (drop D),9,summer of '69
-bass-home-new-more,new on yousician,TRUE,song,calum scott,basic bassline,2,dancing on my own
-bass-home-new-more,new on yousician,TRUE,song,calum scott,full bassline,4,dancing on my own
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,basic bassline,2,can't stop
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,main bassline,5,can't stop
-bass-home-new-more,new on yousician,TRUE,song,red hot chili peppers,full bassline,8,can't stop
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,basic bassline,2,sweet home alabama
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,main bassline,5,sweet home alabama
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,workout,6,sweet home alabama
-bass-home-new-more,new on yousician,TRUE,song,lynyrd skynyrd,full bassline,7,sweet home alabama
-bass-home-new-more,new on yousician,TRUE,song,don mclean,basic bassline (short),1,american pie
-bass-home-new-more,new on yousician,TRUE,song,don mclean,basic bassline,3,american pie
-bass-home-new-more,new on yousician,TRUE,song,don mclean,full bassline,8,american pie
-bass-home-new-more,new on yousician,TRUE,song,extreme,basic bassline,2,more than words (in G)
-bass-home-new-more,new on yousician,TRUE,song,extreme,full bassline,5,more than words (in G)
-bass-home-new-more,new on yousician,TRUE,song,peter frampton,basic bassline,2,show me the way
-bass-home-new-more,new on yousician,TRUE,song,peter frampton,full bassline,7,show me the way
-bass-home-new-more,new on yousician,TRUE,song,the cure,basic bassline,2,just like heaven
-bass-home-new-more,new on yousician,TRUE,song,the cure,full bassline,4,just like heaven
-bass-home-new-more,new on yousician,TRUE,song,adele,basic bassline,3,when we were young
-bass-home-new-more,new on yousician,TRUE,song,adele,main bassline (short),4,when we were young
-bass-home-new-more,new on yousician,TRUE,song,adele,full bassline,8,when we were young
-bass-home-new-more,new on yousician,TRUE,song,coldplay,basic bassline,2,clocks
-bass-home-new-more,new on yousician,TRUE,song,coldplay,full bassline,4,clocks
-bass-home-new-more,new on yousician,TRUE,song,imagine dragons,basic bassline,2,it's time
-bass-home-new-more,new on yousician,TRUE,song,imagine dragons,full bassline,5,it's time
-bass-home-new-more,new on yousician,TRUE,song,bill withers,basic bassline,1,ain't no sunshine
-bass-home-new-more,new on yousician,TRUE,song,bill withers,basic bassline,3,ain't no sunshine
-bass-home-new-more,new on yousician,TRUE,song,bill withers,full bassline,5,ain't no sunshine
-bass-home-new-more,new on yousician,TRUE,song,r.e.m.,basic bassline,2,losing my religion
-bass-home-new-more,new on yousician,TRUE,song,r.e.m.,full bassline,5,losing my religion
-bass-home-new-more,new on yousician,TRUE,song,bill withers,basic bassline,2,lean on me
-bass-home-new-more,new on yousician,TRUE,song,bill withers,main bassline,5,lean on me
-bass-home-new-more,new on yousician,TRUE,song,bill withers,full bassline,7,lean on me
-bass-home-new-more,new on yousician,TRUE,song,whitney houston,basic bassline,3,i wanna dance with somebody (who loves me)
-bass-home-new-more,new on yousician,TRUE,song,whitney houston,full bassline,7,i wanna dance with somebody (who loves me)
-bass-home-new-more,new on yousician,TRUE,song,florence + the machine,basic bassline,2,ship to wreck
-bass-home-new-more,new on yousician,TRUE,song,florence + the machine,main bassline,5,ship to wreck
-bass-home-new-more,new on yousician,TRUE,song,florence + the machine,full bassline,7,ship to wreck
-bass-home-new-more,new on yousician,TRUE,song,pearl jam,basic bassline (short),2,black
-bass-home-new-more,new on yousician,TRUE,song,pearl jam,main bassline,5,black
-bass-home-new-more,new on yousician,TRUE,song,pearl jam,full bassline,8,black
-bass-home-new-more,new on yousician,TRUE,song,own city,basic bassline,2,fireflies
-bass-home-new-more,new on yousician,TRUE,song,own city,full bassline,6,fireflies
+bass-home-new,new on yousician,TRUE,song,foo fighters,full bassline (drop D),8,everlong
+bass-home-new,new on yousician,TRUE,song,scorpions,basic bassline (short),2,wind of change
+bass-home-new,new on yousician,TRUE,song,scorpions,main bassline,5,wind of change
+bass-home-new,new on yousician,TRUE,song,scorpions,full bassline,8,wind of change
+bass-home-new,new on yousician,TRUE,song,jason mraz,basic bassline,2,i'm yours
+bass-home-new,new on yousician,TRUE,song,jason mraz,full bassline,6,i'm yours
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,basic bassline,2,spanish castle magic (in E)
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,main bassline,5,spanish castle magic (in E)
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,full bassline,8,spanish castle magic (in E)
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,basic bassline (short),1,voodoo child (slight return) (in E)
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,main bassline (short),5,voodoo child (slight return) (in E)
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,main bassline,5,voodoo child (slight return) (in E)
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,full bassline,8,voodoo child (slight return) (in E)
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,basic bassline,2,foxey lady
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,full bassline,5,foxey lady
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,basic bassline,1,fire
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,main bassline,4,fire
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,full bassline,8,fire
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,basic bassline,1,crosstown traffic
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,basic bassline,3,crosstown traffic
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,main bassline,6,crosstown traffic
+bass-home-new,new on yousician,TRUE,song,jimi hendrix,full bassline,8,crosstown traffic
+bass-home-new,new on yousician,TRUE,song,roxy music,basic bassline,2,more than this
+bass-home-new,new on yousician,TRUE,song,roxy music,full bassline,6,more than this
+bass-home-new,new on yousician,TRUE,song,katrina and the waves,basic bassline (short),2,walking on sunshine
+bass-home-new,new on yousician,TRUE,song,katrina and the waves,main bassline,4,walking on sunshine
+bass-home-new,new on yousician,TRUE,song,katrina and the waves,full bassline,8,walking on sunshine
+bass-home-new,new on yousician,TRUE,song,creedence clearwater revival,basic bassline (short),2,suzie q
+bass-home-new,new on yousician,TRUE,song,creedence clearwater revival,main bassline (short),5,suzie q
+bass-home-new,new on yousician,TRUE,song,creedence clearwater revival,main bassline,5,suzie q
+bass-home-new,new on yousician,TRUE,song,creedence clearwater revival,full bassline,8,suzie q
+bass-home-new,new on yousician,TRUE,song,tears for fears,basic bassline,2,everybody wants to rule the world
+bass-home-new,new on yousician,TRUE,song,tears for fears,full bassline,5,everybody wants to rule the world
+bass-home-new,new on yousician,TRUE,song,goo goo dolls,basic bassline (short),2,iris
+bass-home-new,new on yousician,TRUE,song,goo goo dolls,full bassline,6,iris
+bass-home-new,new on yousician,TRUE,song,sublime,basic bassline,2,badfish
+bass-home-new,new on yousician,TRUE,song,sublime,main bassline,5,badfish
+bass-home-new,new on yousician,TRUE,song,sublime,full bassline (5 string),8,badfish
+bass-home-new,new on yousician,TRUE,song,sublime,full bassline,8,badfish
+bass-home-new,new on yousician,TRUE,song,brian mcknight,basic bassline,3,back at one
+bass-home-new,new on yousician,TRUE,song,brian mcknight,main bassline,5,back at one
+bass-home-new,new on yousician,TRUE,song,brian mcknight,full bassline (5 string),8,back at one
+bass-home-new,new on yousician,TRUE,song,brian mcknight,full bassline,8,back at one
+bass-home-new,new on yousician,TRUE,song,scorpions,basic bassline (short),1,"still loving you (Am, short)"
+bass-home-new,new on yousician,TRUE,song,scorpions,main bassline (short),4,"still loving you (Am, short)"
+bass-home-new,new on yousician,TRUE,song,scorpions,full bassline,8,"still loving you (Am, short)"
+bass-home-new,new on yousician,TRUE,song,pink,basic bassline,2,try
+bass-home-new,new on yousician,TRUE,song,pink,full bassline,5,try
+bass-home-new,new on yousician,TRUE,song,slayer,full bassline,8,seasons in the abyss (Eb)
+bass-home-new,new on yousician,TRUE,song,slayer,main bassline,5,seasons in the abyss (E)
+bass-home-new,new on yousician,TRUE,song,slayer,full bassline,8,seasons in the abyss (E)
+bass-home-new,new on yousician,TRUE,song,tom cochrane,basic bassline,2,life is a highway (short)
+bass-home-new,new on yousician,TRUE,song,tom cochrane,main bassline,5,life is a highway (short)
+bass-home-new,new on yousician,TRUE,song,tom cochrane,full bassline,8,life is a highway (short)
+bass-home-new,new on yousician,TRUE,song,sepultura,full bassline (D tuning),7,resit (D)
+bass-home-new,new on yousician,TRUE,song,sepultura,basic bassline,2,resit (E)
+bass-home-new,new on yousician,TRUE,song,sepultura,main bassline,4,resit (E)
+bass-home-new,new on yousician,TRUE,song,sepultura,full bassline,7,resit (E)
+bass-home-new,new on yousician,TRUE,song,sepultura,full bassline (D tuning),8,territory (D)
+bass-home-new,new on yousician,TRUE,song,sepultura,basic bassline,3,territory (E)
+bass-home-new,new on yousician,TRUE,song,sepultura,full bassline,8,territory (E)
+bass-home-new,new on yousician,TRUE,song,slayer,full bassline (Eb tuning),5,south of heaven (Eb)
+bass-home-new,new on yousician,TRUE,song,slayer,full bassline (E),2,south of heaven (E)
+bass-home-new,new on yousician,TRUE,song,slayer,full bassline (E),5,south of heaven (E)
+bass-home-new,new on yousician,TRUE,song,stone temple pilots,full bassline,5,creep
+bass-home-new,new on yousician,TRUE,song,stone temple pilots,basic bassline (short),1,creep (short)
+bass-home-new,new on yousician,TRUE,song,stone temple pilots,basic bassline,3,creep (short)
+bass-home-new,new on yousician,TRUE,song,buzzcocks,basic bassline,2,ever fallen in love (with someone you shouldn't've)?
+bass-home-new,new on yousician,TRUE,song,buzzcocks,basic bassline,4,ever fallen in love (with someone you shouldn't've)?
+bass-home-new,new on yousician,TRUE,song,buzzcocks,main bassline,6,ever fallen in love (with someone you shouldn't've)?
+bass-home-new,new on yousician,TRUE,song,buzzcocks,full bassline,8,ever fallen in love (with someone you shouldn't've)?
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,full bassline (drop D),9,by the way
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,basic bassline,2,by the way (short)
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,main bassline,5,by the way (short)
+bass-home-new,new on yousician,TRUE,song,sister hazel,full bassline,8,all for you
+bass-home-new,new on yousician,TRUE,song,sister hazel,full bassline (5 string),8,all for you
+bass-home-new,new on yousician,TRUE,song,sister hazel,basic bassline,3,all for you (short)
+bass-home-new,new on yousician,TRUE,song,sister hazel,main bassline,5,all for you (short)
+bass-home-new,new on yousician,TRUE,song,poison,basic bassline,2,"nothin' but a good time (in A, short)"
+bass-home-new,new on yousician,TRUE,song,poison,main bassline,5,"nothin' but a good time (in A, short)"
+bass-home-new,new on yousician,TRUE,song,poison,full bassline,8,nothin' but a good time (in A)
+bass-home-new,new on yousician,TRUE,song,everclear,basic bassline (short),2,father of mine
+bass-home-new,new on yousician,TRUE,song,everclear,main bassline (short),4,father of mine
+bass-home-new,new on yousician,TRUE,song,everclear,full bassline,6,father of mine
+bass-home-new,new on yousician,TRUE,song,sublime,basic bassline (short),1,santeria
+bass-home-new,new on yousician,TRUE,song,sublime,main bassline,5,santeria
+bass-home-new,new on yousician,TRUE,song,sublime,full bassline,7,santeria
+bass-home-new,new on yousician,TRUE,song,scorpions,basic bassline (short),1,still loving you (Am)
+bass-home-new,new on yousician,TRUE,song,scorpions,main bassline (short),4,still loving you (Am)
+bass-home-new,new on yousician,TRUE,song,scorpions,full bassline,8,still loving you (Am)
+bass-home-new,new on yousician,TRUE,song,fuel,basic bassline,3,hemorrhage (in my hands) (in Bm)
+bass-home-new,new on yousician,TRUE,song,fuel,main bassline,6,hemorrhage (in my hands) (in Bm)
+bass-home-new,new on yousician,TRUE,song,fuel,full bassline,8,hemorrhage (in my hands) (in Bm)
+bass-home-new,new on yousician,TRUE,song,the all-american rejects,basic bassline,2,"swing, swing"
+bass-home-new,new on yousician,TRUE,song,the all-american rejects,main bassline,4,"swing, swing"
+bass-home-new,new on yousician,TRUE,song,the all-american rejects,full bassline,6,"swing, swing"
+bass-home-new,new on yousician,TRUE,song,steppenwolf,basic bassline,2,magic carpet ride
+bass-home-new,new on yousician,TRUE,song,steppenwolf,main bassline,5,magic carpet ride
+bass-home-new,new on yousician,TRUE,song,steppenwolf,full bassline,7,magic carpet ride
+bass-home-new,new on yousician,TRUE,song,thin lizzy,basic bassline,3,the boys are back in town (in A)
+bass-home-new,new on yousician,TRUE,song,thin lizzy,basic bassline,5,the boys are back in town (in A)
+bass-home-new,new on yousician,TRUE,song,thin lizzy,main bassline,7,the boys are back in town (in A)
+bass-home-new,new on yousician,TRUE,song,thin lizzy,full bassline,9,the boys are back in town (in A)
+bass-home-new,new on yousician,TRUE,song,kiss,basic bassline,2,lick it up
+bass-home-new,new on yousician,TRUE,song,kiss,full bassline,5,lick it up
+bass-home-new,new on yousician,TRUE,song,alabama,basic bassline,1,song of the south
+bass-home-new,new on yousician,TRUE,song,alabama,main bassline,4,song of the south
+bass-home-new,new on yousician,TRUE,song,alabama,full bassline,8,song of the south
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,basic bassline (short),2,my friends
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,main bassline,5,my friends
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,full bassline,8,my friends
+bass-home-new,new on yousician,TRUE,song,the beach boys,basic bassline,2,god only knows
+bass-home-new,new on yousician,TRUE,song,the beach boys,full bassline,5,god only knows
+bass-home-new,new on yousician,TRUE,song,iron maiden,basic bassline,3,wildest dreams
+bass-home-new,new on yousician,TRUE,song,iron maiden,main bassline,6,wildest dreams
+bass-home-new,new on yousician,TRUE,song,iron maiden,full bassline,9,wildest dreams
+bass-home-new,new on yousician,TRUE,song,kiss,basic bassline,2,rock and roll all nite (in A)
+bass-home-new,new on yousician,TRUE,song,kiss,main bassline,5,rock and roll all nite (in A)
+bass-home-new,new on yousician,TRUE,song,kiss,full bassline,8,rock and roll all nite (in A)
+bass-home-new,new on yousician,TRUE,song,cream,basic bassline,2,born under a bad sign
+bass-home-new,new on yousician,TRUE,song,cream,full bassline,6,born under a bad sign
+bass-home-new,new on yousician,TRUE,song,fuel,basic bassline,2,shimmer
+bass-home-new,new on yousician,TRUE,song,fuel,main bassline,4,shimmer
+bass-home-new,new on yousician,TRUE,song,fuel,full bassline,7,shimmer
+bass-home-new,new on yousician,TRUE,song,r.e.m.,basic bassline,1,the one i love
+bass-home-new,new on yousician,TRUE,song,r.e.m.,basic bassline,3,the one i love
+bass-home-new,new on yousician,TRUE,song,r.e.m.,full bassline,5,the one i love
+bass-home-new,new on yousician,TRUE,song,kiss,basic bassline,3,detroit rock city (in E)
+bass-home-new,new on yousician,TRUE,song,kiss,main bassline,7,detroit rock city (in E)
+bass-home-new,new on yousician,TRUE,song,kiss,full bassline,9,detroit rock city (in E)
+bass-home-new,new on yousician,TRUE,song,rent,basic bassline (short),2,seasons of love
+bass-home-new,new on yousician,TRUE,song,rent,main bassline (short),5,seasons of love
+bass-home-new,new on yousician,TRUE,song,rent,full bassline,8,seasons of love
+bass-home-new,new on yousician,TRUE,song,thin lizzy,basic bassline,2,whiskey in the jar
+bass-home-new,new on yousician,TRUE,song,thin lizzy,main bassline,6,whiskey in the jar
+bass-home-new,new on yousician,TRUE,song,thin lizzy,full bassline (drop D),9,whiskey in the jar
+bass-home-new,new on yousician,TRUE,song,jack johnson,basic bassline (short),1,better together
+bass-home-new,new on yousician,TRUE,song,jack johnson,full bassline,4,better together
+bass-home-new,new on yousician,TRUE,song,imagine dragons,basic bassline,2,roots
+bass-home-new,new on yousician,TRUE,song,imagine dragons,main bassline,6,roots
+bass-home-new,new on yousician,TRUE,song,imagine dragons,full bassline (drop D),9,roots
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,basic bassline,1,scar tissue
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,main bassline,5,scar tissue
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,full bassline,10,scar tissue
+bass-home-new,new on yousician,TRUE,song,the beach boys,basic bassline,2,i get around
+bass-home-new,new on yousician,TRUE,song,the beach boys,main bassline,6,i get around
+bass-home-new,new on yousician,TRUE,song,the beach boys,full bassline,8,i get around
+bass-home-new,new on yousician,TRUE,song,gregory porter,basic bassline,2,hey laura
+bass-home-new,new on yousician,TRUE,song,gregory porter,full bassline,6,hey laura
+bass-home-new,new on yousician,TRUE,song,one direction,full bassline,4,more than this
+bass-home-new,new on yousician,TRUE,song,one direction,melody,7,more than this
+bass-home-new,new on yousician,TRUE,song,bill withers,basic bassline,1,grandma's hands
+bass-home-new,new on yousician,TRUE,song,bill withers,basic bassline,3,grandma's hands
+bass-home-new,new on yousician,TRUE,song,bill withers,full bassline,4,grandma's hands
+bass-home-new,new on yousician,TRUE,song,toby keith,basic bassline,2,should've been a cowboy
+bass-home-new,new on yousician,TRUE,song,toby keith,main bassline,5,should've been a cowboy
+bass-home-new,new on yousician,TRUE,song,toby keith,full bassline,8,should've been a cowboy
+bass-home-new,new on yousician,TRUE,song,toby keith,full bassline (5 string),8,should've been a cowboy
+bass-home-new,new on yousician,TRUE,song,kiss,basic bassline,2,i was made for lovin' you (in Em)
+bass-home-new,new on yousician,TRUE,song,kiss,main bassline,4,i was made for lovin' you (in Em)
+bass-home-new,new on yousician,TRUE,song,kiss,full bassline,8,i was made for lovin' you (in Em)
+bass-home-new,new on yousician,TRUE,song,jack johnson,basic bassline,2,banana pancakes
+bass-home-new,new on yousician,TRUE,song,jack johnson,main bassline,4,banana pancakes
+bass-home-new,new on yousician,TRUE,song,jack johnson,full bassline,6,banana pancakes
+bass-home-new,new on yousician,TRUE,song,example,basic bassline,2,kickstarts
+bass-home-new,new on yousician,TRUE,song,example,full bassline,6,kickstarts
+bass-home-new,new on yousician,TRUE,song,evita,full bassline,5,don't cry for me argentina
+bass-home-new,new on yousician,TRUE,song,alice cooper,basic bassline,2,no more mr. nice guy
+bass-home-new,new on yousician,TRUE,song,alice cooper,main bassline,5,no more mr. nice guy
+bass-home-new,new on yousician,TRUE,song,alice cooper,full bassline,8,no more mr. nice guy
+bass-home-new,new on yousician,TRUE,song,stevie ray vaughan,basic bassline,2,texas flood (in G)
+bass-home-new,new on yousician,TRUE,song,stevie ray vaughan,full bassline,6,texas flood (in G)
+bass-home-new,new on yousician,TRUE,song,neil diamond,basic bassline,2,sweet caroline
+bass-home-new,new on yousician,TRUE,song,neil diamond,basic bassline,4,sweet caroline
+bass-home-new,new on yousician,TRUE,song,neil diamond,main bassline,6,sweet caroline
+bass-home-new,new on yousician,TRUE,song,neil diamond,full bassline,8,sweet caroline
+bass-home-new,new on yousician,TRUE,song,the beach boys,basic bassline,2,good vibrations (in Dm)
+bass-home-new,new on yousician,TRUE,song,steely dan,full bassline,8,dirty work
+bass-home-new,new on yousician,TRUE,song,steely dan,basic bassline,2,dirty work (in C)
+bass-home-new,new on yousician,TRUE,song,steely dan,main bassline,4,dirty work (in C)
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,basic bassline,2,tuesday's gone
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,main bassline,5,tuesday's gone
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,full bassline,9,tuesday's gone
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,basic bassline,2,road trippin'
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,full bassline,5,road trippin'
+bass-home-new,new on yousician,TRUE,song,the beach boys,full bassline,6,good vibrations
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,basic bassline,1,dani california
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,basic bassline,3,dani california
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,main bassline,5,dani california
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,full bassline,8,dani california
+bass-home-new,new on yousician,TRUE,song,miley cyrus,basic bassline,3,malibu (in G)
+bass-home-new,new on yousician,TRUE,song,miley cyrus,full bassline,6,malibu
+bass-home-new,new on yousician,TRUE,song,maroon 5,full bassline (Eb tuning),7,won't go home without you
+bass-home-new,new on yousician,TRUE,song,maroon 5,basic bassline,2,won't go home without you (in E)
+bass-home-new,new on yousician,TRUE,song,maroon 5,main bassline,5,won't go home without you (in E)
+bass-home-new,new on yousician,TRUE,song,r.e.m.,basic bassline,3,it's the end of the world as we know it (and i feel fine)
+bass-home-new,new on yousician,TRUE,song,r.e.m.,main bassline,5,it's the end of the world as we know it (and i feel fine)
+bass-home-new,new on yousician,TRUE,song,r.e.m.,full bassline,7,it's the end of the world as we know it (and i feel fine)
+bass-home-new,new on yousician,TRUE,song,the all-american rejects,basic bassline,1,gives you hell
+bass-home-new,new on yousician,TRUE,song,the all-american rejects,basic bassline,3,gives you hell
+bass-home-new,new on yousician,TRUE,song,the all-american rejects,main bassline,5,gives you hell
+bass-home-new,new on yousician,TRUE,song,the all-american rejects,full bassline (5 string),7,gives you hell
+bass-home-new,new on yousician,TRUE,song,alejandro sanz,basic bassline,2,corazon partio
+bass-home-new,new on yousician,TRUE,song,alejandro sanz,main bassline,5,corazon partio
+bass-home-new,new on yousician,TRUE,song,alejandro sanz,full bassline,9,corazon partio
+bass-home-new,new on yousician,TRUE,song,alejandro sanz,full bassline (5 string),9,corazon partio
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,basic bassline,2,free bird
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,main bassline,6,free bird
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,full bassline,9,free bird
+bass-home-new,new on yousician,TRUE,song,b.b. king,basic bassline,1,the thrill is gone
+bass-home-new,new on yousician,TRUE,song,b.b. king,basic bassline,3,the thrill is gone
+bass-home-new,new on yousician,TRUE,song,b.b. king,main bassline,5,the thrill is gone
+bass-home-new,new on yousician,TRUE,song,b.b. king,full bassline,7,the thrill is gone
+bass-home-new,new on yousician,TRUE,song,r.e.m.,basic bassline,2,everybody hurts
+bass-home-new,new on yousician,TRUE,song,r.e.m.,full bassline,5,everybody hurts
+bass-home-new,new on yousician,TRUE,song,abba,basic bassline,3,waterloo
+bass-home-new,new on yousician,TRUE,song,abba,main bassline,6,waterloo
+bass-home-new,new on yousician,TRUE,song,abba,full bassline (drop D),9,waterloo
+bass-home-new,new on yousician,TRUE,song,christopher cross,basic bassline,2,sailing
+bass-home-new,new on yousician,TRUE,song,christopher cross,full bassline,5,sailing
+bass-home-new,new on yousician,TRUE,song,gym class heroes,basic bassline,2,cupid's chokehold
+bass-home-new,new on yousician,TRUE,song,gym class heroes,main bassline,5,cupid's chokehold
+bass-home-new,new on yousician,TRUE,song,gym class heroes,full bassline,7,cupid's chokehold
+bass-home-new,new on yousician,TRUE,song,tha alan parsons project,basic bassline,2,eye in the sky
+bass-home-new,new on yousician,TRUE,song,tha alan parsons project,full bassline,4,eye in the sky
+bass-home-new,new on yousician,TRUE,song,maroon 5,basic bassline,3,harder to breathe
+bass-home-new,new on yousician,TRUE,song,maroon 5,full bassline,5,harder to breathe
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,basic bassline,1,gimme three steps
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,basic bassline,3,gimme three steps
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,main bassline,6,gimme three steps
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,full bassline,8,gimme three steps
+bass-home-new,new on yousician,TRUE,song,steppenwolf,basic bassline,2,born to be wild
+bass-home-new,new on yousician,TRUE,song,steppenwolf,basic bassline,4,born to be wild
+bass-home-new,new on yousician,TRUE,song,steppenwolf,main bassline,6,born to be wild
+bass-home-new,new on yousician,TRUE,song,steppenwolf,full bassline,9,born to be wild
+bass-home-new,new on yousician,TRUE,song,3 doors down,basic bassline,2,when I'm gone
+bass-home-new,new on yousician,TRUE,song,3 doors down,main bassline,5,when I'm gone
+bass-home-new,new on yousician,TRUE,song,3 doors down,full bassline,7,when I'm gone
+bass-home-new,new on yousician,TRUE,song,natalia lafourcade,basic bassline,2,hasta la raiz
+bass-home-new,new on yousician,TRUE,song,natalia lafourcade,full bassline,5,hasta la raiz
+bass-home-new,new on yousician,TRUE,song,mumford & sons,basic bassline,2,i will want
+bass-home-new,new on yousician,TRUE,song,mumford & sons,main bassline,4,i will want
+bass-home-new,new on yousician,TRUE,song,mumford & sons,full bassline,7,i will want
+bass-home-new,new on yousician,TRUE,song,rihanna,basic bassline,2,shut up and drive
+bass-home-new,new on yousician,TRUE,song,rihanna,full bassline,4,shut up and drive
+bass-home-new,new on yousician,TRUE,song,tim mcgraw,basic bassline,1,humble and kind
+bass-home-new,new on yousician,TRUE,song,tim mcgraw,basic bassline,3,humble and kind
+bass-home-new,new on yousician,TRUE,song,tim mcgraw,full bassline,5,humble and kind
+bass-home-new,new on yousician,TRUE,song,new found glory,basic bassline,2,my friends over you
+bass-home-new,new on yousician,TRUE,song,new found glory,main bassline,4,my friends over you
+bass-home-new,new on yousician,TRUE,song,new found glory,full bassline,7,my friends over you
+bass-home-new,new on yousician,TRUE,song,"eric clapton, b.b. king",basic bassline,2,riding with the king
+bass-home-new,new on yousician,TRUE,song,"eric clapton, b.b. king",main bassline,6,riding with the king
+bass-home-new,new on yousician,TRUE,song,"eric clapton, b.b. king",full bassline,8,riding with the king
+bass-home-new,new on yousician,TRUE,song,glenn campbell,basic bassline,1,wichita lineman
+bass-home-new,new on yousician,TRUE,song,glenn campbell,basic bassline,3,wichita lineman
+bass-home-new,new on yousician,TRUE,song,glenn campbell,full bassline,6,wichita lineman
+bass-home-new,new on yousician,TRUE,song,maroon 5,basic bassline,3,sunday morning
+bass-home-new,new on yousician,TRUE,song,maroon 5,main bassline,6,sunday morning
+bass-home-new,new on yousician,TRUE,song,maroon 5,full bassline,9,sunday morning
+bass-home-new,new on yousician,TRUE,song,steely dan,basic bassline,3,do it again
+bass-home-new,new on yousician,TRUE,song,steely dan,main bassline,5,do it again
+bass-home-new,new on yousician,TRUE,song,steely dan,full bassline,7,do it again
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,basic bassline,2,californication
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,basic bassline,4,californication
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,main bassline,6,californication
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,full bassline,8,californication
+bass-home-new,new on yousician,TRUE,song,the killers,basic bassline,2,mr. brightside
+bass-home-new,new on yousician,TRUE,song,the killers,basic bassline,4,mr. brightside
+bass-home-new,new on yousician,TRUE,song,the killers,full bassline,6,mr. brightside
+bass-home-new,new on yousician,TRUE,song,the white stripes,workout (short),0,seven nation army
+bass-home-new,new on yousician,TRUE,song,the white stripes,basic bassline,1,seven nation army
+bass-home-new,new on yousician,TRUE,song,the white stripes,full bassline,5,seven nation army
+bass-home-new,new on yousician,TRUE,song,otis redding,basic bassline,1,hard to handle
+bass-home-new,new on yousician,TRUE,song,otis redding,basic bassline,3,hard to handle
+bass-home-new,new on yousician,TRUE,song,otis redding,full bassline,6,hard to handle
+bass-home-new,new on yousician,TRUE,song,chvrches,main bassline,4,the mother we share
+bass-home-new,new on yousician,TRUE,song,chvrches,full bassline,6,the mother we share
+bass-home-new,new on yousician,TRUE,song,chvrches,basic bassline,1,the mother we share (in C)
+bass-home-new,new on yousician,TRUE,song,stone temple pilots,basic bassline,2,interstate love song
+bass-home-new,new on yousician,TRUE,song,stone temple pilots,main bassline,5,interstate love song
+bass-home-new,new on yousician,TRUE,song,stone temple pilots,full bassline,7,interstate love song
+bass-home-new,new on yousician,TRUE,song,fleetwood mac,basic bassline,2,little lies
+bass-home-new,new on yousician,TRUE,song,fleetwood mac,main bassline,5,little lies
+bass-home-new,new on yousician,TRUE,song,fleetwood mac,full bassline,8,little lies
+bass-home-new,new on yousician,TRUE,song,bastille,basic bassline,2,pompeii
+bass-home-new,new on yousician,TRUE,song,bastille,full bassline,6,pompeii
+bass-home-new,new on yousician,TRUE,song,carly simon,basic bassline,2,you're so vain
+bass-home-new,new on yousician,TRUE,song,carly simon,main bassline,5,you're so vain
+bass-home-new,new on yousician,TRUE,song,carly simon,full bassline,8,you're so vain
+bass-home-new,new on yousician,TRUE,song,3 doors down,basic bassline,2,here without you
+bass-home-new,new on yousician,TRUE,song,3 doors down,full bassline,4,here without you
+bass-home-new,new on yousician,TRUE,song,maroon 5,basic bassline,2,she will be loved
+bass-home-new,new on yousician,TRUE,song,maroon 5,full bassline,5,she will be loved
+bass-home-new,new on yousician,TRUE,song,heart,basic bassline,2,barracuda
+bass-home-new,new on yousician,TRUE,song,heart,main bassline,5,barracuda
+bass-home-new,new on yousician,TRUE,song,heart,full bassline,9,barracuda
+bass-home-new,new on yousician,TRUE,song,maroon 5,basic bassline,3,this love
+bass-home-new,new on yousician,TRUE,song,maroon 5,main bassline,5,this love
+bass-home-new,new on yousician,TRUE,song,maroon 5,full bassline (drop D),9,this love
+bass-home-new,new on yousician,TRUE,song,otis redding,basic bassline,1,(sittin' on) the dock of the bay
+bass-home-new,new on yousician,TRUE,song,otis redding,basic bassline,3,(sittin' on) the dock of the bay
+bass-home-new,new on yousician,TRUE,song,otis redding,main bassline,5,(sittin' on) the dock of the bay
+bass-home-new,new on yousician,TRUE,song,otis redding,full bassline,8,(sittin' on) the dock of the bay
+bass-home-new,new on yousician,TRUE,song,jefferson airplane,basic bassline,1,white rabbit
+bass-home-new,new on yousician,TRUE,song,jefferson airplane,main bassline,4,white rabbit
+bass-home-new,new on yousician,TRUE,song,jefferson airplane,full bassline,8,white rabbit
+bass-home-new,new on yousician,TRUE,song,starship,basic bassline,2,we built this city
+bass-home-new,new on yousician,TRUE,song,starship,full bassline,5,we built this city
+bass-home-new,new on yousician,TRUE,song,jefferson airplane,basic bassline,2,somebody to love
+bass-home-new,new on yousician,TRUE,song,jefferson airplane,main bassline,5,somebody to love
+bass-home-new,new on yousician,TRUE,song,jefferson airplane,full bassline,8,somebody to love
+bass-home-new,new on yousician,TRUE,song,the all-american rejects,basic bassline,2,dirty little secret
+bass-home-new,new on yousician,TRUE,song,the all-american rejects,main bassline,4,dirty little secret
+bass-home-new,new on yousician,TRUE,song,the all-american rejects,full bassline,8,dirty little secret
+bass-home-new,new on yousician,TRUE,song,the cardigans,basic bassline,2,lovefool
+bass-home-new,new on yousician,TRUE,song,the cardigans,full bassline,4,lovefool
+bass-home-new,new on yousician,TRUE,song,air supply,basic bassline,1,all out of love
+bass-home-new,new on yousician,TRUE,song,air supply,full bassline,3,all out of love
+bass-home-new,new on yousician,TRUE,song,tom petty and the heartbreakers,basic bassline,2,american girl
+bass-home-new,new on yousician,TRUE,song,tom petty and the heartbreakers,main bassline,5,american girl
+bass-home-new,new on yousician,TRUE,song,tom petty and the heartbreakers,full bassline,7,american girl
+bass-home-new,new on yousician,TRUE,song,pixies,basic bassline,2,here comes your man
+bass-home-new,new on yousician,TRUE,song,pixies,main bassline,4,here comes your man
+bass-home-new,new on yousician,TRUE,song,pixies,full bassline,6,here comes your man
+bass-home-new,new on yousician,TRUE,song,godsmack,basic bassline,2,i stand alone
+bass-home-new,new on yousician,TRUE,song,godsmack,main bassline,4,i stand alone
+bass-home-new,new on yousician,TRUE,song,godsmack,full bassline,6,i stand alone
+bass-home-new,new on yousician,TRUE,song,twisted sister,basic bassline,3,i wanna rock
+bass-home-new,new on yousician,TRUE,song,twisted sister,main bassline,5,i wanna rock
+bass-home-new,new on yousician,TRUE,song,twisted sister,full bassline,9,i wanna rock
+bass-home-new,new on yousician,TRUE,song,the highwaymen,basic bassline,2,highwayman
+bass-home-new,new on yousician,TRUE,song,the highwaymen,full bassline,4,highwayman
+bass-home-new,new on yousician,TRUE,song,abba,main bassline,4,the winner takes it all
+bass-home-new,new on yousician,TRUE,song,abba,full bassline,8,the winner takes it all
+bass-home-new,new on yousician,TRUE,song,abba,basic bassline,2,the winner takes it all (in G)
+bass-home-new,new on yousician,TRUE,song,abba,basic bassline,2,mamma mia
+bass-home-new,new on yousician,TRUE,song,abba,full bassline,4,mamma mia
+bass-home-new,new on yousician,TRUE,song,abba,main bassline,6,mamma mia
+bass-home-new,new on yousician,TRUE,song,imagine dragons,basic bassline,2,shots
+bass-home-new,new on yousician,TRUE,song,imagine dragons,main bassline,5,shots
+bass-home-new,new on yousician,TRUE,song,imagine dragons,full bassline (drop D),9,shots
+bass-home-new,new on yousician,TRUE,song,crash test dummies,basic bassline,2,mmm mmm mmm mmm
+bass-home-new,new on yousician,TRUE,song,crash test dummies,full bassline,5,mmm mmm mmm mmm
+bass-home-new,new on yousician,TRUE,song,aretha franklin,basic bassline,1,respect
+bass-home-new,new on yousician,TRUE,song,aretha franklin,basic bassline,3,respect
+bass-home-new,new on yousician,TRUE,song,aretha franklin,full bassline,5,respect
+bass-home-new,new on yousician,TRUE,song,scorpions,basic bassline,2,rock you like a hurricane
+bass-home-new,new on yousician,TRUE,song,scorpions,full bassline,5,rock you like a hurricane
+bass-home-new,new on yousician,TRUE,song,bobby mcferin,main bassline,5,don't worry be happy
+bass-home-new,new on yousician,TRUE,song,bobby mcferin,full bassline,9,don't worry be happy
+bass-home-new,new on yousician,TRUE,song,bobby mcferin,basic bassline,2,don't worry be happy (in C)
+bass-home-new,new on yousician,TRUE,song,the cure,basic bassline,2,friday i'm in love (in E)
+bass-home-new,new on yousician,TRUE,song,the cure,full bassline,5,friday i'm in love (in E)
+bass-home-new,new on yousician,TRUE,song,rod stewart,basic bassline,3,sailing
+bass-home-new,new on yousician,TRUE,song,rod stewart,full bassline,5,sailing
+bass-home-new,new on yousician,TRUE,song,rod stewart,basic bassline,1,sailing (in C)
+bass-home-new,new on yousician,TRUE,song,buena vista social club,basic bassline,1,chan chan
+bass-home-new,new on yousician,TRUE,song,buena vista social club,basic bassline,3,chan chan
+bass-home-new,new on yousician,TRUE,song,buena vista social club,main bassline,5,chan chan
+bass-home-new,new on yousician,TRUE,song,buena vista social club,full bassline,7,chan chan
+bass-home-new,new on yousician,TRUE,song,the mamas & the papas,basic bassline,3,california dreamin'
+bass-home-new,new on yousician,TRUE,song,the mamas & the papas,full bassline,5,california dreamin'
+bass-home-new,new on yousician,TRUE,song,the mamas & the papas,basic bassline,1,california dreamin' (in Dm)
+bass-home-new,new on yousician,TRUE,song,gladys knight & the pips,main bassline,5,midnight train to georgia
+bass-home-new,new on yousician,TRUE,song,gladys knight & the pips,full bassline,8,midnight train to georgia
+bass-home-new,new on yousician,TRUE,song,gladys knight & the pips,basic bassline,2,midnight train to georgia (in C)
+bass-home-new,new on yousician,TRUE,song,stone temple pilots,basic bassline,2,plush
+bass-home-new,new on yousician,TRUE,song,stone temple pilots,main bassline,4,plush
+bass-home-new,new on yousician,TRUE,song,stone temple pilots,full bassline,7,plush
+bass-home-new,new on yousician,TRUE,song,tom petty and the heartbreakers,basic bassline,2,breakdown
+bass-home-new,new on yousician,TRUE,song,tom petty and the heartbreakers,basic bassline,3,breakdown
+bass-home-new,new on yousician,TRUE,song,tom petty and the heartbreakers,main bassline,6,breakdown
+bass-home-new,new on yousician,TRUE,song,tom petty and the heartbreakers,full bassline,9,breakdown
+bass-home-new,new on yousician,TRUE,song,erykah badu,basic bassline,2,on & on
+bass-home-new,new on yousician,TRUE,song,erykah badu,main bassline,4,on & on
+bass-home-new,new on yousician,TRUE,song,erykah badu,full bassline,6,on & on
+bass-home-new,new on yousician,TRUE,song,r.e.m.,basic bassline,2,shiny happy people
+bass-home-new,new on yousician,TRUE,song,r.e.m.,main bassline,4,shiny happy people
+bass-home-new,new on yousician,TRUE,song,r.e.m.,full bassline,6,shiny happy people
+bass-home-new,new on yousician,TRUE,song,santana,basic bassline,1,samba pa ti
+bass-home-new,new on yousician,TRUE,song,santana,basic bassline,3,samba pa ti
+bass-home-new,new on yousician,TRUE,song,santana,full bassline,5,samba pa ti
+bass-home-new,new on yousician,TRUE,song,hunter hayes,basic bassline,3,i want crazy - encore
+bass-home-new,new on yousician,TRUE,song,hunter hayes,main bassline,5,i want crazy - encore
+bass-home-new,new on yousician,TRUE,song,hunter hayes,full bassline,8,i want crazy - encore
+bass-home-new,new on yousician,TRUE,song,danzig,basic bassline,2,mother
+bass-home-new,new on yousician,TRUE,song,danzig,full bassline,4,mother
+bass-home-new,new on yousician,TRUE,song,pearl jam,basic bassline,1,yellow ledbetter
+bass-home-new,new on yousician,TRUE,song,pearl jam,main bassline,5,yellow ledbetter
+bass-home-new,new on yousician,TRUE,song,pearl jam,full bassline,8,yellow ledbetter
+bass-home-new,new on yousician,TRUE,song,chris stapleton,basic bassline,1,millionaire
+bass-home-new,new on yousician,TRUE,song,chris stapleton,basic bassline,3,millionaire
+bass-home-new,new on yousician,TRUE,song,chris stapleton,full bassline,6,millionaire
+bass-home-new,new on yousician,TRUE,song,imagine dragons,basic bassline,2,next to me
+bass-home-new,new on yousician,TRUE,song,imagine dragons,main bassline,4,next to me
+bass-home-new,new on yousician,TRUE,song,imagine dragons,full bassline,5,next to me
+bass-home-new,new on yousician,TRUE,song,imagine dragons,full bassline (drop D),9,next to me
+bass-home-new,new on yousician,TRUE,song,hunter hayes,basic bassline,1,wanted
+bass-home-new,new on yousician,TRUE,song,hunter hayes,basic bassline,3,wanted
+bass-home-new,new on yousician,TRUE,song,hunter hayes,main bassline,5,wanted
+bass-home-new,new on yousician,TRUE,song,hunter hayes,full bassline,8,wanted
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,basic bassline,2,the ballad of curtis loew
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,main bassline,5,the ballad of curtis loew
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,full bassline,7,the ballad of curtis loew
+bass-home-new,new on yousician,TRUE,song,gloria gaynor,basic bassline,2,i will survive
+bass-home-new,new on yousician,TRUE,song,gloria gaynor,main bassline,5,i will survive
+bass-home-new,new on yousician,TRUE,song,gloria gaynor,full bassline,8,i will survive
+bass-home-new,new on yousician,TRUE,song,fleetwood mac,basic bassline,2,everywhere
+bass-home-new,new on yousician,TRUE,song,fleetwood mac,basic bassline,3,everywhere
+bass-home-new,new on yousician,TRUE,song,fleetwood mac,full bassline,5,everywhere
+bass-home-new,new on yousician,TRUE,song,mountain,basic bassline,2,mississippi queen
+bass-home-new,new on yousician,TRUE,song,mountain,main bassline,5,mississippi queen
+bass-home-new,new on yousician,TRUE,song,mountain,workout,7,mississippi queen
+bass-home-new,new on yousician,TRUE,song,dave matthews band,basic bassline,2,crash into me
+bass-home-new,new on yousician,TRUE,song,dave matthews band,main bassline,4,crash into me
+bass-home-new,new on yousician,TRUE,song,dave matthews band,full bassline,8,crash into me
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,basic bassline,2,show (hey oh)
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,main bassline,4,show (hey oh)
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,full bassline,7,show (hey oh)
+bass-home-new,new on yousician,TRUE,song,franz ferdinand,workout (short),0,take me out
+bass-home-new,new on yousician,TRUE,song,franz ferdinand,basic bassline,2,take me out
+bass-home-new,new on yousician,TRUE,song,franz ferdinand,full bassline,5,take me out
+bass-home-new,new on yousician,TRUE,song,3 doors down,basic bassline,2,kryptonite
+bass-home-new,new on yousician,TRUE,song,3 doors down,full bassline,6,kryptonite
+bass-home-new,new on yousician,TRUE,song,keith whitley,basic bassline,2,don't close your eyes
+bass-home-new,new on yousician,TRUE,song,keith whitley,full bassline,4,don't close your eyes
+bass-home-new,new on yousician,TRUE,song,mumford & sons,basic bassline,2,little lion man
+bass-home-new,new on yousician,TRUE,song,mumford & sons,main bassline,4,little lion man
+bass-home-new,new on yousician,TRUE,song,mumford & sons,full bassline,7,little lion man
+bass-home-new,new on yousician,TRUE,song,coldplay,basic bassline,2,yellow ledbetter
+bass-home-new,new on yousician,TRUE,song,coldplay,main bassline,3,yellow ledbetter
+bass-home-new,new on yousician,TRUE,song,coldplay,full bassline,4,yellow ledbetter
+bass-home-new,new on yousician,TRUE,song,coldplay,basic bassline,1,the scientist
+bass-home-new,new on yousician,TRUE,song,coldplay,basic bassline,2,the scientist
+bass-home-new,new on yousician,TRUE,song,coldplay,full bassline,4,the scientist
+bass-home-new,new on yousician,TRUE,song,coldplay,melody,6,the scientist
+bass-home-new,new on yousician,TRUE,song,van morrison,basic bassline,2,brown eyed girl
+bass-home-new,new on yousician,TRUE,song,van morrison,full bassline,6,brown eyed girl
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,basic bassline,2,under the bridge
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,main bassline,5,under the bridge
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,full bassline,8,under the bridge
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,basic bassline,2,simple man (in Am)
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,main bassline,4,simple man (in Am)
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,full bassline,8,simple man (in Am)
+bass-home-new,new on yousician,TRUE,song,bryan adams,basic bassline,1,summer of '69
+bass-home-new,new on yousician,TRUE,song,bryan adams,basic bassline,3,summer of '69
+bass-home-new,new on yousician,TRUE,song,bryan adams,full bassline,5,summer of '69
+bass-home-new,new on yousician,TRUE,song,bryan adams,full bassline (drop D),9,summer of '69
+bass-home-new,new on yousician,TRUE,song,calum scott,basic bassline,2,dancing on my own
+bass-home-new,new on yousician,TRUE,song,calum scott,full bassline,4,dancing on my own
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,basic bassline,2,can't stop
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,main bassline,5,can't stop
+bass-home-new,new on yousician,TRUE,song,red hot chili peppers,full bassline,8,can't stop
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,basic bassline,2,sweet home alabama
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,main bassline,5,sweet home alabama
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,workout,6,sweet home alabama
+bass-home-new,new on yousician,TRUE,song,lynyrd skynyrd,full bassline,7,sweet home alabama
+bass-home-new,new on yousician,TRUE,song,don mclean,basic bassline (short),1,american pie
+bass-home-new,new on yousician,TRUE,song,don mclean,basic bassline,3,american pie
+bass-home-new,new on yousician,TRUE,song,don mclean,full bassline,8,american pie
+bass-home-new,new on yousician,TRUE,song,extreme,basic bassline,2,more than words (in G)
+bass-home-new,new on yousician,TRUE,song,extreme,full bassline,5,more than words (in G)
+bass-home-new,new on yousician,TRUE,song,peter frampton,basic bassline,2,show me the way
+bass-home-new,new on yousician,TRUE,song,peter frampton,full bassline,7,show me the way
+bass-home-new,new on yousician,TRUE,song,the cure,basic bassline,2,just like heaven
+bass-home-new,new on yousician,TRUE,song,the cure,full bassline,4,just like heaven
+bass-home-new,new on yousician,TRUE,song,adele,basic bassline,3,when we were young
+bass-home-new,new on yousician,TRUE,song,adele,main bassline (short),4,when we were young
+bass-home-new,new on yousician,TRUE,song,adele,full bassline,8,when we were young
+bass-home-new,new on yousician,TRUE,song,coldplay,basic bassline,2,clocks
+bass-home-new,new on yousician,TRUE,song,coldplay,full bassline,4,clocks
+bass-home-new,new on yousician,TRUE,song,imagine dragons,basic bassline,2,it's time
+bass-home-new,new on yousician,TRUE,song,imagine dragons,full bassline,5,it's time
+bass-home-new,new on yousician,TRUE,song,bill withers,basic bassline,1,ain't no sunshine
+bass-home-new,new on yousician,TRUE,song,bill withers,basic bassline,3,ain't no sunshine
+bass-home-new,new on yousician,TRUE,song,bill withers,full bassline,5,ain't no sunshine
+bass-home-new,new on yousician,TRUE,song,r.e.m.,basic bassline,2,losing my religion
+bass-home-new,new on yousician,TRUE,song,r.e.m.,full bassline,5,losing my religion
+bass-home-new,new on yousician,TRUE,song,bill withers,basic bassline,2,lean on me
+bass-home-new,new on yousician,TRUE,song,bill withers,main bassline,5,lean on me
+bass-home-new,new on yousician,TRUE,song,bill withers,full bassline,7,lean on me
+bass-home-new,new on yousician,TRUE,song,whitney houston,basic bassline,3,i wanna dance with somebody (who loves me)
+bass-home-new,new on yousician,TRUE,song,whitney houston,full bassline,7,i wanna dance with somebody (who loves me)
+bass-home-new,new on yousician,TRUE,song,florence + the machine,basic bassline,2,ship to wreck
+bass-home-new,new on yousician,TRUE,song,florence + the machine,main bassline,5,ship to wreck
+bass-home-new,new on yousician,TRUE,song,florence + the machine,full bassline,7,ship to wreck
+bass-home-new,new on yousician,TRUE,song,pearl jam,basic bassline (short),2,black
+bass-home-new,new on yousician,TRUE,song,pearl jam,main bassline,5,black
+bass-home-new,new on yousician,TRUE,song,pearl jam,full bassline,8,black
+bass-home-new,new on yousician,TRUE,song,own city,basic bassline,2,fireflies
+bass-home-new,new on yousician,TRUE,song,own city,full bassline,6,fireflies
 bass-learn-missions,play strings,FALSE,video,-,-,0,intro & tuning
 bass-learn-missions,play strings,FALSE,video,-,-,0,video: plucking strings
 bass-learn-missions,play strings,FALSE,song,the yousicians,exercise,0,bass gangsta walkthrough
@@ -6032,8 +5916,6 @@ bass-challenges,swingin',FALSE,song,traditional,basic bassline,1,st louis blues
 bass-challenges,swingin',FALSE,song,traditional,basic bassline,3,I ain't got nobody
 bass-challenges,swingin',FALSE,song,traditional,main bassline,5,st louis blues
 bass-challenges,swingin',FALSE,song,traditional,full bassline,7,I ain't got nobody
-singing-home-new,new on yousician,TRUE,song,red hot chili peppers,lead vocals,4,scar tissue
-singing-home-new-more,new on yousician,TRUE,song,stone temple pilots,lead vocals,6,creep
 singing-learn-missions,let's get started,FALSE,video,-,-,0,introduction
 singing-learn-missions,let's get started,FALSE,song,the yousicians,tutorial,0,singing with yousician
 singing-learn-missions,let's get started,FALSE,song,the yousicians,lead vocals,0,island nights (call & response)
