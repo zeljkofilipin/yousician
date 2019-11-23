@@ -1,4 +1,4 @@
-voice
+singing
 
 - home
   - continue learning
