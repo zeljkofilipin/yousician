@@ -29,34 +29,29 @@ LibreOffice Calc...).
 
 Not all songs are listed (yet).
 
-| Location               | Review     | Complete % | Comment                     |
-| ---------------------- | ---------- | ---------- | --------------------------- |
-| challenges             | 2019-11-23 | 100        |                             |
-| guitar-home-new        | 2019-02-07 |            | update                      |
-| guitar-home-new-more   | 2019-02-07 |            | 1 song                      |
-| guitar-learn-missions  | 2019-03-18 |  36        | levels 0-1, 7-8 (4/11)      |
-| guitar-learn-workouts  | 2019-11-23 | 100        |                             |
-| guitar-songs-popular   | 2019-02-07 |            | 1 song                      |
-| guitar-challenges      | 2019-11-23 | 100        |                             |
-| piano-home-new         | 2019-02-07 |            | update                      |
-| piano-home-new-more    | 2019-02-07 |            | 1 song                      |
-| piano-learn-missions   | 2019-02-07 |  44        | levels 0-6 (7/16)           |
-| piano-learn-workouts   | 2019-02-07 |            | 1 song                      |
-| piano-songs-popular    | 2019-02-07 |            | 1 song                      |
-| piano-challenges       | 2019-11-23 | 100        |                             |
-| ukulele-home-new       | 2019-02-21 | 100        |                             |
-| ukulele-home-new-more  | 2019-02-21 | 100        |                             |
-| ukulele-learn-missions | 2019-02-07 | 100        |                             |
-| ukulele-learn-workouts | 2019-02-07 | 100        |                             |
-| ukulele-songs-popular  | 2019-02-07 | 100        |                             |
-| ukulele-challenges     | 2019-11-23 | 100        |                             |
-| bass-home-new          | 2019-11-14 | 100        |                             |
-| bass-home-new-more     | 2019-11-23 | 100        |                             |
-| bass-learn-missions    | 2019-02-20 | 100        |                             |
-| bass-songs-popular     | 2019-02-07 |            | 1 song                      |
-| bass-challenges        | 2019-11-23 | 100        |                             |
-| singing-home-new       | 2019-02-07 |            | 1 song                      |
-| singing-home-new-more  | 2019-02-07 |            | 1 song                      |
-| singing-learn-missions | 2019-02-16 | 100        |                             |
-| singing-learn-workouts | 2019-02-07 |            | 1 song                      |
-| singing-songs-popular  | 2019-02-07 |            | 1 song                      |
+| Location                 | Review     | Complete % | Comment                     |
+| ------------------------ | ---------- | ---------- | --------------------------- |
+| challenges               | 2019-11-23 | 100        |                             |
+| guitar-home-new          |            |            |                             |
+| guitar-home-collections  |            |            |                             |
+| guitar-learn-missions    | 2019-03-18 |  82        | levels 0-8 (9/11)           |
+| guitar-learn-workouts    | 2019-11-23 | 100        | ?                           |
+| guitar-challenges        | 2019-11-23 | 100        |                             |
+| piano-home-new           |            |            |                             |
+| piano-home-collections   |            |            |                             |
+| piano-learn-missions     | 2019-02-07 |  44        | levels 0-6 (7/16)           |
+| piano-learn-workouts     |            |            |                             |
+| piano-challenges         | 2019-11-23 | 100        |                             |
+| ukulele-home-new         | 2019-02-21 | ?          | ?                           |
+| ukulele-home-collections | 2019-11-24 | ?          | ?                           |
+| ukulele-learn-missions   | 2019-02-07 | 100        |                             |
+| ukulele-learn-workouts   | 2019-02-07 | 100        |                             |
+| ukulele-challenges       | 2019-11-23 | 100        |                             |
+| bass-home-new            | 2019-11-23 | ?          | ?                           |
+| bass-home-collections    |            |            |                             |
+| bass-learn-missions      | 2019-02-20 | 100        |                             |
+| bass-challenges          | 2019-11-23 | 100        |                             |
+| singing-home-new         |            |            |                             |
+| singing-home-collections |            |            |                             |
+| singing-learn-missions   | 2019-02-16 | ?          | levels 0-5 (6/6)            |
+| singing-learn-workouts   |            |            |                             |
