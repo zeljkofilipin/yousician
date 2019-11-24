@@ -35,7 +35,7 @@ Not all songs are listed (yet).
 | guitar-home-new          |            |            |                             |
 | guitar-home-collections  |            |            |                             |
 | guitar-learn-missions    | 2019-03-18 |  82        | levels 0-8 (9/11)           |
-| guitar-learn-workouts    | 2019-11-23 | 100        | ?                           |
+| guitar-learn-workouts    | 2019-11-24 | 100        |                             |
 | guitar-challenges        | 2019-11-23 | 100        |                             |
 | piano-home-new           |            |            |                             |
 | piano-home-collections   |            |            |                             |
