@@ -425,32 +425,32 @@ guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,10,chord trainer: triads 
 guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,10,chord trainer: triads - mid minor
 guitar-learn-workouts,learn standard notation,FALSE,video,-,-,2,video: intro to standard notation
 guitar-learn-workouts,learn standard notation,FALSE,video,-,-,2,video: read notes on the G-string
-guitar-learn-workouts,learn standard notation,FALSE,?,,,2,reading notes: G string
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,2,reading notes: G string
 guitar-learn-workouts,learn standard notation,FALSE,video,-,-,2,video: read notes on the B-string
-guitar-learn-workouts,learn standard notation,FALSE,?,,,2,reading notes: B string
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,2,reading notes: B string
 guitar-learn-workouts,learn standard notation,FALSE,video,-,-,2,video: read notes on the little E-string
-guitar-learn-workouts,learn standard notation,FALSE,?,,,2,reading notes: E string (little)
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,2,reading notes: E string (little)
 guitar-learn-workouts,learn standard notation,FALSE,video,-,-,2,video: reading basic rhythms
-guitar-learn-workouts,learn standard notation,FALSE,?,?,?,2,"reading rhythm: whole, half, quarter"
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,2,"reading rhythm: whole, half, quarter"
 guitar-learn-workouts,learn standard notation,FALSE,video,-,-,3,video: read notes on the D-string
-guitar-learn-workouts,learn standard notation,FALSE,?,?,?,3,reading notes: D string
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,3,reading notes: D string
 guitar-learn-workouts,learn standard notation,FALSE,video,-,-,3,video: read notes on the A-string
-guitar-learn-workouts,learn standard notation,FALSE,?,?,?,3,reading notes: A string
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,3,reading notes: A string
 guitar-learn-workouts,learn standard notation,FALSE,video,-,-,3,video: read notes on the big E-string
-guitar-learn-workouts,learn standard notation,FALSE,?,?,?,3,reading notes: E string (big)
-guitar-learn-workouts,learn standard notation,FALSE,?,?,?,3,reading notes: first position scale
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,3,reading notes: E string (big)
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,3,reading notes: first position scale
 guitar-learn-workouts,learn standard notation,FALSE,video,-,-,3,video: reading sharps & flats
-guitar-learn-workouts,learn standard notation,FALSE,?,?,?,3,reading notes: sharps (G major scale)
-guitar-learn-workouts,learn standard notation,FALSE,?,?,?,3,reading notes: flats (F major scale)
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,3,reading notes: sharps (G major scale)
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,3,reading notes: flats (F major scale)
 guitar-learn-workouts,learn standard notation,FALSE,video,-,-,3,video: basic time signatures
-guitar-learn-workouts,learn standard notation,FALSE,?,?,?,3,reading rhythm: basic time signatures
-guitar-learn-workouts,learn standard notation,FALSE,?,?,?,4,reading notes: B & E strings
-guitar-learn-workouts,learn standard notation,FALSE,?,?,?,4,"reading notes: G, B, E strings"
-guitar-learn-workouts,learn standard notation,FALSE,?,?,?,4,reading notes: A & D strings
-guitar-learn-workouts,learn standard notation,FALSE,?,?,?,4,reading notes: B & E strings
-guitar-learn-workouts,learn standard notation,FALSE,?,?,?,4,"reading notes: G, B, E strings"
-guitar-learn-workouts,learn standard notation,FALSE,?,?,?,4,reading notes: A & D strings
-guitar-learn-workouts,learn standard notation,FALSE,?,?,?,4,"reading notes: E, A, D strings"
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,3,reading rhythm: basic time signatures
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,4,reading notes: B & E strings
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,4,"reading notes: G, B, E strings"
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,4,reading notes: A & D strings
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,4,reading notes: B & E strings
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,4,"reading notes: G, B, E strings"
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,4,reading notes: A & D strings
+guitar-learn-workouts,learn standard notation,FALSE,song,the yousicians,workout,4,"reading notes: E, A, D strings"
 guitar-learn-workouts,ear training,FALSE,puzzle,-,-,1,ear puzzles: going up
 guitar-learn-workouts,ear training,FALSE,puzzle,-,-,1,ear puzzles: up & down
 guitar-learn-workouts,ear training,FALSE,puzzle,-,-,1,ear puzzles: up-down-same
