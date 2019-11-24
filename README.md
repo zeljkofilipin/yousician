@@ -47,7 +47,7 @@ Not all songs are listed (yet).
 | ukulele-learn-missions   | 2019-02-07 | 100        |                             |
 | ukulele-learn-workouts   | 2019-02-07 | 100        |                             |
 | ukulele-challenges       | 2019-11-23 | 100        |                             |
-| bass-home-new            | 2019-11-23 | ?          | ?                           |
+| bass-home-new            | 2019-11-24 | 100        |                             |
 | bass-home-collections    |            |            |                             |
 | bass-learn-missions      | 2019-02-20 | 100        |                             |
 | bass-challenges          | 2019-11-23 | 100        |                             |
