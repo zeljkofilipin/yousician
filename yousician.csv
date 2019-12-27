@@ -830,6 +830,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,classic rock,FALSE,song,the yousicians,basic riff,2,fast machine
+guitar-challenges,classic rock,FALSE,song,the yousicians,main riff,6,fast machine
+guitar-challenges,classic rock,FALSE,song,the yousicians,full rhythm,8,prostetic hips don't lie
+guitar-challenges,classic rock,FALSE,song,the yousicians,melody & solo,12,prostetic hips don't lie
 guitar-challenges,joy to the world,FALSE,song,traditional,basic riff,2,joy to the world
 guitar-challenges,joy to the world,FALSE,song,traditional,melody,3,entre le boeuf et l'ane gris
 guitar-challenges,joy to the world,FALSE,song,traditional,cowboy chords,4,joy to the world
@@ -2066,6 +2070,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,classic rock,FALSE,song,the yousicians,right hand,2,fast machine
+piano-challenges,classic rock,FALSE,song,the yousicians,right hand,2,prostetic hips don't lie
+piano-challenges,classic rock,FALSE,song,the yousicians,chords,6,fast machine
+piano-challenges,classic rock,FALSE,song,the yousicians,advanced,9,prostetic hips don't lie
 piano-challenges,joy to the world,FALSE,song,traditional,bassline,2,joy to the world
 piano-challenges,joy to the world,FALSE,song,traditional,melody,4,entre le boeuf et l'ane gris
 piano-challenges,joy to the world,FALSE,song,traditional,melody,5,joy to the world
@@ -3583,6 +3591,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,classic rock,FALSE,song,the yousicians,basic melody,2,prostetic hips don't lie
+ukulele-challenges,classic rock,FALSE,song,the yousicians,main melody,4,fast machine
+ukulele-challenges,classic rock,FALSE,song,the yousicians,chords,6,fast machine
+ukulele-challenges,classic rock,FALSE,song,the yousicians,rhythm & lead,7,prostetic hips don't lie
 ukulele-challenges,joy to the world,FALSE,song,traditional,melody,3,joy to the world
 ukulele-challenges,joy to the world,FALSE,song,traditional,chords,4,joy to the world
 ukulele-challenges,joy to the world,FALSE,song,traditional,melody,5,entre le boeuf et l'ane gris
@@ -5122,6 +5134,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,classic rock,FALSE,song,the yousicians,main bassline,4,fast machine
+bass-challenges,classic rock,FALSE,song,the yousicians,main bassline,4,prostetic hips don't lie
+bass-challenges,classic rock,FALSE,song,the yousicians,full bassline,7,fast machine
+bass-challenges,classic rock,FALSE,song,the yousicians,full bassline,9,prostetic hips don't lie
 bass-challenges,joy to the world,FALSE,song,traditional,basic bassline,2,joy to the world
 bass-challenges,joy to the world,FALSE,song,traditional,basic bassline,2,entre le boeuf et l'ane gris
 bass-challenges,joy to the world,FALSE,song,traditional,full bassline,5,entre le boeuf et l'ane gris
