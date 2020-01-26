@@ -1,3 +1,5 @@
+App.open("Yousician Launcher.app")
+
 # settings - guitar
 click("settings.png")
 click("guitar.png")
