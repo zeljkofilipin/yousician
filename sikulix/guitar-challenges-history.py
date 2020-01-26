@@ -1,4 +1,5 @@
 App.open("Yousician Launcher.app")
+wait(30)
 App.focus("Yousician")
 click("settings.png")
 wait(1)
@@ -8,6 +9,10 @@ click("challenges.png")
 wait(1)
 click("history.png")
 wait(1)
-moveTo(Location(700, 400))
+click(Location(700, 400))
+wait(1)
+print(Region(100,100,1266,100).text())
+"""
 wheel(WHEEL_UP, 100)
-print(Region(0,0,1366,768).text())
+App.focus("Firefox")
+"""
