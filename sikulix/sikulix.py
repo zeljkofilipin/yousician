@@ -1,15 +1,13 @@
 App.open("Yousician Launcher.app")
-
-# settings - guitar
+App.focus("Yousician")
 click("settings.png")
+wait(1)
 click("guitar.png")
-
-# challenges - history
+wait(1)
 click("challenges.png")
+wait(1)
 click("history.png")
-
-# scroll down
-click(Location(700, 400))
+wait(1)
+moveTo(Location(700, 400))
 wheel(WHEEL_UP, 100)
-
-Region(0,0,1366,768).text()
+print(Region(0,0,1366,768).text())
