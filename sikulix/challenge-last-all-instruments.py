@@ -1,12 +1,12 @@
 App.focus("Yousician")
 for instrument in ["guitar", "piano", "ukulele", "bass"]:
-    instrument_png = instrument + ".png"
-    wait("settings.png")
-    click("settings.png")
+    instrument_png = "png/" + instrument + ".png"
+    wait("png/settings.png")
+    click("png/settings.png")
     wait(instrument_png)
     click(instrument_png)
-    wait("challenges.png")
-    click("challenges.png")
+    wait("png/challenges.png")
+    click("png/challenges.png")
     print(Region(100,100,1266,100).text()) # challenge title
     print(Region(457,231,647,516).text()) # songs
     # levels
