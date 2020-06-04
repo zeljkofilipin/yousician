@@ -830,6 +830,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,follow me 2,FALSE,song,reemes,basic riff,1,follow me
+guitar-challenges,follow me 2,FALSE,song,the yousicians,riff,4,apple tree
+guitar-challenges,follow me 2,FALSE,song,the yousicians,melody,5,apple tree
+guitar-challenges,follow me 2,FALSE,song,reemes,fancy chords,6,follow me
 guitar-challenges,swingin' 2,FALSE,song,traditional,basic riff,2,i ain't got nobody
 guitar-challenges,swingin' 2,FALSE,song,traditional,main melody,5,st louis blues
 guitar-challenges,swingin' 2,FALSE,song,traditional,movable chords,7,i ain't got nobody
@@ -2158,6 +2162,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,follow me 2,FALSE,song,the yousicians,bass,1,apple tree
+piano-challenges,follow me 2,FALSE,song,reemes,melody,3,follow me
+piano-challenges,follow me 2,FALSE,song,the yousicians,accompaniment,5,apple tree
+piano-challenges,follow me 2,FALSE,song,reemes,accompaniment,8,follow me
 piano-challenges,swingin' 2,FALSE,song,traditional,melody,1,i ain't got nobody
 piano-challenges,swingin' 2,FALSE,song,traditional,melody,4,st louis blues
 piano-challenges,swingin' 2,FALSE,song,traditional,melody,6,i ain't got nobody
@@ -3767,6 +3775,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,follow me 2,FALSE,song,the yousicians,chords,3,apple tree
+ukulele-challenges,follow me 2,FALSE,song,the yousicians,melody,5,apple tree
+ukulele-challenges,follow me 2,FALSE,song,reemes,chords,6,follow me
+ukulele-challenges,follow me 2,FALSE,song,reemes,melody,5,follow me
 ukulele-challenges,swingin' 2,FALSE,song,traditional,melody,2,i ain't got nobody
 ukulele-challenges,swingin' 2,FALSE,song,traditional,melody,4,st louis blues
 ukulele-challenges,swingin' 2,FALSE,song,traditional,chords,6,i ain't got nobody
@@ -5398,6 +5410,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,follow me 2,FALSE,song,the yousicians,basic bassline,2,apple tree
+bass-challenges,follow me 2,FALSE,song,reemes,basic bassline,2,follow me
+bass-challenges,follow me 2,FALSE,song,reemes,full bassline,4,follow me
+bass-challenges,follow me 2,FALSE,song,the yousicians,full bassline,5,apple tree
 bass-challenges,swingin' 2,FALSE,song,traditional,basic bassline,2,st louis blues
 bass-challenges,swingin' 2,FALSE,song,traditional,basic bassline,3,i ain't got nobody
 bass-challenges,swingin' 2,FALSE,song,traditional,full bassline,6,st louis blues
