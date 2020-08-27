@@ -830,6 +830,22 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,rough it up 2,FALSE,song,the yousicians,basic riff,3,wreck race
+guitar-challenges,rough it up 2,FALSE,song,the yousicians,melody,5,fuzzworm
+guitar-challenges,rough it up 2,FALSE,song,the yousicians,fancy chords,6,fuzzworm
+guitar-challenges,rough it up 2,FALSE,song,the yousicians,full riff,9,wreck race
+guitar-challenges,the big bad big band boogie 2,FALSE,song,the yousicians,basic riff,1,unclean boogie
+guitar-challenges,the big bad big band boogie 2,FALSE,song,the yousicians,basic rhythm,5,runaway train
+guitar-challenges,the big bad big band boogie 2,FALSE,song,the yousicians,full rhythm,9,unclean boogie
+guitar-challenges,the big bad big band boogie 2,FALSE,song,the yousicians,rhythm & lead,12,runaway train
+guitar-challenges,slow jamz 2,FALSE,song,the yousicians,basic riff,2,music on the brain
+guitar-challenges,slow jamz 2,FALSE,song,the yousicians,melody,5,the yousician way
+guitar-challenges,slow jamz 2,FALSE,song,the yousicians,rhythm,7,music on the brain
+guitar-challenges,slow jamz 2,FALSE,song,the yousicians,rhythm,8,the yousician way
+guitar-challenges,one for green,FALSE,song,the yousicians,main melody,4,diomedea
+guitar-challenges,one for green,FALSE,song,the yousicians,riff,5,the green magic man
+guitar-challenges,one for green,FALSE,song,the yousicians,fingerpicking,7,diomedea
+guitar-challenges,one for green,FALSE,song,the yousicians,lead,9,the green magic man
 guitar-challenges,restless boots 2,FALSE,song,the yousicians,basic riff,2,coming home to you
 guitar-challenges,restless boots 2,FALSE,song,the yousicians,cowboy chords,5,no turning back
 guitar-challenges,restless boots 2,FALSE,song,the yousicians,fancy chords,6,coming home to you
@@ -2194,6 +2210,22 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,rough it up 2,FALSE,song,the yousicians,bass,2,fuzzworm
+piano-challenges,rough it up 2,FALSE,song,the yousicians,melody,3,wreck race
+piano-challenges,rough it up 2,FALSE,song,the yousicians,melody,6,fuzzworm
+piano-challenges,rough it up 2,FALSE,song,the yousicians,solo piano,9,wreck race
+piano-challenges,the big bad big band boogie 2,FALSE,song,the yousicians,melody,1,runaway train
+piano-challenges,the big bad big band boogie 2,FALSE,song,the yousicians,melody,4,unclean boogie
+piano-challenges,the big bad big band boogie 2,FALSE,song,the yousicians,accompaniment,7,unclean boogie
+piano-challenges,the big bad big band boogie 2,FALSE,song,the yousicians,solo piano,10,runaway train
+piano-challenges,slow jamz 2,FALSE,song,the yousicians,melody,1,the yousician way
+piano-challenges,slow jamz 2,FALSE,song,the yousicians,accompaniment,3,music on the brain
+piano-challenges,slow jamz 2,FALSE,song,the yousicians,chords,6,music on the brain
+piano-challenges,slow jamz 2,FALSE,song,the yousicians,accompaniment,7,the yousician way
+piano-challenges,one for green,FALSE,song,the yousicians,bass,1,diomedea
+piano-challenges,one for green,FALSE,song,the yousicians,melody,4,the green magic man
+piano-challenges,one for green,FALSE,song,the yousicians,accompaniment,6,diomedea
+piano-challenges,one for green,FALSE,song,the yousicians,solo piano,9,the green magic man
 piano-challenges,restless boots 2,FALSE,song,the yousicians,melody,2,coming home to you
 piano-challenges,restless boots 2,FALSE,song,the yousicians,bass,3,no turning back
 piano-challenges,restless boots 2,FALSE,song,the yousicians,melody,4,coming home to you
@@ -3839,6 +3871,22 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,rough it up 2,FALSE,song,the yousicians,basic melody,2,wreck race
+ukulele-challenges,rough it up 2,FALSE,song,the yousicians,melody,4,fuzzworm
+ukulele-challenges,rough it up 2,FALSE,song,the yousicians,chords,5,fuzzworm
+ukulele-challenges,rough it up 2,FALSE,song,the yousicians,rhythm,5,wreck race
+ukulele-challenges,the big bad big band boogie 2,FALSE,song,the yousicians,basic melody,2,unclean boogie
+ukulele-challenges,the big bad big band boogie 2,FALSE,song,the yousicians,main rhythm,4,runaway train
+ukulele-challenges,the big bad big band boogie 2,FALSE,song,the yousicians,full rhythm,6,runaway train
+ukulele-challenges,the big bad big band boogie 2,FALSE,song,the yousicians,rhythm,7,unclean boogie
+ukulele-challenges,slow jamz 2,FALSE,song,the yousicians,basic melody,1,music on the brain
+ukulele-challenges,slow jamz 2,FALSE,song,the yousicians,basic rhythm,2,music on the brain
+ukulele-challenges,slow jamz 2,FALSE,song,the yousicians,chords,5,the yousician way
+ukulele-challenges,slow jamz 2,FALSE,song,the yousicians,rhythm,7,the yousician way
+ukulele-challenges,one for green,FALSE,song,the yousicians,melody,4,the green magic man
+ukulele-challenges,one for green,FALSE,song,the yousicians,melody,4,diomedea
+ukulele-challenges,one for green,FALSE,song,the yousicians,chords,5,the green magic man
+ukulele-challenges,one for green,FALSE,song,the yousicians,fingerpicking,7,diomedea
 ukulele-challenges,restless boots 2,FALSE,song,the yousicians,melody,3,no turning back
 ukulele-challenges,restless boots 2,FALSE,song,the yousicians,melody,4,coming home to you
 ukulele-challenges,restless boots 2,FALSE,song,the yousicians,chords,5,no turning back
@@ -5506,6 +5554,22 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,rough it up 2,FALSE,song,the yousicians,basic bassline,2,fuzzworm
+bass-challenges,rough it up 2,FALSE,song,the yousicians,basic bassline,3,wreck race
+bass-challenges,rough it up 2,FALSE,song,the yousicians,full bassline,5,fuzzworm
+bass-challenges,rough it up 2,FALSE,song,the yousicians,full bassline,8,wreck race
+bass-challenges,the big bad big band boogie 2,FALSE,song,the yousicians,basic bassline,2,runaway train
+bass-challenges,the big bad big band boogie 2,FALSE,song,the yousicians,basic bassline,2,unclean boogie
+bass-challenges,the big bad big band boogie 2,FALSE,song,the yousicians,full bassline,6,runaway train
+bass-challenges,the big bad big band boogie 2,FALSE,song,the yousicians,full bassline,6,unclean boogie
+bass-challenges,slow jamz 2,FALSE,song,the yousicians,basic bassline,3,the yousician way
+bass-challenges,slow jamz 2,FALSE,song,the yousicians,basic bassline,3,music on the brain
+bass-challenges,slow jamz 2,FALSE,song,the yousicians,full bassline,6,music on the brain
+bass-challenges,slow jamz 2,FALSE,song,the yousicians,main bassline,6,the yousician way
+bass-challenges,one for green,FALSE,song,the yousicians,basic bassline,2,diomedea
+bass-challenges,one for green,FALSE,song,the yousicians,basic bassline,2,the green magic man
+bass-challenges,one for green,FALSE,song,the yousicians,full bassline,5,diomedea
+bass-challenges,one for green,FALSE,song,the yousicians,full bassline,6,the green magic man
 bass-challenges,restless boots 2,FALSE,song,the yousicians,basic bassline,3,coming home to you
 bass-challenges,restless boots 2,FALSE,song,the yousicians,basic bassline,3,no turning back
 bass-challenges,restless boots 2,FALSE,song,the yousicians,full bassline,5,coming home to you
