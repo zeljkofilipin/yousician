@@ -239,8 +239,12 @@ guitar-learn-missions-knowledge,ear training: major & minor,FALSE,finder,-,-,5,n
 guitar-learn-missions-knowledge,ear training: major & minor,FALSE,finder,-,-,5,note-finder: minor scale
 guitar-learn-missions-rhythm,skill test (rhythm level 5),FALSE,song,the yousicians,chords & riff,5,close my eyes
 guitar-learn-missions-rhythm,skill test (rhythm level 5),FALSE,trainer,-,-,5,chord trainer: cowboy & power
-guitar-learn-missions-rhythm,broken chords,FALSE,video,-,-,5,video: chords + notes
-guitar-learn-missions-rhythm,broken chords,FALSE,trainer,-,-,5,trainer: chords + notes
+guitar-learn-missions-rhythm,broken chords,FALSE,video,-,-,5,expressive strumming
+guitar-learn-missions-rhythm,broken chords,FALSE,trainer,-,-,5,trainer: expressive strumming
+guitar-learn-missions-rhythm,broken chords,FALSE,song,traditional,cowboy chords,,black eyes
+guitar-learn-missions-rhythm,broken chords,FALSE,song,traditional,cowboy chords,,scarborough fair (electro)
+guitar-learn-missions-rhythm,broken chords,FALSE,video,-,-,,chords + notes
+guitar-learn-missions-rhythm,broken chords,FALSE,trainer,-,-,,trainer: chords + notes
 guitar-learn-missions-rhythm,broken chords,FALSE,song,the yousicians,chord riff,5,hammer song
 guitar-learn-missions-rhythm,broken chords,FALSE,song,the yousicians,cowboy chord-riff,5,livewire
 guitar-learn-missions-rhythm,broken chords,FALSE,video,-,-,5,video: broken chords
@@ -261,7 +265,7 @@ guitar-learn-missions-rhythm,strumming challenge,FALSE,song,the yousicians,full 
 guitar-learn-missions-rhythm,strumming challenge,FALSE,song,the yousicians,full cowboy chords,5,bard's rock
 guitar-learn-missions-rhythm,strumming challenge,FALSE,video,-,-,5,video: using a capo
 guitar-learn-missions-rhythm,strumming challenge,FALSE,trainer,-,-,5,trainer: using a capo
-guitar-learn-missions-rhythm,strumming challenge,FALSE,song,?,capo cowboy chords,5,"rest now, human"
+guitar-learn-missions-rhythm,strumming challenge,FALSE,song,the yousicians,capo cowboy chords,5,"rest now, human"
 guitar-learn-missions-rhythm,strumming challenge,FALSE,song,traditional,cowboy chords,5,la bamba (slow)
 guitar-learn-missions-lead,skill test (lead level 6),FALSE,song,traditional,main melody,6,when johnny comes marching home
 guitar-learn-missions-lead,slides,FALSE,video,-,-,6,video: slides
@@ -285,6 +289,7 @@ guitar-learn-missions-lead,fretting skills,FALSE,song,the yousicians,melody,6,su
 guitar-learn-missions-knowledge,skill test (knowledge level 6),FALSE,quiz,-,-,6,quiz: knowledge review
 guitar-learn-missions-rhythm,skill test (rhythm level 6),FALSE,song,the yousicians,cowboy chord riff,6,rusty ground
 guitar-learn-missions-rhythm,skill test (rhythm level 6),FALSE,trainer,-,-,6,chord trainer: cowboy & power
+guitar-learn-missions-rhythm,fancy chords,FALSE,video,-,-,6,fancy chords
 guitar-learn-missions-rhythm,fancy chords,FALSE,trainer,-,-,6,chord trainer: G-family
 guitar-learn-missions-rhythm,fancy chords,FALSE,song,the yousicians,fancy chords,6,crowded space
 guitar-learn-missions-rhythm,fancy chords,FALSE,song,the yousicians,fancy chords,6,freewheelin'
@@ -351,11 +356,11 @@ guitar-learn-missions-rhythm,moveable chords,FALSE,trainer,-,-,7,chord trainer: 
 guitar-learn-missions-rhythm,moveable chords,FALSE,song,the yousicians,moveable chord riff,7,rusty ground
 guitar-learn-missions-rhythm,moveable chords,FALSE,video,-,-,7,video: chicks & stops
 guitar-learn-missions-rhythm,moveable chords,FALSE,trainer,-,-,7,trainer: chicks & stops
-guitar-learn-missions-rhythm,moveable chords,FALSE,song,?,moveable chords,7,very far away
-guitar-learn-missions-rhythm,moveable chords,FALSE,song,?,moveable chords,7,skateheart
+guitar-learn-missions-rhythm,moveable chords,FALSE,song,the yousicians,moveable chords,7,very far away
+guitar-learn-missions-rhythm,moveable chords,FALSE,song,the yousicians,moveable chords,7,skateheart
 guitar-learn-missions-rhythm,moveable chords,FALSE,trainer,-,-,7,chord trainer: moveable 7ths
-guitar-learn-missions-rhythm,moveable chords,FALSE,song,?,moveable chords,7,frankie & johnny
-guitar-learn-missions-rhythm,moveable chords,FALSE,song,?,moveable chords,7,winter jazz
+guitar-learn-missions-rhythm,moveable chords,FALSE,song,traditional,moveable chords,7,frankie & johnny
+guitar-learn-missions-rhythm,moveable chords,FALSE,song,the yousicians,moveable chords,7,winter jazz
 guitar-learn-missions-lead,skill test (lead level 8),FALSE,song,johann pachelbel,main melody,8,canon (in D)
 guitar-learn-missions-lead,string bender,FALSE,video,-,-,8,video: reinforced bending
 guitar-learn-missions-lead,string bender,FALSE,trainer,-,-,8,trainer: reinforced bending
@@ -369,34 +374,34 @@ guitar-learn-missions-lead,string bender,FALSE,song,the yousicians,bending melod
 guitar-learn-missions-lead,string bender,FALSE,song,the yousicians,melody,8,the day before today
 guitar-learn-missions-lead,loud & soft,FALSE,video,-,-,8,video: picking dynamics
 guitar-learn-missions-lead,loud & soft,FALSE,trainer,-,-,8,trainer: picking dynamics
-guitar-learn-missions-lead,loud & soft,FALSE,song,?,full melody,8,when johnny comes marching home
-guitar-learn-missions-lead,loud & soft,FALSE,song,?,melody,8,set me free
-guitar-learn-missions-lead,loud & soft,FALSE,song,?,melody,8,sitting on a park bench
-guitar-learn-missions-lead,loud & soft,FALSE,song,?,main melody,8,bourree (rock)
-guitar-learn-missions-lead,loud & soft,FALSE,song,?,high melody,8,wizard's waltz
-guitar-learn-missions-lead,loud & soft,FALSE,song,?,solo,8,frankie & johhny (lead mix)
+guitar-learn-missions-lead,loud & soft,FALSE,song,traditional,full melody,8,when johnny comes marching home
+guitar-learn-missions-lead,loud & soft,FALSE,song,the yousicians,melody,8,set me free
+guitar-learn-missions-lead,loud & soft,FALSE,song,the yousicians,melody,8,sitting on a park bench
+guitar-learn-missions-lead,loud & soft,FALSE,song,johann sebastian bach,main melody,8,bourree (rock)
+guitar-learn-missions-lead,loud & soft,FALSE,song,the yousicians,high melody,8,wizard's waltz
+guitar-learn-missions-lead,loud & soft,FALSE,song,traditional,solo,8,frankie & johhny (lead mix)
 guitar-learn-missions-rhythm,skill test (rhythm level 8),FALSE,song,the yousicians,full rhythm,8,the day before today
 guitar-learn-missions-rhythm,skill test (rhythm level 8),FALSE,trainer,-,-,8,chord trainer: popular moveable
 guitar-learn-missions-rhythm,groovy riffs,FALSE,video,-,-,8,video: rhythmic picking
 guitar-learn-missions-rhythm,groovy riffs,FALSE,trainer,-,-,8,trainer: rhythmic picking
-guitar-learn-missions-rhythm,groovy riffs,FALSE,song,?,full riff,8,highway to helsinki
-guitar-learn-missions-rhythm,groovy riffs,FALSE,song,?,funky riff,8,warm sweat
-guitar-learn-missions-rhythm,groovy riffs,FALSE,song,?,main riff,8,watch this space
-guitar-learn-missions-rhythm,groovy riffs,FALSE,song,?,full riff,8,fast machine
-guitar-learn-missions-rhythm,groovy riffs,FALSE,song,?,power chord riff,8,modern vintage
-guitar-learn-missions-rhythm,groovy riffs,FALSE,song,?,full chord-riff,8,paholaisen boogie
-guitar-learn-missions-rhythm,groovy riffs,FALSE,song,?,full riff,8,new dawn
+guitar-learn-missions-rhythm,groovy riffs,FALSE,song,the yousicians,full riff,8,highway to helsinki
+guitar-learn-missions-rhythm,groovy riffs,FALSE,song,the yousicians,funky riff,8,warm sweat
+guitar-learn-missions-rhythm,groovy riffs,FALSE,song,the yousicians,main riff,8,watch this space
+guitar-learn-missions-rhythm,groovy riffs,FALSE,song,the yousicians,full riff,8,fast machine
+guitar-learn-missions-rhythm,groovy riffs,FALSE,song,the yousicians,power chord riff,8,modern vintage
+guitar-learn-missions-rhythm,groovy riffs,FALSE,song,the yousicians,full chord-riff,8,paholaisen boogie
+guitar-learn-missions-rhythm,groovy riffs,FALSE,song,the yousicians,full riff,8,new dawn
 guitar-learn-missions-rhythm,barre chords,FALSE,video,-,-,8,video: barre chord technique
 guitar-learn-missions-rhythm,barre chords,FALSE,trainer,-,-,8,trainer: major barre
-guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,very far away
+guitar-learn-missions-rhythm,barre chords,FALSE,song,the yousicians,barre chords,8,very far away
 guitar-learn-missions-rhythm,barre chords,FALSE,trainer,-,-,8,trainer: minor barre
-guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,rise & fall
-guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,over the rooftops
-guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,like a boss
+guitar-learn-missions-rhythm,barre chords,FALSE,song,the yousicians,barre chords,8,rise & fall
+guitar-learn-missions-rhythm,barre chords,FALSE,song,the yousicians,barre chords,8,over the rooftops
+guitar-learn-missions-rhythm,barre chords,FALSE,song,the yousicians,barre chords,8,like a boss
 guitar-learn-missions-rhythm,barre chords,FALSE,trainer,-,-,8,trainer: barre 7ths
-guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,flat out
-guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre 7th chords,8,barre your sould
-guitar-learn-missions-rhythm,barre chords,FALSE,song,?,barre chords,8,honeymoon bossa nova
+guitar-learn-missions-rhythm,barre chords,FALSE,song,the yousicians,barre chords,8,flat out
+guitar-learn-missions-rhythm,barre chords,FALSE,song,the yousicians,barre 7th chords,8,barre your sould
+guitar-learn-missions-rhythm,barre chords,FALSE,song,the yousicians,barre chords,8,honeymoon bossa nova
 guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,1,chord trainer: cowboy - E Em Am
 guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,2,chord trainer: cowboy - C G Am Em
 guitar-learn-workouts,chord trainers,FALSE,trainer,-,-,3,chord trainer: cowboy - G C D Em
@@ -2151,7 +2156,7 @@ piano-learn-missions-pop,mellow minor chords,FALSE,video,-,-,2,changing chords: 
 piano-learn-missions-pop,mellow minor chords,FALSE,trainer,-,-,2,Em and Am chord trainer
 piano-learn-missions-pop,mellow minor chords,FALSE,song,the yousicians,chords,2,minor step (Em-Am)
 piano-learn-missions-pop,mellow minor chords,FALSE,song,the yousicians,Am-Em chords,2,piano gangsta (in Am)
-piano-learn-missions-classical,level 3 skill test - classical,FALSE,song,?,-,3,when the saints go marching in (slow)
+piano-learn-missions-classical,level 3 skill test - classical,FALSE,song,traditional,-,3,when the saints go marching in (slow)
 piano-learn-missions-classical,playing with two hands,FALSE,video,-,-,3,practice mode
 piano-learn-missions-classical,playing with two hands,FALSE,trainer,-,-,3,reading bass G
 piano-learn-missions-classical,playing with two hands,FALSE,song,the yousicians,2 hands,3,dreamer
@@ -2180,7 +2185,7 @@ piano-learn-missions-knowledge,ear training: major scale,FALSE,puzzle,-,-,3,ear 
 piano-learn-missions-knowledge,ear training: major scale,FALSE,puzzle,-,-,3,ear puzzles: 8-note scale
 piano-learn-missions-knowledge,ear training: major scale,FALSE,puzzle,-,-,3,ear puzzles: harmony
 piano-learn-missions-knowledge,ear training: major scale,FALSE,finder,-,-,3,note-finder: major scale
-piano-learn-missions-pop,level 3 skill test - pop,FALSE,song,?,-,3,gazing at stars (short)
+piano-learn-missions-pop,level 3 skill test - pop,FALSE,song,the yousicians,-,3,gazing at stars (short)
 piano-learn-missions-pop,three-chord songs,FALSE,video,-,-,3,learn the C chord
 piano-learn-missions-pop,three-chord songs,FALSE,trainer,-,-,3,C chord trainer
 piano-learn-missions-pop,three-chord songs,FALSE,song,the yousicians,C chord,3,dreamer
@@ -2291,10 +2296,10 @@ piano-learn-missions-classical,changing position,FALSE,song,antonin dvorak,chang
 piano-learn-missions-classical,singalong tunes,FALSE,trainer,-,-,6,trainer: C major arpeggio
 piano-learn-missions-classical,singalong tunes,FALSE,song,traditional,changing position,6,camptown races (in C)
 piano-learn-missions-classical,singalong tunes,FALSE,trainer,-,-,6,trainer: G major bass
-piano-learn-missions-classical,singalong tunes,FALSE,song,?,songs in G,6,molly malone (instrumental in G)
+piano-learn-missions-classical,singalong tunes,FALSE,song,traditional,songs in G,6,molly malone (instrumental in G)
 piano-learn-missions-classical,singalong tunes,FALSE,trainer,-,-,6,trainer: reading ledger lines
 piano-learn-missions-classical,singalong tunes,FALSE,trainer,-,-,6,trainer: ledger lines
-piano-learn-missions-classical,singalong tunes,FALSE,song,?,melody,6,take me out to the ball game
+piano-learn-missions-classical,singalong tunes,FALSE,song,traditional,melody,6,take me out to the ball game
 piano-learn-missions-pop,level 6 skill test - pop,FALSE,song,traditional,-,6,la bamba
 piano-learn-missions-pop,rock riffs,FALSE,video,-,-,6,learning riffs
 piano-learn-missions-pop,rock riffs,FALSE,trainer,-,-,6,chord trainer: Dm
