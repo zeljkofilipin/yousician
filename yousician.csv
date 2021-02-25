@@ -835,6 +835,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,swing low 2,FALSE,song,traditional,basic riff,1,motherless child
+guitar-challenges,swing low 2,FALSE,song,traditional,cowboy chords,4,"swing low, sweet chariot"
+guitar-challenges,swing low 2,FALSE,song,traditional,melody,6,"swing low, sweet chariot"
+guitar-challenges,swing low 2,FALSE,song,traditional,rhythm & lead,9,motherless child
 guitar-challenges,get funky 2,FALSE,song,the yousicians,basic riff,2,luthier sam
 guitar-challenges,get funky 2,FALSE,song,the yousicians,basic riff,4,funky madman
 guitar-challenges,get funky 2,FALSE,song,the yousicians,rhythm,7,luthier sam
@@ -2315,6 +2319,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,swing low 2,FALSE,song,traditional,bass,1,motherless child
+piano-challenges,swing low 2,FALSE,song,traditional,accompaniment,3,"swing low, sweet chariot"
+piano-challenges,swing low 2,FALSE,song,traditional,chords,6,"swing low, sweet chariot"
+piano-challenges,swing low 2,FALSE,song,traditional,accompaniment,7,motherless child
 piano-challenges,get funky 2,FALSE,song,the yousicians,bass,1,funky madman
 piano-challenges,get funky 2,FALSE,song,the yousicians,accompaniment,6,luthier sam
 piano-challenges,get funky 2,FALSE,song,the yousicians,melody,4,luthier sam
@@ -4076,6 +4084,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,swing low 2,FALSE,song,traditional,basic melody,2,"swing low, sweet chariot"
+ukulele-challenges,swing low 2,FALSE,song,traditional,chords,3,"swing low, sweet chariot"
+ukulele-challenges,swing low 2,FALSE,song,traditional,melody,6,motherless child
+ukulele-challenges,swing low 2,FALSE,song,traditional,rhythm,8,motherless child
 ukulele-challenges,get funky 2,FALSE,song,the yousicians,basic melody,2,luthier sam
 ukulele-challenges,get funky 2,FALSE,song,the yousicians,basic chords,4,funky madman
 ukulele-challenges,get funky 2,FALSE,song,the yousicians,full melody,6,luthier sam
@@ -5859,6 +5871,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,swing low 2,FALSE,song,traditional,basic bassline,1,motherless child
+bass-challenges,swing low 2,FALSE,song,traditional,basic bassline,2,"swing low, sweet chariot"
+bass-challenges,swing low 2,FALSE,song,traditional,full bassline,5,motherless child
+bass-challenges,swing low 2,FALSE,song,traditional,full bassline,6,"swing low, sweet chariot"
 bass-challenges,get funky 2,FALSE,song,the yousicians,basic bassline,2,funky madman
 bass-challenges,get funky 2,FALSE,song,the yousicians,basic bassline,2,luthier sam
 bass-challenges,get funky 2,FALSE,song,the yousicians,full bassline,8,funky madman
