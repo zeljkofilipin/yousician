@@ -241,10 +241,10 @@ guitar-learn-missions-rhythm,skill test (rhythm level 5),FALSE,song,the yousicia
 guitar-learn-missions-rhythm,skill test (rhythm level 5),FALSE,trainer,-,-,5,chord trainer: cowboy & power
 guitar-learn-missions-rhythm,broken chords,FALSE,video,-,-,5,expressive strumming
 guitar-learn-missions-rhythm,broken chords,FALSE,trainer,-,-,5,trainer: expressive strumming
-guitar-learn-missions-rhythm,broken chords,FALSE,song,traditional,cowboy chords,,black eyes
-guitar-learn-missions-rhythm,broken chords,FALSE,song,traditional,cowboy chords,,scarborough fair (electro)
-guitar-learn-missions-rhythm,broken chords,FALSE,video,-,-,,chords + notes
-guitar-learn-missions-rhythm,broken chords,FALSE,trainer,-,-,,trainer: chords + notes
+guitar-learn-missions-rhythm,broken chords,FALSE,song,traditional,cowboy chords,5,black eyes
+guitar-learn-missions-rhythm,broken chords,FALSE,song,traditional,cowboy chords,5,scarborough fair (electro)
+guitar-learn-missions-rhythm,broken chords,FALSE,video,-,-,5,chords + notes
+guitar-learn-missions-rhythm,broken chords,FALSE,trainer,-,-,5,trainer: chords + notes
 guitar-learn-missions-rhythm,broken chords,FALSE,song,the yousicians,chord riff,5,hammer song
 guitar-learn-missions-rhythm,broken chords,FALSE,song,the yousicians,cowboy chord-riff,5,livewire
 guitar-learn-missions-rhythm,broken chords,FALSE,video,-,-,5,video: broken chords
