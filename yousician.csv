@@ -845,6 +845,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,spring baroque,FALSE,song,johann sebastian bach,basic riff,1,air (in C)
+guitar-challenges,spring baroque,FALSE,song,antonio vivaldi,cowboy chords,4,four seasons (spring)
+guitar-challenges,spring baroque,FALSE,song,johann sebastian bach,fingerpicking,8,air (in C)
+guitar-challenges,spring baroque,FALSE,song,antonio vivaldi,melody,11,four seasons (spring)
 guitar-challenges,jam like janis,FALSE,song,the yousicians,basic melody,1,the long road
 guitar-challenges,jam like janis,FALSE,song,the yousicians,basic riff,4,soul ride
 guitar-challenges,jam like janis,FALSE,song,the yousicians,rhythm,7,the long road
@@ -2337,6 +2341,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,spring baroque,FALSE,song,johann sebastian bach,bass,1,air (in C)
+piano-challenges,spring baroque,FALSE,song,antonio vivaldi,melody,2,four seasons (spring)
+piano-challenges,spring baroque,FALSE,song,antonio vivaldi,melody,5,four seasons (spring)
+piano-challenges,spring baroque,FALSE,song,johann sebastian bach,solo piano,9,air (in C)
 piano-challenges,jam like janis,FALSE,song,the yousicians,accompaniment,2,the long road
 piano-challenges,jam like janis,FALSE,song,the yousicians,accompaniment,4,soul ride
 piano-challenges,jam like janis,FALSE,song,the yousicians,chords,6,the long road
@@ -4110,6 +4118,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,spring baroque,FALSE,song,johann sebastian bach,basic melody,2,air (in C)
+ukulele-challenges,spring baroque,FALSE,song,antonio vivaldi,chords,4,four seasons (spring)
+ukulele-challenges,spring baroque,FALSE,song,johann sebastian bach,fingerpicking,6,air (in C)
+ukulele-challenges,spring baroque,FALSE,song,antonio vivaldi,melody,8,four seasons (spring)
 ukulele-challenges,jam like janis,FALSE,song,the yousicians,basic melody,2,the long road
 ukulele-challenges,jam like janis,FALSE,song,the yousicians,melody,4,soul ride
 ukulele-challenges,jam like janis,FALSE,song,the yousicians,chords,6,the long road
@@ -5905,6 +5917,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,spring baroque,FALSE,song,antonio vivaldi,basic bassline,2,four seasons (spring)
+bass-challenges,spring baroque,FALSE,song,johann sebastian bach,basic bassline,2,air (in C)
+bass-challenges,spring baroque,FALSE,song,johann sebastian bach,full bassline,4,air (in C)
+bass-challenges,spring baroque,FALSE,song,antonio vivaldi,full bassline,9,four seasons (spring)
 bass-challenges,jam like janis,FALSE,song,the yousicians,basic bassline,1,the long road
 bass-challenges,jam like janis,FALSE,song,the yousicians,basic bassline,3,soul ride
 bass-challenges,jam like janis,FALSE,song,the yousicians,full bassline,6,the long road
