@@ -871,6 +871,22 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,surf & twang 2,FALSE,song,the yousicians,basic riff,2,dr jekyll & mr hyde
+guitar-challenges,surf & twang 4,FALSE,song,the yousicians,cowboy chords,4,hand clapper
+guitar-challenges,surf & twang 5,FALSE,song,the yousicians,melody,7,hand clapper
+guitar-challenges,surf & twang 3,FALSE,song,the yousicians,lead,9,dr jekyll & mr hyde
+guitar-challenges,challenge in a bottle 2,FALSE,song,the yousicians,basic riff,2,melting seconds
+guitar-challenges,challenge in a bottle 2,FALSE,song,the yousicians,basic rhythm,5,i keep falling
+guitar-challenges,challenge in a bottle 2,FALSE,song,the yousicians,rhythm,7,melting seconds
+guitar-challenges,challenge in a bottle 2,FALSE,song,the yousicians,rhythm & lead,9,i keep falling
+guitar-challenges,"echoes, walls and mad jewels 2",FALSE,song,the yousicians,cowboy chords,2,swimming in a fish bowl
+guitar-challenges,"echoes, walls and mad jewels 2",FALSE,song,the yousicians,basic melody,5,swimming in a fish bowl
+guitar-challenges,"echoes, walls and mad jewels 2",FALSE,song,the yousicians,movable chords,7,the great pig in the sky
+guitar-challenges,"echoes, walls and mad jewels 2",FALSE,song,the yousicians,rhythm & lead,9,the great pig in the sky
+guitar-challenges,epic amusement 2,FALSE,song,the yousicians,basic riff,2,supercharged
+guitar-challenges,epic amusement 2,FALSE,song,the yousicians,basic riff,4,fight for it all
+guitar-challenges,epic amusement 2,FALSE,song,the yousicians,rhythm,8,supercharged
+guitar-challenges,epic amusement 2,FALSE,song,the yousicians,rhythm & lead,9,fight for it all
 guitar-challenges,glossy-eyed ballads,FALSE,song,the yousicians,basic melody,1,broken
 guitar-challenges,glossy-eyed ballads,FALSE,song,the yousicians,basic rhythm,5,broken
 guitar-challenges,glossy-eyed ballads,FALSE,song,the yousicians,rhythm,6,wind machine
@@ -2415,6 +2431,22 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,surf & twang 4,FALSE,song,the yousicians,bass,2,hand clapper
+piano-challenges,surf & twang 2,FALSE,song,the yousicians,accompaniment,3,dr jekyll & mr hyde
+piano-challenges,surf & twang 5,FALSE,song,the yousicians,accompaniment,5,hand clapper
+piano-challenges,surf & twang 3,FALSE,song,the yousicians,accompaniment,7,dr jekyll & mr hyde
+piano-challenges,challenge in a bottle 2,FALSE,song,the yousicians,melody,1,melting seconds
+piano-challenges,challenge in a bottle 2,FALSE,song,the yousicians,accompaniment,2,i keep falling
+piano-challenges,challenge in a bottle 2,FALSE,song,the yousicians,accompaniment,5,melting seconds
+piano-challenges,challenge in a bottle 2,FALSE,song,the yousicians,solo piano,7,i keep falling
+piano-challenges,"echoes, walls and mad jewels 2",FALSE,song,the yousicians,bass,1,the great pig in the sky
+piano-challenges,"echoes, walls and mad jewels 2",FALSE,song,the yousicians,melody,2,swimming in a fish bowl
+piano-challenges,"echoes, walls and mad jewels 2",FALSE,song,the yousicians,accompaniment,5,swimming in a fish bowl
+piano-challenges,"echoes, walls and mad jewels 2",FALSE,song,the yousicians,accompaniment,7,the great pig in the sky
+piano-challenges,epic amusement 2,FALSE,song,the yousicians,bass,1,supercharged
+piano-challenges,epic amusement 2,FALSE,song,the yousicians,melody,3,fight for it all
+piano-challenges,epic amusement 2,FALSE,song,the yousicians,accompaniment,5,fight for it all
+piano-challenges,epic amusement 2,FALSE,song,the yousicians,accompaniment,7,supercharged
 piano-challenges,glossy-eyed ballads,FALSE,song,the yousicians,bass,1,wind machine
 piano-challenges,glossy-eyed ballads,FALSE,song,the yousicians,accompaniment,2,broken
 piano-challenges,glossy-eyed ballads,FALSE,song,the yousicians,accompaniment,5,wind machine
@@ -4240,6 +4272,22 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,surf & twang 2,FALSE,song,the yousicians,basic melody,2,dr jekyll & mr hyde
+ukulele-challenges,surf & twang 4,FALSE,song,the yousicians,chords,4,hand clapper
+ukulele-challenges,surf & twang 3,FALSE,song,the yousicians,chords,6,dr jekyll & mr hyde
+ukulele-challenges,surf & twang 5,FALSE,song,the yousicians,melody,8,hand clapper
+ukulele-challenges,challenge in a bottle 2,FALSE,song,the yousicians,basic melody,2,melting seconds
+ukulele-challenges,challenge in a bottle 2,FALSE,song,the yousicians,basic melody,4,i keep falling
+ukulele-challenges,challenge in a bottle 2,FALSE,song,the yousicians,chords,6,i keep falling
+ukulele-challenges,challenge in a bottle 2,FALSE,song,the yousicians,full melody,8,i keep falling
+ukulele-challenges,"echoes, walls and mad jewels 2",FALSE,song,the yousicians,basic melody,1,swimming in a fish bowl
+ukulele-challenges,"echoes, walls and mad jewels 2",FALSE,song,the yousicians,chords,3,swimming in a fish bowl
+ukulele-challenges,"echoes, walls and mad jewels 2",FALSE,song,the yousicians,chords,6,the great pig in the sky
+ukulele-challenges,"echoes, walls and mad jewels 2",FALSE,song,the yousicians,melody,8,the great pig in the sky
+ukulele-challenges,epic amusement 2,FALSE,song,the yousicians,basic rhythm,2,supercharged
+ukulele-challenges,epic amusement 2,FALSE,song,the yousicians,cowboy chords,5,fight for it all
+ukulele-challenges,epic amusement 2,FALSE,song,the yousicians,full rhythm,7,supercharged
+ukulele-challenges,epic amusement 2,FALSE,song,the yousicians,full rhythm,8,fight for it all
 ukulele-challenges,glossy-eyed ballads,FALSE,song,the yousicians,basic melody,2,broken
 ukulele-challenges,glossy-eyed ballads,FALSE,song,the yousicians,basic melody,4,wind machine
 ukulele-challenges,glossy-eyed ballads,FALSE,song,the yousicians,fingerpicking,6,wind machine
@@ -6087,6 +6135,22 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,surf & twang 4,FALSE,song,the yousicians,basic bassline,1,hand clapper
+bass-challenges,surf & twang 2,FALSE,song,the yousicians,basic bassline,2,dr jekyll & mr hyde
+bass-challenges,surf & twang 5,FALSE,song,the yousicians,basic bassline,6,hand clapper
+bass-challenges,surf & twang 3,FALSE,song,the yousicians,full bassline,8,dr jekyll & mr hyde
+bass-challenges,challenge in a bottle 2,FALSE,song,the yousicians,basic bassline,2,i keep falling
+bass-challenges,challenge in a bottle 2,FALSE,song,the yousicians,basic bassline,2,melting seconds
+bass-challenges,challenge in a bottle 2,FALSE,song,the yousicians,full bassline,6,melting seconds
+bass-challenges,challenge in a bottle 2,FALSE,song,the yousicians,full bassline,5,i keep falling
+bass-challenges,"echoes, walls and mad jewels 2",FALSE,song,the yousicians,basic bassline,2,the great pig in the sky
+bass-challenges,"echoes, walls and mad jewels 2",FALSE,song,the yousicians,basic bassline,3,swimming in a fish bowl
+bass-challenges,"echoes, walls and mad jewels 2",FALSE,song,the yousicians,full bassline,6,the great pig in the sky
+bass-challenges,"echoes, walls and mad jewels 2",FALSE,song,the yousicians,full bassline,6,swimming in a fish bowl
+bass-challenges,epic amusement 2,FALSE,song,the yousicians,basic bassline,1,fight for it all
+bass-challenges,epic amusement 2,FALSE,song,the yousicians,basic bassline,2,supercharged
+bass-challenges,epic amusement 2,FALSE,song,the yousicians,full bassline,6,fight for it all
+bass-challenges,epic amusement 2,FALSE,song,the yousicians,full bassline,7,supercharged
 bass-challenges,glossy-eyed ballads,FALSE,song,the yousicians,basic bassline,1,broken
 bass-challenges,glossy-eyed ballads,FALSE,song,the yousicians,full bassline,3,wind machine
 bass-challenges,glossy-eyed ballads,FALSE,song,the yousicians,full bassline,5,broken
