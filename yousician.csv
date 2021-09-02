@@ -871,6 +871,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,a night with tchaikovsky,FALSE,song,pyotr Ilyich tchaikovsky,basic riff,2,dance of the sugar plum fairy
+guitar-challenges,a night with tchaikovsky,FALSE,song,pyotr Ilyich tchaikovsky,basic melody,4,swan lake
+guitar-challenges,a night with tchaikovsky,FALSE,song,pyotr Ilyich tchaikovsky,melody,5,dance of the sugar plum fairy
+guitar-challenges,a night with tchaikovsky,FALSE,song,pyotr Ilyich tchaikovsky,full melody,8,swan lake
 guitar-challenges,from dublin with love 2,FALSE,song,traditional,basic melody,2,molly malone
 guitar-challenges,from dublin with love 2,FALSE,song,traditional,cowboy chords,4,molly malone
 guitar-challenges,from dublin with love 2,FALSE,song,traditional,melody,6,paddy on the railway
@@ -2459,6 +2463,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,a night with tchaikovsky,FALSE,song,pyotr Ilyich tchaikovsky,melody,3,swan lake
+piano-challenges,a night with tchaikovsky,FALSE,song,pyotr Ilyich tchaikovsky,melody,6,swan lake
+piano-challenges,a night with tchaikovsky,FALSE,song,pyotr Ilyich tchaikovsky,melody,7,dance of the sugar plum fairy
+piano-challenges,a night with tchaikovsky,FALSE,song,pyotr Ilyich tchaikovsky,solo piano,9,dance of the sugar plum fairy
 piano-challenges,from dublin with love 2,FALSE,song,traditional,bass,1,paddy on the railway
 piano-challenges,from dublin with love 2,FALSE,song,traditional,melody,2,molly malone
 piano-challenges,from dublin with love 2,FALSE,song,traditional,accompaniment,5,molly malone
@@ -4328,6 +4336,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,a night with tchaikovsky,FALSE,song,pyotr Ilyich tchaikovsky,basic melody,1,swan lake
+ukulele-challenges,a night with tchaikovsky,FALSE,song,pyotr Ilyich tchaikovsky,basic melody,3,dance of the sugar plum fairy
+ukulele-challenges,a night with tchaikovsky,FALSE,song,pyotr Ilyich tchaikovsky,full melody,5,swan lake
+ukulele-challenges,a night with tchaikovsky,FALSE,song,pyotr Ilyich tchaikovsky,full melody,7,dance of the sugar plum fairy
 ukulele-challenges,from dublin with love 2,FALSE,song,traditional,basic melody,2,molly malone
 ukulele-challenges,from dublin with love 2,FALSE,song,traditional,chords,4,molly malone
 ukulele-challenges,from dublin with love 2,FALSE,song,traditional,melody,6,paddy on the railway
@@ -6219,6 +6231,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,a night with tchaikovsky,FALSE,song,pyotr Ilyich tchaikovsky,basic bassline,2,swan lake
+bass-challenges,a night with tchaikovsky,FALSE,song,pyotr Ilyich tchaikovsky,full bassline,8,swan lake
+bass-challenges,a night with tchaikovsky,FALSE,song,pyotr Ilyich tchaikovsky,basic bassline,2,dance of the sugar plum fairy
+bass-challenges,a night with tchaikovsky,FALSE,song,pyotr Ilyich tchaikovsky,full bassline,8,dance of the sugar plum fairy
 bass-challenges,from dublin with love 2,FALSE,song,traditional,basic bassline,1,molly malone
 bass-challenges,from dublin with love 2,FALSE,song,traditional,basic bassline,2,paddy on the railway
 bass-challenges,from dublin with love 2,FALSE,song,traditional,full bassline,3,molly malone
