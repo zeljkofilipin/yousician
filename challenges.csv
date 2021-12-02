@@ -1,353 +1,354 @@
 year,week,challenge,long,weeks ago,guitar,piano,ukulele,bass,singing
-2021,47,ye olde english challenge 2,ye olde english challenge,0,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,46,balkan bounce 2,balkan bounce,1,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,45,slow jams,slow jams,2,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,44,pride & joy 2,pride & joy,3,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,43,hard rock halloween 2,hard rock halloween,4,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,42,cowboys from the down below,cowboys from the down below,5,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,41,"all right, adding machine 2","all right, adding machine",6,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,40,here's johnny,here's johnny,7,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,39,doo doo doodoo doodoo 2,children's choice,8,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,38,mariachi madness 2,mariachi madness,9,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,37,country roads 2,country roads,10,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,36,bekind,#bekind,11,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,35,a night with tchaikovsky,a night with tchaikovsky,12,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,34,from dublin with love 2,from dublin with love,13,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,33,spandex nightmares 2,spandex nightmares,14,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,32,four flat tires on a muddy road 2,four flat tires on a muddy road,15,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,31,yellowstone,yellowstone,16,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,30,return of the chiptunes 2,return of the chiptunes,17,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,29,the dance of the knights 2,dance of the knights,18,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,28,chanson 2,chanson,19,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,27,surf & twang 2,surf and twang,20,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,26,challenge in a bottle 2,challenge in a bottle,21,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,25,"echoes, walls and mad jewels 2","echoes, walls and mad jewels",22,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,24,epic amusement 2,epic amusement,23,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,23,glossy-eyed ballads,glossy-eyed ballads,24,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,22,hi-nrg 2,hi-nrg,25,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,21,sabor cubano 2,sabor cubano,26,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,20,painting the sky 2,painting the sky,27,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,19,into the battle! 2,into the battle!,28,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,18,teacher's pick,teacher's pick,29,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,17,an odyssey in jazz 2,odyssey in jazz,30,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,16,at the movies pt. III 2,soundtracks and cinema,31,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,15,lost in the wilderness 2,lost in the wilderness,32,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,14,burning balalaikas 2,burning balalaikas,33,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,13,chuck berry forever,chuck berry forever,34,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,12,a.r.e.t.h.a.,a.r.e.t.h.a.,35,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,11,spring baroque,spring baroque,36,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,10,jam like janis,jam like janis,37,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,9,one for chick,one for chick,38,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,8,swing low 2,swing low,39,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,7,get funky 2,get funky,40,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,6,happy valentine's day 2,cupid's bow,41,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,5,dub til you drop 2,dub til you drop big up!,42,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,4,ode to mozart,ode to mozart,43,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,3,one for alexi,one for alexi,44,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,2,#30daysofyousician,#30daysofyousician,45,TRUE,TRUE,TRUE,TRUE,FALSE
-2021,1,one for bowie 2,bowie forever,46,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,53,2020 madness,2020 madness,47,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,52,holliday edition,winter is here,48,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,51,sir uke 2,sir uke,49,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,50,mall punks,mall punks,50,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,49,bring back the 90's,bring back the 90's,51,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,48,jimi forever,jimi forever,52,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,47,common life & miracles 2,common life & miracles,53,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,46,dawn to dusk 2,dawn to dusk classical adaptations,54,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,45,sunday morning jazz breakfast 2,sunday morning jazz breakfast,55,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,44,the return of the pumpkins 2,the return of the pumpkins,56,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,43,dark hounds & white whales 2,dark hounds & white whales,57,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,42,one for eddie,one for eddie,58,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,41,corazon bailando 2,corazon bailando songs from the barrio,59,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,40,metal mania 2,metal mania,60,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,39,the return of the disco daddy 2,the return of the disco daddy,61,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,38,magic mandolins 2,magic mandolins,62,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,37,delicate moods 2,delicate moods raindrops & romance,63,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,36,future city sounds 2,future city sounds back by popular demand!,64,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,35,rough it up 2,rough it up! raw sounds and blistered fingers,65,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,34,the big bad big band boogie 2,the big bad big band boogie!,66,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,33,slow jamz 2,slow jamz kick it with some r'n'b,67,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,32,one for green,one for green,68,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,31,restless boots 2,restless boots odes to the country roads,69,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,30,summer of love 2,the summer of love peace & harmony,70,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,29,west africa 2,west africa earthy rhythms from senegal & mali,71,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,28,helsinki bachata 2,helsinki bachata feat. joaquin luis,72,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,27,summer nights 2,summer nights sing along under the stars,73,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,26,mozart modernized 2,mozart modernized eine kleine blastmusik,74,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,25,world music day,world music day 2020,75,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,24,alternative adventures 2,alternative adventures battle for a week rule for a lifetime,76,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,23,follow me 2,follow me trek along with two indie pop tunes,77,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,22,swingin' 2,swingin',78,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,21,cumbia party 2,cumbia party come out and dance,79,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,20,one for penniman,one for penniman,80,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,19,tales from the dark caves 2,tales from the dark caves where the bleak ballads grow,81,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,18,bring on the riddim 2,bring on the riddim feat. puppa j.,82,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,17,klezmer klassiks 3,klezmer klassiks dance till you drop,83,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,16,solely you 2,solely you sha-la-la into the 50's,84,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,15,fiesta mexicana 2,fiesta mexicana spicy hot evergreens,85,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,14,surfin' 2,surfin' catch the wave,86,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,13,feelin' good 2,feelin' good uplifting pop hits,87,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,12,wicked rhythms 2,wicked rhythms grooves with a twist,88,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,11,chill out 2,chill out peaceful sunset moods,89,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,10,feel the beat 2,feel the beat afro-funk grooves,90,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,9,adrenaline rush 2,adrenaline rush high energy rock songs,91,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,8,grandfathers of loud 2,the grandfathers of loud epic orchestral classics,92,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,7,it's complicated 2,it's complicated songs about relationships,93,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,6,light your fire 2,light your fire inspired by classic psychedelic rock,94,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,5,space mammoths 2,space mammoths breaking boundaries with utopianisti,95,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,4,the ol' dirt road 2,the ol' dirt road folk favorites,96,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,3,one for neil,one for neil,97,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,2,rock 'n' roll 2,rock 'n' roll,98,TRUE,TRUE,TRUE,TRUE,FALSE
-2020,1,pump up the volume 2,pump up the volume 90's pop beats,99,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,52,classic rock 2,classic rock this challenge goes to 11!,100,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,51,joy to the world,joy to the world,101,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,50,holidays with tchaikovsky's nutcracker,holidays with tchaikovsky's nutcracker,102,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,49,bluegrass challenge,"bluegrass challenge ""the grass is always bluer on the banjo side""",103,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,48,knowledge toolbox: 7th chords,knowledge toolbox: 7th chords,104,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,47,children's choice,children's choice,105,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,46,secret agents,secret agents,106,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,45,midnight special,midnight special,107,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,44,keep calm and play on,keep calm and play on,108,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,43,tunes from the haunted house,tunes from the haunted house,109,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,42,knowledge toolbox: anatomy of a pop song,knowledge toolbox: anatomy of a pop song,110,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,41,might & magic,might & magic,111,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,40,one for ric,one for ric,112,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,39,forever young,forever young,113,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,38,moore is more!,moore is more!,114,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,37,dub town folk,dub town folk,115,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,36,let's ballad!,let's ballad!,116,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,35,blues for rory,blues for rory,117,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,34,ferramentum mechanica,ferramentum mechanica,118,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,33,polyrhythms & polymeters,polyrhythms & polymeters,119,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,32,flamenco 2,flamenco,120,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,31,"blood, sweat and classical music","blood, sweat and classical music",121,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,30,party with yousician,party with yousician,122,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,29,amore mediterraneo,amore mediterraneo,123,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,28,steampunk challenge,steampunk challenge,124,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,27,flying thumbs,flying thumbs,125,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,26,4th of july,4th of july,126,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,25,kung fu challenge,kung fu challenge,127,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,24,classical chill out,classical chill out,128,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,23,got the blues?,got the blues?,129,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,22,the hockey master's polka special,the hockey master's polka special,130,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,21,attitude rock 2,attitude rock,131,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,20,new visions,new visions,132,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,19,sound in my system,sound in my system,133,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,18,maharajas of music,maharajas of music,134,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,17,ye olde english challenge,ye olde english challenge,135,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,16,"live fast, play fast","live fast, play fast",136,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,15,songs from film classics,songs from film classics,137,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,14,one for dale,one for dale,138,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,13,el desafio cubano,el desafio cubano,139,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,12,the jimi hendrix challenge,"the jimi hendrix challenge test your skill on classic hendrix songs ""fire"" & ""castles made of sand""",140,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,11,st. patrick's day party,st. patrick's day party,141,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,10,mardi gras,mardi gras,142,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,9,in a hurry?,in a hurry?,143,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,8,shortnin' bread,shortnin' bread,144,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,7,be the boss,be the boss,145,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,6,song for you,song for you a valentine's day special,146,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,5,nwobhm,nwobhm new wave of british heavy metal,147,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,4,challenge with a capital C,challenge with a capital C,148,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,3,back to bach,back to bach,149,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,2,ruff rockin,ruff rockin,150,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,1,classical piano favorites,classical piano favorites,151,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,52,at the gym,at the gym,152,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,51,carols through the ages,carols through the ages,153,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,50,swing with santa,swing with santa,154,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,49,life on horseback,life on horseback,155,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,48,iceland 100 years,fire & ice iceland 100 years,156,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,47,strum with the machines,strum with the machines,157,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,46,three minute love story,three minute love story,158,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,45,the challenge must go on,the challenge must go on,159,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,44,symphonic surprises,symphonic surprises with papa haydn,160,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,43,hard rock halloween,hard rock halloween,161,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,42,slow jamz pt. 2,slow jamz pt. 2,162,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,41,gypsy jazz,gypsy jazz,163,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,40,dark souls,dark souls,164,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,39,waltzing nylons,waltzing nylons,165,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,38,brahms bash,brahms bash,166,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,37,hi-nrg,hi-nrg,167,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,36,burning codes,burning codes,168,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,35,klezmer kassiks pt. 2,klezmer kassiks pt. 2,169,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,34,one for aretha,one for aretha,170,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,33,tales from the thousand lakes,tales from the thousand lakes,171,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,32,rock in 5,rock in 5,172,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,31,mariachi madness,mariachi madness,173,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,30,classy ballads,classy ballads,174,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,29,the greek challenge,the greek challenge,175,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,28,ram bam with jo buddy,ram bam with jo buddy,176,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,27,pub rock,pub rock,177,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,26,one for vinnie,one for vinnie,178,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,25,midsummer wedding,midsummer wedding challenge,179,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,24,miami vibe,miami vibe,180,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,23,hawaii style,hawaii style,181,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,22,australia,australia challenge,182,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,21,wagner with a twist,wagner with a twist,183,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,20,you can't do that on a challenge anymore vol. 1,you can't do that on a challenge anymore vol. 1,184,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,19,funky strut,funky strut,185,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,18,epic amusement,epic amusement,186,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,17,jasmine flower,jasmine flower,187,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,16,c'est la vie with satie,c'est la vie with satie,188,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,15,an odyssey in jazz,an odyssey in jazz,189,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,14,habanero hop,habanero hop,190,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,13,easter with j.s. bach,easter with j.s. bach,191,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,12,beyond the stars ...one for hawking...,beyond the stars ...one for hawking...,192,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,11,the river flows,the river flows,193,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,10,happy-o-rama,happy-o-rama,194,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,9,funk metal attack,funk metal attack,195,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,8,pride and joy,pride and joy,196,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,7,punk,punk,197,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,6,be my valentine,be my valentine,198,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,5,catching sounds,catching sounds,199,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,4,all right adding machine,all right adding machine,200,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,3,swing low,swing low,201,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,2,balkan bounce pt. 2,balkan bounce pt. 2,202,TRUE,TRUE,TRUE,TRUE,FALSE
-2018,1,lost in the wilderness,lost in the wilderness,203,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,52,new year special,new year special 2018,204,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,51,operatic holidays,operatic holidays,205,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,50,peaceful christmas,peaceful christmas,206,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,49,surf and twang,surf and twang,207,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,48,finland 100 years,finland 100 years,208,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,47,one for malcolm,one for malcolm,209,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,46,flutes rock,flutes rock,210,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,45,magic mandolins,magic mandolins,211,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,44,at the opera,a night at the opera,212,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,43,the halloween challenge,the halloween challenge,213,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,42,the leah harris challenge,the leah harris challenge,214,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,41,one for petty,one for petty,215,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,40,80's power ballads,80's power ballads,216,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,39,balkan bounce,balkan bounce,217,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,38,at the movies pt. 3,at the movies pt. 3 the trilogy,218,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,37,cosmic blues,cosmic blues feat. noora louhimo,219,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,36,calm classical,calm classical,220,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,35,country roads,country roads,221,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,34,"echoes, walls and mad jewels","echoes, walls and mad jewels",222,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,33,the dance of the knights,the dance of the knights,223,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,32,one for chester,one for chester,224,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,31,rocky road to dublin,rocky road to dublin,225,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,30,the life and times of todd,the life and times of todd,226,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,29,four flat tires on a muddy road,four flat tires on a muddy road,227,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,28,painting the sky,painting the sky,228,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,27,spandex nightmares,spandex nightmares,229,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,26,sir uke,sir uke,230,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,25,summer madness,summer madness,231,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,24,baroque hits,baroque hits,232,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,23,from dublin with love,from dublin with love,233,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,22,into the battle!,into the battle!,234,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,21,one for cornell,one for cornell,235,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,20,common life & miracles,common life & miracles,236,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,19,challenging visions,challenging visions,237,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,18,in the court of the weekly challenge,in the court of the weekly challenge,238,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,17,challenge in a bottle,challenge in a bottle,239,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,16,the return of the chiptunes,the return of the chiptunes,240,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,15,get funky,get funky,241,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,14,lonely hearts,lonely hearts,242,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,13,duckwalk avenue,duckwalk avenue,243,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,12,dawn to dusk,dawn to dusk classical adaptations,244,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,11,burning balalaikas,burning balalaikas,245,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,10,rock explosion,rock explosion,246,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,9,sunday morning jazz breakfast,sunday morning jazz breakfast,247,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,8,dark hounds & white whales,dark hounds & white whales,248,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,7,dub til you drop,dub til you drop big up!,249,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,6,corazon bailando,corazon bailando songs from the barrio,250,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,5,metal mania,metal mania,251,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,4,bluegrass fever,bluegrass fever,252,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,3,disco daddy,the return of the disco daddy,253,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,2,italia!,italia! tarantella & tagliatelle,254,TRUE,TRUE,TRUE,TRUE,FALSE
-2017,1,delicate moods,delicate moods raindrops & romance,255,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,52,future city sounds,future city sounds back by popular demand!,256,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,51,from santa with love,from santa with love,257,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,50,christmas classics,peaceful christmas classics,258,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,49,rough it up,rough it up raw sounds and blistered fingers,259,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,48,the big bad big band boogie,the big bad big band boogie,260,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,47,slow jamz,slow jamz kick it with some r'n'b,261,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,46,supermassive supermoon,the supermassive supermoon,262,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,45,restless boots,restless boots odes to the country roads,263,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,44,west africa,west africa earthy rhythms from senegal & mali,264,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,43,the return of the pumpkins,the return of the pumpkins,265,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,42,helsinki bachata,helsinki bachata feat. joaquin luis,266,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,41,mozart modernized,mozart modernized eine kleine blastmusik,267,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,40,alternative adventures,alternative adventures battle for a week rule for a lifetime,268,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,39,follow me,follow me trek along with two indie pop tunes,269,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,38,cumbia party,cumbia party come out and dance,270,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,37,tales from the dark caves,tales from the dark caves where the bleak ballads grow,271,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,36,bring on the riddim,bring on the riddim feat. puppa j.,272,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,35,klezmer klassiks,klezmer klassiks dance till you drop,273,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,34,solely you,solely you sha-la-la into the 50's,274,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,33,fiesta mexicana,fiesta mexicana spicy hot evergreens,275,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,32,surfin',surfin' catch the wave,276,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,31,french impressions,french impressions maurice ravel,277,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,30,wicked rhythms,wicked rhythms grooves with a twist,278,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,29,feelin' good,feelin' good uplifting pop hits,279,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,28,summer of love,the summer of love peace & harmony,280,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,27,classic rock,classic rock the challenge goes to 11!,281,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,26,songs of the midnight sun,songs of the midnight sun finnish folk tunes,282,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,25,feel the beat,feel the beat afro-funk grooves,283,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,24,adrenaline rush,adrenaline rush high energy rock songs,284,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,23,grandfathers of loud,the grandfathers of loud epic orchestral classics,285,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,22,light your fire,light your fire inspired by classic psychedelic rock,286,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,21,space mammoths,space mammoths breaking boundaries with utopianisti,287,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,20,the ol' dirt road,the ol' dirt road folk favorites,288,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,19,pump up the volume,pump up the volume 90's pop beats,289,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,18,summer nights,summer nights sing along under the stars,290,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,17,chill out,chill out peaceful sunset moods,291,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,16,it's complicated,it's complicated songs about relationships,292,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,15,rock 'n' roll,rock 'n' roll,293,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,14,swingin',swingin',294,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,13,sing-along waltzes,sing-along waltzes,295,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,12,at the ballet with tchaikovsky,at the ballet with tchaikovsky,296,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,11,balkan grooves,balkan grooves,297,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,10,sabor cubano,sabor cubano,298,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,9,classical picks for the stage,classical picks for the stage,299,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,8,rob scallon,the rob scallon challenge,300,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,7,wishing in the night,wishing in the night,301,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,6,happy valentine's day,happy valentine's day,302,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,5,ragtime,the ragtime challenge,303,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,4,lazing on the caribbean,lazing on the caribbean,304,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,3,one for bowie,one for bowie,305,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,2,one for lemmy,one for lemmy,306,TRUE,TRUE,TRUE,TRUE,FALSE
-2016,1,power thru,power thru the power metal challenge,307,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,53,groovin' into 2016,groovin' into 2017,308,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,52,happy holidays,happy holidays,309,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,51,snowed in,snowed in warm up for the holidays,310,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,50,argentine tango,argentine tango celebrating the 125th birthday of carlos gardel,311,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,49,jazzy holidays,the jazzy holidays,312,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,48,chanson,the chanson,313,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,47,bossa nova,the bossa nova,314,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,46,pop star challenge: the sequel,pop star challenge: the sequel,315,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,45,pop star challenge: pt. 1,pop star challenge: pt. 1,316,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,44,halloween,the halloween,317,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,43,liverpool,meet the liverpool,318,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,42,super chiptunes,super chiptunes,319,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,41,big vintage rock,big vintage rock,320,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,40,rockabilly rumble,rockabilly rumble,321,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,39,celtic classics,celtic classics,322,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,38,playing for change,playing for change,323,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,37,smells like grunge spirit,smells like grunge spirit the grunge challenge,324,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,36,india,india ragas tablas and masala,325,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,35,skate punk party,"skate punk party ollies, fakies and rock'n'roll",326,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,34,at the movies pt. 2,at the movies pt. 2 the challenge returns,327,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,33,bluegrass,bluegrass the grass is always bluer on the banjo side,328,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,32,dance through the 90's,dance through the 90's,329,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,31,at the movies,at the movies popcorn & power chords,330,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,30,reggae party,reggae party tune up stand up,331,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,29,soul,soul strum rattle & roll,332,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,28,kung fu,kung fu challenge riffs of fury,333,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,27,groove metal,groove metal vulgar display of skills,334,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,26,steampunk,steampunk challenge songs of future past,335,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,25,singer-songwriter,"the singer-song-writer just you, your feelings and your guitar",336,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,24,the challenge of doom,the challenge of doom,337,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,23,electro swing,electro swing,338,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,22,barock,barock powder your wigs and practice your licks,339,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,21,drivin',drivin' songs for the road,340,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,20,fusion,fusion are you a musical chameleon?,341,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,19,flamenco,flamenco challenge fire and passion on the fretboard,342,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,18,nordic folk,nordic folk two songs of ice and steel,343,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,17,ska,ska can you play the heavy heavy monster sound?,344,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,16,get experienced!,get experienced! but don't play with your teeth,345,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,15,blues form workout,blues form workout blues beyond three chords,346,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,14,prog metal,prog metal try to wrap your head around,347,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,13,earth hour,earth hour take a candlelight moment with your guitar,348,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,12,j.s. bach goes metal,j.s. bach goes metal,349,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,11,attitude rock,attitude rock,350,TRUE,TRUE,TRUE,TRUE,FALSE
-2015,10,sound of the future,sound of the future today time to boldly take the 2050's challenge...,351,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,48,klezmer kassiks pt. 2 4,klezmer kassiks pt. 2,0,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,47,ye olde english challenge 2,ye olde english challenge,1,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,46,balkan bounce 2,balkan bounce,2,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,45,slow jams,slow jams,3,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,44,pride & joy 2,pride & joy,4,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,43,hard rock halloween 2,hard rock halloween,5,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,42,cowboys from the down below,cowboys from the down below,6,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,41,"all right, adding machine 2","all right, adding machine",7,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,40,here's johnny,here's johnny,8,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,39,doo doo doodoo doodoo 2,children's choice,9,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,38,mariachi madness 2,mariachi madness,10,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,37,country roads 2,country roads,11,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,36,bekind,#bekind,12,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,35,a night with tchaikovsky,a night with tchaikovsky,13,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,34,from dublin with love 2,from dublin with love,14,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,33,spandex nightmares 2,spandex nightmares,15,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,32,four flat tires on a muddy road 2,four flat tires on a muddy road,16,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,31,yellowstone,yellowstone,17,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,30,return of the chiptunes 2,return of the chiptunes,18,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,29,the dance of the knights 2,dance of the knights,19,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,28,chanson 2,chanson,20,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,27,surf & twang 2,surf and twang,21,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,26,challenge in a bottle 2,challenge in a bottle,22,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,25,"echoes, walls and mad jewels 2","echoes, walls and mad jewels",23,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,24,epic amusement 2,epic amusement,24,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,23,glossy-eyed ballads,glossy-eyed ballads,25,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,22,hi-nrg 2,hi-nrg,26,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,21,sabor cubano 2,sabor cubano,27,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,20,painting the sky 2,painting the sky,28,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,19,into the battle! 2,into the battle!,29,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,18,teacher's pick,teacher's pick,30,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,17,an odyssey in jazz 2,odyssey in jazz,31,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,16,at the movies pt. III 2,soundtracks and cinema,32,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,15,lost in the wilderness 2,lost in the wilderness,33,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,14,burning balalaikas 2,burning balalaikas,34,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,13,chuck berry forever,chuck berry forever,35,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,12,a.r.e.t.h.a.,a.r.e.t.h.a.,36,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,11,spring baroque,spring baroque,37,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,10,jam like janis,jam like janis,38,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,9,one for chick,one for chick,39,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,8,swing low 2,swing low,40,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,7,get funky 2,get funky,41,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,6,happy valentine's day 2,cupid's bow,42,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,5,dub til you drop 2,dub til you drop big up!,43,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,4,ode to mozart,ode to mozart,44,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,3,one for alexi,one for alexi,45,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,2,#30daysofyousician,#30daysofyousician,46,TRUE,TRUE,TRUE,TRUE,FALSE
+2021,1,one for bowie 2,bowie forever,47,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,53,2020 madness,2020 madness,48,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,52,holliday edition,winter is here,49,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,51,sir uke 2,sir uke,50,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,50,mall punks,mall punks,51,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,49,bring back the 90's,bring back the 90's,52,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,48,jimi forever,jimi forever,53,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,47,common life & miracles 2,common life & miracles,54,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,46,dawn to dusk 2,dawn to dusk classical adaptations,55,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,45,sunday morning jazz breakfast 2,sunday morning jazz breakfast,56,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,44,the return of the pumpkins 2,the return of the pumpkins,57,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,43,dark hounds & white whales 2,dark hounds & white whales,58,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,42,one for eddie,one for eddie,59,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,41,corazon bailando 2,corazon bailando songs from the barrio,60,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,40,metal mania 2,metal mania,61,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,39,the return of the disco daddy 2,the return of the disco daddy,62,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,38,magic mandolins 2,magic mandolins,63,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,37,delicate moods 2,delicate moods raindrops & romance,64,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,36,future city sounds 2,future city sounds back by popular demand!,65,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,35,rough it up 2,rough it up! raw sounds and blistered fingers,66,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,34,the big bad big band boogie 2,the big bad big band boogie!,67,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,33,slow jamz 2,slow jamz kick it with some r'n'b,68,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,32,one for green,one for green,69,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,31,restless boots 2,restless boots odes to the country roads,70,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,30,summer of love 2,the summer of love peace & harmony,71,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,29,west africa 2,west africa earthy rhythms from senegal & mali,72,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,28,helsinki bachata 2,helsinki bachata feat. joaquin luis,73,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,27,summer nights 2,summer nights sing along under the stars,74,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,26,mozart modernized 2,mozart modernized eine kleine blastmusik,75,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,25,world music day,world music day 2020,76,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,24,alternative adventures 2,alternative adventures battle for a week rule for a lifetime,77,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,23,follow me 2,follow me trek along with two indie pop tunes,78,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,22,swingin' 2,swingin',79,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,21,cumbia party 2,cumbia party come out and dance,80,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,20,one for penniman,one for penniman,81,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,19,tales from the dark caves 2,tales from the dark caves where the bleak ballads grow,82,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,18,bring on the riddim 2,bring on the riddim feat. puppa j.,83,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,17,klezmer klassiks 3,klezmer klassiks dance till you drop,84,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,16,solely you 2,solely you sha-la-la into the 50's,85,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,15,fiesta mexicana 2,fiesta mexicana spicy hot evergreens,86,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,14,surfin' 2,surfin' catch the wave,87,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,13,feelin' good 2,feelin' good uplifting pop hits,88,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,12,wicked rhythms 2,wicked rhythms grooves with a twist,89,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,11,chill out 2,chill out peaceful sunset moods,90,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,10,feel the beat 2,feel the beat afro-funk grooves,91,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,9,adrenaline rush 2,adrenaline rush high energy rock songs,92,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,8,grandfathers of loud 2,the grandfathers of loud epic orchestral classics,93,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,7,it's complicated 2,it's complicated songs about relationships,94,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,6,light your fire 2,light your fire inspired by classic psychedelic rock,95,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,5,space mammoths 2,space mammoths breaking boundaries with utopianisti,96,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,4,the ol' dirt road 2,the ol' dirt road folk favorites,97,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,3,one for neil,one for neil,98,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,2,rock 'n' roll 2,rock 'n' roll,99,TRUE,TRUE,TRUE,TRUE,FALSE
+2020,1,pump up the volume 2,pump up the volume 90's pop beats,100,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,52,classic rock 2,classic rock this challenge goes to 11!,101,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,51,joy to the world,joy to the world,102,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,50,holidays with tchaikovsky's nutcracker,holidays with tchaikovsky's nutcracker,103,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,49,bluegrass challenge,"bluegrass challenge ""the grass is always bluer on the banjo side""",104,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,48,knowledge toolbox: 7th chords,knowledge toolbox: 7th chords,105,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,47,children's choice,children's choice,106,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,46,secret agents,secret agents,107,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,45,midnight special,midnight special,108,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,44,keep calm and play on,keep calm and play on,109,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,43,tunes from the haunted house,tunes from the haunted house,110,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,42,knowledge toolbox: anatomy of a pop song,knowledge toolbox: anatomy of a pop song,111,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,41,might & magic,might & magic,112,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,40,one for ric,one for ric,113,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,39,forever young,forever young,114,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,38,moore is more!,moore is more!,115,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,37,dub town folk,dub town folk,116,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,36,let's ballad!,let's ballad!,117,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,35,blues for rory,blues for rory,118,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,34,ferramentum mechanica,ferramentum mechanica,119,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,33,polyrhythms & polymeters,polyrhythms & polymeters,120,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,32,flamenco 2,flamenco,121,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,31,"blood, sweat and classical music","blood, sweat and classical music",122,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,30,party with yousician,party with yousician,123,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,29,amore mediterraneo,amore mediterraneo,124,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,28,steampunk challenge,steampunk challenge,125,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,27,flying thumbs,flying thumbs,126,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,26,4th of july,4th of july,127,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,25,kung fu challenge,kung fu challenge,128,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,24,classical chill out,classical chill out,129,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,23,got the blues?,got the blues?,130,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,22,the hockey master's polka special,the hockey master's polka special,131,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,21,attitude rock 2,attitude rock,132,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,20,new visions,new visions,133,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,19,sound in my system,sound in my system,134,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,18,maharajas of music,maharajas of music,135,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,17,ye olde english challenge,ye olde english challenge,136,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,16,"live fast, play fast","live fast, play fast",137,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,15,songs from film classics,songs from film classics,138,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,14,one for dale,one for dale,139,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,13,el desafio cubano,el desafio cubano,140,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,12,the jimi hendrix challenge,"the jimi hendrix challenge test your skill on classic hendrix songs ""fire"" & ""castles made of sand""",141,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,11,st. patrick's day party,st. patrick's day party,142,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,10,mardi gras,mardi gras,143,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,9,in a hurry?,in a hurry?,144,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,8,shortnin' bread,shortnin' bread,145,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,7,be the boss,be the boss,146,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,6,song for you,song for you a valentine's day special,147,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,5,nwobhm,nwobhm new wave of british heavy metal,148,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,4,challenge with a capital C,challenge with a capital C,149,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,3,back to bach,back to bach,150,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,2,ruff rockin,ruff rockin,151,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,1,classical piano favorites,classical piano favorites,152,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,52,at the gym,at the gym,153,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,51,carols through the ages,carols through the ages,154,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,50,swing with santa,swing with santa,155,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,49,life on horseback,life on horseback,156,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,48,iceland 100 years,fire & ice iceland 100 years,157,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,47,strum with the machines,strum with the machines,158,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,46,three minute love story,three minute love story,159,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,45,the challenge must go on,the challenge must go on,160,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,44,symphonic surprises,symphonic surprises with papa haydn,161,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,43,hard rock halloween,hard rock halloween,162,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,42,slow jamz pt. 2,slow jamz pt. 2,163,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,41,gypsy jazz,gypsy jazz,164,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,40,dark souls,dark souls,165,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,39,waltzing nylons,waltzing nylons,166,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,38,brahms bash,brahms bash,167,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,37,hi-nrg,hi-nrg,168,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,36,burning codes,burning codes,169,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,35,klezmer kassiks pt. 2,klezmer kassiks pt. 2,170,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,34,one for aretha,one for aretha,171,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,33,tales from the thousand lakes,tales from the thousand lakes,172,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,32,rock in 5,rock in 5,173,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,31,mariachi madness,mariachi madness,174,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,30,classy ballads,classy ballads,175,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,29,the greek challenge,the greek challenge,176,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,28,ram bam with jo buddy,ram bam with jo buddy,177,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,27,pub rock,pub rock,178,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,26,one for vinnie,one for vinnie,179,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,25,midsummer wedding,midsummer wedding challenge,180,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,24,miami vibe,miami vibe,181,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,23,hawaii style,hawaii style,182,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,22,australia,australia challenge,183,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,21,wagner with a twist,wagner with a twist,184,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,20,you can't do that on a challenge anymore vol. 1,you can't do that on a challenge anymore vol. 1,185,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,19,funky strut,funky strut,186,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,18,epic amusement,epic amusement,187,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,17,jasmine flower,jasmine flower,188,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,16,c'est la vie with satie,c'est la vie with satie,189,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,15,an odyssey in jazz,an odyssey in jazz,190,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,14,habanero hop,habanero hop,191,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,13,easter with j.s. bach,easter with j.s. bach,192,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,12,beyond the stars ...one for hawking...,beyond the stars ...one for hawking...,193,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,11,the river flows,the river flows,194,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,10,happy-o-rama,happy-o-rama,195,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,9,funk metal attack,funk metal attack,196,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,8,pride and joy,pride and joy,197,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,7,punk,punk,198,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,6,be my valentine,be my valentine,199,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,5,catching sounds,catching sounds,200,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,4,all right adding machine,all right adding machine,201,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,3,swing low,swing low,202,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,2,balkan bounce pt. 2,balkan bounce pt. 2,203,TRUE,TRUE,TRUE,TRUE,FALSE
+2018,1,lost in the wilderness,lost in the wilderness,204,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,52,new year special,new year special 2018,205,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,51,operatic holidays,operatic holidays,206,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,50,peaceful christmas,peaceful christmas,207,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,49,surf and twang,surf and twang,208,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,48,finland 100 years,finland 100 years,209,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,47,one for malcolm,one for malcolm,210,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,46,flutes rock,flutes rock,211,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,45,magic mandolins,magic mandolins,212,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,44,at the opera,a night at the opera,213,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,43,the halloween challenge,the halloween challenge,214,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,42,the leah harris challenge,the leah harris challenge,215,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,41,one for petty,one for petty,216,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,40,80's power ballads,80's power ballads,217,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,39,balkan bounce,balkan bounce,218,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,38,at the movies pt. 3,at the movies pt. 3 the trilogy,219,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,37,cosmic blues,cosmic blues feat. noora louhimo,220,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,36,calm classical,calm classical,221,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,35,country roads,country roads,222,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,34,"echoes, walls and mad jewels","echoes, walls and mad jewels",223,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,33,the dance of the knights,the dance of the knights,224,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,32,one for chester,one for chester,225,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,31,rocky road to dublin,rocky road to dublin,226,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,30,the life and times of todd,the life and times of todd,227,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,29,four flat tires on a muddy road,four flat tires on a muddy road,228,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,28,painting the sky,painting the sky,229,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,27,spandex nightmares,spandex nightmares,230,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,26,sir uke,sir uke,231,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,25,summer madness,summer madness,232,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,24,baroque hits,baroque hits,233,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,23,from dublin with love,from dublin with love,234,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,22,into the battle!,into the battle!,235,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,21,one for cornell,one for cornell,236,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,20,common life & miracles,common life & miracles,237,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,19,challenging visions,challenging visions,238,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,18,in the court of the weekly challenge,in the court of the weekly challenge,239,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,17,challenge in a bottle,challenge in a bottle,240,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,16,the return of the chiptunes,the return of the chiptunes,241,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,15,get funky,get funky,242,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,14,lonely hearts,lonely hearts,243,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,13,duckwalk avenue,duckwalk avenue,244,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,12,dawn to dusk,dawn to dusk classical adaptations,245,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,11,burning balalaikas,burning balalaikas,246,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,10,rock explosion,rock explosion,247,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,9,sunday morning jazz breakfast,sunday morning jazz breakfast,248,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,8,dark hounds & white whales,dark hounds & white whales,249,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,7,dub til you drop,dub til you drop big up!,250,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,6,corazon bailando,corazon bailando songs from the barrio,251,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,5,metal mania,metal mania,252,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,4,bluegrass fever,bluegrass fever,253,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,3,disco daddy,the return of the disco daddy,254,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,2,italia!,italia! tarantella & tagliatelle,255,TRUE,TRUE,TRUE,TRUE,FALSE
+2017,1,delicate moods,delicate moods raindrops & romance,256,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,52,future city sounds,future city sounds back by popular demand!,257,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,51,from santa with love,from santa with love,258,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,50,christmas classics,peaceful christmas classics,259,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,49,rough it up,rough it up raw sounds and blistered fingers,260,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,48,the big bad big band boogie,the big bad big band boogie,261,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,47,slow jamz,slow jamz kick it with some r'n'b,262,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,46,supermassive supermoon,the supermassive supermoon,263,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,45,restless boots,restless boots odes to the country roads,264,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,44,west africa,west africa earthy rhythms from senegal & mali,265,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,43,the return of the pumpkins,the return of the pumpkins,266,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,42,helsinki bachata,helsinki bachata feat. joaquin luis,267,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,41,mozart modernized,mozart modernized eine kleine blastmusik,268,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,40,alternative adventures,alternative adventures battle for a week rule for a lifetime,269,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,39,follow me,follow me trek along with two indie pop tunes,270,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,38,cumbia party,cumbia party come out and dance,271,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,37,tales from the dark caves,tales from the dark caves where the bleak ballads grow,272,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,36,bring on the riddim,bring on the riddim feat. puppa j.,273,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,35,klezmer klassiks,klezmer klassiks dance till you drop,274,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,34,solely you,solely you sha-la-la into the 50's,275,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,33,fiesta mexicana,fiesta mexicana spicy hot evergreens,276,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,32,surfin',surfin' catch the wave,277,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,31,french impressions,french impressions maurice ravel,278,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,30,wicked rhythms,wicked rhythms grooves with a twist,279,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,29,feelin' good,feelin' good uplifting pop hits,280,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,28,summer of love,the summer of love peace & harmony,281,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,27,classic rock,classic rock the challenge goes to 11!,282,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,26,songs of the midnight sun,songs of the midnight sun finnish folk tunes,283,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,25,feel the beat,feel the beat afro-funk grooves,284,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,24,adrenaline rush,adrenaline rush high energy rock songs,285,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,23,grandfathers of loud,the grandfathers of loud epic orchestral classics,286,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,22,light your fire,light your fire inspired by classic psychedelic rock,287,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,21,space mammoths,space mammoths breaking boundaries with utopianisti,288,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,20,the ol' dirt road,the ol' dirt road folk favorites,289,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,19,pump up the volume,pump up the volume 90's pop beats,290,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,18,summer nights,summer nights sing along under the stars,291,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,17,chill out,chill out peaceful sunset moods,292,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,16,it's complicated,it's complicated songs about relationships,293,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,15,rock 'n' roll,rock 'n' roll,294,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,14,swingin',swingin',295,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,13,sing-along waltzes,sing-along waltzes,296,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,12,at the ballet with tchaikovsky,at the ballet with tchaikovsky,297,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,11,balkan grooves,balkan grooves,298,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,10,sabor cubano,sabor cubano,299,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,9,classical picks for the stage,classical picks for the stage,300,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,8,rob scallon,the rob scallon challenge,301,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,7,wishing in the night,wishing in the night,302,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,6,happy valentine's day,happy valentine's day,303,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,5,ragtime,the ragtime challenge,304,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,4,lazing on the caribbean,lazing on the caribbean,305,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,3,one for bowie,one for bowie,306,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,2,one for lemmy,one for lemmy,307,TRUE,TRUE,TRUE,TRUE,FALSE
+2016,1,power thru,power thru the power metal challenge,308,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,53,groovin' into 2016,groovin' into 2017,309,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,52,happy holidays,happy holidays,310,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,51,snowed in,snowed in warm up for the holidays,311,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,50,argentine tango,argentine tango celebrating the 125th birthday of carlos gardel,312,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,49,jazzy holidays,the jazzy holidays,313,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,48,chanson,the chanson,314,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,47,bossa nova,the bossa nova,315,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,46,pop star challenge: the sequel,pop star challenge: the sequel,316,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,45,pop star challenge: pt. 1,pop star challenge: pt. 1,317,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,44,halloween,the halloween,318,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,43,liverpool,meet the liverpool,319,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,42,super chiptunes,super chiptunes,320,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,41,big vintage rock,big vintage rock,321,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,40,rockabilly rumble,rockabilly rumble,322,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,39,celtic classics,celtic classics,323,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,38,playing for change,playing for change,324,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,37,smells like grunge spirit,smells like grunge spirit the grunge challenge,325,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,36,india,india ragas tablas and masala,326,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,35,skate punk party,"skate punk party ollies, fakies and rock'n'roll",327,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,34,at the movies pt. 2,at the movies pt. 2 the challenge returns,328,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,33,bluegrass,bluegrass the grass is always bluer on the banjo side,329,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,32,dance through the 90's,dance through the 90's,330,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,31,at the movies,at the movies popcorn & power chords,331,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,30,reggae party,reggae party tune up stand up,332,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,29,soul,soul strum rattle & roll,333,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,28,kung fu,kung fu challenge riffs of fury,334,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,27,groove metal,groove metal vulgar display of skills,335,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,26,steampunk,steampunk challenge songs of future past,336,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,25,singer-songwriter,"the singer-song-writer just you, your feelings and your guitar",337,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,24,the challenge of doom,the challenge of doom,338,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,23,electro swing,electro swing,339,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,22,barock,barock powder your wigs and practice your licks,340,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,21,drivin',drivin' songs for the road,341,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,20,fusion,fusion are you a musical chameleon?,342,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,19,flamenco,flamenco challenge fire and passion on the fretboard,343,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,18,nordic folk,nordic folk two songs of ice and steel,344,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,17,ska,ska can you play the heavy heavy monster sound?,345,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,16,get experienced!,get experienced! but don't play with your teeth,346,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,15,blues form workout,blues form workout blues beyond three chords,347,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,14,prog metal,prog metal try to wrap your head around,348,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,13,earth hour,earth hour take a candlelight moment with your guitar,349,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,12,j.s. bach goes metal,j.s. bach goes metal,350,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,11,attitude rock,attitude rock,351,TRUE,TRUE,TRUE,TRUE,FALSE
+2015,10,sound of the future,sound of the future today time to boldly take the 2050's challenge...,352,TRUE,TRUE,TRUE,TRUE,FALSE
