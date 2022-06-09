@@ -903,6 +903,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,classy ballads 2,FALSE,song,sergei rachmaninoff,basic melody,3,vocalise
+guitar-challenges,classy ballads 2,FALSE,song,maurice ravel,cowboy chords,4,pavane pour une infante defunte
+guitar-challenges,classy ballads 2,FALSE,song,maurice ravel,full melody,7,pavane pour une infante defunte
+guitar-challenges,classy ballads 2,FALSE,song,sergei rachmaninoff,fingerpicking,8,vocalise
 guitar-challenges,the river flows 2,FALSE,song,traditional,basic melody,2,swanee river
 guitar-challenges,the river flows 2,FALSE,song,traditional,cowboy chords,4,red river valley
 guitar-challenges,the river flows 2,FALSE,song,traditional,fingerpicking,7,red river valley
@@ -2651,6 +2655,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,classy ballads 2,FALSE,song,maurice ravel,bass,1,pavane pour une infante defunte
+piano-challenges,classy ballads 2,FALSE,song,sergei rachmaninoff,bass,2,vocalise
+piano-challenges,classy ballads 2,FALSE,song,maurice ravel,melody,4,pavane pour une infante defunte
+piano-challenges,classy ballads 2,FALSE,song,sergei rachmaninoff,accompaniment,8,vocalise
 piano-challenges,the river flows 2,FALSE,song,traditional,melody,2,swanee river
 piano-challenges,the river flows 2,FALSE,song,traditional,melody,3,red river valley
 piano-challenges,the river flows 2,FALSE,song,traditional,accompaniment,5,swanee river
@@ -4680,6 +4688,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,classy ballads 2,FALSE,song,sergei rachmaninoff,melody,3,vocalise
+ukulele-challenges,classy ballads 2,FALSE,song,maurice ravel,melody,5,pavane pour une infante defunte
+ukulele-challenges,classy ballads 2,FALSE,song,maurice ravel,fingerpicking,7,pavane pour une infante defunte
+ukulele-challenges,classy ballads 2,FALSE,song,sergei rachmaninoff,chords,8,vocalise
 ukulele-challenges,the river flows 2,FALSE,song,traditional,basic melody,2,swanee river
 ukulele-challenges,the river flows 2,FALSE,song,traditional,chords,3,swanee river
 ukulele-challenges,the river flows 2,FALSE,song,traditional,melody,5,red river valley
@@ -6731,6 +6743,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,classy ballads 2,FALSE,song,sergei rachmaninoff,basic bassline,1,vocalise
+bass-challenges,classy ballads 2,FALSE,song,maurice ravel,basic bassline,2,pavane pour une infante defunte
+bass-challenges,classy ballads 2,FALSE,song,sergei rachmaninoff,full bassline,4,vocalise
+bass-challenges,classy ballads 2,FALSE,song,maurice ravel,melody,6,pavane pour une infante defunte
 bass-challenges,the river flows 2,FALSE,song,traditional,basic bassline,1,swanee river
 bass-challenges,the river flows 2,FALSE,song,traditional,basic bassline,2,red river valley
 bass-challenges,the river flows 2,FALSE,song,traditional,full bassline,5,red river valley
