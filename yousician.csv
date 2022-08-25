@@ -913,6 +913,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,classical piano favorites 2,FALSE,song,erik satie,melody,3,gymnopedie no.1
+guitar-challenges,classical piano favorites 2,FALSE,song,ludwig van beethoven,cowboy chords,4,fur elise (challenge)
+guitar-challenges,classical piano favorites 2,FALSE,song,erik satie,fingerpicking,7,gymnopedie no.1
+guitar-challenges,classical piano favorites 2,FALSE,song,ludwig van beethoven,melody,8,fur elise (challenge)
 guitar-challenges,super chiptunes 2,FALSE,song,the yousicians,basic melody,2,grand prix
 guitar-challenges,super chiptunes 2,FALSE,song,the yousicians,basic riff,4,axeman
 guitar-challenges,super chiptunes 2,FALSE,song,the yousicians,basic melody,6,axeman
@@ -2705,6 +2709,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,classical piano favorites 2,FALSE,song,ludwig van beethoven,solo piano,4,fur elise
+piano-challenges,classical piano favorites 2,FALSE,song,erik satie,accompaniment,4,gymnopedie no.1 (in C)
+piano-challenges,classical piano favorites 2,FALSE,song,ludwig van beethoven,solo piano,8,fur elise
+piano-challenges,classical piano favorites 2,FALSE,song,erik satie,solo piano,9,gymnopedie no.1
 piano-challenges,super chiptunes 2,FALSE,song,the yousicians,accompaniment,4,axeman
 piano-challenges,super chiptunes 2,FALSE,song,the yousicians,solo piano,7,axeman
 piano-challenges,super chiptunes 2,FALSE,song,the yousicians,accompaniment,7,grand prix
@@ -4778,6 +4786,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,classical piano favorites 2,FALSE,song,erik satie,melody,2,gymnopedie no.1 (in C)
+ukulele-challenges,classical piano favorites 2,FALSE,song,erik satie,chords,4,gymnopedie no.1
+ukulele-challenges,classical piano favorites 2,FALSE,song,ludwig van beethoven,chords,6,fur elise (challenge)
+ukulele-challenges,classical piano favorites 2,FALSE,song,ludwig van beethoven,melody,8,fur elise (challenge)
 ukulele-challenges,super chiptunes 2,FALSE,song,the yousicians,basic melody,2,grand prix
 ukulele-challenges,super chiptunes 2,FALSE,song,the yousicians,basic rhythm,3,axeman
 ukulele-challenges,super chiptunes 2,FALSE,song,the yousicians,melody,7,axeman
@@ -6873,6 +6885,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,classical piano favorites 2,FALSE,song,erik satie,basic bassline,1,gymnopedie no.1
+bass-challenges,classical piano favorites 2,FALSE,song,ludwig van beethoven,basic bassline,2,fur elise (challenge)
+bass-challenges,classical piano favorites 2,FALSE,song,erik satie,melody,5,gymnopedie no.1
+bass-challenges,classical piano favorites 2,FALSE,song,ludwig van beethoven,melody,7,fur elise (challenge)
 bass-challenges,super chiptunes 2,FALSE,song,the yousicians,basic bassline,2,axeman
 bass-challenges,super chiptunes 2,FALSE,song,the yousicians,basic bassline,3,grand prix
 bass-challenges,super chiptunes 2,FALSE,song,the yousicians,full bassline,8,axeman
