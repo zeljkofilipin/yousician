@@ -924,6 +924,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,surfin' 3,FALSE,song,traditional,basic riff,2,malaguena (surf)
+guitar-challenges,surfin' 3,FALSE,song,traditional,cowboy chords,4,misirlou (surf)
+guitar-challenges,surfin' 3,FALSE,song,traditional,main melody,7,misirlou (surf)
+guitar-challenges,surfin' 3,FALSE,song,traditional,full rhythm & lead,9,malaguena (surf)
 guitar-challenges,peaceful christmas 3,FALSE,song,traditional,basic melody,2,hark! the herald angels sing
 guitar-challenges,peaceful christmas 3,FALSE,song,traditional,melody,3,we three kings
 guitar-challenges,peaceful christmas 3,FALSE,song,traditional,fancy chords,6,we three kings
@@ -2788,6 +2792,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,surfin' 3,FALSE,song,traditional,bass,1,misirlou (surf)
+piano-challenges,surfin' 3,FALSE,song,traditional,melody,2,malaguena (surf)
+piano-challenges,surfin' 3,FALSE,song,traditional,chords,6,malaguena (surf)
+piano-challenges,surfin' 3,FALSE,song,traditional,solo piano,9,misirlou (surf)
 piano-challenges,peaceful christmas 3,FALSE,song,traditional,melody,1,we three kings
 piano-challenges,peaceful christmas 3,FALSE,song,traditional,melody,2,hark! the herald angels sing
 piano-challenges,peaceful christmas 3,FALSE,song,traditional,solo piano,4,hark! the herald angels sing
@@ -4933,6 +4941,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,surfin' 3,FALSE,song,traditional,basic melody,2,misirlou (surf)
+ukulele-challenges,surfin' 3,FALSE,song,traditional,melody,4,malaguena (surf)
+ukulele-challenges,surfin' 3,FALSE,song,traditional,chords & melody,6,misirlou (surf)
+ukulele-challenges,surfin' 3,FALSE,song,traditional,chords & melody,7,malaguena (surf)
 ukulele-challenges,peaceful christmas 3,FALSE,song,traditional,melody,2,hark! the herald angels sing
 ukulele-challenges,peaceful christmas 3,FALSE,song,traditional,chords,4,hark! the herald angels sing
 ukulele-challenges,peaceful christmas 3,FALSE,song,traditional,melody,5,we three kings
@@ -7100,6 +7112,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,surfin' 3,FALSE,song,traditional,basic bassline,2,misirlou (surf)
+bass-challenges,surfin' 3,FALSE,song,traditional,full bassline,7,malaguena (surf)
+bass-challenges,surfin' 3,FALSE,song,traditional,full bassline,7,misirlou (surf)
+bass-challenges,surfin' 3,FALSE,song,traditional,melody,9,malaguena (surf)
 bass-challenges,peaceful christmas 3,FALSE,song,traditional,basic bassline,1,hark! the herald angels sing
 bass-challenges,peaceful christmas 3,FALSE,song,traditional,basic bassline,2,we three kings
 bass-challenges,peaceful christmas 3,FALSE,song,traditional,full bassline,5,hark! the herald angels sing
