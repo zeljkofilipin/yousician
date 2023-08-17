@@ -1791,10 +1791,10 @@ guitar-challenges,amore mediterraneo,FALSE,song,traditional,cowboy chords,3,la p
 guitar-challenges,amore mediterraneo,FALSE,song,traditional,main melody,4,o sole mio (in A)
 guitar-challenges,amore mediterraneo,FALSE,song,traditional,melody,5,la paloma (in C)
 guitar-challenges,amore mediterraneo,FALSE,song,traditional,fancy chords,6,o sole mio (in A)
-guitar-challenges,steampunk challenge,FALSE,song,the yousicians,basic riff,2,artificer's legacy
-guitar-challenges,steampunk challenge,FALSE,song,traditional,basic riff,3,two ravens
-guitar-challenges,steampunk challenge,FALSE,song,traditional,rhythm,6,two ravens
-guitar-challenges,steampunk challenge,FALSE,song,the yousicians,melody,7,artificer's legacy
+guitar-challenges,steampunk challenge 2,FALSE,song,the yousicians,basic riff,2,artificer's legacy
+guitar-challenges,steampunk challenge 2,FALSE,song,traditional,basic riff,3,two ravens
+guitar-challenges,steampunk challenge 2,FALSE,song,traditional,rhythm,6,two ravens
+guitar-challenges,steampunk challenge 2,FALSE,song,the yousicians,melody,7,artificer's legacy
 guitar-challenges,flying thumbs,FALSE,song,the yousicians,basic riff,2,the secret society of the flying thumb
 guitar-challenges,flying thumbs,FALSE,song,the yousicians,basic riff,5,she's slapping away (in Em)
 guitar-challenges,flying thumbs,FALSE,song,the yousicians,full riff,9,she's slapping away (in Em)
@@ -2635,10 +2635,10 @@ guitar-challenges,groove metal,FALSE,song,the yousicians,bass line,2,take your p
 guitar-challenges,groove metal,FALSE,song,the yousicians,basic riff,3,a new kennel
 guitar-challenges,groove metal,FALSE,song,the yousicians,full riff,9,a new kennel
 guitar-challenges,groove metal,FALSE,song,the yousicians,metal rhythm,11,take your positions
-guitar-challenges,steampunk,FALSE,song,the yousicians,bass line,3,two ravens
-guitar-challenges,steampunk,FALSE,song,the yousicians,basic riff,3,artificer's legacy
-guitar-challenges,steampunk,FALSE,song,the yousicians,arpeggios & melody,6,two ravens
-guitar-challenges,steampunk,FALSE,song,the yousicians,melody,7,artificer's legacy
+guitar-challenges,steampunk challenge,FALSE,song,the yousicians,bass line,3,two ravens
+guitar-challenges,steampunk challenge,FALSE,song,the yousicians,basic riff,3,artificer's legacy
+guitar-challenges,steampunk challenge,FALSE,song,the yousicians,arpeggios & melody,6,two ravens
+guitar-challenges,steampunk challenge,FALSE,song,the yousicians,melody,7,artificer's legacy
 guitar-challenges,singer-songwriter,FALSE,song,the yousicians,bass line,2,life is a poem
 guitar-challenges,singer-songwriter,FALSE,song,the yousicians,basic melody,3,mornings sun
 guitar-challenges,singer-songwriter,FALSE,song,the yousicians,melody challenge,6,life is a poem
@@ -3775,10 +3775,10 @@ piano-challenges,amore mediterraneo,FALSE,song,traditional,two hands,2,o sole mi
 piano-challenges,amore mediterraneo,FALSE,song,traditional,accompaniment,4,la paloma (in C)
 piano-challenges,amore mediterraneo,FALSE,song,traditional,chords and bass,6,o sole mio (in A)
 piano-challenges,amore mediterraneo,FALSE,song,traditional,melody and bass,9,la paloma (in C)
-piano-challenges,steampunk challenge,FALSE,song,traditional,left hand (left hand),1,two ravens
-piano-challenges,steampunk challenge,FALSE,song,the yousicians,two hands,4,artificer's legacy
-piano-challenges,steampunk challenge,FALSE,song,traditional,two hands,6,two ravens
-piano-challenges,steampunk challenge,FALSE,song,the yousicians,melody and bass,8,artificer's legacy
+piano-challenges,steampunk challenge 2,FALSE,song,traditional,left hand (left hand),1,two ravens
+piano-challenges,steampunk challenge 2,FALSE,song,the yousicians,two hands,4,artificer's legacy
+piano-challenges,steampunk challenge 2,FALSE,song,traditional,two hands,6,two ravens
+piano-challenges,steampunk challenge 2,FALSE,song,the yousicians,melody and bass,8,artificer's legacy
 piano-challenges,flying thumbs,FALSE,song,the yousicians,left hand (left hand),2,the secret society of the flying thumb
 piano-challenges,flying thumbs,FALSE,song,the yousicians,right hand (rigth hand),4,she's slapping away (in Em)
 piano-challenges,flying thumbs,FALSE,song,the yousicians,two hands,6,the secret society of the flying thumb
@@ -6040,10 +6040,10 @@ ukulele-challenges,amore mediterraneo,FALSE,song,traditional,chords,3,la paloma 
 ukulele-challenges,amore mediterraneo,FALSE,song,traditional,melody,4,o sole mio (in A)
 ukulele-challenges,amore mediterraneo,FALSE,song,traditional,melody,5,la paloma (in C)
 ukulele-challenges,amore mediterraneo,FALSE,song,traditional,chords,5,o sole mio (in A)
-ukulele-challenges,steampunk challenge,FALSE,song,traditional,melody,1,two ravens
-ukulele-challenges,steampunk challenge,FALSE,song,the yousicians,chords,5,artificer's legacy
-ukulele-challenges,steampunk challenge,FALSE,song,traditional,fingerpicking,6,two ravens
-ukulele-challenges,steampunk challenge,FALSE,song,the yousicians,fingerpicking,8,artificer's legacy
+ukulele-challenges,steampunk challenge 2,FALSE,song,traditional,melody,1,two ravens
+ukulele-challenges,steampunk challenge 2,FALSE,song,the yousicians,chords,5,artificer's legacy
+ukulele-challenges,steampunk challenge 2,FALSE,song,traditional,fingerpicking,6,two ravens
+ukulele-challenges,steampunk challenge 2,FALSE,song,the yousicians,fingerpicking,8,artificer's legacy
 ukulele-challenges,flying thumbs,FALSE,song,the yousicians,melody,3,she's slapping away (in Em)
 ukulele-challenges,flying thumbs,FALSE,song,the yousicians,chords,4,the secret society of the flying thumb
 ukulele-challenges,flying thumbs,FALSE,song,the yousicians,chords,6,she's slapping away (in Em)
@@ -8327,10 +8327,10 @@ bass-challenges,amore mediterraneo,FALSE,song,traditional,basic bassline,1,la pa
 bass-challenges,amore mediterraneo,FALSE,song,traditional,basic bassline,2,o sole mio (in A)
 bass-challenges,amore mediterraneo,FALSE,song,traditional,full bassline,4,o sole mio (in A)
 bass-challenges,amore mediterraneo,FALSE,song,traditional,full bassline,6,la paloma (in C)
-bass-challenges,steampunk challenge,FALSE,song,the yousicians,basic bassline,2,artificer's legacy
-bass-challenges,steampunk challenge,FALSE,song,traditional,full bassline,2,two ravens
-bass-challenges,steampunk challenge,FALSE,song,the yousicians,full bassline,5,artificer's legacy
-bass-challenges,steampunk challenge,FALSE,song,traditional,melody,7,two ravens
+bass-challenges,steampunk challenge 2,FALSE,song,the yousicians,basic bassline,2,artificer's legacy
+bass-challenges,steampunk challenge 2,FALSE,song,traditional,full bassline,2,two ravens
+bass-challenges,steampunk challenge 2,FALSE,song,the yousicians,full bassline,5,artificer's legacy
+bass-challenges,steampunk challenge 2,FALSE,song,traditional,melody,7,two ravens
 bass-challenges,flying thumbs,FALSE,song,the yousicians,basic bassline,3,she's slapping away (in Em)
 bass-challenges,flying thumbs,FALSE,song,the yousicians,basic bassline,3,the secret society of the flying thumb
 bass-challenges,flying thumbs,FALSE,song,the yousicians,full bassline,10,she's slapping away (in Em)
