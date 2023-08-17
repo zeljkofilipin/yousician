@@ -1,4 +1,8 @@
 year,week,challenge,long,guitar,piano,ukulele,bass,singing
+2023,33,funky strut 3,funky strut,TRUE,TRUE,TRUE,TRUE,FALSE
+2023,32,rough it up 3,rough it up! raw sounds and blistered fingers,TRUE,TRUE,TRUE,TRUE,FALSE
+2023,31,steampunk challenge 3,steampunk challenge,TRUE,TRUE,TRUE,TRUE,FALSE
+2023,30,four flat tires on a muddy road 3,four flat tires on a muddy road,TRUE,TRUE,TRUE,TRUE,FALSE
 2023,29,dub town folk 2,dub town folk,TRUE,TRUE,TRUE,TRUE,FALSE
 2023,28,bluegrass fever 2,bluegrass fever,TRUE,TRUE,TRUE,TRUE,FALSE
 2023,27,"blood, sweat and classical music 2","blood, sweat and classical music",TRUE,TRUE,TRUE,TRUE,FALSE
@@ -209,7 +213,7 @@ year,week,challenge,long,guitar,piano,ukulele,bass,singing
 2019,31,"blood, sweat and classical music","blood, sweat and classical music",TRUE,TRUE,TRUE,TRUE,FALSE
 2019,30,party with yousician,party with yousician,TRUE,TRUE,TRUE,TRUE,FALSE
 2019,29,amore mediterraneo,amore mediterraneo,TRUE,TRUE,TRUE,TRUE,FALSE
-2019,28,steampunk challenge,steampunk challenge,TRUE,TRUE,TRUE,TRUE,FALSE
+2019,28,steampunk challenge 2,steampunk challenge,TRUE,TRUE,TRUE,TRUE,FALSE
 2019,27,flying thumbs,flying thumbs,TRUE,TRUE,TRUE,TRUE,FALSE
 2019,26,4th of july,4th of july,TRUE,TRUE,TRUE,TRUE,FALSE
 2019,25,kung fu challenge,kung fu challenge,TRUE,TRUE,TRUE,TRUE,FALSE
@@ -420,7 +424,7 @@ year,week,challenge,long,guitar,piano,ukulele,bass,singing
 2015,29,soul,soul strum rattle & roll,TRUE,FALSE,FALSE,FALSE,FALSE
 2015,28,kung fu,kung fu challenge riffs of fury,TRUE,FALSE,FALSE,FALSE,FALSE
 2015,27,groove metal,groove metal vulgar display of skills,TRUE,FALSE,FALSE,FALSE,FALSE
-2015,26,steampunk,steampunk challenge songs of future past,TRUE,FALSE,FALSE,FALSE,FALSE
+2015,26,steampunk challenge,steampunk challenge songs of future past,TRUE,FALSE,FALSE,FALSE,FALSE
 2015,25,singer-songwriter,"the singer-song-writer just you, your feelings and your guitar",TRUE,FALSE,FALSE,FALSE,FALSE
 2015,24,the challenge of doom,the challenge of doom,TRUE,FALSE,FALSE,FALSE,FALSE
 2015,23,electro swing,electro swing,TRUE,FALSE,FALSE,FALSE,FALSE
