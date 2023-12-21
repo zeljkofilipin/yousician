@@ -951,6 +951,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,highway to holidays,TRUE,song,chris rea,basic melody?,2,driving home for christmas
+guitar-challenges,highway to holidays,TRUE,song,jose feliciano,cowboy chords,5,feliz navidad
+guitar-challenges,highway to holidays,TRUE,song,jose feliciano,full melody,7,feliz navidad
+guitar-challenges,highway to holidays,TRUE,song,chris rea,barre chords?,8,driving home for christmas
 guitar-challenges,secret agents 2,FALSE,song,the yousicians,basic riff,2,in her majesty's secret band
 guitar-challenges,secret agents 2,FALSE,song,the yousicians,melody,3,don't make a sound
 guitar-challenges,secret agents 2,FALSE,song,the yousicians,full rhythm,7,in her majesty's secret band
@@ -3019,6 +3023,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,highway to holidays,TRUE,song,chris rea,?,?,driving home for christmas
+piano-challenges,highway to holidays,TRUE,song,chris rea,?,?,driving home for christmas
+piano-challenges,highway to holidays,TRUE,song,jose feliciano,?,?,feliz navidad
+piano-challenges,highway to holidays,TRUE,song,jose feliciano,?,?,feliz navidad
 piano-challenges,secret agents 2,FALSE,song,the yousicians,left hand,1,in her majesty's secret band
 piano-challenges,secret agents 2,FALSE,song,the yousicians,two hands,4,don't make a sound
 piano-challenges,secret agents 2,FALSE,song,the yousicians,two hands,6,in her majesty's secret band
@@ -5368,6 +5376,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,highway to holidays,TRUE,song,jose feliciano,chords,5,feliz navidad
+ukulele-challenges,highway to holidays,TRUE,song,chris rea,chords,6,driving home for christmas
+-,-,-,-,-,-,-,-
+-,-,-,-,-,-,-,-
 ukulele-challenges,secret agents 2,FALSE,song,the yousicians,melody,2,don't make a sound
 ukulele-challenges,secret agents 2,FALSE,song,the yousicians,chords,5,in her majesty's secret band
 ukulele-challenges,secret agents 2,FALSE,song,the yousicians,fingerpicking,6,don't make a sound
@@ -7739,6 +7751,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,highway to holidays,TRUE,song,jose feliciano,basic bassline,2,feliz navidad
+bass-challenges,highway to holidays,TRUE,song,chris rea,basic bassline,3,driving home for christmas
+bass-challenges,highway to holidays,TRUE,song,chris rea,full bassline,5,driving home for christmas
+bass-challenges,highway to holidays,TRUE,song,jose feliciano,full bassline,7,feliz navidad
 bass-challenges,secret agents 2,FALSE,song,the yousicians,basic bassline,2,in her majesty's secret band
 bass-challenges,secret agents 2,FALSE,song,the yousicians,basic bassline,2,don't make a sound
 bass-challenges,secret agents 2,FALSE,song,the yousicians,full bassline,4,don't make a sound
