@@ -951,6 +951,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,joy to the world 2,FALSE,song,traditional,basic riff,2,joy to the world
+guitar-challenges,joy to the world 2,FALSE,song,traditional,melody,3,entre le boeuf et l'ane gris
+guitar-challenges,joy to the world 2,FALSE,song,traditional,cowboy chords,4,joy to the world
+guitar-challenges,joy to the world 2,FALSE,song,traditional,fingerpicking,7,entre le boeuf et l'ane gris
 guitar-challenges,highway to holidays,TRUE,song,chris rea,basic melody?,2,driving home for christmas
 guitar-challenges,highway to holidays,TRUE,song,jose feliciano,cowboy chords,5,feliz navidad
 guitar-challenges,highway to holidays,TRUE,song,jose feliciano,full melody,7,feliz navidad
@@ -3023,6 +3027,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,joy to the world 2,FALSE,song,traditional,bassline,2,joy to the world
+piano-challenges,joy to the world 2,FALSE,song,traditional,melody,4,entre le boeuf et l'ane gris
+piano-challenges,joy to the world 2,FALSE,song,traditional,melody,5,joy to the world
+piano-challenges,joy to the world 2,FALSE,song,traditional,melody and bass,8,entre le boeuf et l'ane gris
 piano-challenges,highway to holidays,TRUE,song,chris rea,?,?,driving home for christmas
 piano-challenges,highway to holidays,TRUE,song,chris rea,?,?,driving home for christmas
 piano-challenges,highway to holidays,TRUE,song,jose feliciano,?,?,feliz navidad
@@ -5376,6 +5384,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,joy to the world 2,FALSE,song,traditional,melody,3,joy to the world
+ukulele-challenges,joy to the world 2,FALSE,song,traditional,chords,4,joy to the world
+ukulele-challenges,joy to the world 2,FALSE,song,traditional,melody,5,entre le boeuf et l'ane gris
+ukulele-challenges,joy to the world 2,FALSE,song,traditional,rhythm,6,entre le boeuf et l'ane gris
 ukulele-challenges,highway to holidays,TRUE,song,jose feliciano,chords,5,feliz navidad
 ukulele-challenges,highway to holidays,TRUE,song,chris rea,chords,6,driving home for christmas
 -,-,-,-,-,-,-,-
@@ -7751,6 +7763,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,joy to the world 2,FALSE,song,traditional,basic bassline,2,joy to the world
+bass-challenges,joy to the world 2,FALSE,song,traditional,basic bassline,2,entre le boeuf et l'ane gris
+bass-challenges,joy to the world 2,FALSE,song,traditional,full bassline,5,entre le boeuf et l'ane gris
+bass-challenges,joy to the world 2,FALSE,song,traditional,full bassline,6,joy to the world
 bass-challenges,highway to holidays,TRUE,song,jose feliciano,basic bassline,2,feliz navidad
 bass-challenges,highway to holidays,TRUE,song,chris rea,basic bassline,3,driving home for christmas
 bass-challenges,highway to holidays,TRUE,song,chris rea,full bassline,5,driving home for christmas
