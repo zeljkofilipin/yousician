@@ -951,6 +951,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,australia challenge 2,FALSE,song,traditional,basic riff,2,aussie medley
+guitar-challenges,australia challenge 2,FALSE,song,traditional,cowboy chords,4,walzing matilda
+guitar-challenges,australia challenge 2,FALSE,song,traditional,melody,5,aussie medley
+guitar-challenges,australia challenge 2,FALSE,song,traditional,fingerpicking,9,walzing matilda
 guitar-challenges,from the movies,TRUE,song,quincy jones,basic melody,2,soul bossa nova
 guitar-challenges,from the movies,TRUE,song,goo goo dolls,melody,4,iris
 guitar-challenges,from the movies,TRUE,song,goo goo dolls,fancy chords,6,iris
@@ -3039,6 +3043,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,australia challenge 2,FALSE,song,traditional,melody,2,walzing matilda (in C)
+piano-challenges,australia challenge 2,FALSE,song,traditional,two hands,3,aussie medley
+piano-challenges,australia challenge 2,FALSE,song,traditional,chords and bass,5,walzing matilda (in C)
+piano-challenges,australia challenge 2,FALSE,song,traditional,melody and bass,8,aussie medley
 piano-challenges,from the movies,TRUE,song,goo goo dolls,?,?,iris
 piano-challenges,from the movies,TRUE,song,goo goo dolls,?,?,iris
 piano-challenges,from the movies,TRUE,song,quincy jones,?,?,soul bossa nova
@@ -5408,6 +5416,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,australia challenge 2,FALSE,song,traditional,basic melody,2,aussie medley
+ukulele-challenges,australia challenge 2,FALSE,song,traditional,chords,4,walzing matilda
+ukulele-challenges,australia challenge 2,FALSE,song,traditional,melody,5,aussie medley
+ukulele-challenges,australia challenge 2,FALSE,song,traditional,fingerpicking,8,walzing matilda
 ukulele-challenges,from the movies,TRUE,song,quincy jones,basic melody,2,soul bossa nova
 ukulele-challenges,from the movies,TRUE,song,goo goo dolls,melody,4,iris
 ukulele-challenges,from the movies,TRUE,song,goo goo dolls,chords,6,iris
@@ -7799,6 +7811,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,australia challenge 2,FALSE,song,traditional,basic bassline,1,aussie medley
+bass-challenges,australia challenge 2,FALSE,song,traditional,basic bassline,2,walzing matilda 
+bass-challenges,australia challenge 2,FALSE,song,traditional,full bassline,4,walzing matilda 
+bass-challenges,australia challenge 2,FALSE,song,traditional,full bassline,6,aussie medley
 bass-challenges,from the movies,TRUE,song,quincy jones,basic bassline,1,soul bossa nova
 bass-challenges,from the movies,TRUE,song,goo goo dolls,basic bassline,2,iris
 bass-challenges,from the movies,TRUE,song,quincy jones,full bassline,4,soul bossa nova
