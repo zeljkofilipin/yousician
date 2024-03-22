@@ -951,6 +951,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,petals of pasion,TRUE,song,seal,basic melody,1,kiss from a rose
+guitar-challenges,petals of pasion,FALSE,song,traditional,cowboy chords,4,the yellow rose of texas
+guitar-challenges,petals of pasion,FALSE,song,traditional,full melody,7,the yellow rose of texas
+guitar-challenges,petals of pasion,TRUE,song,seal,full melody,7,kiss from a rose
 guitar-challenges,st. patrick's day party 2,FALSE,song,traditional,cowboy chords,3,hot asphalt
 guitar-challenges,st. patrick's day party 2,FALSE,song,traditional,main melody,5,leaving of liverpool
 guitar-challenges,st. patrick's day party 2,FALSE,song,traditional,melody,7,hot asphalt
@@ -3071,6 +3075,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,petals of pasion,TRUE,song,seal,?,?,kiss from a rose
+piano-challenges,petals of pasion,TRUE,song,seal,?,?,kiss from a rose
+piano-challenges,petals of pasion,FALSE,song,traditional,?,?,the yellow rose of texas
+piano-challenges,petals of pasion,FALSE,song,traditional,?,?,the yellow rose of texas
 piano-challenges,st. patrick's day party 2,FALSE,song,traditional,two hands,3,hot asphalt
 piano-challenges,st. patrick's day party 2,FALSE,song,traditional,chords and bass,4,leaving of liverpool
 piano-challenges,st. patrick's day party 2,FALSE,song,traditional,chords and bass,6,hot asphalt
@@ -5472,6 +5480,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,petals of pasion,FALSE,song,traditional,basic melody,2,the yellow rose of texas
+ukulele-challenges,petals of pasion,FALSE,song,traditional,chords,3,the yellow rose of texas
+ukulele-challenges,petals of pasion,TRUE,song,seal,chords,4,kiss from a rose
+ukulele-challenges,petals of pasion,TRUE,song,seal,melody,6,kiss from a rose
 ukulele-challenges,st. patrick's day party 2,FALSE,song,traditional,melody,2,leaving of liverpool
 ukulele-challenges,st. patrick's day party 2,FALSE,song,traditional,chords,4,hot asphalt
 ukulele-challenges,st. patrick's day party 2,FALSE,song,traditional,chords,6,leaving of liverpool
@@ -7895,6 +7907,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,petals of pasion,FALSE,song,traditional,basic bassline,2,the yellow rose of texas
+bass-challenges,petals of pasion,TRUE,song,seal,basic bassline,2,kiss from a rose
+bass-challenges,petals of pasion,FALSE,song,traditional,full bassline,5,the yellow rose of texas
+bass-challenges,petals of pasion,TRUE,song,seal,full bassline,6,kiss from a rose
 bass-challenges,st. patrick's day party 2,FALSE,song,traditional,basic bassline,1,hot asphalt
 bass-challenges,st. patrick's day party 2,FALSE,song,traditional,basic bassline,2,leaving of liverpool
 bass-challenges,st. patrick's day party 2,FALSE,song,traditional,full bassline,4,hot asphalt
