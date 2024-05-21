@@ -3107,10 +3107,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
-piano-challenges,respect!,TRUE,song,aretha franklin,?,?,respect
-piano-challenges,respect!,TRUE,song,aretha franklin,?,?,respect
-piano-challenges,respect!,TRUE,song,erykah badu,?,?,on & on
-piano-challenges,respect!,TRUE,song,erykah badu,?,?,on & on
+piano-challenges,respect!,TRUE,song,aretha franklin,melody,2,respect
+piano-challenges,respect!,TRUE,song,erykah badu,melody,5,on & on
+piano-challenges,respect!,TRUE,song,aretha franklin,solo piano,6,respect
+piano-challenges,respect!,TRUE,song,erykah badu,accompaniment,10,on & on
 piano-challenges,one for dale 2,FALSE,song,the yousicians,two hands,3,this is a robbery!
 piano-challenges,one for dale 2,FALSE,song,the yousicians,two hands,4,del-tone stomp
 piano-challenges,one for dale 2,FALSE,song,the yousicians,chords and melody,6,del-tone stomp
@@ -3123,26 +3123,26 @@ piano-challenges,jasmine flower 2,FALSE,song,traditional,bassline,1,mo li hua
 piano-challenges,jasmine flower 2,FALSE,song,traditional,melody,3,pavilion farewell
 piano-challenges,jasmine flower 2,FALSE,song,traditional,two hands,5,pavilion farewell
 piano-challenges,jasmine flower 2,FALSE,song,traditional,melody,8,mo li hua (in Eb)
-piano-challenges,waves of nostalgia,TRUE,song,otis redding,?,?,(sittin' on) the dock of the bay
-piano-challenges,waves of nostalgia,TRUE,song,otis redding,?,?,(sittin' on) the dock of the bay
-piano-challenges,waves of nostalgia,TRUE,song,james bay,?,?,hold back the river
-piano-challenges,waves of nostalgia,TRUE,song,james bay,?,?,hold back the river
+piano-challenges,waves of nostalgia,TRUE,song,otis redding,?,4,(sittin' on) the dock of the bay
+piano-challenges,waves of nostalgia,TRUE,song,james bay,melody,5,hold back the river
+piano-challenges,waves of nostalgia,TRUE,song,james bay,solo piano,7,hold back the river
+piano-challenges,waves of nostalgia,TRUE,song,otis redding,?,9,(sittin' on) the dock of the bay
 piano-challenges,solely you 3,FALSE,song,the yousicians,bass,2,solely you
 piano-challenges,solely you 3,FALSE,song,the yousicians,bass,1,i'm so sad (sha la la la)
 piano-challenges,solely you 3,FALSE,song,the yousicians,melody,4,solely you
 piano-challenges,solely you 3,FALSE,song,the yousicians,chords,6,i'm so sad (sha la la la)
-piano-challenges,metal madness,FALSE,song,isaac albeniz,?,?,asturias (metal)
-piano-challenges,metal madness,FALSE,song,isaac albeniz,?,?,asturias (metal)
-piano-challenges,metal madness,TRUE,song,iron maiden,?,?,hallowed be thy name
-piano-challenges,metal madness,TRUE,song,iron maiden,?,?,hallowed be thy name
+piano-challenges,metal madness,TRUE,song,iron maiden,bass,2,hallowed be thy name
+piano-challenges,metal madness,FALSE,song,isaac albeniz,two hands,4,asturias (metal)
+piano-challenges,metal madness,TRUE,song,iron maiden,accompaniment,6,hallowed be thy name
+piano-challenges,metal madness,FALSE,song,isaac albeniz,advanced,9,asturias (metal)
 piano-challenges,happy-o-rama 2,FALSE,song,the yousicians,left hand bass,1,wolf
 piano-challenges,happy-o-rama 2,FALSE,song,the yousicians,two hands,2,with you
 piano-challenges,happy-o-rama 2,FALSE,song,the yousicians,bass and chords,4,wolf
 piano-challenges,happy-o-rama 2,FALSE,song,the yousicians,melody and chords,6,with you
-piano-challenges,petals of pasion,TRUE,song,seal,?,?,kiss from a rose
-piano-challenges,petals of pasion,TRUE,song,seal,?,?,kiss from a rose
-piano-challenges,petals of pasion,FALSE,song,traditional,?,?,the yellow rose of texas
-piano-challenges,petals of pasion,FALSE,song,traditional,?,?,the yellow rose of texas
+piano-challenges,petals of pasion,FALSE,song,traditional,melody,3,the yellow rose of texas
+piano-challenges,petals of pasion,FALSE,song,traditional,chords,5,the yellow rose of texas
+piano-challenges,petals of pasion,TRUE,song,seal,chords,5,kiss from a rose
+piano-challenges,petals of pasion,TRUE,song,seal,accompaniment,8,kiss from a rose
 piano-challenges,st. patrick's day party 2,FALSE,song,traditional,two hands,3,hot asphalt
 piano-challenges,st. patrick's day party 2,FALSE,song,traditional,chords and bass,4,leaving of liverpool
 piano-challenges,st. patrick's day party 2,FALSE,song,traditional,chords and bass,6,hot asphalt
@@ -3151,50 +3151,50 @@ piano-challenges,kung fu challenge 3,FALSE,song,the yousicians,two hands,3,shaol
 piano-challenges,kung fu challenge 3,FALSE,song,the yousicians,two hands,4,kung fu hero
 piano-challenges,kung fu challenge 3,FALSE,song,the yousicians,melody,6,shaolin master
 piano-challenges,kung fu challenge 3,FALSE,song,the yousicians,advanced,9,kung fu hero
-piano-challenges,burn baby burn,TRUE,song,adele,?,?,set fire to the rain
-piano-challenges,burn baby burn,TRUE,song,adele,?,?,set fire to the rain
-piano-challenges,burn baby burn,TRUE,song,ed sheeran,?,?,i see fire
-piano-challenges,burn baby burn,TRUE,song,ed sheeran,?,?,i see fire
+piano-challenges,burn baby burn,TRUE,song,ed sheeran,solo piano,1,i see fire
+piano-challenges,burn baby burn,TRUE,song,adele,basic accompainment,4,set fire to the rain
+piano-challenges,burn baby burn,TRUE,song,ed sheeran,accompaniment,5,i see fire
+piano-challenges,burn baby burn,TRUE,song,adele,full accompainment,8,set fire to the rain
 piano-challenges,lost in the wilderness 3,FALSE,song,the yousicians,bass,1,far from away
 piano-challenges,lost in the wilderness 3,FALSE,song,the yousicians,melody,3,lost in the wilderness
 piano-challenges,lost in the wilderness 3,FALSE,song,the yousicians,accompaniment,5,lost in the wilderness
 piano-challenges,lost in the wilderness 3,FALSE,song,the yousicians,accompaniment,7,far from away
-piano-challenges,cowboy country,TRUE,song,tim mcgraw,?,?,humble and kind
-piano-challenges,cowboy country,TRUE,song,tim mcgraw,?,?,humble and kind
-piano-challenges,cowboy country,TRUE,song,toby keith,?,?,should've been a cowboy
-piano-challenges,cowboy country,TRUE,song,toby keith,?,?,should've been a cowboy
+piano-challenges,cowboy country,TRUE,song,toby keith,melody,4,should've been a cowboy
+piano-challenges,cowboy country,TRUE,song,tim mcgraw,melody,5,humble and kind
+piano-challenges,cowboy country,TRUE,song,toby keith,chords,6,should've been a cowboy
+piano-challenges,cowboy country,TRUE,song,tim mcgraw,solo piano,8,humble and kind
 piano-challenges,challenge with a capital C 3,FALSE,song,the yousicians,bass,1,have faith
 piano-challenges,challenge with a capital C 3,FALSE,song,the yousicians,accompaniment,4,challenge yourself
 piano-challenges,challenge with a capital C 3,FALSE,song,the yousicians,accompaniment,6,have faith
 piano-challenges,challenge with a capital C 3,FALSE,song,the yousicians,accompaniment,8,challenge yourself
-piano-challenges,disco queens,TRUE,song,donna summer,?,?,hot stuff
-piano-challenges,disco queens,TRUE,song,donna summer,?,?,hot stuff
-piano-challenges,disco queens,TRUE,song,gloria gaynor,?,?,i will survive
-piano-challenges,disco queens,TRUE,song,gloria gaynor,?,?,i will survive
+piano-challenges,disco queens,TRUE,song,gloria gaynor,melody,2,i will survive
+piano-challenges,disco queens,TRUE,song,gloria gaynor,accompaniment,7,i will survive
+-,-,-,-,-,-,-,-
+-,-,-,-,-,-,-,-
 piano-challenges,australia challenge 2,FALSE,song,traditional,melody,2,walzing matilda (in C)
 piano-challenges,australia challenge 2,FALSE,song,traditional,two hands,3,aussie medley
 piano-challenges,australia challenge 2,FALSE,song,traditional,chords and bass,5,walzing matilda (in C)
 piano-challenges,australia challenge 2,FALSE,song,traditional,melody and bass,8,aussie medley
-piano-challenges,from the movies,TRUE,song,goo goo dolls,?,?,iris
-piano-challenges,from the movies,TRUE,song,goo goo dolls,?,?,iris
-piano-challenges,from the movies,TRUE,song,quincy jones,?,?,soul bossa nova
-piano-challenges,from the movies,TRUE,song,quincy jones,?,?,soul bossa nova
+piano-challenges,from the movies,TRUE,song,quincy jones,melody,2,soul bossa nova
+piano-challenges,from the movies,TRUE,song,goo goo dolls,melody,5,iris
+piano-challenges,from the movies,TRUE,song,quincy jones,solo piano,8,soul bossa nova
+piano-challenges,from the movies,TRUE,song,goo goo dolls,accompaniment,10,iris
 piano-challenges,helsinki bachata 3,FALSE,song,joaquin luis,bass,1,no se bailar
 piano-challenges,helsinki bachata 3,FALSE,song,joaquin luis,accompaniment,3,incognito
 piano-challenges,helsinki bachata 3,FALSE,song,joaquin luis,melody,6,no se bailar
 piano-challenges,helsinki bachata 3,FALSE,song,joaquin luis,accompaniment,8,incognito
-piano-challenges,sound of shadows,TRUE,song,bill withers,?,?,ain't no sunshine
-piano-challenges,sound of shadows,TRUE,song,bill withers,?,?,ain't no sunshine
-piano-challenges,sound of shadows,TRUE,song,mike oldfield,?,?,moonlight shadow
-piano-challenges,sound of shadows,TRUE,song,mike oldfield,?,?,moonlight shadow
+piano-challenges,sound of shadows,TRUE,song,bill withers,chords,2,ain't no sunshine
+piano-challenges,sound of shadows,TRUE,song,ozzy osbourne,accompaniment,5,bark at the moon
+piano-challenges,sound of shadows,TRUE,song,bill withers,solo piano,8,ain't no sunshine
+piano-challenges,sound of shadows,TRUE,song,ozzy osbourne,solo piano,8,bark at the moon
 piano-challenges,joy to the world 2,FALSE,song,traditional,bassline,2,joy to the world
 piano-challenges,joy to the world 2,FALSE,song,traditional,melody,4,entre le boeuf et l'ane gris
 piano-challenges,joy to the world 2,FALSE,song,traditional,melody,5,joy to the world
 piano-challenges,joy to the world 2,FALSE,song,traditional,melody and bass,8,entre le boeuf et l'ane gris
-piano-challenges,highway to holidays,TRUE,song,chris rea,?,?,driving home for christmas
-piano-challenges,highway to holidays,TRUE,song,chris rea,?,?,driving home for christmas
-piano-challenges,highway to holidays,TRUE,song,jose feliciano,?,?,feliz navidad
-piano-challenges,highway to holidays,TRUE,song,jose feliciano,?,?,feliz navidad
+piano-challenges,highway to holidays,TRUE,song,jose feliciano,accompaniment,2,feliz navidad
+piano-challenges,highway to holidays,TRUE,song,chris rea,melody,3,driving home for christmas
+piano-challenges,highway to holidays,TRUE,song,jose feliciano,solo piano,6,feliz navidad
+piano-challenges,highway to holidays,TRUE,song,chris rea,solo piano,8,driving home for christmas
 piano-challenges,secret agents 2,FALSE,song,the yousicians,left hand,1,in her majesty's secret band
 piano-challenges,secret agents 2,FALSE,song,the yousicians,two hands,4,don't make a sound
 piano-challenges,secret agents 2,FALSE,song,the yousicians,two hands,6,in her majesty's secret band
