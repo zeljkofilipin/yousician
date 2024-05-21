@@ -975,10 +975,10 @@ guitar-challenges,solely you 3,FALSE,song,the yousicians,basic riff,2,solely you
 guitar-challenges,solely you 3,FALSE,song,the yousicians,melody,4,i'm so sad (sha la la la)
 guitar-challenges,solely you 3,FALSE,song,the yousicians,rhythm,5,i'm so sad (sha la la la)
 guitar-challenges,solely you 3,FALSE,song,the yousicians,rhythm,7,solely you
-guitar-challenges,metal madnes,FALSE,song,isaac albeniz,basic riff,4,asturias (metal)
-guitar-challenges,metal madnes,TRUE,song,iron maiden,basic riff,5,hallowed be thy name
-guitar-challenges,metal madnes,FALSE,song,isaac albeniz,melody,7,asturias (metal)
-guitar-challenges,metal madnes,TRUE,song,iron maiden,rhythm & lead,14,hallowed be thy name
+guitar-challenges,metal madness,FALSE,song,isaac albeniz,basic riff,4,asturias (metal)
+guitar-challenges,metal madness,TRUE,song,iron maiden,basic riff,5,hallowed be thy name
+guitar-challenges,metal madness,FALSE,song,isaac albeniz,melody,7,asturias (metal)
+guitar-challenges,metal madness,TRUE,song,iron maiden,rhythm & lead,14,hallowed be thy name
 guitar-challenges,happy-o-rama 2,FALSE,song,the yousicians,basic melody,2,wolf
 guitar-challenges,happy-o-rama 2,FALSE,song,the yousicians,cowboy chords,4,with you
 guitar-challenges,happy-o-rama 2,FALSE,song,the yousicians,fingerpicking,7,wolf
@@ -3131,10 +3131,10 @@ piano-challenges,solely you 3,FALSE,song,the yousicians,bass,2,solely you
 piano-challenges,solely you 3,FALSE,song,the yousicians,bass,1,i'm so sad (sha la la la)
 piano-challenges,solely you 3,FALSE,song,the yousicians,melody,4,solely you
 piano-challenges,solely you 3,FALSE,song,the yousicians,chords,6,i'm so sad (sha la la la)
-piano-challenges,metal madnes,FALSE,song,isaac albeniz,?,?,asturias (metal)
-piano-challenges,metal madnes,FALSE,song,isaac albeniz,?,?,asturias (metal)
-piano-challenges,metal madnes,TRUE,song,iron maiden,?,?,hallowed be thy name
-piano-challenges,metal madnes,TRUE,song,iron maiden,?,?,hallowed be thy name
+piano-challenges,metal madness,FALSE,song,isaac albeniz,?,?,asturias (metal)
+piano-challenges,metal madness,FALSE,song,isaac albeniz,?,?,asturias (metal)
+piano-challenges,metal madness,TRUE,song,iron maiden,?,?,hallowed be thy name
+piano-challenges,metal madness,TRUE,song,iron maiden,?,?,hallowed be thy name
 piano-challenges,happy-o-rama 2,FALSE,song,the yousicians,left hand bass,1,wolf
 piano-challenges,happy-o-rama 2,FALSE,song,the yousicians,two hands,2,with you
 piano-challenges,happy-o-rama 2,FALSE,song,the yousicians,bass and chords,4,wolf
@@ -5568,10 +5568,10 @@ ukulele-challenges,solely you 3,FALSE,song,the yousicians,basic melody,3,solely 
 ukulele-challenges,solely you 3,FALSE,song,the yousicians,melody,5,i'm so sad (sha la la la)
 ukulele-challenges,solely you 3,FALSE,song,the yousicians,chords,6,i'm so sad (sha la la la)
 ukulele-challenges,solely you 3,FALSE,song,the yousicians,fingerpicking,7,solely you
-ukulele-challenges,metal madnes,FALSE,song,isaac albeniz,basic melody,2,asturias (metal)
-ukulele-challenges,metal madnes,FALSE,song,isaac albeniz,full melody,5,asturias (metal)
-ukulele-challenges,metal madnes,TRUE,song,iron maiden,chords,5,hallowed be thy name
-ukulele-challenges,metal madnes,TRUE,song,iron maiden,full rhythm,10,hallowed be thy name
+ukulele-challenges,metal madness,FALSE,song,isaac albeniz,basic melody,2,asturias (metal)
+ukulele-challenges,metal madness,FALSE,song,isaac albeniz,full melody,5,asturias (metal)
+ukulele-challenges,metal madness,TRUE,song,iron maiden,chords,5,hallowed be thy name
+ukulele-challenges,metal madness,TRUE,song,iron maiden,full rhythm,10,hallowed be thy name
 ukulele-challenges,happy-o-rama 2,FALSE,song,the yousicians,melody,4,with you
 ukulele-challenges,happy-o-rama 2,FALSE,song,the yousicians,chords,4,wolf
 ukulele-challenges,happy-o-rama 2,FALSE,song,the yousicians,chords,5,with you
@@ -8027,10 +8027,10 @@ bass-challenges,solely you 3,FALSE,song,the yousicians,basic bassline,2,solely y
 bass-challenges,solely you 3,FALSE,song,the yousicians,basic bassline,2,i'm so sad (sha la la la)
 bass-challenges,solely you 3,FALSE,song,the yousicians,full bassline,5,solely you
 bass-challenges,solely you 3,FALSE,song,the yousicians,full bassline,5,i'm so sad (sha la la la)
-bass-challenges,metal madnes,FALSE,song,isaac albeniz,basic bassline,3,asturias (metal)
-bass-challenges,metal madnes,TRUE,song,iron maiden,main bassline,6,hallowed be thy name
-bass-challenges,metal madnes,FALSE,song,isaac albeniz,full bassline,9,asturias (metal)
-bass-challenges,metal madnes,TRUE,song,iron maiden,full bassline,11,hallowed be thy name
+bass-challenges,metal madness,FALSE,song,isaac albeniz,basic bassline,3,asturias (metal)
+bass-challenges,metal madness,TRUE,song,iron maiden,main bassline,6,hallowed be thy name
+bass-challenges,metal madness,FALSE,song,isaac albeniz,full bassline,9,asturias (metal)
+bass-challenges,metal madness,TRUE,song,iron maiden,full bassline,11,hallowed be thy name
 bass-challenges,happy-o-rama 2,FALSE,song,the yousicians,basic bassline,1,wolf
 bass-challenges,happy-o-rama 2,FALSE,song,the yousicians,basic bassline,2,with you
 bass-challenges,happy-o-rama 2,FALSE,song,the yousicians,full bassline,5,wolf
