@@ -31,26 +31,26 @@ Not all songs are listed (yet).
 
 | Location                 | Review     | Complete % | Comment                     |
 | ------------------------ | ---------- | ---------- | --------------------------- |
-| challenges               | 2024-05-23 | 100        |                             |
+| challenges               | 2024-06-02 | 100        |                             |
 | guitar-home-new          |            |            |                             |
 | guitar-home-collections  |            |            |                             |
 | guitar-learn-missions    | 2023-03-02 | 100        |                             |
 | guitar-learn-workouts    | 2019-11-24 | 100        |                             |
-| guitar-challenges        | 2024-05-23 | 100        |                             |
+| guitar-challenges        | 2024-06-02 | 100        |                             |
 | piano-home-new           |            |            |                             |
 | piano-home-collections   |            |            |                             |
 | piano-learn-missions     | 2019-02-07 |  44        | levels 0-6 (7/16)           |
 | piano-learn-workouts     |            |            |                             |
-| piano-challenges         | 2024-05-23 | 100        |                             |
+| piano-challenges         | 2024-06-02 | 100        |                             |
 | ukulele-home-new         | 2019-02-16 | ?          | ?                           |
 | ukulele-home-collections | 2019-11-24 | ?          | ?                           |
 | ukulele-learn-missions   | 2019-02-07 | 100        |                             |
 | ukulele-learn-workouts   | 2019-02-07 | 100        |                             |
-| ukulele-challenges       | 2024-05-23 | 100        |                             |
+| ukulele-challenges       | 2024-06-02 | 100        |                             |
 | bass-home-new            | 2019-11-24 | 100        |                             |
 | bass-home-collections    |            |            |                             |
 | bass-learn-missions      | 2019-02-20 | 100        |                             |
-| bass-challenges          | 2024-05-23 | 100        |                             |
+| bass-challenges          | 2024-06-02 | 100        |                             |
 | singing-home-new         |            |            |                             |
 | singing-home-collections |            |            |                             |
 | singing-learn-missions   | 2019-02-16 | ?          | levels 0-5 (6/6)            |
