@@ -951,6 +951,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,sounds from the south,TRUE,song,lynyrd skynyrd,basic melody,2,sweet home alabama
+guitar-challenges,sounds from the south,TRUE,song,alabama,basic cowboy chords,3,song of the south
+guitar-challenges,sounds from the south,TRUE,song,alabama,full cowboy chords,5,song of the south
+guitar-challenges,sounds from the south,TRUE,song,lynyrd skynyrd,full rhythm,9,sweet home alabama
 guitar-challenges,one for eddie 2,FALSE,song,the yousicians,basic riff,4,long live the riff
 guitar-challenges,one for eddie 2,FALSE,song,the yousicians,basic riff,5,with a smile
 guitar-challenges,one for eddie 2,FALSE,song,the yousicians,full rhythm,7,with a smile
@@ -3195,6 +3199,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,sounds from the south,TRUE,song,lynyrd skynyrd,melody,3,sweet home alabama
+piano-challenges,sounds from the south,TRUE,song,alabama,accompaniment,4,song of the south
+piano-challenges,sounds from the south,TRUE,song,alabama,chords,6,song of the south
+piano-challenges,sounds from the south,TRUE,song,lynyrd skynyrd,accompaniment,8,sweet home alabama
 piano-challenges,one for eddie 2,FALSE,song,the yousicians,melody,3,with a smile
 piano-challenges,one for eddie 2,FALSE,song,the yousicians,accompaniment,5,long live the riff
 piano-challenges,one for eddie 2,FALSE,song,the yousicians,accompaniment,7,with a smile
@@ -5720,6 +5728,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,sounds from the south,TRUE,song,alabama,basic melody,3,song of the south
+ukulele-challenges,sounds from the south,TRUE,song,lynyrd skynyrd,chords,4,sweet home alabama
+ukulele-challenges,sounds from the south,TRUE,song,alabama,chords,6,song of the south
+ukulele-challenges,sounds from the south,TRUE,song,lynyrd skynyrd,chordy & melody,7,sweet home alabama
 ukulele-challenges,one for eddie 2,FALSE,song,the yousicians,melody,4,long live the riff
 ukulele-challenges,one for eddie 2,FALSE,song,the yousicians,chords,5,long live the riff
 ukulele-challenges,one for eddie 2,FALSE,song,the yousicians,melody,5,with a smile
@@ -8267,6 +8279,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,sounds from the south,TRUE,song,alabama,basic bassline,1,song of the south
+bass-challenges,sounds from the south,TRUE,song,lynyrd skynyrd,basic bassline,2,sweet home alabama
+bass-challenges,sounds from the south,TRUE,song,alabama,main bassline,4,song of the south
+bass-challenges,sounds from the south,TRUE,song,lynyrd skynyrd,full bassline,7,sweet home alabama
 bass-challenges,one for eddie 2,FALSE,song,the yousicians,basic bassline,2,with a smile
 bass-challenges,one for eddie 2,FALSE,song,the yousicians,basic bassline,3,long live the riff
 bass-challenges,one for eddie 2,FALSE,song,the yousicians,full bassline,7,with a smile
