@@ -951,6 +951,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,one for neil 2,FALSE,song,the yousicians,basic riff,2,xanada
+guitar-challenges,one for neil 2,FALSE,song,the yousicians,main rhythm,5,unnatural science
+guitar-challenges,one for neil 2,FALSE,song,the yousicians,full rhythm,8,xanada
+guitar-challenges,one for neil 2,FALSE,song,the yousicians,rhythm & lead,10,unnatural science
 guitar-challenges,clash of the kings,TRUE,song,b.b. king,basic riff,1,the thrill is gone
 guitar-challenges,clash of the kings,TRUE,song,ben e. king,original lead,3,stand by me
 guitar-challenges,clash of the kings,TRUE,song,ben e. king,original rhythm,7,stand by me
@@ -3243,6 +3247,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,one for neil 2,FALSE,song,the yousicians,accompaniment,3,unnatural science
+piano-challenges,one for neil 2,FALSE,song,the yousicians,accompaniment,4,xanada
+piano-challenges,one for neil 2,FALSE,song,the yousicians,band,6,xanada
+piano-challenges,one for neil 2,FALSE,song,the yousicians,solo piano,9,unnatural science
 piano-challenges,clash of the kings,TRUE,song,ben e. king,basic accompaniment,2,stand by me
 piano-challenges,clash of the kings,TRUE,song,b.b. king,chords,5,the thrill is gone
 piano-challenges,clash of the kings,TRUE,song,ben e. king,intermediate melody and ?,6,stand by me
@@ -5816,6 +5824,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,one for neil 2,FALSE,song,the yousicians,melody,2,xanada
+ukulele-challenges,one for neil 2,FALSE,song,the yousicians,chords,5,unnatural science
+ukulele-challenges,one for neil 2,FALSE,song,the yousicians,melody,6,unnatural science
+ukulele-challenges,one for neil 2,FALSE,song,the yousicians,chords,8,xanada
 ukulele-challenges,clash of the kings,TRUE,song,ben e. king,lead,3,stand by me
 ukulele-challenges,clash of the kings,TRUE,song,ben e. king,melody,6,stand by me
 -,-,-,-,-,-,-,-
@@ -8411,6 +8423,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,one for neil 2,FALSE,song,the yousicians,basic bassline,2,xanada
+bass-challenges,one for neil 2,FALSE,song,the yousicians,basic bassline,3,unnatural science
+bass-challenges,one for neil 2,FALSE,song,the yousicians,full bassline,8,unnatural science
+bass-challenges,one for neil 2,FALSE,song,the yousicians,full bassline,9,xanada
 bass-challenges,clash of the kings,TRUE,song,b.b. king,basic bassline,1,the thrill is gone
 bass-challenges,clash of the kings,TRUE,song,ben e. king,simplified bassline,3,stand by me
 bass-challenges,clash of the kings,TRUE,song,ben e. king,original bassline,5,stand by me
