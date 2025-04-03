@@ -951,6 +951,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,"your song, piano man",TRUE,song,elton john,basic chords,4,your song
+guitar-challenges,"your song, piano man",TRUE,song,billy joel,basic chords,4,piano man
+guitar-challenges,"your song, piano man",TRUE,song,billy joel,full fingerpicking,7,piano man
+guitar-challenges,"your song, piano man",TRUE,song,elton john,full rhythm & lead,9,your song
 guitar-challenges,wagner with a twist 2,FALSE,song,richard wagner,basic riff,2,tannhauser
 guitar-challenges,wagner with a twist 2,FALSE,song,richard wagner,melody,4,siegfried
 guitar-challenges,wagner with a twist 2,FALSE,song,richard wagner,moveable chords,7,siegfried
@@ -3287,6 +3291,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,"your song, piano man",TRUE,song,elton john,basic accompainment,4,your song
+piano-challenges,"your song, piano man",TRUE,song,billy joel,basic accompainment,4,piano man
+piano-challenges,"your song, piano man",TRUE,song,elton john,main accompainment,7,your song
+piano-challenges,"your song, piano man",TRUE,song,billy joel,full accompainment,10,piano man
 piano-challenges,wagner with a twist 2,FALSE,song,richard wagner,bass,1,tannhauser
 piano-challenges,wagner with a twist 2,FALSE,song,richard wagner,accompaniment,3,siegfried
 piano-challenges,wagner with a twist 2,FALSE,song,richard wagner,melody,4,tannhauser
@@ -5904,6 +5912,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,"your song, piano man",TRUE,song,billy joel,basic chords,3,piano man
+ukulele-challenges,"your song, piano man",TRUE,song,elton john,basic chords,4,your song
+ukulele-challenges,"your song, piano man",TRUE,song,elton john,main fingerpicking,6,your song
+ukulele-challenges,"your song, piano man",TRUE,song,billy joel,full rhythm,6,piano man
 ukulele-challenges,wagner with a twist 2,FALSE,song,richard wagner,basic melody,2,siegfried
 ukulele-challenges,wagner with a twist 2,FALSE,song,richard wagner,chords,4,tannhauser
 ukulele-challenges,wagner with a twist 2,FALSE,song,richard wagner,melody,5,tannhauser
@@ -8543,6 +8555,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,"your song, piano man",TRUE,song,elton john,basic bassline,2,your song
+bass-challenges,"your song, piano man",TRUE,song,billy joel,basic bassline,2,piano man
+bass-challenges,"your song, piano man",TRUE,song,elton john,full bassline,5,your song
+bass-challenges,"your song, piano man",TRUE,song,billy joel,full bassline,5,piano man
 bass-challenges,wagner with a twist 2,FALSE,song,richard wagner,basic bassline,1,siegfried
 bass-challenges,wagner with a twist 2,FALSE,song,richard wagner,basic bassline,2,tannhauser
 bass-challenges,wagner with a twist 2,FALSE,song,richard wagner,main bassline,5,tannhauser
