@@ -951,6 +951,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,broken circles,TRUE,song,post malone,simplified rhythm,3,circles
+guitar-challenges,broken circles,TRUE,song,green day,rhythm,5,boulevard of broken dreams
+guitar-challenges,broken circles,TRUE,song,post malone,original rhythm,7,circles
+-,-,-,-,-,-,-,-
 guitar-challenges,ferramentum mechanica 2,FALSE,song,the yousicians,basic riff,2,4869 days
 guitar-challenges,ferramentum mechanica 2,FALSE,song,the yousicians,basic riff,4,ferramentum mechanica
 guitar-challenges,ferramentum mechanica 2,FALSE,song,the yousicians,full rhythm,9,ferramentum mechanica
@@ -3295,6 +3299,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,broken circles,TRUE,song,post malone,basic accompaniment,2,circles
+piano-challenges,broken circles,TRUE,song,green day,simplified melody and bass,4,boulevard of broken dreams
+piano-challenges,broken circles,TRUE,song,post malone,solo piano,7,circles
+piano-challenges,broken circles,TRUE,song,green day,accompaniment,8,boulevard of broken dreams
 piano-challenges,ferramentum mechanica 2,FALSE,song,the yousicians,left hand,2,ferramentum mechanica
 piano-challenges,ferramentum mechanica 2,FALSE,song,the yousicians,two hands,4,4869 days
 piano-challenges,ferramentum mechanica 2,FALSE,song,the yousicians,two hands,6,ferramentum mechanica
@@ -5920,6 +5928,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,broken circles,TRUE,song,post malone,simplified rhythm,3,circles
+ukulele-challenges,broken circles,TRUE,song,green day,melody,4,boulevard of broken dreams
+ukulele-challenges,broken circles,TRUE,song,green day,chords,4,boulevard of broken dreams
+ukulele-challenges,broken circles,TRUE,song,post malone,rhythm,7,circles
 ukulele-challenges,ferramentum mechanica 2,FALSE,song,the yousicians,melody,2,4869 days
 ukulele-challenges,ferramentum mechanica 2,FALSE,song,the yousicians,melody,4,ferramentum mechanica
 ukulele-challenges,ferramentum mechanica 2,FALSE,song,the yousicians,fingerpicking,7,ferramentum mechanica
@@ -8567,6 +8579,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,broken circles,TRUE,song,post malone,simplified bassline,1,circles
+bass-challenges,broken circles,TRUE,song,green day,basic bassline,2,boulevard of broken dreams
+bass-challenges,broken circles,TRUE,song,green day,full bassline,5,boulevard of broken dreams
+bass-challenges,broken circles,TRUE,song,post malone,original bassline,6,circles
 bass-challenges,ferramentum mechanica 2,FALSE,song,the yousicians,basic bassline,3,4869 days
 bass-challenges,ferramentum mechanica 2,FALSE,song,the yousicians,basic bassline,3,ferramentum mechanica
 bass-challenges,ferramentum mechanica 2,FALSE,song,the yousicians,full bassline,7,4869 days
