@@ -951,6 +951,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,working on a dream,TRUE,song,aerosmith,basic riff,2,dream on
+guitar-challenges,working on a dream,TRUE,song,coldplay,basic melody,3,clocks
+guitar-challenges,working on a dream,TRUE,song,aerosmith,full fancy chords,6,dream on
+guitar-challenges,working on a dream,TRUE,song,coldplay,rhythm,8,clocks
 guitar-challenges,wicked rhythms 2,FALSE,song,the yousicians,basic melody,2,five is the new four
 guitar-challenges,wicked rhythms 2,FALSE,song,the yousicians,main rhythm,7,sultans of syncopation
 guitar-challenges,wicked rhythms 2,FALSE,song,the yousicians,full riff,9,five is the new four
@@ -3303,6 +3307,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,working on a dream,TRUE,song,aerosmith,basic accompaniment l,3,dream on
+piano-challenges,working on a dream,TRUE,song,coldplay,simplified accomeniment,4,clocks
+piano-challenges,working on a dream,TRUE,song,coldplay,melody,6,clocks
+piano-challenges,working on a dream,TRUE,song,aerosmith,full accompainment,7,dream on
 piano-challenges,wicked rhythms 2,FALSE,song,the yousicians,bass,2,five is the new four
 piano-challenges,wicked rhythms 2,FALSE,song,the yousicians,accompaniment,4,sultans of syncopation
 piano-challenges,wicked rhythms 2,FALSE,song,the yousicians,accompaniment,7,five is the new four
@@ -5936,6 +5944,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,working on a dream,TRUE,song,aerosmith,basic chords,4,dream on
+ukulele-challenges,working on a dream,TRUE,song,coldplay,melody,6,clocks
+ukulele-challenges,working on a dream,TRUE,song,aerosmith,full chords,7,dream on
+ukulele-challenges,working on a dream,TRUE,song,coldplay,chords,8,clocks
 ukulele-challenges,wicked rhythms 2,FALSE,song,the yousicians,basic melody,2,five is the new four
 ukulele-challenges,wicked rhythms 2,FALSE,song,the yousicians,basic melody,3,sultans of syncopation
 ukulele-challenges,wicked rhythms 2,FALSE,song,the yousicians,full melody,5,five is the new four
@@ -8591,6 +8603,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,working on a dream,TRUE,song,aerosmith,basic bassline,1,dream on
+bass-challenges,working on a dream,TRUE,song,coldplay,basic bassline,2,clocks
+bass-challenges,working on a dream,TRUE,song,coldplay,full bassline,4,clocks
+bass-challenges,working on a dream,TRUE,song,aerosmith,full bassline,6,dream on
 bass-challenges,wicked rhythms 2,FALSE,song,the yousicians,basic bassline,3,five is the new four
 bass-challenges,wicked rhythms 2,FALSE,song,the yousicians,main bassline,4,sultans of syncopation
 bass-challenges,wicked rhythms 2,FALSE,song,the yousicians,full bassline,7,sultans of syncopation
