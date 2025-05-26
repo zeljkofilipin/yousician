@@ -951,6 +951,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,swingin' 3,FALSE,song,traditional,basic riff,2,i ain't got nobody
+guitar-challenges,swingin' 3,FALSE,song,traditional,main melody,5,st louis blues
+guitar-challenges,swingin' 3,FALSE,song,traditional,movable chords,7,i ain't got nobody
+guitar-challenges,swingin' 3,FALSE,song,traditional,rhythm & lead,9,st louis blues
 guitar-challenges,cracks in the play,TRUE,song,nirvana,basic melody,2,heart-shaped box
 guitar-challenges,cracks in the play,TRUE,song,foo fighters,basic riff,3,the pretender
 guitar-challenges,cracks in the play,TRUE,song,nirvana,intermediate hybrid,6,heart-shaped box
@@ -3315,6 +3319,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,swingin' 3,FALSE,song,traditional,melody,1,i ain't got nobody
+piano-challenges,swingin' 3,FALSE,song,traditional,melody,4,st louis blues
+piano-challenges,swingin' 3,FALSE,song,traditional,melody,6,i ain't got nobody
+piano-challenges,swingin' 3,FALSE,song,traditional,solo piano,9,st louis blues
 piano-challenges,cracks in the play,TRUE,song,nirvana,basic accompaniment,2,heart-shaped box
 piano-challenges,cracks in the play,TRUE,song,nirvana,basic melody and bass,4,heart-shaped box
 piano-challenges,cracks in the play,TRUE,song,foo fighters,accompaniment,6,the pretender
@@ -5960,6 +5968,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,swingin' 3,FALSE,song,traditional,melody,2,i ain't got nobody
+ukulele-challenges,swingin' 3,FALSE,song,traditional,melody,4,st louis blues
+ukulele-challenges,swingin' 3,FALSE,song,traditional,chords,6,st louis blues
+ukulele-challenges,swingin' 3,FALSE,song,traditional,chords,6,i ain't got nobody
 ukulele-challenges,cracks in the play,TRUE,song,nirvana,open chords,1,heart-shaped box
 ukulele-challenges,cracks in the play,TRUE,song,nirvana,intermediate hybrid,5,heart-shaped box
 ukulele-challenges,cracks in the play,TRUE,song,foo fighters,melody,6,the pretender
@@ -8627,6 +8639,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,swingin' 3,FALSE,song,traditional,basic bassline,2,st louis blues
+bass-challenges,swingin' 3,FALSE,song,traditional,basic bassline,3,i ain't got nobody
+bass-challenges,swingin' 3,FALSE,song,traditional,full bassline,6,st louis blues
+bass-challenges,swingin' 3,FALSE,song,traditional,full bassline,7,i ain't got nobody
 bass-challenges,cracks in the play,TRUE,song,nirvana,basic melody,2,heart-shaped box
 bass-challenges,cracks in the play,TRUE,song,foo fighters,basic bassline,3,the pretender
 bass-challenges,cracks in the play,TRUE,song,nirvana,main bassline,4,heart-shaped box
