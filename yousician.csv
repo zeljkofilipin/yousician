@@ -951,6 +951,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,dream hotel,TRUE,song,the mamas & the papas,basic melody and riff,3,california dreamin'
+guitar-challenges,dream hotel,TRUE,song,eagles,intermediate melody and chords,4,hotel california
+guitar-challenges,dream hotel,TRUE,song,the mamas & the papas,full rhythm,6,california dreamin'
+guitar-challenges,dream hotel,TRUE,song,eagles,full rhythm & lead,8,hotel california
 guitar-challenges,follow me 3,FALSE,song,reemes,basic riff,1,follow me
 guitar-challenges,follow me 3,FALSE,song,the yousicians,riff,4,apple tree
 guitar-challenges,follow me 3,FALSE,song,the yousicians,melody,5,apple tree
@@ -3327,6 +3331,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,dream hotel,TRUE,song,the mamas & the papas,melody,3,california dreamin'
+piano-challenges,dream hotel,TRUE,song,eagles,simplified melody and bass,6,hotel california
+piano-challenges,dream hotel,TRUE,song,the mamas & the papas,melody,7,california dreamin'
+piano-challenges,dream hotel,TRUE,song,eagles,solo piano,10,hotel california
 piano-challenges,follow me 3,FALSE,song,the yousicians,bass,1,apple tree
 piano-challenges,follow me 3,FALSE,song,reemes,melody,3,follow me
 piano-challenges,follow me 3,FALSE,song,the yousicians,accompaniment,5,apple tree
@@ -5984,6 +5992,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,dream hotel,TRUE,song,eagles,basic chords,4,hotel california
+ukulele-challenges,dream hotel,TRUE,song,eagles,full chords,6,hotel california
+ukulele-challenges,dream hotel,TRUE,song,the mamas & the papas,chords,7,california dreamin'
+ukulele-challenges,dream hotel,TRUE,song,the mamas & the papas,fingerpicking,7,california dreamin'
 ukulele-challenges,follow me 3,FALSE,song,the yousicians,chords,3,apple tree
 ukulele-challenges,follow me 3,FALSE,song,reemes,melody,5,follow me
 ukulele-challenges,follow me 3,FALSE,song,the yousicians,melody,5,apple tree
@@ -8663,6 +8675,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,dream hotel,TRUE,song,the mamas & the papas,basic bassline,3,california dreamin'
+bass-challenges,dream hotel,TRUE,song,the mamas & the papas,full bassline,5,california dreamin'
+bass-challenges,dream hotel,TRUE,song,eagles,simplified bassline,6,hotel california
+bass-challenges,dream hotel,TRUE,song,eagles,full bassline,8,hotel california
 bass-challenges,follow me 3,FALSE,song,the yousicians,basic bassline,2,apple tree
 bass-challenges,follow me 3,FALSE,song,reemes,basic bassline,2,follow me
 bass-challenges,follow me 3,FALSE,song,reemes,full bassline,4,follow me
