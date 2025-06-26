@@ -951,6 +951,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,international crush,TRUE,song,backstreet boys,cowboy chords,5,as long as you love me
+guitar-challenges,international crush,TRUE,song,juanes,fancy chords,6,la camisa negra
+guitar-challenges,international crush,TRUE,song,backstreet boys,fingerpicking,7,as long as you love me
+guitar-challenges,international crush,TRUE,song,juanes,rhythm & lead,10,la camisa negra
 guitar-challenges,summer nights 3,FALSE,song,the yousicians,melody,2,memories of you
 guitar-challenges,summer nights 3,FALSE,song,the yousicians,cowboy chords,3,summer nights
 guitar-challenges,summer nights 3,FALSE,song,the yousicians,melody,4,summer nights
@@ -3335,6 +3339,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,international crush,TRUE,song,backstreet boys,melody,5,as long as you love me
+piano-challenges,international crush,TRUE,song,juanes,accompaniment,5,la camisa negra
+piano-challenges,international crush,TRUE,song,backstreet boys,solo piano,7,as long as you love me
+piano-challenges,international crush,TRUE,song,juanes,solo piano,8,la camisa negra
 piano-challenges,summer nights 3,FALSE,song,the yousicians,melody,2,memories of you
 piano-challenges,summer nights 3,FALSE,song,the yousicians,melody,3,summer nights
 piano-challenges,summer nights 3,FALSE,song,the yousicians,solo piano,5,memories of you
@@ -6000,6 +6008,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,international crush,TRUE,song,backstreet boys,chords,4,as long as you love me
+ukulele-challenges,international crush,TRUE,song,backstreet boys,melody,6,as long as you love me
+ukulele-challenges,international crush,TRUE,song,juanes,chords,8,la camisa negra
+-,-,-,-,-,-,-,-
 ukulele-challenges,summer nights 3,FALSE,song,the yousicians,melody,1,memories of you
 ukulele-challenges,summer nights 3,FALSE,song,the yousicians,melody,3,summer nights
 ukulele-challenges,summer nights 3,FALSE,song,the yousicians,chords,4,summer nights
@@ -8687,6 +8699,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,international crush,TRUE,song,backstreet boys,basic bassline,2,as long as you love me
+bass-challenges,international crush,TRUE,song,backstreet boys,main bassline,4,as long as you love me
+bass-challenges,international crush,TRUE,song,juanes,full bassline,8,la camisa negra
+-,-,-,-,-,-,-,-
 bass-challenges,summer nights 3,FALSE,song,the yousicians,basic bassline,2,memories of you
 bass-challenges,summer nights 3,FALSE,song,the yousicians,full bassline,3,summer nights
 bass-challenges,summer nights 3,FALSE,song,the yousicians,full bassline,5,memories of you
