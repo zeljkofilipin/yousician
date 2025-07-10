@@ -951,6 +951,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,moon & stars,TRUE,song,billy joel,basic chords,4,vienna
+guitar-challenges,moon & stars,TRUE,song,frank sinatra,melody,5,fly me to the moon
+guitar-challenges,moon & stars,TRUE,song,billy joel,full rhythm & lead,7,vienna
+guitar-challenges,moon & stars,TRUE,song,frank sinatra,rhythm,8,fly me to the moon
 guitar-challenges,the return of the disco daddy 3,FALSE,song,the yousicians,basic riff,4,king of the disco
 guitar-challenges,the return of the disco daddy 3,FALSE,song,the yousicians,cowboy chords,5,disco daddy
 guitar-challenges,the return of the disco daddy 3,FALSE,song,the yousicians,movable chords,7,king of the disco
@@ -3343,6 +3347,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,moon & stars,TRUE,song,billy joel,basic accompaniment,4,vienna
+piano-challenges,moon & stars,TRUE,song,frank sinatra,simplified accompainment,5,fly me to the moon
+piano-challenges,moon & stars,TRUE,song,billy joel,full accompaniment,8,vienna
+piano-challenges,moon & stars,TRUE,song,frank sinatra,solo piano,10,fly me to the moon
 piano-challenges,the return of the disco daddy 3,FALSE,song,the yousicians,bass,1,king of the disco
 piano-challenges,the return of the disco daddy 3,FALSE,song,the yousicians,melody,3,disco daddy
 piano-challenges,the return of the disco daddy 3,FALSE,song,the yousicians,melody,6,king of the disco
@@ -6016,6 +6024,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,moon & stars,TRUE,song,billy joel,full rhythm & lead,7,vienna
+-,-,-,-,-,-,-,-
+-,-,-,-,-,-,-,-
+-,-,-,-,-,-,-,-
 ukulele-challenges,the return of the disco daddy 3,FALSE,song,the yousicians,basic melody,2,king of the disco
 ukulele-challenges,the return of the disco daddy 3,FALSE,song,the yousicians,basic melody,2,disco daddy
 ukulele-challenges,the return of the disco daddy 3,FALSE,song,the yousicians,chords,3,king of the disco
@@ -8711,6 +8723,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,moon & stars,TRUE,song,frank sinatra,simplified bassline,4,fly me to the moon
+bass-challenges,moon & stars,TRUE,song,billy joel,simplified melody,5,vienna
+bass-challenges,moon & stars,TRUE,song,billy joel,full bassline,6,vienna
+bass-challenges,moon & stars,TRUE,song,frank sinatra,original bassline,8,fly me to the moon
 bass-challenges,the return of the disco daddy 3,FALSE,song,the yousicians,basic bassline,3,disco daddy
 bass-challenges,the return of the disco daddy 3,FALSE,song,the yousicians,basic bassline,3,king of the disco
 bass-challenges,the return of the disco daddy 3,FALSE,song,the yousicians,full bassline,6,king of the disco
