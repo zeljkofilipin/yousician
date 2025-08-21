@@ -951,6 +951,10 @@ guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,rhythm & lead,12
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,carlos hear jimi
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,lead,12,prosthetic hips don't lie
 guitar-learn-workouts,shredding solos,FALSE,song,the yousicians,full riff,12,atimba
+guitar-challenges,golden hours,TRUE,song,the beatles,basic melody,3,here comes the sun
+guitar-challenges,golden hours,TRUE,song,sting,basic cowboy chords,4,fields of gold
+guitar-challenges,golden hours,TRUE,song,the beatles,full rhythm,7,here comes the sun
+guitar-challenges,golden hours,TRUE,song,sting,full fingerpicking,9,fields of gold
 guitar-challenges,west africa 3,FALSE,song,the yousicians,basic riff,2,boolo
 guitar-challenges,west africa 3,FALSE,song,traditional,cowboy chords,3,mansane cisse
 guitar-challenges,west africa 3,FALSE,song,the yousicians,main melody,7,boolo
@@ -3367,6 +3371,10 @@ piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,D position trainer
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,feeling sharp,6,voice from the inside
 piano-learn-missions-pop,D-jamz,FALSE,trainer,-,-,6,trainer: quantum science - djamz
 piano-learn-missions-pop,D-jamz,FALSE,song,the yousicians,djamz,6,quantum science
+piano-challenges,golden hours,TRUE,song,sting,basic melody,1,fields of gold
+piano-challenges,golden hours,TRUE,song,the beatles,basic melody,3,here comes the sun
+piano-challenges,golden hours,TRUE,song,sting,basic accompaniment,4,fields of gold
+piano-challenges,golden hours,TRUE,song,the beatles,solo piano,10,here comes the sun
 piano-challenges,west africa 3,FALSE,song,traditional,melody,2,mansane cisse
 piano-challenges,west africa 3,FALSE,song,the yousicians,bass,3,boolo
 piano-challenges,west africa 3,FALSE,song,traditional,melody,6,mansane cisse
@@ -6064,6 +6072,10 @@ ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,song for tiina
 ukulele-learn-workouts,fingerpicking,FALSE,song,the yousicians,solo arrangement,7,tear hunter
 ukulele-learn-workouts,fingerpicking,FALSE,song,traditional,solo arrangement,7,walzing matilda (in G)
+ukulele-challenges,golden hours,TRUE,song,sting,basic chords,2,fields of gold
+ukulele-challenges,golden hours,TRUE,song,the beatles,melody,4,here comes the sun
+ukulele-challenges,golden hours,TRUE,song,sting,main chords & melody,6,fields of gold
+ukulele-challenges,golden hours,TRUE,song,the beatles,main chords & melody,7,here comes the sun
 ukulele-challenges,west africa 3,FALSE,song,the yousicians,basic melody,2,boolo
 ukulele-challenges,west africa 3,FALSE,song,traditional,main melody,4,mansane cisse
 ukulele-challenges,west africa 3,FALSE,song,traditional,full melody,8,mansane cisse
@@ -8783,6 +8795,10 @@ bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,ful
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,full bass,9,looks don't deceive
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,rock bass,9,spandex nigthmares
 bass-learn-missions-playing,fast and furious riffs,FALSE,song,the yousicians,bass,9,don't need you no more
+bass-challenges,golden hours,TRUE,song,sting,basic bassline,2,fields of gold
+bass-challenges,golden hours,TRUE,song,sting,full bassline,5,fields of gold
+bass-challenges,golden hours,TRUE,song,the beatles,simplified bassline,6,here comes the sun
+bass-challenges,golden hours,TRUE,song,the beatles,full bassline,7,here comes the sun
 bass-challenges,west africa 3,FALSE,song,traditional,basic bassline,2,mansane cisse
 bass-challenges,west africa 3,FALSE,song,the yousicians,basic bassline,2,boolo
 bass-challenges,west africa 3,FALSE,song,traditional,full bassline,4,mansane cisse
